@@ -54,21 +54,72 @@ local function setClipboardContent(text)
     return false
 end
 
--- Function to safely read clipboard content across various executors
+-- Function to read clipboard content (Includes native executor APIs + getc.luau virtual keypress method)
 local function getClipboardContent()
+    -- 1. Try native executor clipboard APIs
     if getclipboard then
         local ok, res = pcall(getclipboard)
-        if ok and type(res) == "string" then return res end
+        if ok and type(res) == "string" and #res > 0 then return res end
     elseif fromclipboard then
         local ok, res = pcall(fromclipboard)
-        if ok and type(res) == "string" then return res end
+        if ok and type(res) == "string" and #res > 0 then return res end
     elseif syn and syn.read_clipboard then
         local ok, res = pcall(syn.read_clipboard)
-        if ok and type(res) == "string" then return res end
+        if ok and type(res) == "string" and #res > 0 then return res end
     elseif Clipboard and Clipboard.get then
         local ok, res = pcall(Clipboard.get)
-        if ok and type(res) == "string" then return res end
+        if ok and type(res) == "string" and #res > 0 then return res end
     end
+
+    -- 2. Fallback to getc.luau virtual keypress method (Capture focus + Ctrl+V simulation)
+    if isrbxactive and keypress and keyrelease then
+        local ok, content = pcall(function()
+            if not isrbxactive() then return nil end
+
+            local screenGui = Instance.new("ScreenGui")
+            screenGui.ResetOnSpawn = false
+            screenGui.Enabled = true
+
+            local textBox = Instance.new("TextBox")
+            textBox.Size = UDim2.new(0, 1, 0, 1)
+            textBox.Position = UDim2.new(0, -100, 0, -100)
+            textBox.BackgroundTransparency = 1
+            textBox.TextTransparency = 1
+            textBox.ClearTextOnFocus = false
+            textBox.Text = ""
+            textBox.Parent = screenGui
+
+            pcall(function()
+                screenGui.Parent = getGuiParent()
+            end)
+
+            textBox:CaptureFocus()
+
+            task.spawn(function()
+                task.wait(0.05)
+                keypress(0x11) -- Ctrl
+                task.wait()
+                keypress(0x56) -- V
+                task.wait(0.05)
+                keyrelease(0x56)
+                task.wait()
+                keyrelease(0x11)
+            end)
+
+            task.wait(0.25)
+            local res = textBox.Text
+            pcall(function()
+                textBox:Destroy()
+                screenGui:Destroy()
+            end)
+            return res
+        end)
+
+        if ok and type(content) == "string" and #content > 0 then
+            return content
+        end
+    end
+
     return nil
 end
 
@@ -247,11 +298,12 @@ function KeySystem.CreateUI(onVerifiedCallback)
     ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
     ScreenGui.Parent = parent
 
-    -- Main Container Frame (Size 480x280)
+    -- Main Container Frame (Size 480x280, Centered)
     local MainFrame = Instance.new("Frame")
     MainFrame.Name = "MainFrame"
     MainFrame.Size = UDim2.new(0, 480, 0, 280)
-    MainFrame.Position = UDim2.new(0.5, -240, 0.5, -140)
+    MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+    MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
     MainFrame.BackgroundColor3 = Theme.Background
     MainFrame.BorderSizePixel = 0
     MainFrame.Parent = ScreenGui
@@ -543,18 +595,23 @@ function KeySystem.CreateUI(onVerifiedCallback)
     StatusLabel.Position = UDim2.new(0, 0, 0, 76)
     StatusLabel.Parent = Section
 
-    -- Paste Button Action
+    -- Paste Button Action utilizing getClipboardContent (incorporates getc.luau virtual keypress method)
     bindButtonClick(PasteBtn, function()
-        local clip = getClipboardContent()
-        if clip and #clip > 0 then
-            clip = string.gsub(clip, "^%s*(.-)%s*$", "%1")
-            KeyTextBox.Text = clip
-            StatusLabel.Text = "Status: Pasted key from clipboard!"
-            StatusLabel.TextColor3 = Theme.Accent
-        else
-            StatusLabel.Text = "Status: Clipboard is empty or unreadable!"
-            StatusLabel.TextColor3 = Theme.Error
-        end
+        StatusLabel.Text = "Status: Reading clipboard..."
+        StatusLabel.TextColor3 = Theme.InactiveText
+
+        task.spawn(function()
+            local clip = getClipboardContent()
+            if clip and #clip > 0 then
+                clip = string.gsub(clip, "^%s*(.-)%s*$", "%1")
+                KeyTextBox.Text = clip
+                StatusLabel.Text = "Status: Pasted key from clipboard!"
+                StatusLabel.TextColor3 = Theme.Accent
+            else
+                StatusLabel.Text = "Status: Clipboard empty or unreadable!"
+                StatusLabel.TextColor3 = Theme.Error
+            end
+        end)
     end)
 
     -- Mobile Auto-Paste on open if clipboard contains valid key format
@@ -675,7 +732,7 @@ function KeySystem.CreateUI(onVerifiedCallback)
             task.delay(0.5, function()
                 local fadeTween = TweenService:Create(MainFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {
                     Size = UDim2.new(0, 480, 0, 0),
-                    Position = UDim2.new(0.5, -240, 0.5, 0)
+                    Position = UDim2.new(0.5, 0, 0.5, 0)
                 })
                 fadeTween:Play()
                 fadeTween.Completed:Wait()
