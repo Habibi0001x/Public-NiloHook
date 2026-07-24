@@ -1,7 +1,7 @@
 --[[
     NiloHook - Key System UI Library
     Matches lib.luau 1:1 in design, structure, components and themes.
-    Full Mobile and PC Support.
+    Full Mobile and PC Support with Auto-Paste and Paste Button on Mobile.
 ]]
 
 local KeySystem = {}
@@ -52,6 +52,24 @@ local function setClipboardContent(text)
         return true
     end
     return false
+end
+
+-- Function to safely read clipboard content across various executors
+local function getClipboardContent()
+    if getclipboard then
+        local ok, res = pcall(getclipboard)
+        if ok and type(res) == "string" then return res end
+    elseif fromclipboard then
+        local ok, res = pcall(fromclipboard)
+        if ok and type(res) == "string" then return res end
+    elseif syn and syn.read_clipboard then
+        local ok, res = pcall(syn.read_clipboard)
+        if ok and type(res) == "string" then return res end
+    elseif Clipboard and Clipboard.get then
+        local ok, res = pcall(Clipboard.get)
+        if ok and type(res) == "string" then return res end
+    end
+    return nil
 end
 
 -- Themes exact 1:1 from lib.luau with Success & Error colors
@@ -455,9 +473,44 @@ function KeySystem.CreateUI(onVerifiedCallback)
     KeyIcon.BorderSizePixel = 0
     KeyIcon.Parent = InputFrame
 
+    -- Helper to bind Mouse & Touch buttons
+    local function bindButtonClick(button, callback)
+        button.MouseButton1Click:Connect(callback)
+        if IsMobile then
+            pcall(function() button.TouchTap:Connect(callback) end)
+        end
+    end
+
+    -- Dedicated Paste Key Button inside InputFrame for Mobile & PC
+    local PasteBtn = Instance.new("TextButton")
+    PasteBtn.Name = "PasteBtn"
+    PasteBtn.Size = UDim2.new(0, 60, 0, 24)
+    PasteBtn.AnchorPoint = Vector2.new(1, 0.5)
+    PasteBtn.Position = UDim2.new(1, -6, 0.5, 0)
+    PasteBtn.BackgroundColor3 = Theme.Element
+    PasteBtn.Text = "Paste"
+    PasteBtn.FontFace = safeFont
+    PasteBtn.TextSize = 12
+    PasteBtn.TextColor3 = Theme.Accent
+    PasteBtn.AutoButtonColor = false
+    PasteBtn.BorderSizePixel = 0
+    PasteBtn.ZIndex = 3
+    PasteBtn.Parent = InputFrame
+
+    applyUICorner(PasteBtn, 4)
+    applyUIStroke(PasteBtn, Theme.Accent, 0.4)
+    applyUIGradient(PasteBtn, Theme.DarkGradient)
+
+    PasteBtn.MouseEnter:Connect(function()
+        TweenService:Create(PasteBtn, TweenInfo.new(0.15), { BackgroundColor3 = getLighterColor(Theme.Element, 1.45) }):Play()
+    end)
+    PasteBtn.MouseLeave:Connect(function()
+        TweenService:Create(PasteBtn, TweenInfo.new(0.15), { BackgroundColor3 = Theme.Element }):Play()
+    end)
+
     local KeyTextBox = Instance.new("TextBox")
     KeyTextBox.Name = "KeyInput"
-    KeyTextBox.Size = UDim2.new(1, -40, 1, 0)
+    KeyTextBox.Size = UDim2.new(1, -105, 1, 0)
     KeyTextBox.Position = UDim2.new(0, 34, 0, 0)
     KeyTextBox.BackgroundTransparency = 1
     KeyTextBox.PlaceholderText = "enter key here..."
@@ -490,6 +543,35 @@ function KeySystem.CreateUI(onVerifiedCallback)
     StatusLabel.Position = UDim2.new(0, 0, 0, 76)
     StatusLabel.Parent = Section
 
+    -- Paste Button Action
+    bindButtonClick(PasteBtn, function()
+        local clip = getClipboardContent()
+        if clip and #clip > 0 then
+            clip = string.gsub(clip, "^%s*(.-)%s*$", "%1")
+            KeyTextBox.Text = clip
+            StatusLabel.Text = "Status: Pasted key from clipboard!"
+            StatusLabel.TextColor3 = Theme.Accent
+        else
+            StatusLabel.Text = "Status: Clipboard is empty or unreadable!"
+            StatusLabel.TextColor3 = Theme.Error
+        end
+    end)
+
+    -- Mobile Auto-Paste on open if clipboard contains valid key format
+    if IsMobile then
+        task.defer(function()
+            local clip = getClipboardContent()
+            if clip and #clip > 0 then
+                clip = string.gsub(clip, "^%s*(.-)%s*$", "%1")
+                if clip == KeySystem.Key or string.find(clip, "NiloHook") then
+                    KeyTextBox.Text = clip
+                    StatusLabel.Text = "Status: Auto-pasted key from clipboard!"
+                    StatusLabel.TextColor3 = Theme.Accent
+                end
+            end
+        end)
+    end
+
     -- Button Row Container
     local ButtonRow = Instance.new("Frame")
     ButtonRow.Name = "ButtonRow"
@@ -497,14 +579,6 @@ function KeySystem.CreateUI(onVerifiedCallback)
     ButtonRow.Position = UDim2.new(0, 0, 0, 108)
     ButtonRow.BackgroundTransparency = 1
     ButtonRow.Parent = Section
-
-    -- Helper to bind Mouse & Touch buttons
-    local function bindButtonClick(button, callback)
-        button.MouseButton1Click:Connect(callback)
-        if IsMobile then
-            pcall(function() button.TouchTap:Connect(callback) end)
-        end
-    end
 
     -- Primary Button (Submit Key with Accent highlight)
     local SubmitBtn = Instance.new("TextButton")
