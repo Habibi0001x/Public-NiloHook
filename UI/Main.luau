@@ -1,3 +1,11403 @@
--- This file was protected using Luraph Obfuscator v14.7 [https://lura.ph/]
 
-return({MF=function(q,q,u,k,T,g,H)if k==0B10_1__0010__1_ then g=H[41](q);return u,g,0X881f_,T;else if k~=0X6B then else u=H[0B10__1001](q);T=H[41](q);end;end;return u,g,nil,T;end,z=bit32,SF=function(q,u,k,T)k[0B11__1100]=(function()local g,H,O,m,b,I;I,O,m,b=q:BF(b,I,O,m,k);local A,S,G,F,P;A,G,P,m,F,S=q:TF(k,I,G,A,P,m,S,F);local Y,N;P,Y,N=q:JF(k,Y,N,I,P);g,m,H=q:wF(G,P,A,k,m,S,b,I,Y,N,F,O);if g==-2 then return H;end;return O;end);if not T[0X639E]then u=q:WF(T,u);else u=q:CF(T,u);end;return u;end,LF=function(q,u,k,T)if k[0B110111]==k[0B110001]then else k[11][0XD]=q.v;k[0XB][0B1_011]=q.F;local g=(59);while true do if g<=37 then k[0B1011][0X7]=q.tt;break;else if not(g>=0X5E)then(k[11])[0Xf]=q.xt;g=(0B1__011110);else g=0B100101;(k[11])[0B1110]=q.X;continue;end;end;end;end;if not u[0x3706]then T=q:qF(u,T);else T=(u[0X3__706]);end;return T;end,Mt=function(q,u,k,T,g,H,O,m,b)local I;while true do I,k,b=q:rt(b,H,k,T);if I==57282 then continue;else if I==0Xf02F then break;else if I==-0x1 then return b,-0x1,k,m;end;end;end;end;(H[11])[8]=q.Zt;k=0X1;while true do if not(k>=0B1101100)then k,m=q:Tt(k,b,O,H,u,T,g,m);continue;else return b,{H[0x3b](m,b)},k,m;end;end;return b,nil,k,m;end,aG=function(q,q,u)q=65;u[0Xb][0x1_]=u[0B00100111];return q;end,VF=function(q,q,u)q=u[0x34]();return q;end,tG=function(q,q,u)u=q[43]();return u;end,wG=function(q,q,u)u=q[54]();return u;end,j=function(q,u,k)u[0B10_]=q.Jt;k=q.k;return k;end,cG=function(q,q)return q;end,RG=function(q,u,k)if u[0B10]==u[0X20]then while u[0b10]do q:SG(u);return-0B1,k;end;end;k=(34);return nil,k;end,JG=function(q,q,u,k,T)if q>=0b1001101 then q=0x48;return 0x6A43,q;else return-0X2,q,T*u[0B1101]+k;end;return nil,q;end,zF=function(q,q,u,k)k[q+0X2]=u;end,s=function(...)(...)[...]=nil;end,p=function(q,u,k,T,g)g=82;repeat if g>0X52 then(T)[0x14_]=q.c;break;else if g<0X52 then T[0x13]=q.J;if not(not u[0X3511])then g=(u[0X3511__]);else g=q:y(g,u);end;continue;else if g>9 and g<84 then T[0B10010]=k[q.M];if not u[15866]then g=-3932283064+(q.zt((q.Vt(q.e[0x2]+u[26900]-u[16739],(u[0x06_914]))),q.e[0B11]));u[0X3dfA]=g;else g=u[0X3DFa];end;end;end;end;until false;(T)[0X0__15]=nil;T[0b1011__0]=nil;T[23]=(nil);T[0X18]=(nil);T[0x19]=nil;T[0X1A]=(nil);return g;end,HG=function(q,q,u)(u)[39]=u[0x2_9](q);end,PF=function(q,u)for k=0B1110__1__1,0X65,0X2A do q:kF(u,k);end;end,st=function(q,q)q[0X2],q[0X31]=q[0x36],(-q[0X32]);end,uG=function(q,q)(q)[27]=q[0X1b]+0x4__;end,i=bit32.bor,A=function(q,q,u,k,T)T=({});(k)[0x1]=(nil);k[2]=nil;u=nil;q=0X3_9;return T,u,q;end,CG=function(q,q,u)u=q[0B11_0101]();return u;end,AF=function(q,q,u,k,T)(k[21])[q+0x1]=(u);T=(92);return T;end,V=string.match,zt=bit32.bxor,h=function(q,u,k,T,g)u=(0X2_6);while true do if u==0X7 then(T)[0B1101_0]=function(H,O,m)O=O or 0X1;H=H or#m;if not((H-O+0b1)>7997)then return T[0X8__](m,O,H);else return T[0X18](O,H,m);end;end;break;elseif u==0X26 then(T)[22]=(k[q.x]);if not(not g[0x4d6B])then u=q:O(u,g);else(g)[974]=(-41662+(((q.xt(q.e[0X6]))<g[0X19Bf]and g[0X6914]or q.e[7])+g[0x19bf]+q.e[0X1]));u=(-4084513751+(((q.Qt(g[23570],g[27452],q.e[0B1001]))-q.e[9]<q.e[0B1]and q.e[0X2]or q.e[0X6])+g[0X3147]));g[0X4_d6_b]=u;end;else if u==0X4D then(T)[0B10111_]=(k.readstring);if not g[14549]then(g)[0X3430]=(-2485517588+(q.dt((q.Nt((q.vt(q.e[5],(g[0X3dfA])))))~=q.e[2]and q.e[6]or g[0X4163],q.e[0X6])));u=(0B1010+(((q.Zt(q.e[0B10]))>=g[0X69_14]and g[26509]or g[26900])+q.e[0X1]>=q.e[6]and g[0X4163]or g[0X4163]));g[14549]=(u);else u=g[14549];end;continue;else if u==0B10010__00 then(T)[0x0018]=(function(k,H,O)if not(k>H)then else return;end;local m=H-k+0x1;if m>=0X08 then return O[k],O[k+0B1],O[k+0x2],O[k+0B11],O[k+0B100],O[k+0X5],O[k+0X6],O[k+0X7],T[24](k+0B10__0_0,H,O);else if m>=0B111 then return O[k],O[k+1],O[k+0B10],O[k+0B1__1],O[k+0B100],O[k+0x5],O[k+0X6],T[24](k+7,H,O);elseif m>=0X6 then return O[k],O[k+1],O[k+0B1__0],O[k+0X3],O[k+4],O[k+5],T[0X18](k+6,H,O);elseif m>=0X5 then return O[k],O[k+0x1],O[k+2],O[k+3],O[k+4],T[0X18](k+0B1__01,H,O);else if m>=0X4 then return O[k],O[k+1],O[k+0B10],O[k+3],T[0x18_](k+4,H,O);else if m>=0X3 then return O[k],O[k+0x1],O[k+0X2],T[0B11000](k+3,H,O);else if m>=0B10 then return O[k],O[k+0X1],T[0x18](k+2,H,O);else return O[k],T[0X18](k+0X1,H,O);end;end;end;end;end;end);T[0X19]=(nil);if not(not g[14799])then u=(g[14799]);else u=q:m(g,u);end;end;end;end;end;T[27]=(0);T[0b11100]=(nil);return u;end,bG=function(q,q)q=false;return q;end,qF=function(q,u,k)(u)[8877]=(-2335229709+(q.Qt((q.Vt((q.vt(q.e[0X3]+u[0X7783],(u[0X3430]))),(u[0X39cf]))),u[0X19d8])));k=(-3916950378+((q.Vt(q.e[0X2],(u[26900])))+u[19529]-u[0X6B3C]-u[13360]));(u)[0X3706]=(k);return k;end,g=function(q,q)q[27]=(q[0B110__11]+2);end,uF=function(q,u)while-u[0xB]do q:PF(u);end;end,kF=function(q,u,k)if k==101 then q:sF(u);else u[0B11101],u[13]=u[0X25],(u[0x31]);end;end,Qt=bit32.bor,Jt=string.char,rF=function(q,u,k,T,g)local H,O=(0x50);repeat if H==80 then O=T[51]();H=0X6f;else if H~=0X6f then else if T[1]==g then local g=0x5;while true do if g>0B101 then q:uF(T);break;else if not(g<0x20)then else g=q:YF(T,g);continue;end;end;end;else if not(T[0B11001][O])then q:GF(O,k,u,T);else(u)[k]=(T[0X19][O]);end;end;break;end;end;until false;end,Nt=bit32.countlz,b=function(q,u,k,T,g)(u)[16]=(nil);(u)[17]=(nil);g=0X10;repeat if g==0X2f_ then u[0X1_1]=T.readf64;break;else if g==16 then(u)[0xF]=(T[q.B]);(u)[0X10]=(T[q.T]);if not k[0X3147]then g=q:E(g,k);else g=(k[0X3147]);end;end;end;until false;(u)[0X12]=(nil);u[19]=(nil);u[0x14]=(nil);return g;end,fG=function(q,u,k,T,g,H)local O;O=nil;local m;g=0x58;if H>0x3A then if u[0x18]~=T then else O,m=q:oG();if O~=-0X2 then else return k,-2,g,m;end;end;if u[0B110100]==u[0b100000]then return k,-2,g,u[26];else if u[0B11__0101]==u[0B1__01000]then if u[0b100000]then q:KG();return k,-1,g;end;(u)[0X2C]=u[0X1a]%0X8;else if not(H>0X7__C)then if not(H<=0X0051)then O,k,m=q:hG(u,H,k);if O==-0X2 then return k,-0X2,g,m;end;else k=(-u[0B1__01011]());end;else if not(H>135)then k=q:bG(k);else local T=(0X37);repeat if T==42 then break;else if T==0X37 then T=0X2a;if not(H<200)then k=q:EG(k);else k=q:lG(u,k);end;continue;end;end;until false;end;end;end;end;else local T=(15);repeat if T==15 then O,T=q:RG(u,T);if O==-0X1 then return k,-1,g;end;else if u[0x2_E__]~=u[0X1]then if H>0x15 then if u[13]==u[0x2A]then if u[0X25]then q:IG();return k,-0X1,g;end;end;for T=0X71,0X00D3,98 do if T==0B11010011 then else if T==0X71 then if not(H>0X019)then k=u[55]();else if not(H>0X22)then k=q:wG(u,k);else k=u[43]();end;end;continue;end;end;end;else local T=106;repeat if T~=0X6a then break;else if not(H>0xE)then k=u[0b110000]();else for O=0X57,183,0x2 do if O==0B1_010111 then if H==0x15 then k=q:WG(u,k);else k=q:CG(u,k);end;else if O==0x59 then break;end;end;end;end;T=0B1000001;end;until false;end;end;break;end;until false;end;return k,11057,g;end,Dt=function(q,u,k)k[0X51B2]=(-49014+((q.Qt((q.Vt((q.vt(k[0x4163],(k[13360]))),(k[0X0039cf]))),q.e[0X1]))+k[26900]));(k)[0X569]=(-2485517605+(q.Qt(k[12615]-k[23570]+k[13585]>k[13085]and k[15866]or k[12615],k[0X6914],q.e[0X6])));u=125+((q.Nt((k[25480]<k[23778]and k[6591]or k[19819])-k[16739]))-k[0X3__ce]);(k)[0X1dDF]=u;return u;end,xF=function(q,q,u)q=(u%0X8);return q;end,jF=function(q,u,k,T,g,H,O)if g==11 then(O[0X15])[H+0B11]=(u);return 620,g;else if g==0X5C then O[0x15][H+0x2]=T;g=(0XB);else if g==0x31 then g=q:AF(H,k,O,g);end;end;end;return nil,g;end,a=function(q,u,k,T)if u<=0X51 then T=k[0XC](k[0B100110],k[0B11011]);return 25400,T;else if u~=209 then q:g(k);return 0x63__38,T;else return-0x2,T,T;end;end;return nil,T;end,Vt=bit32.lrotate,EF=function(q,q,u,k,T,g)if k[20]then local H,O,m=102;repeat if H>0B1101 then O=k[0B1001_11_][T];H=13;else if H<102 and H>0x8 then m=#O;O[m+0X1]=(u);H=(0X8);continue;else if not(H<0XD)then else(O)[m+0b0__10]=(g);O[m+0X03]=(0XB);break;end;end;end;until false;else(q)[g]=k[39][T];end;end,AG=function(q,u,k,T)if k~=0B1_111 then q:HG(u,T);else T[0B11001]=({});u=T[0X33]()-0x0010b2c__;return 20952,u;end;return nil,u;end,Yt=function(q,u,k)u=20+((q.zt((q.Qt(k[0X3967]))+k[29089],k[24204],k[0X6388]))-k[0X348_0]);k[0X1231]=u;return u;end,gF=function(q,u)(u[0Xb])[0X5]=q.z.lshift;end,cF=function(q,q,u,k,T,g)if T<231 and T>0B10000_1 then g[0x7]=u;elseif T>0b10000__100 then(g)[0X00b]=k;else if T<0X84 then g[0XA]=(q);end;end;end,jG=function(q)return 105;end,lG=function(q,q,u)u=q[0X2d]();return u;end,mG=function(q,u,k,T,g)local H,O;if g==0X76 then if T~=0X70 then local T=0X22_;while true do T,H,k,O=q:OG(u,T,k);if H==0X9c8a then break;else if H~=-0X2 then else return-0X2,g,k,O;end;end;end;else k=u[0x32]();end;g=0B1__01110_1;return 23543,g,k;else if g==93 then return 0X8ea,g,k;end;end;return nil,g,k;end,P=tostring,I=function(q,u)(u)[0x1E]=q.V;end,l=function(q,u,k,T,g)k[0X7]=nil;k[0B10__00]=nil;T=0B100000;while true do if T==0B100011 then(k)[0X8]=(unpack);break;elseif T==0x52 then T=q:K(k,u,T);continue;else if T==9 then(k)[0X6_]=error;if not u[14182]then T=-4004878514+(u[0x6914]+q.e[0B111_]+u[26900]-u[19529]-q.e[0X1]);(u)[0X3766]=(T);else T=u[14182];end;continue;else if T==84 then(k)[0B111]=g.readu8;if not u[0X678d]then T=(-0X83+(((q.dt(u[6591]))-u[14182]<=q.e[0B1]and T or q.e[0b110__])+u[19529]));(u)[26509]=(T);else T=(u[26509]);end;continue;else if T~=0X20 then else(k)[0X4]=g[q.u];if not(not u[0x4c49])then T=(u[19529]);else T=0B1__010010+(q.Nt((q.Qt((q.Zt(q.e[3])),q.e[0X1]))-q.e[3]));u[19529]=T;end;continue;end;end;end;end;end;(k)[0B10_0__1]=(g.readi16);k[10]=nil;(k)[0b1011__]=nil;k[0Xc]=(nil);k[0Xd]=(nil);k[0XE]=(nil);T=(0X6A);repeat if T<106 then k[0B1_011]={};k[0XC]=(g[q.G]);k[0B1101]=4294967296;(k)[0B1110]=g[q.r];break;else k[0Xa]=(q.Y.move);if not(not u[25480])then T=u[25480];else T=(-19+((q.zt((q.tt(q.e[0X8],(u[0X6914])))<u[0x6914]and T or u[0X19B_F],q.e[0X7]))<q.e[0B111]and q.e[3]or u[0X3766]));u[25480]=(T);end;end;until false;k[0b1111]=nil;return T;end,YG=function(q,u)local k;for T=0x16,0B10000001,0X6B do if T==0B10110 then k=u[0X00F](u[0X26],u[0x1b]);if u[42]~=u[13]then else while-(-0X9_E)do q:PG(u);end;end;else if T~=0x81 then else q:uG(u);end;end;end;return k;end,ZG=function(q,u,k,T)local g;k=(0X2e);while true do if k==0X35 then(u)[0b101011]=(function()local H,O=12;while true do if H==0B1100 then O,H=q:L(u,H,O);else(u)[0x1b]=(u[0x1b]+0X1);return O;end;end;end);(u)[44]=(function()local H,O,m;for b=81,0Xdf,64 do H,m,O=q:a(b,u,m);if H==0x6338 then continue;else if H==-0X2 then return O;end;end;end;end);break;else if k~=0x2E then else k=q:DG(k,T,u);continue;end;end;end;(u)[0X2d]=nil;u[0B00101110]=(nil);u[47]=nil;u[0B110000]=nil;k=0X63;repeat g,k=q:MG(u,k,T);if g==54994 then break;end;until false;u[49]=(4503599627370496);u[0B110010_]=function()local T,g;T,g=q:VG(u);if T~=-0B10 then else return g;end;end;u[0B110011]=(function()local T,g,H=0x7C;repeat if T<0X7C then H=0X1;repeat local O;O=q:tG(u,O);g+=((O>0x7f and O-0x80 or O)*H);H*=128;until O<128;break;else if not(T>43)then else T=43;g=0X0;end;end;until false;return g;end);return k;end,Bt=function(q,q,u)q=(u[0X478b]);return q;end,zG=function(q,q,u)q=u[17](u[38],u[0x1__B_]);return q;end,e={41678,4084513781,51798311,925964034,1301780947,2485517588,4004920340,3164119187,75138876},Pt=function(q,u,k,T,g,H,O,m)k=0X56;repeat if k>0X56 then if k>106 then if not(k<=0b1110111)then k=q:LF(m,T,k);continue;else k=q:nF(k,T,m);continue;end;else q:gF(T);break;end;else if k==0b111101 then(T[0XB])[0X9]=(q.z.band);if not m[0Xfb_4]then k=q:aF(k,m);else k=(m[4020]);end;continue;else g,k=q:et(g,k,H,m);continue;end;end;until false;O=function(...)return(...)[...];end;if T[0X030]==T[49]then for H=0Xc,0X3c,6 do if H==0B10010 then q:st(T);break;else if H==12 then while T[0B11101]do return-0B10,O,u,k,g,(q:kt(T));end;continue;end;end;end;end;T[0XB][0B110]=q.U;u=nil;k=0X28;return nil,O,u,k,g;end,rG=function(q,q,u,k)q=(0b1100_110);k=u[0xe](u[0x26__],u[0X1b_]);return k,q;end,XG=function(q,u,k,T)(u)[56]=q.d;if not(not T[24204])then k=q:FG(T,k);else k=-4004920264+((q.dt(T[0X19Bf]-T[19819]<T[27452]and T[19529]or T[16739],T[0X4d6B],T[0X0__36d__9]))+q.e[0B1_11]);T[24204]=k;end;return k;end,x='\u{063}\111py',u='\z  cr\101at\u{0065}',n=function(q,q,u)q=u[12900];return q;end,QG=function(q,q,u)return q-u[0B101_1__10];end,GF=function(q,q,u,k,T)local g,H;for O=0B1010110,306,0B00111010 do if not(O>0X056)then g=(q/0b100);else if not(O>=0xCa)then H=({[0x1]=q%0X4,[0X3]=g-g%0X1});(T[0b11001])[q]=H;else(k)[u]=H;break;end;end;end;end,c=nil,r='\114\101a\z  \100\105\z  3\x32',OG=function(q,u,k,T)local g,H;if k==0X22 then g,k,H=q:pG(k,u);if g~=-0X2 then else return k,-0x2,T,H;end;else if k==0B11001 then T=u[0B101100]();return k,40074,T;end;end;return k,nil,T;end,vt=bit32.lshift,E=function(q,u,k)u=0X26+((q.Vt(k[0X4c4_9__]>=q.e[8]and k[16739]or k[6591],(k[0X691__4])))-k[0x19bf]~=k[26509]and k[26900]or k[26900]);k[12615]=(u);return u;end,q=function(q,u,k,T)(T)[0X26]=nil;k=(0X1);repeat if k>69 and k<0B1101_100 then k=q:f(k,T,u);continue;elseif k<0X7E and k>91 then T[0B100001]=q.t;(T)[34]=(q.Z.sub);if not u[0x5A73]then k=-0X22+((q.xt(q.e[0X6]<=q.e[4]and q.e[0B111]or q.e[0B11]))+q.e[1]>u[0X005c12_]and u[0X5C12]or u[13360]);u[23155]=(k);else k=(u[0X5A73]);end;else if k<0x5b and k>0X1 then(T)[0x026]=T[0X25]([==[LPH#!!Jq')`fN2/NO8#"ZclL(ci3h"$0XIF#lTJ'fpP"DE;f!%lstW7QLi:=upO^*]b`2)EL)D.QRVl'KRBu9KGg-C,u_`F#j=_"$0dM'0808'KRj-!BRnT?TJNT(-6Cq#W`2O)*24f.lnY2$5m,1FEh@l@Vp6_=#tA5&NU@^"Zh&m&3=_j<]V6^*'+`o1-/)i?9/TX>rj]$%QX_RCcWk'-ot*aFZNA\@QJNjC-"=8<B>LgD`S(`+$']hIQ@Tm0ff@s3BA<E4$!j4>WO]&!'35'#!,+4&N\/t698sE+?DqP,!$/o,s!/03'&<G5WUGW6om7f/NPCC:c`k_@6-)'*BG9'7/5":7iE6L@8q>[DImHu6Z,\AATi*:9Oi*/FD#K&#h+07Hia4o7lgh<KK;:X)$+AtBgbr(%J>*c2EF\FU<BSU3WT8/!@N7rEd%X(%X`5("H%R-Hi`;U2LH#Xpp-q$rpDlYEsW^(FE2;5@rcWt3W`9.f"2F>(-6=N3X_m63YsiO)5oTW@qKTeD/sQ4H>.2(I%36/)12]dEsEQ`AS-$q'mt1B<#6DQD'3D'FCB9&ASbga+EM6>CL_:![!ZCq)3?lh@WQ)b)+mLqE,Ke&Hu!5#J3!]="<":%3+d8T!ZA@+;`\`9%MF)8'!k%4\iN/=d<rbk3`.p=NY/=mGC4m$Es<K_DJ=-5+.7Lhs*VjJ&kdT`3cm0*I&B#n(E!8CDfTl0DJ:56EcP_6BHV>6Ch.ElHtR>2)ghZ4SDt([5($gD$Zg[rAS2AgDJs$,DIIX.X84l!\U<I>3po$A3pSiK&7U$W3X(+_3q#*bBaP`)Ch%:&EclGA4TlX6HsK*Dg8bH%)2C8]ARoKdAnc@)AU%d3Dfg,3%@_`c3WVHmA-Ej)H!tN#DaOaI@qBOq3hABSX-5Rc;EES?3WTA2qgkg2>nt+8%c.m9J#V<F/UY&h!U4t5bfn<BI"FCCU,i=rDFF[G$5m]'@q0RoF`VJ;3dbLZHpp(/b;oZ"ofDn0Eao:kATV?lNI9G@6jX_39jr-PCh7-qWsn':&fLErBQRZZDaQoJDfTr;Bl?ga-l$iA3oKK2Hr<!kP7@U5HiX3J@!hutH7=4D!'3&"Hi\A;F*nKV#0M<&3lNtWm@^L[7RI@tASkjr,!(lJHidr.+!Lq[hXgIa3^;RH0-MOYaYhUi3da0R3dEaeI"+2jPWAgN)$,26DKTOsDeX<'3gDaDn?8n'RX@@]>O6_p"<"R-Ci!NH%=Fg0gMRN&UH1Ut3XB5C>6>b1:HDcKI)Kj%=aU5\6O=V2ASuC(A7]jmHi\/5]R0g-X4'*R(HUGsCDEd/):N=cF(&kqDJ<p/An>LaA7]XmMMYUKi(^7fHiYaFPC*C'S])<E";ub1FDl&+$Q693FEh@lATVf]Hu`e2!#ZF+JJDl[I#bJnc?p3?%EWuc3Xk\/!Mk+"Hi[i,\pOm?3j:Xk!a'i$Dfc7&@Vp7*dsQ1I!M+T=Qo]OS)%(b=Eckk"FDbZ1ASu3uK/sr43])\@!Gm-T)*;8S;fbM9ATi**)$3ZU6ZYg)DImNu!l>Fh#T3jJFE;=kARfUdl[2hr!S;](\pVpe`/gr14$$(sQ8V2BHsSi\cDq!==<i4d3Y*E^%Z3;W7!4XF";tl6ASkjg)$.BtFCfM$F)Go+FDbN/<L@M2ff6#63X#M2lb*d-TfP(kDFF^H3cf.\!FC04@oE[ODImC"3b`_,3cmDR3_DHSI*Xj>"W7>#F_kJe3\NO*3XRq57gg1^BL?lQEb'!#s*S]q6O=V4F)tc+ASkjNHi[](o;_ll6OOdZASuO,A7\h_:)RVU+D#4cF^eomBl"o)Ea`utF(lbBEFj/5ATDL-DJpY.@<G6dCiCM>De=*"/otlMASb0c+D#V&DImd*F!+m6DfBZ<F<G[GASYdiK7#:nddF/(Hi^s/(OQd@+dRKVBKD_GHjX>1eN*d];1,B)'9.AD3Wn,aI&&e]Go74G>:hEL?#q;rATAo!DK9lAFCfM9G&Cl'DKTP>DeX<'/hSPiEZce`EclJ8F!VrH/hSb)DIjq>F!*#EASlO#@<>q"-tR4(,$Q1:>p=>9/g*;"I3:-p+F>4^DJ<Hb+F%I.AS3,KDImF%/gr,k.4Hl%.4KZfe#sK/5-*H5!UkF"VkWVp;*R+!3eBBp"rM`mWt(7Q3]b(I3l*l:3_h_DEX!D-ATN'(;\0ggDaSVXDfTr;Bl?gaHujCIffC\7DF"dNFE;#'BL@&cAS5mh#/tt#F*.a+@:XCiA?0-\AcWdK3XabkI%r_?90*8h3XL7_!gJ*1\4>Ek!Q0<D%K[`"8ZWW"AOd@NF)OlsDeX<-6Z,\;ATi*:3WUdZQ*RI.Ec_U*@V'%X3br56qI?QN-oq_R.4\pT$4T%#!?6Dl3]k3+8I-3AF`^Q'HuE_09f`;(3Xei4"OhaK6oo<KL,pP?)$-^a@<?Pp3cfFcI(23b)ghZ%!H*:*F!ia]AS-$q+=D>MDJilm@j#l3B5V-kDIjr%DfTQ8DIm[&AoAf6G%kS3D]iq/@qBCaHq$/=<I=fP)6#XtFD51fc8m^:Yr]KX3mrPZ.meVEHj`#`B0$VL3X/r=#OHgo%N0@LFEh@lFD5VmFCSl_aF&#HY)97^Hi[l-NdLj9EW[0^"W;8jDJs>Y%6T#L@93jTDanh_BkTkS";t`dFEhA7h0a?+M*VUW7h/7b3d.RU#eta9)$WudDfTk'ATV@&F]&PaEb/0eARfFt3WV-d!EskbnN)go)-(d+F`2=*Ht?f.OaIG=I$$GmI=)30!LeC6I#L"b,-(`13b:A*D?Cc9fK+4f3dOJIWiHZF83/r7)$.6pD.-0BWe7?`HiXP$!"T*n)*WQNDf9(iDII*mBl".pARo@iASu3oHttcR"rSGZ@Vp7*)LQR:I$?YmjuNUoBg`:GDJs$+FCSm"'a26upNY.bkBpJp!CqM<3bu]^!@`D?3WT_<n[T,mjZ3K"3q-g`&)oX-4q^F5oW&0nI(VM%c8kum%g7uA=b$JP3Wb1d("PE_J<LRnX#QAlANJmD3aHKJ!LS9/Hj&,MQ$`XD#D[[tHj%33;`XqQHj(@7"W7>oF^eom$2T$^)3Sa8MhL%IiN%[kK]0IrV1mlfiIH^BL#IuD[YEbDiIZaAL>en]JqW*tiM)%bK]/tdW.j2iI(k?oiAq!"Dbp`XF$XnhHt.&>"W7@7Ch7=+#X<]IBQjRs$p&K=CdJ:C)/E`#H#m[-A8GgkASbgaWrYV9O#iZ%[lWt=HiZccGRc#8HoN1@=ZQR1Hi]mfAUFOO&:]'=3YH^c8L4lmPr_,BDcqE)9H\@uAKYE(EbT]7ASl='A0>u3+EM+4+EVO>E,]r@+EVXBA79Cm+EDBCA79CmBl\<:+=q/CEb/p+Ec5Q$Dg<I:Ea^)5DKR(5ASbga+E)?E+D#V:@<-KaF!kX?:eW5Z:JP7f<_ue'79*#ID'13)DfT>r3d<\<#ap'NYhrXp($RbQp?,is3c"g73XATY'/b0,AOHb@DfTr@!!!OTMgR\g!CqM>@;Q,b@NoK-*jL+c)*d:,Ec5Oo3cneI7L0ms:2Ooi).dYnFEq<u;ZmtLHt@V<G'j<n!==,a3Y?[c;[jU\FE1f3Cf#.`Eb0N)HjAh^^((@'I"0W>;QD@)!W.9#d5oB1%cpQg7*?Tp@<)PiFCf*/Hj'Frqg9&)&KlH4ZiD$T)6Q"UEcP^p/:;JVI#'fe%"&($'f7rPk`7BWDg)L*E-#f83b;f0%/>4.3$^d")*L#gDKTt)B5VF$HjDWXfK'X#N&kB.Dc[5_E-#f8Ht?er>WMn/)%O`8FCf(l@<QU4Ht@G:1OLb>CpXZ]#oORjD/XGaF_kJe%$,dITR*.DI)%ej!"K/aHiO0IloI6<3ZBAm'js()p?HH`)%/BNFCB"i7lk<n)%/0HFCdrKB5V9S.=>fNF9NN`ASbgaHi[K"SN7<]3lmaNI,-i\*./o2m1gK>Rd@#ATsa0]m's+_\*JRTMi6o()9]RkAn>KV%"*),3gi#5!aL+*3X`';!EOUF3WTD3':jM/2**'FDbp]WBln'1AiagJ)$0S]FCf(nF)Go+FDbN/!UP2T3q1:mEs<N:@qBIf<<X7^12U_nHi[&kZT8.8Wt%"7eU3#:<lKFeHi\M?3d_%!6NJ&*F(kmt@<,e"Jp_3O!Mb#Q)6B+(F)Q.+DJ=-57g^,HAQ*\^@qg+,!F'q_Hi]"M)LNCr%%;PE-[b_NIOQ!4!u\5G3bE2L:^.f\DImis3q,1P@g!Z[Hu`Y/$EF6""X&3jMaT7<s8W',Es3H]AmoRnI<rX<B`o;2HuEV7l`1%s)/D:-6$#U""rU5uA8YgR#8qAsFCSl_))H;OF`1apH>I\@3Y9;Y%RW9@#QOi)AS28d@<?R4YW?Q0Bk@Jc]+/@hHq<7.!>u("))XGtD..;f@;'jrVhV6o%g_0B5=Fj6Hi]%N#T3YZD09_bD.Rf\$lRtaD00?%FCB9&ASbgaHi[W&21,MKG6Aca)0BS$FEC%]Eb/0gARfFtV0qqs'<uouQTFLpJ,fQ[I,?t\JN=BrWsZ"WZ[B]*&I!Om3]i%CI!.Ot(46-=#7u7p3YN9VeA&'_3qgUp!LS9)%KSnD!<<*"X-tOK3ds+b#7,^q)$,26F(K@rX(?-j!=kr$3b$cmI/c7`LD^+k#mgqO/g(H,0.8,3/hS\)/hSb/+<VdZ/g)8Z/1`D+,:G2p5X6YB#mgqk.OZDG/0H&X,pOfk5UIg(-9sg]0.84p-nd5,,9nTb,9nEZ.PE1u/hAP'+<VdL0/"k!$8*YR+<Uss+=]#e5X6VJ5X7S"/1!PH-nZVb5X7R]-71&d5X6YC5X7S".OZMg/hSb-/hSb/5U@m4/grtM,:jr[#mgqk+>52e5X6YK5X7S"+<W.!+=nfe-n6>^5X6YC-9sg]/1N%o+<VdZ+<VdL+<VdL/1r%f,pOff5X6eI+<W-\#mr45+=n`D5X7Rf.R66a-mgDd-718d0.\_/-71#`-9sg]5X6YE5X7S"5X7S".O.2D/hSb-0.\_.5X7R]5X7S"/g)Q-+:/B$+<r!O5X6P:.R66a+=09+/gV_p/hAD(/1N;(/1N;+-nd,(5X7Ra5X7S"5X7S"5X6V\5X7S",="LZ5X6PH5X7S",p4fe+<Ust-6OEa5X7S"5X7S",=!P'-712b5X6YG0-`_I5X7R],pb305U@s65X7S"0-rkK-mh2E/0H&d/hS\+.Nfid5X7R\$7[/C+<Vm85X6YK5X7S"5X7S"-n$W35X7R\/gEVH+<VdL5X6YI-9sg@-8$Dj5X7S"/hA>75X7RZ5UJ-L5U[pD-mh2E-7CDu/2&+s0.7qM-m0WT-71')5X6YB/2&>8,=!e&5X7R_+<W4#+<VdL5U.Bo-7gf80-DT,5X7S",:+m+5X7R\+=KK?+<VdL5X7Ra/1*VI+>+rd+>4'S/2&4j5X7RZ0.8%l5X6PI,p4j+-9sg]-pU$_+<VdZ5UJ$).P<,7+<W-e.R66F,p4<Q5X7S"+=09<+<VdL5U[`t.OZW/,q^f&+:9_J5VFcD+=nj)5UIm%+=na&5VF6&.P)\q5X7R]5UI^@,pO^$5U@g,0-D_k5X7S"/g`hK5X6P:5UI^@,pklB5X7R\-9sg].OZr$$6q2h-8$Sj/g)B(5X7R]5VF6),sX^\5X7R]+>,;o0.\4g.PE1u/g)8f5X6YL5X7S"5X7S"-mgDp5UA'9-7U6*-pU$_/hSOs-7gc%00h!3/gWai/g)Jf5X7R]+<W-\-8-Ja5X7S"5X7S"5X7S"5X7S",="L@5U@g35X7S"5X7S"+=nj)5X6_?5X7S"5X7S"/2'7R5X7S"-8$N.-70'L+=/<b+=\]j0-DA[-pU$_/0H&f5X7R_0.&qL0/"t,+=JHf5X6YL5X7S"5X7S"5X7S"+<W't5X6YI5X7S"/1*VI5X6_?5VFT6/da6[5U.a)5VF6.-pU$_5X6eA5X7S"+<Vd[,q:#[5X7S"-9sg]-9s+7/0c\g5UJ*+5X7S"/g)B(-7(,d5U.g5.R66a.NfiV0.&qL$7[AP0.&:o5X6PH5X7S"+<W4#5UIs'/1r56-9sgC+<W3`-nHJ`-7(o'5X7S"5X7S".P<,70-DAg5X7S"5X7S"+=nj)+<VdL5X6V</hTCS+=]V`5X6VJ5X7S"+=KK?+<VdL+>+cZ5U[`t5X7S"-pU$_+<VdL/g)8Z-7(&i5X7S"5X7S"5X7S"+=nof/h\h"+=09&5VF6&/g)H*+<V"E/g)W/5X7R]-9sg]+<VdZ+<VdL+<VdL0.n@i5X7R]5UJ*55X7S"/1*VI.Oltl+<W9f/1r%f-mg>l5X6VJ5U@Nt/0H&b+=09<#mqn.0-Dem5X7S"+=]WA+<VdL+<VdL+<VdL+<VdL/g)8Z5X7RZ5X7S",q^Z45X7S"5V+<K5X7S"/0H9)+>,&g+<VdL5UJ*+,:jr`+<Ust5Umm05X7S"+<VdO+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL/g`h0#mqn.-n$2\5UJ*+.R66a+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL5U.Bo,:kGo+<Ust/g`1n5UJ$)+=ocC+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL/g`h3#mqn.,9S*8,q^;m+=]WA00hcU+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL0-DA[/1r87#mgqe+>5>R,sW[t5U@O*,:kAm+<VdX+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL0-DA[/hB7Q#mgql.Nfi?,9S*W+>+s*5U[a-5X7S"+=o/l+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL0-DA[/hB7Q#mgqg0/!V<5U@Nq.Ng8h5X7S"5X7S"5U[a'+>,;n+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL/3lHF#mr('+:/>\+=\TY5X6YK-m1,e5X7S"5UnB55X7S",sX^\0.J(s+<VdZ+<VdL+<VdL+<VdL.NfiV.O?]"5X6YK$83MQ#mgnE+=]V_5X6VJ+=ng(/g)eu5X7S"5X7S"/hB7Q5X7R\+=09<5X6YK,9SI$/hSJ9/1Nn35U@O&+>,!+#mgqg+:/>\+>4i[5UIs',sX^\+<VdX5UIm/-9sg]5U.C(5X7S"5U.C$+=09<.R66I+>,2f5VF6&.R66a#mr('#mgnE,=!@X,;()k5X7S"-mh2E+<W9f+<VdL+<VdL+<VdL+<VdL+<VdL-n6c#5X6YB-9sg]$7IMZ#mgnE+:/>\+>,&h0.n@i5X7R\5X7S"5X7S"5X7S"5X7S"5X7S"5X7S"5X7S"-pU$_-n$2j#mgnF#mgnE/0H&A/h/M!+<VdL/g)8Z/1`>)/1`>'/hSb-+<VdZ+<VdL/0H&X$48"2DJ9:mFE1r63WTG4I%WOF"rRI\ATMp$loK6/PC/!DD?h$]@<,dq$lO,'DId?s@;U%'AU8',++/l*GQo#dCgggm#e,1t[X8KE)6Gq#Ea_cME-YE)I#pC#"rRV0A8H0Rs*Siu3jLdO3n-43#HW<3)+4KC@;p8kMgTDdHkJIB&UXT]*i45b)$(k-@Wc_oHi]@WFF4YjHHcp#YC$>ggbfQT[<u\uI'#F6$lK=&F`Ctj6$.0Z@r?R5@;l>ekc8K/)9dKgHjQs''mp%>)50).@:O6[-ou0\T6t63!>Bh]HikjGj/WE9I#0nlbW68f3h"U""8R=?Ful6V&#hUj5.WA*AOd[WF)OlsDeX<-6Z,\;ATi*:9Oi*/FD#K&F9EIp3breFF9WWTDe3m5',>n,AQB$REc6&0]HRh@S9tEi!H!2b.&_h7Hs/S-<iZ6UB4qe0";u=uAT2p:p,Xlg,CGM4&+=lY\iRtpDds"iEcc2A!D%Ta3XKtW!M4\-[lX:FHi`>V+:\H=3[nBs#TS5OWs#,D*IOdORReVTE<jWI=aWHQ3]T5]WtIIi#T:P\6$-[.@r?R51okRV#ss$]F(YUnr-Vsr]8N]p3r7%#q1G`LaaA=oPd(]!N]J2U3X#/(#t')gWt>_ec@#ChB*T:WDJ=3(Y'b/"3\!/k3hJGJI)J'J$5ikPF`_29CghL+'GY2%;1N:;C^(aXAnbq"!DIl_,$=pa_U0Oa5O/c5I*q#U_0cP5HuV2LYC$s!HtPK@o/ZomHt?u=c#<^Gs(K<DI/j6HKK9,NHjd*))EJ14BENo3i.Gj8#5!:-);W?6@:N4>f+hk5)2.sn@;TW]'kh*!clk5]"W<4ZD..HS7hHVM@8q>[DImHu6Z,\AATi*:Hi[K"[B!(]&jq&",-O%_:5nUa5N%WZkmfL1X'K6MJpc[D&q534211rUArR9$(cicj%O.$_D?YdTHi[u0<]UVf8NHlL)917.FCf(iG&Cl'@:KKZCh7*o?XF$UARo[mI(MFa\U8,%!^D'LQ9$Z[?)FA,I.fT<[Q4I<Ch!VdHt@A;V`Fhm)$,88F_F\YASbsjWs%7+VgS.b%VpFmqg>D)=90:>"rVbK@r?3pK7%cL3bs*D)$'tiFC@uM)+65nF`'VRE-YE"8YCHB[5u8fM0qoV$/g1?I(DYF;1&C[),rWtFCfM%@<?'tCgpgp!D@fO.]TN[!E=G1!"[F;%mE5Y547k-mQ.1*)$/iHEc5FoBlnK9eN.8Z3Wq?g3d`uf9ElBqE+*d0!!!OCKfVEu$5r%gA79CmBl\<:#CL0%_g\Wq@lf?*Hidl,4?<L;V?)L#!Sd^%]`bplli7"d!K:4a!PNFP"-`cc!!!&5!!/#m]a-^'$31&,!!0Sd!!"SN!M9Ck!O)P(!hTM"!N6%f$ASYg!Or1!#6+_1!O)^Y!It3T]`8)CPQ1[a!!/\mBJa)spK.Cq%G,P0E!cWY!!0b5!PKZW]aOl@3rf6]!!0Sd!!/\lZN791rrKS0ZN7Q=rs"ejZN795pDN,pTE27t\,h*\]`si)>Q=a)*JXV)!!#qG(]hVn!LWof&EjtP!K7<J!!!,:#ZhQn!!!&E$M\6NC^\$$&.@\-"m>up"o&8r!!!&5,k"o@1BdJlE$qQ&E+f94!ODoa5dq!U0EJCc!PJJX]`\<8)?9a<!!!%l\245jZN't+mfE.`ZN7Q<mfo*ZZN794T)nZeYQ:s0\,h*\!PJI6!MTPo#I"5r4)b7W5*#er!PK#R!L`ugzmJn((!PJWI"/Gns!!!&5!PJPn!n72M!"]1*T)]Q*!#-7Obod5*g].<TJ,gbo!PK$Q!PAC4Zj73s!!0b6+p+P?`ZQZ0!!"DJ!!!%lcnkdEZN't+T**sOZN8,OT*G;rZN8DWNrd9%YQ;g!ciKL7!PJI68Q5ZiUF8)-hZu1B3"SX^3!#d.b5pK3!T+^p!!0bM!Se:f-ir32h[b6)L'IDR0M<ep!!!&5!PJSg!R(ND!!!&5!P8EO#R8%I!!!&5!!0bP+Fd>j!PK<m!W2ot!!!&5aB&Ge&En'R\,ZQD!M9>m!QY6@!hTM"!Or/kpFcQRTE3+=ciKL7]a(J:3WK-\^IeO=!PJaC]aOl@9)nqm^IeO=!PK$K6YcZ%-ir32!JCKc]dO*"$31&,!!!&5+<Z/K!!0bMT)kYdGQ7^E!!.U,`rX<_ck*)sf)_3EL]tj`QiW0IfE$d;"L&^L%"Je;fF3jE1BP?!2?*]5!KI2:!Jgc,<roW\Y]p?/!K]hQ!!0b5#Y>p70N]_Wb5pK+!T+^p!!0bMT)sTEa8c2@!RNY(!ODb++4hO*!ODgR#6+h0!MBJ7!RLk7!PJWo!TO.[!!!&5!%e5pT)l_-a8c2@!RNY(!ODb+"0VmK!ODgJ"0Va_!ODgBckco,f)`2Ya>TXkQiWi\0EKN$!!!&5!!!&J)ZTj<TE1DcU]T0M!o-3F!i,mZ]`bq&ZiC(,!!0e7T)\o%a8c2@hZ:%a\-BDEhZ:%aa9K*UVZF+)a9/ULQiWi\fE'>"!!0b>]`WofPQ1[a;usW4!PJIM"1/%.!!!%l!%e5m^&c"L!Or+1^B(Y@^b3Y3^B(YA\1Yf+pAqT$!Q[b9!LNnl]`8)[li7"d'>R9B$Et>&#QOnA!!0b5]`Hmg'*&"5!!!&50E;Ja(]fj$!PJI5]fQ2o$31&,\,ZQD!M9>m!QY6@#/:2F!OrB4",?o`!QYK6!LNn\%bLg/!!!&5kl;6(+E\M%+s7-#+p]Rs!Z3TkM`:\:!$E*Z0E;-u!!0be!$VOG0J">+%>YCr2uj!(2uk-Vf)QL5!PL`,!Q"g:!!!&5!!0f#T)\o%a8c2@^B(YA!QYcU#/:2FZN7QHLBik@TE3+9ciKL7]`G><ZN't+!J!!-!M9>lD0Q$\!Jh#bpK@g2^^/"A!JiN:!JhH1!It32+4gOL#4DT!TQgL0!K]hQ!PJ_g]aOl@iW&rZ#QR[%!!1=E!$W6[!."nn!PK<M8f/#9zC]PIT]`bq-;ucn!!!!&5!!0bA^'!-j!Pe[9!!/\lZN8DQmfpN-ZN7iChZ<HPYQ<)OfE%WG!PJI6N*H>_#FGJl!!0n9!PJI=!i,er!!!&5"8#qo]f61NZiC(,!!/\oZN8DQ(WS00!ODgR!m_+,!MBJ?!S@FG!PJU1OZNOC&ca$T!!!&5Lbo.>T)\ilJ,fQMLB3_BO=lSJ3q$5Q!K[>DQN<1(NWG4NO9(.<ZN7fALBdbZ;?;:Q"h4]N!!0b5fQmr+cioLJ#Q^Y&!$VCC!R1l]]bg_L'EA+6*qr'0!!0bm!s57u'G(6U+9dN#*2`cH\,hsF0Ef`/QOLAc]`si/_uKc<!!0b6!PM)*"*sqI]bk,o$31&,a8c2l!SB40!M9>l!RLfH^]4DL!ODb,"/cA'!ODgZ!QP8^!ODgB!QR$X!ODgZ!QP91!ODgJ-gq83!O)UO!S@FG!!0b5!PJU9-=QrT]bhRt$31&,!!!%l!PST]!!0k8#/:2F!PfT!#H%U/TE3D@fE%WG]`G&4K)blP$34?5!!0bUOCqJl#gbgAYRe6[!OWaK%/:$o!QG?%]`8$t"98E&!!!&5$=<i*#k/gp!!!&5!!!!d!#tt=]`bq#g].<T!!/\o^&c"L!O)P)!!"SN!ODg:\/,89^B(YAYQM'57ffps!Pe`V!K[>T&*O&8!!!&5!!/^>a"VH4pAodh*q*8d!It3$[fM"8NWFYp!J#+i!ODgYE!O]Z$1Iu"%u:7B!!!&5!!0cDQiXi"&-I^h$%P)c%?Le/!!!&5!&RnB!!0b]!PKu`!Mf\q(]p<p!hV_+8Hl%(0IR9YkPtXs`WD).!!"DJ!!!&5(]g?<!PAC4]`8lXHiO-I!hTM\RKWBs!T,"#+=M^^#UiFj+=MRb!!0b]!PAO8!%7l;!!!&5!#,Hk]dNrSWW3#"kQ-89a;C!>!hV^l!Lb,B+9C@B+:'*$!!!&5!PJN(!P/72!!!%la><q5/H>bO!Or+0-AMW.ZN8,hrs$4=ZN7iDrrJ/]ZN7Q<NsEE#ZN8,PNs+&8ZN7iHNrd9%TE2hSa8qA']`P\Enc/Xj!!0b6-o5?5ROA60!T,:++<XE-T--KL+A!s_!QHN9]`8$\8cShlzSHBc1!TXCc]`bs,]Dqp4ciKL98.NE@DZScX!PJ`2"S;Zo"m5k"!!/*."40/c3-P?:#+P[!!!0b]>6MS=TE#(I!!0b61]a*H!!!%e!!!%li"Z9STGOL42lB@N=TO$Q&&8[JVcj@VTE1]S!MD4L!MD4B!K[>B"igY:1WKNp5,SFSTLo6t!PJI6"f)+u!!!%S!!0n9!$VCK!PK$e"cNE]!"]1*$i"iE!UpH[#QhJ.!!0bU'EQthTHi=o!!0b6]`HU_KE(uQ!!/\pZN8taLBQ30ZN8u/T*:hfYQ<YckQ.mg!PJI6"69F^!!!%lkVN=uZN't+Y5s[bZN8teY6+G!ZN97m^BE-hYQ<Y`kQ.mg!PJI6]HR=U(]p3.!!0b5!#,b?!MCIJ!!!&5h]u2o]a;J-1B7CU!!!&5!L3\mlprDr!!0b6?NR;/"m5s"!!0bu]`GtMC]FG9!!!&5Vcj+rTE1]+!MD4L!MBb>!LNnJ"igY:!S7@Y!K[>S!N9B9!!0b5T)m@?huE`X!U)?@!ODb+!RET`!ODgji!\]iYQ:s/!!29a!!!&5!!0c:'EYoI8-Q0s&-)aU!!0bMkVP[-T)\ilhuE`XNrcQfkR*A&LB4^^i!-(]YQ:BtYQ<qg!!0b=]`GD=MZ<_X!!0b6])hd/QN>S:!PM#*T5+E,huE`X!!0e7ZN($QY6+.nZN8DW#-V)/!ODgb!Nu^*!MBJO!U'Qg!PJuQ!kSF4!iQ)C!)X*u!PM;0!o!\T*LC;D!!0bu8-4AC+0ZdT!PK;Z!f?sX(e=WN#Z(LFkZ@g/!!#q'(bfSn^ha.88-kRm!mgtU"R$<i!!!&5!!0bAOTP@ZM?#%*!!0b8]`X]'df9@K!!/\m^&d-l!RLfI!!"SN!ODgZ"0VpD!ODgR"0VpD!ODgbfE8<YNrcQfi%E%NYQ:BtkQ0lJ!!0b:!!#=c*WQ0?BEHff]`bpiU]:Aq7^#tr1KY+-=?Fi2=@`IQ!ODgY8-J)t?l/p;!PJ[#'I3YY=<WG"!!!&5mf4&D!PMS=]bCGHC]FG9W#2a<]aCDPMuWhY!!/\n^&aT$!Jg^V^B(Y@!JhNr!hTM"ZN6F0LBj^XYQ:*n!MF*,!!0b5!PNj\]gDc"3WK-\=9)Q0!!!&5!!1>:!#m<lYm:WVp]f(G;@0i=&)[Po&&;3G)$gQD$fD;`kX#fIp]m`(TE0QPO:QjJ#Q^M(#2fj@$a9Yb$1J;C#QOnA!!0b5!M:nC!LNie#/:2F!LNr7#M0!_!LO,DTP+A!]a<m'$ig8.!!!&5!!/]Jhb6Q@=9I/+!P/<E]a!\&Z2ak*!!0e7T)\nJQiI*e*s&\K!Jgd6!hTM"!LO(XTP+A1!PJI6!"&]+zC]skT]`bpd_uKc<!PgMm!M9>l!Or+0k>q\jZN7iZs#-JMZN7iE"TMO(!ODg:"/c:b!MBJ'!Pe_l!PJ`B!TX4\!!!&5!PJO3T+_2)BE/#5!!$spGSZVR[i,mG1O+-QGTuU$G]3\D!OF\V#H%^f3!#[c%CcFh!!!&5NrbLk]aQ"d;ucn!`u>&k!PKTW]i"h1$31&,!!iV"!k1f&[n@84'GpfO+9\#2!!!&5-ibGi-iq=)!$VCC!#,\M]c]_(HN4$H!!!&5p]6(PL_IQF!!1"P&1JG%!Po<I$*Y6X!!!&5!!/]r1]b)d!!!&8!Oi*9!PeiI-AMW.!Peo+*gZo6!Or4"!JgcL#`o)&!!!&5!!!"7#8mLA%LNCAr<3rL!PJWI"e5Pm-iaN.!!!&5a><q1T)\il^]4?8!!0e7ZN($1hZENQZN8,`rs$4=ZN798rr_]jZN7iHVZb<HTE2h3a8qA']`OQ%MuWhY!!0b:]`Fo/U]:Aq!k1f)3%670Ym$3h^^$e=;@LVT%*/Xg$M[X%"/lL8kRN[l64Kk'#.OoB!It9f!q6MP!M0UJ^^5fFO9("Cn-=aP!'#-,!!0b=!Ke&r]a=`Nli7"d!'#-(!'#-5!&t3#"lOPH!PKl]U^GHK!Q[(u!%e0NT)lG%^]4?8pAqT$a;N;)^B(YA\/ETspAqT$^^#VrO9)!TQiY8/!!0b:'Eb]B+9J/8!K-q`mf4%5#UTfY#\X2<!TsF_!hTn:TGSRYG7B'2!f.Akn,]uuTE3+B!!0bA!K9qW_#OH8!!iQ*!!iUf!PJN0]d!LW)?9a<!!%7#!!!%l%*p&8!It9EJ3LGG1BE",5K<eT!KI22hZ87PQN=DrE!Gb8Ld2!F!PJI6]lF)Q;ZHdu!!!%l!%e5e^&b_D!O)P)0*/BZ!Or@6#/:2F!O)UnQX9d"TE2h4a8qA']a'o*9)nqmT)k]o!PKU0!JCFQ!!!&5!!/^,1]bAl!!!&@#/:2F!Peg;!P\ZA!QYBC!f$f_!Peia!K[>d]`8)S6N@)e0V8=Z^AnrR!#,u/>o4ol#QgIq!!!&5!!0cBY]F=TfH'`!!!0bQ!PK]X!J:@P!m:VL]c\lH,6.]E!MKK(YQ.NKYRAeg!#P\:82((K(]gi@!([)D!PJI5!nmVS!!!&5!!!!,!?(q<]!2:,!!0b9#^(4h!P/72#m^M2^&SE=!It.N!!/\l1]`[<!!!%e1lh[D!LNteV]PrGZN5RYf*g12ZN6Er[fZ"!ZN6.Q[fP(]TE1,W!LR6q!PJU!]jq*C+ohTD!!!&5huUb0fEV*O!(\pS!!/\lpE2^$:_h:b:e7Kf:br-FN_h%"=&;Eg!hTM"!O"a)!!gj^!!!&5!!0b?!!#pt'EA+5/-Rj;:]]W?TM.mB"MEq"!!!&5!!/')+p"'%BE=b+!N5uB!!0c@]bA<aPQ1[a&tg-U&#]]*!"4Ha!!0bU]*,28h[cdh!PN_8%EneP8,r\8J,gd<!$YMG]k@G&_uKc<!JFe\]f6(kli7"d!!!rA!k1fF[nA+T]eB]nF8u:A!!!&5!P8X0"Qp3k!!0bmN",[b!!!!"8,r\8GQ8q,J,gc)!PKTV"mc3h+92Ge!!#km!!0c0?O`M*0TQZr!!0bm>m[;,GS#f6"MXpN!!0bm])fPET*1)R]`Ep%U]:AqGQ8*T!!0b5PRE-EfH:.p!!#js!!0bu^&b;8!h]Mo!!/\lZN@?2Ns<?"ZN?djml6p?YQD%!\,q0]!PJI7"cNE]!!iV"!!1=E!$VsS!PJaU#J:$:E!3*I^Mkt/!#-7S!PLI*$bQH>"O@+6%($%s!!!&5!P8Vr#JU;F!!0bmblP0O5Tg%-5QCd]!!!&5!PJN6'Jf^h3"kZ[-ib2j!!!&5!R1_b!Iu9m"kWj5!ItHK(^>dlOCJTq^]O!6p]6'Qn,^$%^]B9%cjcoY\0-2/]a_IYS,`Ni!!0b<bm97.:`o`=:]LJm!!!&5!P8QKO93H0!!0b6>mBp$Dun_o!!!&5!R1no%Hno7J,fRH!!0b6+p@649*eW"?jJ^k!g*Hn!!0TC!PM;P#35aa!-eJO!!!&5!M9[_!T3qXn.1:k=tHiX!Ur"6n1t+7n36RIhuSi=Nre_N^B(YDi!ljnYQ:s/!!2iq!!!&5!L3\L!JhB?!!0bq]`Ia*"98E&!!!%Y!k1f&BIR<p!PJI5$JYU]!!!&5!Kde\!ic6>!!!&589FsM!)tWP+q!Nn1C.(_-j$#K0ERk3!!/!k8.?\<!R1TE]hgroP5kR`!!0b7]`Ia*iW&rZ_uO'E!PMkB%#b/d#QhJ.LB&#j!#/fA'PK2pE$"`R!!!&5^M#Db!PL`&_@4ck!!/#Z!Pna91B7[\8-Zh:!!!&5!Jgd*GY/"?!!!&5!#,ap]f6:YU]:Aq!k:&k!M9>l!jDY)!VZW$!k:D>'&N_r!jFGH!e:<E"LnNC!!!&5!M9G#!jDY)VuQfL^B(YBW'cmUY5ts2YTD*nJ,ukU!!9Y3!!!&5!%e;9T)tqkYQ+Y(^B(YBW!C?I`rWLJYXS9pJ,u;E:]e-.!!!&58,sDnJ,gd<!$Xr7$Q&o#]`<9Wb5_MC!!0b6OTt.PlMt;n!!0b6$Nou#blD\_E(Bs0+F!l1!It.o!!0bu]`YP?=o\O'#WMcV#FJF4[n@84bnp]f+:nMR#UfZs#WMcV!!#qO!!0bU]`Eujli7"d!!0b9*<bX-"6':\!!!&5!#Pe8'Q=<?GWpl_"J5Z.!PJMa"e#Dk!!!&5H=$`4]f7X:UAt8p!!0b6]`I-nX8i5$ciKL73"C`TQNYr&>6`FT&-)e(!!!&5W`oMh]eBEenc/Xj!!0b8'F"=53!0*[!!!&5^JH^cqcaU9]g)Q#S,`Ni!!0b;1^;/(!!!)1!!!%l!ODj3':/pT!ODj;"SY0r!O)X0!k8;^!!0b5]*#A>[fb+\!PLGq!NQ2#!!!&5!PJ`>",m3["IB*&O9(_nJ-X.(VarlM'F+=]L^0OP!!0b6]`O>se,TIL!!1=I+p#2E?ico#!N5uBQiIM5!PJI6"G?aT!!93*!!0bMPm")e3![2!!PJTp"Hi`bVuQfL!k:&g!M9>l!jDY)Y9*eOZN@?gY6M`BZN@'_Y6NSZZN@Woh_N4QYQD$A\,q0]!PJI7!j_k,LBF;Y!PLGq"7lKm!!!&5!MBJjcl`SW!!#k&!!0c8Pm>J43#CHQ!PJMt".K8j-ia:m8,si!T27<LT0Oe+\QCNe!$FN-!!!&5gKOo?]gr,,b5_MCQiJ<4!QIq:!!!%e!!!%l!PSW>!!8en"LeE<!jFiF!M9D!!h_^6.ZXV:!jG+S!e:<U]`8,Dli7"d!!/\o1]jl]!!!)1#1im^!k89g$g.Ps!jE[%!e:<U]`8,DM?!VWLB3YD"62@*!!!&5!k:'J!M9>l!jDY)#1im^!k8<0!q-/r!jDa(18b/Z!jG2(!e:<U]`8,DK)blP!!0b7'F<t(#G2+F!'kZd%bPD2C]V=B#RIXg#_2r`&(h,;#WMcV(]fOk!$W7F!$XZV!PM#X#3u6h!-eO,!PJX%#c[k)#/=7r!!0bU]a1)-RK*<g!!/\u/HW-V!iQ)!!!9YehZ:%`\.>25^B(YBW#i,HQN=DoYVk;nJ,ukU!!9Y3!!!&5!PJNG"7lKm!!!%l\248kZN't,[fQ4(ZN@WacR%`TTE;>$\,q0]]`IU(df9@KVZ9$f!R3SC,'ZWY5QQB8!Jg_"!!0c($O,eq!!/Ge!!!&5\246@T)\imYQ+Y(NrcQgYQ<nff)`2Z\,kas^B(YBYW%UDJ,u;EJ-*4^!!0b<]`Q=VZN't+!!1=J!pC,m!It.oL]AVq!"2m0!#,EX]f89t3rf6]!!!%l!ODj32"q'l!ODj3/H5dd!O)X0!k8;^!!0b5!!CXLz&4cpPSc\.Q!PJWK&@;E;?oUt0!hX-^3+sX8!!0cH'F09k:]d6h",$Y[3&kS:fE%?>5QcND<tFLV86c5k!PK$E%$U_l?oUt082t!4!hW">!!0c(]aN$a_uKc<!&.X[(&pQ2!PNk7!qZHm=?ot886>jI!!!&5BE=J?!Pe_tNrn6$]a1hXqu?]t+9@T6]`sDqli7"d!!0b;n,lnqQjfW%huTVa0F!:>,,[+NO"`pT!PKm"!K$jWNrT3q!LPh]#FGY0"5#\#+q(VV'JN&X:]d6h"7-"n!!"T9!M9Df!e:7N#/:2F!Vd&c#0-bN!e:E/!RLkO]`8+iX8i5$!"]55!!0bE]aWBj$31&,!!!&5!K7J`B)ho3\.B%P$eT8%[5\<9hu]PP]`G&;S,`NiO9(IP!jhq0!!!&5!PJ]=$pt!p]at/ToDejl-ip+O1LLEB?m;LV)NS8n!PK#"!iuA%!Ou5j!PJTZ!L!K`!!!&5!P8Q35Q[Q_!!!&5!P\iW?iUP<&82%f=E"6a!!!&5Lbo@lT)\imJ,fQMpAqT%L`Vl`VZF+*J-4[WciL?P!!7rW!!!&5&3'm4]`Ofc!"Pq.h`qOm?j*\7!!!&E%G5<,C_#ZJ"dfF[O9)a#W!Ts>GQ8oh!!#r"-ipG`!Np*L]k@[bMuWhY!!0b6>lp5j+9Bmj!!!&5!PJMc$2ac'p](:G!!/\mZN>XWVZDhZZN9h)[fc("YQB=mL]Pj'!PJI7]da!^ZiC(,W&Q+/82ELA-9)(!1IqdB3!%o5:^BlE!!!&5BJKk;!Mj*_?j;B7,,\g)O'k=_!PKm""1eI4QO(N:!PK<q!L*Qa!!!&5!PJ_k"3^`FBOCkJ3++LL82C=71IqS>:]]HM!!!&5oDt.3]hgrs@K6B/!!!&5!PJ]m!fI$Yp](:G!!/\mZN>XWY6<GXZN9h]4jPb^!ODiX#-SoR!MBLE!f-m(!PJc["OmDO!!!&5!)io_!$Wfk!PKlm#E/W_!!!%Y!!0n9!#,D=Qq.:NYQX.j0KW)8!pB]X5Q[QC!!0c8T)msPJ,fQM!!"SP!PSU0!!2Qh!T*pa!UqZ?"7H8s!VciU!oF$b!e:om!RLkO]`8+iX8i5$!!/\n^&ifb!Up'i^B(Y@n4&`KmfB`qJ00g^ciL?P!!7rW!!!&5!K75i>Q=a(]f6!WiW&rZ!!/\m^&ifb!Up'iVZF+(n3"/^T)l8!J.7PfciL?P!!7rW!!!&5!M9M5!e:7Nn,NL'!ODb,!KRH"!ODgrJ-O%IciL?P!!7rW!!!&5!!0boT)tJ^J,fQM!!0e8ZN($qpApleZN>Y&?NTZs!ODgr"cio'!O)WU!f-m(!!0b5OT^79WW59b!!0b9blc)g-ia5J&24).!T*kk!#,L%\Ng2Q!$EZj!!!&5!MTVc2uipa!hT`0hZt&YpC(C0!PK<p!R(NDNs1_S!PK<Y"kiqV?iU1*?ml&X?idE<!OQ5?]f9CZZN't+!hV^]!PL`h!TF(Z4f88ojBDZ#!Pe[:!!!&5!PJNF"o83!!!!&E-ibG6T)]Q:!#.*g\MsY_!$E*Z+9oS/$j"!`!PJIU"k*GOhuEf&!$Wg"!#,tu]f6&MWrN,#!!0b:T*"Q`J,fQM!!"SPLbo/-ZN't,f*9h-ZN>q)f*8tjZN9hC[mn+5YQB>/L]Pj'!PJI7!rDrt!!!%lmoTUp^B),1gB"r*!!0k9!!!&5!M9DY!e:7Nn,NL'!ODb,J40DZT)l8"n3P(r[fNf9J3Wc^ciKd@VuhbU!!0b@=pD84!Pf,1^bZ#,^_E+9YQ9abcN1f^[fNf9YTVg-J,ukT!"Oec!!!&5:aQ;(1(;f#!(^3']hhfJU&Y/o!!0b6'EuY[>Td)J'F4[e]eELfiW&rZ!!0e;T)\o]J,fQM*s&\L!UpZX$g.Ps!e:@H!RLkO]`8+iM?!VW"4CN[]atC_M?!VW!!0b8]k\)8_Z0Z;!!!!($R,QN-mToT)&3Q2i\:`O!PJWprPS[9S,p5&",?p+!PJ]aJ'7lm!!!&5OTD>d!!\5[]`G!h_uKc<!#,L4#H.jA--$!"!P&H>!%8)6!!!&5?NHVn!fnb:!PJ^$5/[F$.)u<%!#,Xq#3Z9+*mXg#!P&F(!%8&u!!!&5!K;#W+ohTC^]ol#!!1=I)[;Z0#+,AjJ-MZ+$O#>k!!\Mb#*8g/!R1b_#+,AjQiI+*!!0b;!h$\$!J(4]!#,R/]eC#L_uKc<!#,If#)EkX!!!&5!$W&o"h4c`#R8p@fHqf7fETD$#1+n*!#,D5#-]HS!!!&53!$D13&_+&#1!Q?NsJ99#Z*J_==F?=?oS,d.0?sa2uiql!k/GS!!!&5'EX\]O9<5thuT2LQj<*c#`(PH!l-YUTMGP%oDi/$#*8lb"i(*^!$VO/!ltPd"jd5n!$VK["gA0_!!!&5!PNWg[bLi_mf4%'!PL/il&5TBpAp'N!MB98!PJ\n#Li_R!!!&5!$Y\/"b6cL"fMDFYW)ZV#2][i"eYi'!!0b5!JgRQgb/\a]a!t+oDejl!$VHu"Mb5_cj$^)'GUQOi">DXLB&"m\H_7;+9p0n!!0b5!Uo(L"m>q1!$VTV/8,4V!!!2d!!!&5+p$EIp]ee>ci>6o]a'&loDejl!#,I=]eD7_oDejl!$VH/"Q0FX"b6RspacI@]`8$8qu?]t!#,J3#4MqS-c?!j!PJ]q[Boo6#^A<0GU=<cGW8eB-3B56'OVc&0Fm7G!!!&5!PJ`^VrRgX^AnrL]`t,3e,TILYQ:S0kS:TJ&En!J*7tb2=9\IH!K7f(&XWaK!PK*7J@#:V#.QVn3!-Pp[g32R#08b*]`PYKS,`Ni!$VK2"h4`W"jd5n"ir66!PJI5[+kW]!!0b7'H=CZYQBjc^AnrQ'F2,]^`2G:quC"-#I"5f!!!&5!$Y:i"Mb5'QjW=qC_+ks!pBpR!OW)u$E+4)TJutN"g819!!!&53!$DAhZs=g"3<GT-:I#&"/l=C!PJTF._G`]#+tr?W&P!C"h+aA#+,Auf)QKb'F'pGTG?nq!!0b;YZr.J#H.V-!VZV[hM_]D!!0b6'EQ)OW(=Z'quC",L^'5/PSoM_#4MZ'!!!&5]`OZ#]Dqp4!M9Di#iG[_ci=*\!%e0VZO#1`rro"qZO"oBrs$4=ZO#2Jrs$4=ZO#JR[m-2[YR'.okQnBn!PJI=MTc&##-_bA!$VCC#-\;^!!!&5!PN%!rM0DnoDuQ)0Ep?G!!!&5!#.'@#2f^#"1J7E!PJ^,#fH]C!!!&5MugTP!!!!"#R74eYW)]n!k/F>"J5Z.!PJ]IMkg=Qe,d/^#-S&h!!0be]cr+0_uKc<YQ,ke+pEK$W!9a3#/E2%]`G#:_uKc<!KdDGj8]CG!!0bA!O:\c\.>NNQu#:t"Mdh8%/9k2#l"\`#/C3_!$VNt#+u1A!!!&<!PJ]QoY^_0!!0b6!S,["!!!%li#`5dJ-_eK-]\fG&>orhcj,)(=p9E[#bW".TJHkHTK^*rO9(@I[g8W4hZ:%uO:eB@huU%f!!oM.!!!&5U]REhLBbg#1C(,g,,Y[MYX8Z"a;U*E!!0b;llY!_n-6r7'EY`IciT7.Y5f7@'F*1p#2gj/$+'\<!P8Q_`rVUp]a'&lKE(uQkPuea'F!D!n48<7mf4%+]a"6NPQ1[akVN@-T)\ishuE`Xf)`2`kX``!f)`2`i%!n:YQ:s6!!qco!!!&5!$W9@"3:]Ap](:k!!0b;!P\1+cb':j0EIdH!!!&5])f!t!KP)!]eB]CPQ1[a!*oW*O9)qO!!0b;!N*L0QiI+&#,!p["nr4O#*8fm!!0b5+p.T@\-;'rn,OX9/-2+A!!!2d!!!&5]`I-BP5kR`!!1=K)[<MH#-\(-p]e5f$O#>j!!]A%!!!&5+p%8A^]q"C!!1=I)[<eP#.OX5!!!&5!$Y1&"RlVG#)E7'OD"^RZN't0`u*\7]`sQKbQ%VDkVrU8!N-2,cirV['F!+k0E[pI!!!&5Qq:i,-HnFS#Hn+A!PJ]YbiAa(liF^!!lk>R!!0be!e@'H6-fNF!PJc3mb@dBp])K=+pGI[i!+]3"o'VN!PJI5Qh17X"i*(u$Qk-0!!TS,"g@tN!PJYerp0UbNrTjp+pP7`^]q:K#/E2$+rQ^QL^(p#ci>6kM[#gY#06cF!!!$2!PJ]IfDGUK!!1=F;$Qdq#5A/u!!!&5=ot1P#bVsrTJHkHTG,o_O9(@IY6^d,k5hmtO<'B.huU%f!!oM.!!!&5!$VR;"Mb5G!!!&E!#l-P3!Qkm#(Qon!"0"g]`88@]Dqp4kQ.P.Qji0q!!0b=!RLB<b-V2]a9T`d!!0b;!eot@!hTH,!#,Xa#1s+2!hTH,!*ofe#1,I(!l"bl#4Mo`!!!&5!"/q('EA<00EIL?!!!&53!,no#(Qon"Lnh("1SQ>!!!&5!M:^O#`o#dTF%f(]LKpI!UIr1]`8>2WrN,#YlG::+pNPuJ-Lf0O8pI/]`jc-g].<TTK!"I5d(Fq#Qq"bYW)]n!k/F;#QqRr^c2D)!k/F;!!!&5Muf$q!!!!"#*8g/!R1b_#+,Aj!!!&5a>4$ia9%t<!!0b;Q#i/i0EgP>!PLkEI[gB<,*)bi%E&I,!!!&51]bGj!!!:l!!!%lO!"^iTFp>s-D+HI#bVHrV[/qONX2:GTEpncZRt&?mjF_.YR$=>W!D5]!PJI=MS&ohVuS"BblkfdYQ+Y(!!!rB\2X\shZ`cZVuR20!PJI;c^Xt8hZ8uCX9QHF!PJPdLAV#O!!0b7!RS1R"eYi>!$VSs!K[J`#R.Fl!"1p`'EA<00E\ca!!!&5OTGHg!!^dN!!0c2!U@l/!!!&5!PJ`%N0F;B^Kb+H]a!['MuWhY!K7&T]`8$4PQ1[a!#,L/#+-j;!!!&5!PN<&0=1]Z!gs$!!#,S"]eC#LbQ%VD!L3\`#,iNF]`H=SKE(uQUgF/.+9)A:!PJ^$nDjQL#5C.YL'YO"U^$;h#5A4f!!!&5!#-R:"gBT)!!!&5^c4B>Ns:+=YQ,%5!PJI;!K$jWK"M,rVuc>f!!0b;Q"&eSW!_\g!KsMg!!!&5!P9eV!Nuul!PJ\n$ISnS!!!&5Pl\n+n,fKg!U%r:!!!&5?NJlV[fOXA!PL0PL"lY.^B'T#]EY;]!PJNGE1?n.pXB5UVu_q[!!0b;,%nOgYQ`YZa8cSO!$VCH"Mb2^"jd5n!PJZP-c>ub#4MU:pc&Dl3<'6g#Cldu:]LUM#3Z;JJ,fV.!!*W9]a!s+MuWhYTE$/n+p>[dJ-W"QYQ,jP]a'>uj8]/\n2LHX.?=`=#2fIh!!0b53).TshZs=GLB&#3!PL/npRD3`$&i3l#1*LF!!!&5OTGEf!!eSd]`I8Sli7"d!!0bF1gB;H!!!:l!!!%lYS@G*TF$Y]0S`@.#e1D4W!0D.=ppDn#bVY,TJHkHTJk[5QiW3Qk6R^d`rWLpO?Mb9huU%f!!oM.!!!&5]E.>W!gq14]`88pS,`Ni!$VH)"Mb5G!!!&E!#l-P3!Qkm#(Qon!"0"W]`88@_uKc<gg:)`W%WpS!!0b;+q!$(^]p_;!!1=I)[<MH#-\(-!!!&5)Zl#+#.OX5J-NeK$Q7h+!!]Y-!!!&53!,N7#(Qon!"/t^]`88@j8]/\#/DQG#.OlI\-BH&3#\Cnf*DSr#/DQI#.OlI!!!&5!L7rs`%V4q!!0bD!RJCY#R8@0a<j'R^]p_A!!0b;!VW;h#Q`:3fJirA!k/F9"K)56!!0be,$+=9\-;'rn,OX9/-FN.!!!2d4eD]g!!0be.otF*#.Ol!!K.ia&-fWebQbRI2uiuc[g3)o"6_]G'EY`L0Enoc!!!&5?NQD/,hHYh!!0be>p6i\^e(=%!!0b;]f5Q`li7"d!!0bt!Nrd0QiI+*#,!p["nr4O#*8fm!!0b5!QhtS'?:(e!$VZ8#5AFrO8o8Z!!0b<]d2)-S,`Ni#,!qL$TA9?!!\Mb/Z/R_!PJ\nlI5e6Y5f7;+pP7V^]q:K^]5P]]`P,:ZiC(,YQ,kFblkfd\,ZL0!!!rB^c2P.cN\n(YQ,%8!PJI;fZX<q^]5PZ;$4lC"i(*<!!!&5+p%>#^]q"C!!1=I)[<eP#.OX5!!!&5[oromTEq2=#bWsZ#bWCA#_2r937eG/#j25p#`qL,#N,We]`8>:g].<TO>m9T!k/F>L^'5G,R)g+[g3,HciL$GYRHU($^b&t$KqY\!!])Fk5Z1r'F(K?YR.K5k5Z2#]`ttKj8]/\9uLCP#)FRd!!!&5+p$p"fETCs#1,=5`!#N7a8c2@!!0b;+t05e^]q"C!!1=I)[<eP#.OX5!!!&5!PK!?M<"X:QN<?PO.7m*!!0b6!MG)GLfXVB!T_0'!!!&5!L7W:S1mJ%!PJNJ`matgH/r<5#G<N,!!!&5!R+rY*9\L6!Upl'RB-Ag!!/\mD$Z4'#bX`7mohI'TEq2X#bWsZ#bXMf#`o(I/[#GQ'o)gr#`o+c#N,We]`8>:li7"dlX'^N0F-2:!!!&5?NPt`VZEI/]`ugabQ%VDJ0k;rJ-PKJ#5B_S!$VCC#)EKY#R>l>J0kBmJ-PKJ!!0b<!RpB8!!!&<!#,Xa#1u;8#06cP!!/Dd!Qh,;!!!&5O>o2k!N-2,O9L^m'Es9p0IEt'!!!&53!#tr`s;jAO8oYX!#,D:]eBrBRfEEhhZ8N;W%XqT!!0b;]*bS=cWlt@]`tDuKE(uQN*cU;0EJ?s!!!&5'ER(G^cS.gfDm*".g3Wl#2f]i!PJTUM1bj/hZ+>k\He2s-jK/Ap])K<]`m<uqu?]t!##CH&(_#Y$24E6!PJ]A_or)\$d2lX#1*Ln!!!&5!#,d'#bVm`!!!&5'EPf;YU9AMa8dCg3!Her#,haQa=K-^]`8$:KE(uQ!L3]?#)EJe]`FLjli7"dTE2ZCf*9k3!!1"j+pQ["fES8S!!0b;!L`9Se:.LT]`tE"aoDDBT)k2ZoELZd!!0c8!Oh=p(]XT]!K%,DO:VfH%=h4Z$A\l4n-\AhKaW\CkQgk`M$Ab;BEc``i-bm8$LeT.!!!&53!#bl[g32ZT)]Q,'F)nhfE/5VNrTju]a!C#U]:Aq!R1Yh#+,AjQiI+*#,!p[548]+#*8fm!!0b5?NK]tNre2"]`m%;li7"dO8pI`3!P0DpBV"k#FHh?#FG_R#R@"^TI'm+Qj8u`#EUJA!PJI5S%J_$VZ7D3!PL0>%Y=Z\!!!&5+p%VChurfTJ,gbr/-F6&!!!/s%G(Ro!!0be!O9QC!N!/1#D`W:!!!&5?NIj1#Hnen!PJ^$\\nIJp])K=;$4lD#5A/u!!!&5+p%2_J-D;?$Fj^P#06t@+:*L6!OW&d%u:Cf"fOCO$O):k!!S_i!!!&5]`J&d]Dqp4!!0b\!T3ML#-\(O!R1b_#.OX5\,ZLJ!!0b;'GAjpO@/12quOG8!!_Xm!!!&5[nD#-#5D!r!!!&5L]RA=U]fi]#3Z*/!!!&5L]R=9quW2c#)E<8!!!&5!$V^F#)EM?#R?GNO<t!`O9X>B#FIIU-3iW=#ET1X!PJ`"p:LA*fDm)r3!@#$Y6Y?j#2gg3#2f^$!!!&5Mui:@!!!!"#Ia[I!#,X!#+-gB#ep?R!*of%O9+CKYQ,jOblkfd\,ZL0!!!rB^c2P.k6?G@YQ,%7!$VCI"Mb5G!!!&5!K:je]`8$4li7"d!L3]'oIpHp!!0cN'FM\WTJ4+\!!0b=!K)O1"oeUg]cGl^e,TIL!PJN#3.(]+[g32J#/E2"'EY`LYRAJO!!0b;!O]iG#D`DC]aEKog].<T!JgcD';GZU!!0be!NYhm#2fNE!NG,[!!!&5!$ZaM"h4`W"jd5na=IGg'EA+:0LUs%!!!&5!$Ya6"b6cD"eYi>W&Ok"7#qTW"df8tQiJ<1+pEK#fEIoJ!!0b8!fb+u#R#rC!#-uf!PL1*Y*8nd!!/#Z!PAC4fE(<f!PJI;"eu%t!!!&53!$,1#(QoN!"/k;'EA?!L_//<!!0b;Pq1Vi0F"-M]`G?rU]:Aq!L3]V#Cnf&!PJp$GcUlFkQe%G!KK)C#H.jrW&P!rk6C,Tp]6BY^B^\A!!0b;!f42`*NoGW!$VWo#(Qp1#2fJ*kVrd^"h+aA!!!&5!K9R6QiI*dcjQ3A3sLcM"RcMM!#,UX#+.[-*5;If!*of%#*9/8!Jg^hO>o5G!k/F9#Q^;P!PJQDs82isNrbLHbQb9U!!0cO3"sI8[g3/)[f@*D!PL/jL@bHG+TN#Sn2LO66`11l"8Dj0!PK8(]Y"4E!!0b6!NhRd!!!&5+p#3D^]r-cfDm)u+p6I%^]r]s!!1"B3!S"8rs/heci=G5!$VCI"Mb5g#1ro"\0_EYi!.7,!!0b;3)86/#(Qon!"2!Z]`88@ZiC(,<r`p[!K.2e-jPh6!!`3-#l&$4$Kq_FW!i*2[0<K:a9BWc+p-*ui!5&<mf4%*'F0^EQmKcQVZ7D9'F1:$#H09U!!!&5!PL/1HgC_40R!L2!!!&5QoGW*'Meu<0Eg85!!!&5?NPo),ki[f!!0bePpjiVL^'aX]bJ<foDejlpc&;i!k/F=#R5f=!#,LD#)EKX!!!&5!L6cW"h6AW!PJT0hLkk/^AnrK+pNiH^]ol#!!1=I]`si(MuWhY!$VK!"h4a2#(Q[tpacL1]`8$9MuWhY!R1Z9#+,AjW!)m'3<kiOO:R_'kQ.XbQjV1H#FI[^!S@V/W!(1A3!JLR#(QoN!!0bt/.V"H!!!8&!!!&5_uZ!bQiI*e#*:A?O>m4?!k/F>!!!&5!$Z!E#+u1)J-NM_,RfJ6[g35KciL%8$.)3LVubgZ$N\TW!!]A%#,hMG!$VQ]"dfLu#R7du\0_B_\-AT1!!0b;,#6nn\-CRchuFr)3!RG.[g33%fDl9\!PJI;4bNe8#Cli;!S6lC!!!&5?NIjADZQ]!!PJ`""fhV'#,hMGYW)f:*p3e5O9Vp9]`t\FS,`Ni!$VH>"h4a2#(Q[tpacK>]`8$9RfEEhp]6KemCWE'!!0b6>6r+H!!/S5!PJT>#+>Ml!!^Ln#1,=0'EY`LfKGi,!!0b;BIoYR!!!5%#R7Lm\2[$o.AmFU!!!&<YU]p^^BUnH!!0b_N\mO3a9MD?N^D%ra9MD?N[si.a9MD?NZI9ea9MD?NXY@\cj'7GN[:"ra9MD?N\%XDa9MD?N^2b3a9MD?]e/CObQ%VD_?%:W!!^dZ!!!&5!PL/Aqn)n/O8pI*+pEK#E!;U/#R-k\!PKMW@[mDu#Cldu!PJ`:$ekX]!!!&5!$WZK#1*Ri#1*>ofJj(k!J^pb!!!&5?NHMCf)_P_!PL04S,<6dL]NV=<Vuh%!!!&5!PCUd#1,ZK!!0b5!QhtS"m>q1!$VTV!Or=&!!VR;!!0b5!SG$b#*8kJ]gq,`ZiC(,n2LHK!N-2,fELak'F!\']eE4^PQ1[a!$VIB,%q2-^]rEk!!!r?!#,Xi#2gQ#ci=&E#1,.1#1*Rh#1ro"!$VQ]#)EKA!!!&5!$W&W"b6c<"df96"e[h7$PUhl!!SGa"cr^.!$VSs3'[Y7`s;jAO8oYEO>m4D!k/F="NLKV!!0be]3p9l[h>bC]`ugaMZ<_X"dge\1%tmF.e`oW!)j*++pO\?J-MqP!!0b;$O5Vk!!]Y-!!!&5+p$/oL^)3+#1tm>-3NuJ#.Oli!PJ]i5J-sr!!nrK!!/\lD$Z4'#bWs)[otZ0TEq2;#bWsZ#bVIt#abXQ+Kl'D0"1kf#`qO%#N,We]`8>:oDejl!!/%%"P=0NciT#9C]hHW"S`5S!OW)]!N63qfJio!,+f,Fa9L9D3!S">T*PYZci=Ft!#,D;#-^;K!!!&5!PNd>mDJu)YQ,jJblkfd\,ZL0!!!rB!PJ]IpWNU;l\o$K#bV.u!!!&5]`Gh%MuWhYL]NWYJG]BP!!0b6PoBQ#L]jm^!SX%J!!!&5!PMBi=8W$u!hTH,pc&KI'<_ZG#R>l>Lc?j853E1VL^/_q3'Gjuk6M<S!!0bs3)n*%f*DSr#/DQI#.OlI\-BGn]e.h?KE(uQ!iS(W'FrFp0Ee9R!!!&5!P&Eq!$DKm0`M+e!"0"`]`88XoDejlLB3ZDr!'A-!PJN5;X=A`a;U*L]f*%uOoPI_2ZOO-!!0be!O1nj!!!&5]`GU\U]:Aq!!/#^!PJI5$1e,s#-\(O!$VSs#+u11#R8((!PJN3Dl`p=+N+;m]eBY_bQ%VDO=L@npBRW$#H01&!PJI52iI_:(]g!`!#.Yi]eD[sZiC(,!#ks'+pH<n\-:Lba8cSO!L*Qf!!!2,#R.Fl!PJQDNO/Zc!'"Wm+93ScLB&#J!PL/f*4#VFX5j;n0Gg&V!!!&5!$W98"Mb5G!!!&E!#l-P3!Qkm#(Qon!"/kk]`88@X8i5$"i*).$U4"b!!TS,"g@tN!PJYeI=qS#L^'M&'Ki8uQk-Y+!!#q&!$VZ(#D`TB!!!&5!#/tV#+,[O#+tr?!$VVt#*9%f#R7Lm!"0b?]`880MuWhY!L3]V#4N/<]`G(mli7"dJ2dSMNs=eQ!!0b7]fboeKE(uQ!ODgo".'2S!ODsVcir#[NrcQjciT71"kYd<3!-Pp[g3/q[f@*D!PL0,0`1nNn,qSV!#,D6#)EGd!!!&5!PB3GO9*Y&!PJI<bcCdEp]6BUT*E@@p]6C=`s0Thp]6BocN_Gpp]6BqNs<Z0p]6Bcf*9;#p]6C+cN_`#p]6BuQNkM8p]6Bp`s1`3p]6C(QNkM8p]6C%hZh.+p]6CB^BVa`p]6BhT*E@@p]6BiNs=ePT)]QU]a'&jU]:AqYQ,kY+pEK#kQSHr"i*(u$QYQ>!!TS,!!!&5YW,mX!k/F=#R.^t!#,LD"i(5T!!!&5+p!hM^]ol#!!1=I)[;Z0#+,Aj!!!&5+p!e4\-C:[#1tm=-4\W5#07#$!PJ]i>3l4h%@dI2]eBMCMZ<_XQiW<SLYMk6!!0b6!KlFC#R8@0a<h,S^]qRY#.Q2gTIU!Bmfp9+!!0bR+rR0VJ-Op3#3\#M-7Ou]#-\<q!PJ^$);5&j"g@tN!$VK[!mh+\^ek(B!!1"A]`knGg].<Tn,OXN+pGI[O9PCZ"n4&G!#,D5!PL1*!fR*Z!!!&5!PKD@%(ZE="n2L9!$VTV!gj/d!!VjCn,OX4+pGI[^]jK5"n4&E!$VCC"h4a*"o&'An14X&]`8$9S,`Ni)Z*lH#G<2p!!!&5!P8BVLB6(]]`t\Cg].<TS^^jk#bV.u!!!&5]`HrbKE(uQ!oQ$m-5#DHcq"5rQN.^$!PL/iK\QP-LB3Y@K*J83!!0bD!MPGP#Qg)IO<u!7kQ.mhmf4%&!S&k:'X@]="igY/$/u0)!!!&5Pl\PQ^_s$N]`bVLbQ%VDS6l<7,kh>*!!0be)b7gH#.OX5J-NeK$NddA!!]Y-!!!&5.fmW5#H.j"!LO.b#J^`*i&_1RGVn"RVuQfr!!0b<]b.:Fnc/XjO8pI/]`uO^j8]/\a>a4.'pf11#1*>o!#,Up#1s-p!!!&5T)k3d]kfA8e,TIL!!/]ZD$Z4'#bVCrO'3olTEq29#bWsZ#bX6A#`o(I%A*p!.u+/3#`pCZ#N,We]`8>:e,TIL^]5Q!+p>[cW!:<Cci>6k]`t\FX8i5$mfA\WU=:k%!!0b6]-i73!N+'A]eBJjli7"dYQ,kjblkfd\,ZL0!!!rB^c2P.k6?G@YQ,%7!PJI;lKeKNON_&40ERRA!!!&5!PJNfZN6-f!!0bP+pQKr\-:4ZfDm*!cn#_3]`8$9o)JakTE$/E3!Her`s;mJ#,ija#,h`f!!!&5+p#@Ca9M,6p])K>+p6a-?jD2^#R?/F!PJi47*GW2!!!&5!$W3."Mb5'!!!&E!#l-03!P`M#(QoN!PJWn.bk"(!!!&5]`F%eX8i5$&-,<H!#,V+]eCSD]Dqp4!PJN5".K8j*qoXK!$VWo#*9&!!!!&5!PJ`LCto!jT*N;A]`si-nc/XjKE8\+0ETQ2!!!&5!$VO9"Mb5'!!!&E!#l-03!P`M#(QoNO8oYI!#,D;#)E>i!!!&5OTCU"!!^dN!PKA&FGp2"#R0]W!#,LD!PL0GWr)hs7"enJ#D`VW!!!&5!K7r0+ohTC^]ol#!!1=I)[;Z0#+,AjJ-MZ+]c#]3KE(uQ!!/$q'EA>n0Ho<R!!!&5'EO;K0IY6I!!!&5UgGCs!lk>Q!!0be?T@r`#OaL6!PJ])"4I5M#1ro"!Jgp3[g32rkPue1;[0`9#1rnU#/C3_!PJ]iZBP=h!!/\mZO#IhY6(U&ZO#J$LCjIdYR'/SkQnBn!PJI=)Tr*\!!!%lkVNS'ZN't2/*@uT!OE'q2MW*@!O)jf#j;Pu!!0b5]e/:FbQ%VD!NZ=`$CDXf*e8,>*iKUr!f-lX+.s[*)Ue`"]`88XPQ1[amfA5!!S4=Q!PJ]QF7]G4#Qr.-co;*9!k/F;#Qr^=!PJQDE:a,1"i(/$]dN@N]Dqp4huF,f!PJI;'uU(P.),eh$W&mn!![rR#(Q[t!$VR8BLi>`!!!4b!!!&5!JgcPA?5p[!PJ]9'q51'&+;1U!PJlAcEmQO%YA$g]eCG0oDejl!!0c_,!<L<p^+/)!!0b;!Qr=\YX&7"!k:2k-4#A4!O)X8^c2D*#F>\t!!!&5'EQq#L]Xa[%e+*8%Y+bFO:(c![048Ii!o/VbmL*LQiI*e!!0b;!RQK"#k%f##*:UL$bl_K#*9/;#(Q[]!!0b5L`F&-g_JEA]`tE;qu?]tkVrUJ#3Q6ri!/Bl/-b#:!!!5U!!!&5!$Z6D"Mb5G!!!&E!#l-P3!Qkm#(Qon!PJWn)N4Xr$24E6!PJc3\?#Z1"e[gU3!-Pp[g3/9G5r<Y!!0be,!5]&J-Op3#3\#M-:I;.#-\<qn2LX97.1Bc!!!&5!$VNO"n2`K#2fNd7fWbW]!M[o]O(X>1>`,(!PJ])*od5#!!!%Y[f@*B'F)nhfF#@n!!0b;U4'ZS!!!9*k6MVY#T,N&+?0Q!3!-Pp!k/F`!!!&5OTD0:!!\Mc!PMp;-IVqp!!!&5Pl\[bW$JhQ!SQ64!!!&5Y]V5(%,c@:5L0<D!$VW'"Mb5'!!!&E!#l-0]`si(qu?]t!$VI""3:_?TE"sh!!0b<9-KK!J5?FD#5EZQ#Cm$R:^-SdJ40]np]gKu!!0b;!N`X.J.D?+3"2`%pD<q@cN"Xd!PL0'*6\B_!p9Ot!$VW_"Mb5gfESQ1_un$afDkmPT)]Q0$O5NU!!^dM!!!&5PlZ`k]J+g9!PJN3(q]hKlPBSX]`knkU]:Aq!!0cF3)"u*#(Qon!"/kk+ohhO^]q"C!!1=I]`ttHq>^Kr%fqJ*kQ0T5!!0b;!LW3R!!!&5]`H9GK)blP!r+_d-6J!KkXYdMk5Z1t!PL0S]:8j$!!/\m1^K0C!!!:lmf^ZR=pUcR#bW]7TJHkHTHKR,QiW3QNsMBarrKGmO=?eOhuU%f!!oM.!!!&5!M:Xu#`o#d*WH/\#bXAZ0SBJ>]`8>2)uos>!!!&5!Jhoc8)+@$!PJ^,6KA+H1Ud>u!PJc30@Tt%?Ok7d!!0be]lC+RaoDDB?NGrt#)FbW!!!&5TE$/m+p>[cQj0Jh#-^&j-3^RY#*9%n!"0"8]`880dJs7J%fqJ%#)FFs!!!&5]`F1IKE(uQ!$VI!"h4a""n2L9kUZf1'EA+:0G2>*!!!&5!L4MgX=s[i!PJNi:6Y_Y#R%@kYU2'%O9)QgW;mG3'Ejd)0EnW[!!!&5'ENa&cnF8VfDm*"+p>[c\-Cjk!!0b;!M,/L#4MU:!#,Up#5AD;(A@eC!#,Zg#D`T!!!!&5Qo$+PT)\isO8o7]/B8k=#bX$;TG3/b1C0WZ%c7Pb!KIGY#bVHj!OEr1.Ye>.!O)ik#cJ!d!!0b5Pn^P)0ETQ$!PLpl,O5=0!!!&5!P8ldk5j8;]`tDBqZ$Ts#/E2138Xpj#-\(8!!0b5!OCbdpE[X`]a(2?_Z0Z;O8oY/!PJI<Z@i2X`rHeS'F1!/TE`.2mf4%,\Hf&P-jPP/O8pI)]`m=!li7"dkVN=gT)\ishuE`XVZF+0kSVVLf)`2`i((g<YQ:s6!!qco!!!&5!PJulC[;$$#,hMG!R1b_#-\(-YQ+YB#.QVs!k/@.#,hM0!!0b5!P9NU!T+UO!!0be+tUS2fEUgFp])K?`!5-(n,NFh!!0b;Po$.p0G9uY!PK$?0Y@Ac7umWa!)j*C3!Qkm[g32RpAbm/]`uOaS,`Ni!PJMtHi*jD1nOa^!PJZH%\j"(!!!&<\2"<!#I#<U!!!&5n2M>Tf*:FC#5C.]".'5U#R>l>!#,LD#D`M\%%dM6!PJ`""S;Zo!!!&5!L5.HPV<7'!!0bk]dKNS_uKc<!#,I=#1s*g*kq[h!#,Xq#3\&(!R(OL!$VX""lKU[8;@0Z!#,Zg]a'?H_uKc<!!0cX>=Q7*p]*7K!!0b;/6p[)!!!2,YR,hmC^6=2!pBZ`!OW!E"jdV/!$Vg'!q6B'!!!&5+p">.^]q"C!!1=I)[<eP#.OX5!!!&5!P&Ns!%8).#ESp0!#,Up#FG_1!hTH,!PJ`2OYQn:!!\5[!PKVGZ2=S%!!0b6OV3<I!!_'V]`HQ_g].<T!$VHT"b6cL"fMDFYW)`@4.cc^"eYi'QN.^"!PL0-e?f2U#^A<0GU<UG!#0)`]eBWAg&M*Rf)QKo'F*J]kRQbUbQ(oQT*EqHO8o7]k5iU/TEDq2j8ln!#bV3_!!0b5+qsSKJ-DSGVuS"F3!+U6'V>Y%"eYi'!!0b5N"<N#!!!!"#)E7'!R1b_#*8fbO8o8"#+.@S".'2d#)E6ehZ+>j]`s9DP5kR`"kQBS]a"7.ZN't+,2ZQ+#bVHrk6R_:NX2:4TEpncZQRj*Y8<f3YR$=SW!D5]!PJI=QAbeD#+u8'!k/K_#R74e!#,LD#-]HS!!!&5]`EcP_uKc<k5Z2p>mH`+L`2c`!!/\s1^K0C!!!:lf*_9f9aIC2%+%,o^f^i&J.IGG0;hta#bVHrLBsP/NX2:@TEpncZQZ4PY;2^NYR$=+W!D5]!PJI=A%VdA#-\(O!R1b_#.OX5\,ZLJ#/E2&"4ma-!!!&5^&an>#_2mU!!/\l+:+&/!k0DHLKXtVTEq2C#bWsZ#bX_l#_2r9*o@6r,1ck%#`pS*#N,We]`8>:irB&[#2hHP$Ng>6!!^dM"MXpN!#,Xa#1s:/!ri67!PJ]q/$&^N#/C8%!S$H9!!!&5])e//kBE^&!PL/i0&cj2#3Z%2!PJ_g(n(F)!!!&5!$X/A"5!hQ#Cldu!Q52h#5A/u#S$Pgp]6+^J7Q"k!!0b<3"<_)56q;"(]h,n!#,I4]eBVn]Dqp4_Ydb`0F$tH!!!&5!$VW2"Mb5W#06cg!$VNt#-\<Y!!!&<!PJ]Y-aWjR!P[o-]`t-"g].<Ta>a3Z!k/F>#R8X8fJirA!k/F>#R93H!PJQD_W1[s!SD#c$`F;lL^N'V[0DEq#R-:jQoG2(!J^pci!5Vr3!YfTk6M<c#G<CJ#FGa`!!eT:!!0b5N*6&Y!!!!"#*8g/!$VTV"fMWm#R6q]!"/k;]`87udJs7JQiJ<Q+pEK#?j32'#R..d!"/jh+ohe6J-D;?TE$/>W&SGo"kO"`"df8t!!0b5!N#,_"eYi>!$VSs!N61##R.Fl!!0bt'GBC*Qmg8\TE$/?n-4CI#,hM&YW)iK"n)^$#+tr(!!0b5+r@$T^]q"C!!1=I)[<eP#.OX5!!!&5!#.Hk#/C<'5jn[e!K.0'+9o%M#,hMSJ,gbn+pOtM^]p_;!!1=I)[<MH#-\(-!!!&5)Ze+*#*8fbp]d*F$NfJp!!\5Z"1J7E!#,Wn"lMPA-N=&[!PJ]).(fN[p]dBA'LLseLch:0!!#q&!PJ^4)P[94&#TCA!#,Y$#4OD:#1rse!#,DU#2gNB!!!&5!K.<G-jQ+>J,fV.!%n6V$NLC`!!^LE!!!&5+p!jkJ-D#7QiJ<6TK">'*4H1W"cr]lY5f7:!PL06(u,)k6,s"k$d8gj!!!&5!K11K(^BI0huE`Xrr<`;]`uh1U]:Aq!PJN6'q,+&#*8kJ]c5)odf9@KYQ,%6!PJI;(s;mZ.Am.[!!0be+pGUZ^]ol#!!1=I)[;Z0#+,AjJ-MZ+!"1^i'EA?!L^1Bh!!0b;+t/ZU^]q"C!!1=I)[<eP#.OX5J-NeK$O-8/!!]Y-!!!&50Ei/d?L.g(!!!&5!L7j##-\?Q]`GC.g].<T#-^(5$UOdu!!](r+hn!k!PJ])+L;%J!KYH3#/CPK!!!&5J2e=g!k/F>"J5Z.!!0be]3k11<s$8?!PJp2X-<SaoDuQ)"QofG!!0be!Jp(B!!!&5!P<@,#JUtY!!0be!JJ)cQiI+*#,!p[#1!L(#*8fmO8pI)blkfdQiI*e!!!rBTK!.Ck6?G@O8oXiJ2dN5!k/F>!!\6.Y5f7:'F'XaQnO3pY5f7@>m?r,O9;N`!!0b;!QY*<#06cg!Q528#/C3=#R8@0!"1fr]`88Hnc/Xj#1,+Z#07"9!!!&5])do0++(p,!!0be-6eZS#1s0BQoG>4#3Q6sO9_."/-h7A!!!7[!!!&5!!/#s!#,D5]eB_Ie,TIL#1tnO'EY`LhuST5T)]Q0]a![FaoDDB!!0b:3&lcq"o&;3!"0"W]`888ZiC(,n,\Y#/Z\pV!!!&5]O*dc-'&([!!0be'JlciTE`.2!!.u_%4DI3!!!5e#4MU:!PJZ8')MY/#QipD!#-j]]eBQ'S,`Ni!JgcLF0#S<!!0beL]ZoCKE]*k!PL/iRA9f_!!0b6?T7QV/=-tG!PJ^,(V9YI"o&'A!$VSs"eZ'M#R6)E!"/h*]`862OoPI_#1tmk.0?sa!!!5]"2=gM!PJ^$4N%4""h4OV^c2G+7-=gZ"g@t7YQ,jI+pEK#^]h4J"i*)"!"1.[]`85?e,TIL!#,IN]eDR0bQ%VDW'(0QO9WK4J,u\PW!q#Vci>7/3!P0CLBn+:#1t7'#1s-i#R93H!PJ^#WIt6OYQ,jJblkfd\,ZL0!!!rB^c2P.QNhsEYQ,%5!PJI;*h!'/0W+mb!!0be.mK6u#2f]qi%->O'EA+;cjBFH#/D_n.JF&)!!_@4!!0b5!MR^;YQ;O!3%+_,mg&sP!T5:g'EQ9G0Ef,j!!!&5Muf3N!!!!"#(Q`=!#,D5]eD+sS,`Nif)QLK]a18Zg].<T!"/gX]`88h\c;^2O8oXn!PJI;3TL/?!!!&5$N[`$!!^dM#R8X8!#,LD#/C;L!!!&5!P:"s"eR`K!!0be?W-4j2ii%0!!0be+tgG,\-;'rn,OX9/-DOK!!!2d'@-Xm!!0be3!@\1QO!Vr!!0b6!KW0>a8c3=!!1"A]EQ(N!Lioe]`85Ol2Ueba8dD+.g3Wl#1*RY!Q5)\#1*>M6_=>m!"0"`]`88XZiC(,lN+Uq^^&aN!!0b;!Pti;)jgZ'(:Y$n&'t?N%"Jke#QgYYW&P'D!k/F:#Qh4i!PJQDSE'YMVZE%`UB[q+!!0bgT0SV@huE`X!!0e>ZN(9XmfpN-ZO"o)a!A\+YR'/=kQnBn!PJI=0&lp3!!!&5!$VpL$d\tEfDknK!!0b;]bI1@KE(uQ!!0c*1HVoC!hT[q!PJ]9O/)aU^AnrK'F0EuO9WH"^AnrQ]a'o/irB&[!!0b<3%U6nk6M:M#2gg4#1s.4!!^e$Y5f7:]`uO_KE(uQ!!0bm,'B[]\-;'rn,OX9/-;aR!!!2d!!!&5!#.!-]eBTXX8i5$O8pJ1blkfdQiI*e!!!rB!PJ])>kA!r!!!&5+p!Vg^]p_;!!1=I)[<MH#-\(-p]e5f]`m!koDejl!$VH7#)EM_#R@RnYU0C+YQo[`!!0b<Pr->X0F"]]!PLdX2=pkKLBcBu'F)o+^`^Al!!0b;;`)Al"3:HB"/l2D!#,OV]eBTHPQ1[a#-]V$"31Vm!!!&<!#,Xa#1sQL!!!&5!$VZ4"Mb62#5A0Ba=@Inf*?g1O8pIVM[$s%#CldT!!!$:!PJ^,#M]:Z!#aNq!PJc3JqO+(cN/h&!O]iI!PJ]a4o,-Y]@6kn0Eh+N!!!&5jT3&j"g@t-YQ,jI+pEK#a9B'R!!0b6T094ThuE`X!!"SV!OE'a2TH$:!OE'a2<R*B!O)jf#j;Pu!!0b5!O@@YfDknM#2hHF'EY`LkVMr5!!0b;]-$YFpEn;h]`sic]Dqp4!!0boQ$1XWcp.7*]i2iRRfEEh&qjTu]eBYWe,TIL!P8BDa<)+t!!0b<PonKUVuj^7!K`6E!!!&5!"1F?+ohho^]r-cfDm)u+p6I%a9LQ&!!1"B]a!*hb5_MChuFr=3!Fg:cNja=#3[Bk#3Z8q!!!&5+p!VO^]q"C!!1=I)[<eP#.OX5J-NeK!"2!q+ohhO^]q"C!!1=I]`ttHP5kR`_u[J0,e!f9!PJ]9J#!&E(]f^X!#-ot]eD"pS,`Ni!!0c3T/<&<O8o7]#adFSru_:ATK)*?4,6uF#bVHr[g8W_NX2:FTEpncZP0eRa"ulZYR$=XW!D5]!PJI=MMqN8GI1]X]eBQWMuWhY!$VH1"3:_7QiI+`!!0b<]/J(;!ODV(#+uLq!!!&5!PL7q9Debi#H.VHYW)iC!J^pcp]n#M/-iB`!!!8&!!!&5+p"=;^]q"C!!1=I)[<eP#.OX5!!!&53!$GZf*DEH!UqiG!U'RB!S@Ar!PJNl"mc3h!K*+K]eC8CbQ%VDh_53I]jl^!X8i5$!!"W#!#.hc#+.3e#+tr?W&Os2%^--BO9VX1]`tD>X8i5$!"/h+2uj/][g32:`rHeT]`t\sMuWhY!!0c\,&!bP^]q"C!!1=I)[<eP#.OX5!!!&5JmU>+0K5%6!!!&5]`Fb$JcGcOa8cSSa>a/(!k/F>5d(/%!PJ]Q>dOJ2#G;&@!#l&sYQpg$YQq*-TLSte!+DB&Y8<.)]`u8%li7"d!$VH%"Mb5G!!!&E!#l-P3!Qkm#(Qon!"/jh]`88@MuWhY!KdD>bQ%jo!!0c>!JL@NNuauY]`t,:])Vg3^Anrh'F198W!:!:!!.u_%4DI;!!!5m#5A0B!$VTF"lKW9!!!&5e6cV],DQ;f!!0be]a']#qu?]tp]6L80XLfa!!!&5!PTVF!!ppO!!!%lkVNS'ZN't2mfK*^ZO"o$mffTiZO#b<QQ(tdYR'.gkQnBn!PJI=,.dgT#1*>o!$VNT#07#$*JXV/!)j*[]`ug`nc/Xj!n]IU'EY`L0F-b@!!!&5!P&a;!%8)&#D`@(!#,Up#ET/)!!!&5!PKu#B;>M-TG%9.1C0WZ1Tq(W!KIGY#bVHj!OFYu/>"u,!O)ik#cJ!d!!0b5!OAL$!!!&5!P9q`!P_9l!PJ]9<g3Ra#/:-P!#,Zg#D`N7#/:-P!#,["#FGPL!!!&5!#0.3#ETq7&uP^D!#,[*>mI#MO;aPf!T5pB3!o<b"7Q?Tn5KIua9njH"gB6UVZO=5BF:sE+B\r*$c!/.!!!&5KNf1eTE#"F!!0b=>rBM"W--kq`rHeXQj1>/p]K.L3sNb,5VM;.*qoXK!PJ]a*g-L'#R7du\0`cI\-AT1#.Q/f.^oVl#R8@0!)kG83!Qkmf*DSr#/DQI#.OlI#R8((^a:A2\-BGI!!0b;,!NR<n-4CCL]AV%BEP1;!!!4b!!!&5!$ZKc"b6cL"fMDFYW)ZN`s.V/TE#?b!PJI:;X=A`.DGis!#,X!#+,P6.C0"[!PJ\nG+8O4#5A0B!$VNT&(h,;1;<f'!K.2=(^BaX#ESp0!PJWG*mt#g!ri67!!0be!NVFb#1*>o!#,RO#1s+2!!_A(!!0c0]m[g!K)blPa8dD0+pGI[-j@rt!!UFp"irY''J5(G0F5]!!!!&5!#/qE#2f^##/:-P!P&Eu!%8'0#+,FO0Wt]%!!!&5!#%`#$HE5#!oO*`;ud!`!ltH4THk$B!k/FD"Mb&9%]Bp%i!4d8]`F3)P5kR`!!05>>/UTs"g@t7rr<`5!PL/g!pfme6Mgeq]eBW9j8]/\a8dDG3!Iq=k6M:=!!1"V+pQ*ga9J"3a8dCg'F!D!cj%5b^AnrP]a!*ndf9@Krr<`6+pP7mJ-O@##1tm=-4\W5#07#$i&Cqn%bCsj#1*>X!!0b5?RPIG"h-58!PJ`21;!SeL]@E,!!/\t'aTm$-+=9?k6D9c\,t"j#e1'B&"j-J8&GA?]`8>2li7"dTE$0>3!Fg:rs/h-#,ik7#,h`f!!!&5!P9J,"P41\!!0be+u.:A^]ol#!!1=I)[;Z0#+,AjJ-MZ+]`O6!ZN't+#1,=;$Ng>6!!^4=!!!&5!Q7FU#5A/u#R>l>!"0d-]`89+g].<T!!0b^?V.U)[fM*1!PL0P+iF?\)lEZM!!0be!J$[?!!!&5!K8K(2uipY[g33%T)]Q,]a!s2e,TILhZ+?03!YO(k6M<[#G=%H\OYfg-jP8'!!0b5'JI*!a9(N)!!#q%^c2P.44a`B!!!&5P@#<80F-2B!!!&5!$WGQ"Mb5O#/C3_!$VKC#,haI!!!&<a>aC>5,SYj#.OX@!!0b5'J.r<O@I7j!!0b<!J@HR!!!&5!PL_8&<m.p-e&-%!PJ]a(X)jZLG8X5]a'?U]Dqp4#EUo#4kBq#:^,HD!Q551#ESoc!!!&<!Q55!#CldS!!!&<pIb_c#CoVSp]gMC=pKQ^#5C!0!#,Y4#CllJ+KGKJcpn<0!-Zir#FGK8!$VXB#2f`Z!!!&<!$VZ8#FGaP#R?_V!PJQD!Rh#K(^5^'!$Vm1"Mb5'!!!&E!PJ])*jPbG#I"5k]l9bIqu?]tQiJ=B+pEK#L]sFO"fOB]$Q.J$!!S_i/Z/R_!!0be?O!S3"8>=N!PJ`2HLq1;!!!&5!#-1-#4NkP!!!&5!*p5c#)I)S!!qdF!!/\l^'NWs#g`PPhZ:%`kTRtJ^B(YHclpF6cN1?Xi'`>0YQ:s6!!qco!!!&5!#.TF'F)?K#0:ug.^T1]!S[gg#1*Ft]`EZ=WW3#"O8pIXblkfdQiI*e!!!rBTK!.CpBH-PO8oXl!#,D;#)E;8!!!&5^c6D:/=-VH\-B_q'F(K?YX#Al!!0b;]2H!9^GMG]!PL/fL5Z*4YQ,jJblkfd\,ZL0!!!rB^c2P.2[4d:#-\(8!!0b5]m&fC]Dqp4!!0c1]c+0VK)blPVuS#)blkfdYQ+Y(!!!rB\2X\sk6:Vb!!0b:Q#)BZL][;O]dVA7lMpnc?\DcX]eDamOoPI_ZiRd/YQjQ3!!0b;+p7`C\-;X-J,gbs/-=0&!!!2t!!!&5'EO3STI[2G!!0b=OW^@u!!^dN!PKu"+3X]bJ5A0t#Co5J#5ADtN5Pb0!!`3!!!!&5!#-og#bX]&!!!&5!R221#.OX5\,ZLJ#/E2&"-3Y:#-\(8!!0b5?UL:_".r0G!PJ]9/#3.F#,hMGYZ(dVL^Cj$&""UKV\Sq3"h7Y8pfS!7hur6G#-]EX#-\;n#R7du!"0P9]`888irB&[!!0c!!J\5e#R6YU!#,LD]eC1fKE(uQ!L3\R#,hRk!PK>m-]A$*!!!%Ymf4%%!PL0"7/R#b!!!%Y!!0b5$Pnm*!!SGa%Hd^*!!0beOVF8b!!^dN!PK8S-IVqpYR(:?`rHeW!PL0!54egT,5_JR]eBWiUAt8pciKLTTF^Mq&&:74$K*Ab!!!&5!PK)NC?tp##FGK8!#,Up#G;:9#/:-P!#,[:#I"EI#/:-P!PJ`J0%0e#)lEZM!PJ]Q9&fmO!!!&5X'[1<TI7JZ!!0b<3$5a4[g322!!0b7]/cYeO#c5$!PL/l1>2^.^]r^U]f#?blMpnc8*jSO#/DA]!!!&5!Ke;eS,`bL!PJMoR`#1+^]C22f*:FC!!0b93%2oLV[*F0d/X[r3!?_l[g3,P!!0b7]k.*Aqu?]t"m8O"]a"7.ZiC(,YQ,&Z!PJI;09ZA9ci=*\!M9>t#iG[_#/:2F#gbg)(UjFO#iHYg#d=?6]`8?%g].<T!!0cM6!gnuU+f%1!!0bma>b+=-79'$"/l=C!PJTN9_/5a!!!&5^c4d#hZeT8YQ,%j!PJI;0@Bh##,hMG!R1b_#-\(-YQ+YB!!0b;,#dh.J-E.W\,[]V3!%A0QO!c1YQ,%6!PJI:-M.9<#Qa][J11Q/2uip[[g3%kT)]Q,!PL/l'X@]=3l_47!#,Y,#5AA*#D<(_!P8R"0NT]f!!!&5fJ=e*fE.ZL!!0b;Q!;H4YQjOs]`Ecjg].<TYQ,jP$O;1e!!f.s#)E7'!#,Zg]eB\`ZiC(,[f@+B!PL/h%`88H!!^e$f)QKb'F)nffKAm.LB&"m]a!BuMuWhY!!1=O;$W0_#ESoc!!!&5!L57[#-\K=!PMsT$&\c`"g@tN!$VSs!gj/$#R/"'!"0RW+oheNJ-E.W\,[]V3!-SnLBn(!YQ,%:!PJI:>_E(W[flS8]`t,5_uKc<^]C2NhZhF3LB&"h]a!s0dJs7JQiJ<C+pEK#TEUtg"fOB_$RYlZ!!S_i!!!&5!P8N("0YGq!!0be'On]TL]rP6dK!PXL^*W4_?9f=!PL0]4dl?N#4MU:!$VR(#07#D!!_pD!!0b53!utlT*PL[!g"`C'EWe]0EmdC!!!&5!#0>##FI<V3JmfBMdH^Fa9&7E!!0b;,"0WT\-;X-&'/Ae"c*A5\-VkG[0*oHn-JLa/.'Z+!!!2t!!!&5!$VuC"Mb5'!!!&E!#l-0]`si(_uKc<cN"Xf!PL0O8Wj&R#FGK8!)Wj>]a'o)MZ<_Xk5Z29!PL0T=L8&.#Qp_ZTI(bY"+WoE#`es"!!0be'Pttn0E\ca!!!&5N*dfeYR@WI!!0b;$VU<r!!_om!!!&50Ehm.?]5,C!!!&5!!0cCQ$Jl"0E\3R!PLeB"8Vut!!!&5!Q7"P#06cE#R8X8!"1'M]`88Pdf9@K#/E2;!LF"@#-\(8!!0b5,&*PIkQfH7fDm)u`!<4Gci=%H!!0b<]*.a+a)U/@]`u7Uo)JakU]J)#YQCG=!!0b;?OM_k^B',f]`t,LqZ$TsbQ5=Ga9V0F!!0b;OTVoi!!_Wf!PL,V("3-_W'0$(]asuEUAt8p%%q5V%d4.Ji!/C]!OX<]!VciF!#,p9#D`]T!!!&<!$VYu#Cm$2!!!&5!PL(R.cLF.#1*C]!#,DU#1t$T#06cPa8dCa]`c+TMZ<_X!!0b_,!r%)^]qj[#.Q/d'`SBa5lUfu!#,Xq#3\.`!!!&5!K955+ohTC^]r]skPue0]`u7VPQ1[a!$VH%"b6dO#(Q[tLc>Rj!N-2-!!!&5T)je]huE`XT)l8(i%k<9^B(YHi%UKAYQ:s6!!qco!!!&5l<bS'L]a8E!!0b<'I\P5fET(j[f@*H]a!s0dJs7J#-]Tj._c1l"5!XA#/CE+k6^?6'FDh^a?]1o!!.u^/g(A&!!]A%"o&'A!PJ]98#lUi!hTH,!PJ]Y,-(\D"c!'l!#,Zo#EUX;2=^`Q!$VYu"b6c\"h4OV^c2FH+/]AJ!!!&5!P:RL-GLD/!PJ]9)63`;!!!&5!K9[X+ohTCL^(?h#/E2&6&,ZK!!!&5!P:ek!llJ>!!0be>rC[Ccm82_!Ui;Y)rq4=!!!&5cmBL]cj'7M-*1;U]a)maj8]/\TE$/@3!Fg:`s;mJ#,ija#,h`f*le6p!"0"8]`880qZ$TspApNu<n&fb!!!&5!M9qX#iG[_ci=*\!ODb33PPcZ!OE'i3PQhp!OE'Y*T&iS!O)jf#j;Pu!!0b5'KMT^0IHf"!!!&5])d\G^_Fij'F]d0^c:3Oa8dCg.g3Wl#1*RY!PJTU9XFd"#-\(O!R1b_#.OX5\,ZLJ!!0b;'Fq_T0F3F6!!!&5!PKqO!P8=3/$Ape!#,Y4#CnA_(>Jmq!$VX:"h4a""n2L9kUZb%]`8$9;ZHdu[iF.0!PL/iCRbA)#-\(O!R1b_#.OX5\,ZLJ#/E2&#2]W8!!!&5n2NMX0@pI6#2fIh!!0b5]ggHNnc/Xj!!1#3'F*IqkWt70fDl9`!PJI;<Qb@BL]@E,!!/\t+:+&/-bg.hT3;MnTEq2V#bWsZ#bXW,#`&MA#c@s$1sZ3/#`ou!#N,We]`8>:lMpnc!!0bU]b.=G_Z0Z;f)`3-O;O<HLB4^cO;+lWJ,fr]!PJI;39'u=#-\(8YQ,jI+pGI\TE_n+#/FmV!PJI59uI#3!!!%Y!!0b5,#>3=a9S(4#G?2@!K02C&-nR>#06cg!$VZ8#G;:J!!!&5!$Xq7"Mb57#,hMGYW)fR"g819O9Vp9$O3g>!!](r!!!&5TK!+UhZ`cZO8oYJ!#,D;]`s:2WrN,#e,d0^YQg.C!!0b;+u7pR\-;X-J,gbs/->;F!!!2t"n)F*!!0be]+0DmQOU"s!PL/gFNa^b!!!&E!#l-03!P`M#(QoN!"0"g]`87uqu?]t#3Z4q]h@-N_>jQ:O8pIublkfdQiI*e!!!rBTK!.Cf*6a0!!0b:]*dm)Y9'27!PL/h4d5pH#1ro"i&Cps!J^pbYQj#4]a!C!q>^KrYQ,kG+pEK#O9N,o"i*)$]e-,fo)Jak!!/$(!$VCC"Mb4t!!!&E!PJ]!]aOl@li7"d!!0cM]ihZAZ2ak*!!!reQoG;3pBC<rL]@ed!#,D;#)EGl!!!&5!K8Gf2uipY[g322#,jK_,m(O][g32B!!0b7]f4[GPQ1[a#.n5,]eD[+e,TILhuFr?3!RG.k6M:UfDl9]!PJI;29Gn!#R8X8!Q6e'#06cE#+tr?a>aCF"g819!!!&5!%i2LT*X'LhuE`X!!0e>1]Rg.!!!;g!oF$b#j=1m#/:2F#hV&]#/:2F#gbKU-KbE9#iHQo#d=?6]`8?%gAh3SOo`0WTJi],!!0b;T18DPO8o7]!!"SVVel]qk6R_2+K&Be#bVHrf*J$*NX2:9TEp>SZT=EYVaHdOYR$=*W!D5]!PJI=$Mj`&1q*LN]lA]ZU&Y/o#adFa!M9>l#`o#dTEN;;]KsjLTJuHC!PJI=;QKiu'pen7!!0be?R1R1"SY(N!!0be>?d6jTE#t%!!0b=]a3BnRK*<g<;U#H#,i')!!!&5!#.T/#+-1@L`uh)HCS=H#-\?Y!!!&5!KdG8aoDXu!!0c"]+q[QpIg/?!PL/l$F9^4/%5PE&W?sV!!!&5!P:.p8,"78!PJ]9,f0N]#R8@0O>7!Ca9J"9a8dCg]`m$mdf9@KVZ7D5'F*J\kTK<ociLZ]]`9/Zqu?]t8+/_p]hP7URfEEh!!/$'!#,D5]eBVVPQ1[a#5DjZ!KI-[#3Z9d!KKL]#3Z9d!KK;2#07#D!PKZ.2o5OpJ-NeK$U4"`!!]Y-!!!&5!$YLO,&dbUa9MD>#Cnc<]`PYKRfEEh!!!rP\2X\sNs5:_VuR2-!$VCI"Mb5?!!!&5!K7N:]`8$4MuWhY+NIY*#bVHrNsMC7NX2:CTEp&KZPfA@[iMpYYR$<rW!D5]!PJI=,)ZF$hZ`"H!PL/u=+^JQ\.6:d.g;">#+u0^!Q5cB#+tqr>l4W8]`880g].<T!!0c"]eG?EMuWhY!!0b;+sj8i^]s9.p])K@+p+\Ia9R4q!!0b;+tBVnkQ[[[#,jKd(B4T#!!])IcN"XZ]`si;dJs7J!!/]=ZO#IhLBGj'ZO#JUY:o>FYR'.kkQnBn!PJI=3)]eWQO!WM!T5:-!RLkO!!2"k!U)KC]`QdkS,`Nimf4&C!PL/j0`1nNW!8nF'F:<9\4<_&!!#q&!$VZH#H.k%!!!&5!L604#-\-k!PMg@(5i.m#*8fmO8pI)blkfdQiI*e!!0b;-@bXf"ipn@!"0"(+ohh/fERE;!!0b:]e8(?Z2ak*O8oY=!LNikO>%+<!RNn4'EA6%Qlr"$!!0b;3-)Y3hZs7m!OsH\'EOjD]eF@)]Dqp4#adFb!M9>l#`o#dLI;)P]Ek/STKU-m!PJI=Ga&1.!!!&5TIU\=cN_Gp#1t4A!$WNc"fMX`!!!&5!p<3,]a"7.b5_MCNrbLl1Xn)^!!!&5cn7tc("d13"ci\L9=+nZ!!!&5!PNl^0^A]=+o25O!PL0o.Js/G6J;IP#G;-R!!!&5!PL.<2UVR*"h4OV^c2DB&a'E'"g@t7YQ,jI+pEK#kQSHr!!0b7]b%aTg&M*RVZ7DM]a18eX8i5$^Anr]'F0Eu#EW!e#/:-P!#,[*\Hec\-jP8'L]AV!'F!D"O9WH"^AnrQ]a'o/irB&["5#Rn]fhtniW&rZ#,!pr"-3Y:#*8fm!!0b5OV<rZ!!]q6!PKf%/^j\"1P,Y>#)E?T!!!&5!PUtW!!ppO!!!%l!OE'i23.sV!OE'Y23.sV!OE'i$3*'\!O)jf#j;Pu!!0b5?RCs:$g.im!PJ^,(m=q"#R?/FO>o\d!k/F?n/)1a!$Wfq#4MiL!!!&5!PMgp5-k4h!!!&5!PL.>1ogTV#H.VHYW)iC"8<'+J-W;*/-iBa!!!8&!!!&5!"1Et]`893iW&rZ\H!.I]`dg*dJs7JQiJ<Y+pEK#W!/go"fOB^$P)>*!!S_i"nr!2!!0be'IU3e0HSgG!!!&5!PM-j<Pe_9"df96!$VSs3*6?WhZsCaQiIL3!PJI:/\D&`#FGK8!LO+b#Oi5%i&_1*^]oPt!!0b<,#Znj^^$M4VuS"E+pWo/Qj9hqTE#?)!$VCJ"Mb88#H.VH!PJ`*,NAb(:BSLA!PJ]a&_d9c#4MYU]c2k0li7"d#,!J16K\R"8#H>$!)j*[]`ug`g&M*RQiJ<i+pEK#YQ^["LB&"k]`k>cMuWhYa8dCq;$4lD#06cE!!!&5!"TLf#)E;J!!!&5!L6]l#.Oes!PLCU:tu$N"NUQe!R1b_#.OX5\,ZLJ#/E2&!LF"@#-\(8!!0b5LcNTXUaPU3]`u8FU&Y/o#,!JT4JrFG';kgE!)j,q+pX20O9XnK!!0b<N'3+"!!!!""h+IG!#,Zo#EVH2!!!&5W&Q!m"2>*F!!!&5!$XhR"h4a2#(Q[tLhHm@]`8$:oDejl"IM/R3!-Pp[g3,0"K49]'EY`L0L*k`!!!&5!#-1'#/ELE#06cg\17]t`s0lp!!0b8+sYeAL^)K3huFr*/-`$W!!!5U!!!&5!#-9F#D`Jk!!!&5!#l0%3!P`M#(QoN!"/go+ohh/^]ol#!!0b9+r73Z\-D^.#Cnc:+pRcIi!5&<!!#q%!PJ^46,Wa'5M#lL!PJc3/;sQ/#*8kJ]a'2jMuWhY`rHf'+pPhP^]qj[#.Q/d'`SBa!!!&5TIUT&T*L_f^AnrR;[96I#FGJk#4MU:!PJ`*61Y'V!!!&5TK!1n!k/F>/uJ\#!PJ]9)MA(j!!!&5!PJiY1"u[.!!!&5!$XYe"Mb5?!!!&E!#l-H3!QSe"o&;3VuR2a!PJI;%a4nQ!!!&5!P:u%",A;b!PJ]AO^e@k!!_on!PKi>(;^%O!!!&5!P9b4"TM<)!PJ]Q4R<%Ja9Jk!`$(`Wa8c2@\,[]W'F)V_^^,u$!!0b;T2DTgO8o7]!!0e>1]Rf3!!!:l`u!&E=pUc3#bXJuTJHkHTJX[pQiW3QT*V(qrrK&9`sA=Wj8lnP!!o54!!!&5!P9Z3(Z,q>!!0be'G'I/0Fd1F!!!&5!L3](i\1G3!!0b93!e:>#(QoN!"/n\+ohh/^]ol#!!1=I]`si(lMpncq#Cq/]`b87lMpnc`rVGX?`Gd]!!!&5!PM$u0`1nN$&8Kp!PJ]Q;5sTr#-\(8!!0b5Y%k$<L]tj#^euj#\/=-A(VhC.$LeVR"HNSK]cl\qKE(uQ!!/$Q!#,D5]eBT(j8]/\`rUu/0J;Yl!!!&5TIV:>mfqDK[f@*_;[2G1#1rnU#-\(O!PJ]i8;mNK!!!&5TK!JY*No_QW!8nA'F'p,0ES]`!!!&5lsF>bYSHUE!!0b;T0SV@huE`XrrKG3i&fg"f)`2`i"a!]YQ:s6!!qco!!!&5!#-oQ#3Z[!#1rn`-NFh\!PJ]Q8Fc`\!!!&5!#,O:"h4fH!!!&5qHjp-L^'1o!!0b<,&*hQJ-DSGVuS"F3!$MmcNj]Y!!0b]1d9+`!!!;g!!!%l!OE'i3kko\!OE'q3mU70!O)jf#j;Pu!!0b5Le[.7U_]R']`tE7_>jQ:!!0b[)Ze[n#+,AjJ-MZ+Fu\@`!!\Mb!!!&5!$W,o"b6c\"h4OV^c2A1"MY3G!!!&5!$XAo"Mb62#5A0Ba=@In[g.EfO8pISM[$Zr#CldT!!!$:!PJ^,8tu@d!!!&5!L6?1X"XSS!!0bSIhT*f#2f^D!PJ`b4IZ<N^]rF</-a`2!!!5M\-C;Z,R:7N[g3G1TE1ql\,jqW$&D^d$0VV]!!!&5!PK,A45p5?!!!%Y!!0b5Q"S;@0Eo2l!PN3#;W@`W!!]qk!PJp5.\$J=#G;&)!!0b5^(-n<#_2mU!!/\l+:+&/3r]TFVcjA!TEq2I#bWsZ#bVaD#_2r9/b]OD&bc=4#`oV,#N,We]`8>:gAh3SL]@fgLc>A=!k/F>0L#OO!!!&5!PKtq/s?88pB%-t!PL04BVGJ,!!!&5!JiD(1Q4E)!PJ]i;Nh(\THL^I1C0WZ&^L`U!KIGY#bVHj!OF02!l%("!O)ik#cJ!d!!0b5]jpX6qZ$Ts`rHfU>mB4!ct0iiU]J(3cjR$G!!0b;?T7i^"7J>,!PJ\n-,T]_*rc3S!$VWO"b6fuW!:Un3&A;RQO!fJa8cST!PJI;%`A>I)#jW%@a#%T!!!&5TP%Q!W!2Ap#dA+L[0=&G\-9YK+p[<<?j6$"!!VR;"lM??'Eas5]eF(!WrN,#QiIM%!#,D:]eBJBb5_MC@B3`q]eBSMZN't+!lJAD]eBMSP5kR`!!0c<5pOSR#/Dj`!PJp=8=BMY7J?hJ)O^o0!!!&5!$VZL"Mb5G!!!&E!#l-P3!Qkm#(Qon!PJQt-DUVA#-\,j]e>iTRK*<g#,!pg$U4iG!!\Mb'pen7!PJ\n'Z'hM!!!%lQo#)1+92BI*WH>!^KLo9TEq2B#bWsZ#bW*F#abXQ0&Hr-7>CoM#`oIm#N,We]`8>:_>jQ:M?1=5L^'b$!!0b;'P*.&a=3/MY5f7?>m8R[^erecT)]Q/!PL0M",m3[4,a3P#5A5&!!!&5!$Vd2$+L2l#2fJ*!$VZ@!ltV6!!f0>(]fOS+qP!HQj2aSn,OX;]a(27lMpnc!!/#qQn&.:pBH]_#,!q1]`mj1qu?]tL]AVbM[%6-#CldT!!!$2!PJ^,4N[X(#,hMG!R1b_#-\(-YQ+YB#.QVs!fmN[#,hM0!!0b5!PKZW4G!P58,<7u#-\-k!!!&5!$Yam"h4`_"kWf!"jee[ctECZ]`8$9nc/Xj!!0c"'05mhf)qB?!!0bF]+`TmV\8%k]`tD:dJs7J#,!q$#1!L(#*8fm!!0b5?Q%&f.do@n!!0be]h[&WbQ%VD!!0c;'L'\?O9WH"mf4%,\HeK@-jKGIJ,gbn]`m=!df9@KpApNt#l?:Y!!!&5!$XMs"h4a*"o&'An14U]]`8$9j8]/\,*,"t]e6rObQ%VD#.QWq$QeI:!!]A%6g"F`!PJ]1B_h]/!!!&5!Jhn`(5)j`!PJ]92V\94f2[`9]a![(WrN,#!!0b@?PSJ!0V9Hb!PJ`"4jj<1#*8g/!R1b_#+,AjQiI+*#,!p[!fmP9#*8fmNrTjo]`s8oMuWhY#08\T]h5p;RfEEh!!1#P+pGa^^]hdZci>6m)[4"\"jd5L!!!&5!#-:(#*:Hu!ri67!*oer#)GLmT/,tE!PL09/rBW/B?C7e"K2R?!!!&5!PKK>9oK&P"fDBd&u#TO!!!&5!"VoD+pRgFp]m/dTE$/?`!4QnQiI*eJ,gbu]a'o0])Vg3#]MapGW7\?-3Mj*3-Z9bhZs75!IuL"]`EX#JcGcOT)]QZ+pOD:\-AT+#,jKb-4[3b#*9%fTI^;G]`8$:dJs7J!!0b[+pjG5a9S(4#G?2@!K/W3&-nR>!!!&5a9;g4Ws,C*!!0bO'FhAK]eFX1qu?]t!!0f9T)]/DhuE`XT)l8(cm$LImfBa#i'rJJYQ:C&^^0-0!!0b;]1ISShc]RP!PL/j>Ije7#-\(O!R1b_#.OX5\,ZLJ#/E2&);bXK!!!&5!PK/9<0I:^T1P2Q!PL097cFCJ0Rj+g!PN-g"-W]b!!!&5O>mZ-2s4!@#Nl($!!0be`'i>[fDkmP#2hHF!"3EF'EA?aYQUj(!!0b;]bI4A_>jQ:T)]Q>+pRNZ^]qj[!!0b;]+WNlf-6Xa!PL/l=Hidc!Kd?m!PJW_$&eia!%47?!PJc36L4[Pcj$^)`$(`Wci=%Ha8dCg+pQBu^]r-c#08:t'`SBi!!!&5!$Z93"Mb5'!!!&E!#l-03!P`M#(QoN!"0"g+ohh/^]ol#!!0b9]/5*>!hXN7!PJ]Q=3:LC48/c3]eCJ$_>jQ:#CncE1'O!M#/CGq!PJ_g3eID4!!!&5Qo$q#T)\isO8o7],bJ0E,52A9.F\C2]`8>2MuWhYU&hkaYQrK.!!0b;?S]7o#+$Ql!!0beQj<0^YQMrI3sP0]#/:Vg!#,^s#5C.'!hTH,!*oh[#4N(\(P2\"#,hRK!!!&5\mI=ZW'IP(!!0b;]a;g]]Dqp4^Ans$'F0-mLaC(A^AnrQ]a'W'ZiC(,hZ+?6+pP88^]qj[#1,=4+rQ^QL^)K3huFr&M[$*a#1rnV!!!$2!PJ]Y!Rh#K!!!%YO8pI)blkfdQiI*e!!!rBTK!.C[g%?eO8oXi!PJI;3SXT7kAZSk]`u7Vqu?]t$/8f_#3\2D!!!&5!$Z%H"Mb5?!!!&E!#l-H]`t\@ZiC(,hZ+?.$O55i!!^LE!!!&5!L6N^#-\K=!PJor&D@*a"cr^.!$VSs"8E%e#R-k\!"0k"'EA;u0FlD/!!!&5!PMim/G]>HTG=Y61C0WZ5Hb?c!KIGY#bVHZ!OG/./<<*+!O)ik#cJ!d!!0b5]fW:qo)Jak!!0bn'Md'VL]lT8O8pI0!$Z@e#4Mkb#G;&@!"0"X]`8;!UAt8p!!0bM2?rLJg].SP!!0bO,!XKU\-;'rn,OX9/-2[Q!!!2d"m>q1!$VTV!It@C#R0u_!"/k;'EA=#0Ee!J!!!&5ia5FVYTDCb!!0b;"Wb_cP8E+1!!0ba'N_R?Le*:$`rHeY'F0^GQj1;*mf4%,]a(24qZ$TsT)jaTW"QE<!!0b;,!`L8^]ol#!!1=I)[;Z0#+,Aj!!!&5!$WE[!mh+da>j52"i)Ym!#,D5"h4iY!!!&5!L6C=qCj2h!!0bV8f$[l!Up?p4.cKe!!0be3"CTA^Ban6!h^kU!gj"m!!!&5!L7Su#-^>d!PL(;6BhHM"g@t7YQ,jI+pEK#TEVh*"i*)!$Rj=,!!TS,"g@tN!PJYeFNXXa!!!&5fJjK&&W[2##R''F!O)X7"RlQXDZCIO!!0be+tLP2^]ol#!!1=I)[;Z0#+,AjJ-MZ+$Nc@n!!\Mb!!!&5!#,OR#bX<S!!!&5!$Xsk"Mb5O#/C3_!$VNt#,haI!!!&5!$VO+#)EMO#R@"^TI'd8TEaTb#H0Te-3iW=#G;=#Qn/K8]`8$;ZN't+[fM:q0Lgs'!!!&5!P;(##PU']!PJ^,;VD*N#R6YU!Q5/N#*8fb#+,B7!PJ\f#a,/f"m>q1!$VTV/9h?f!!!2d!!!&5!L6H^#,hU$!PL\7CVg&Omo%;8!PL/t&)mQh/><0W]eB][bQ%VDO8pIJ+pEK#L]s.G"e[gV$O!@5!!SGa!!!&5!L3c*#)E;`!PK>%&]4SK;Run@]eC_`li7"dkPuen+pGI[=9\0o!!VR;!!0b5]l)O(WW3#""Ft/_Lc>A7!k/F<#R$5K!PJQD-^+N1J,fVa!M9>t#`o#d-*I?X24"TA#.+ED]`8>2o)Jakg&\f30EmLW!!!&5!#-rQ#*9"T-*I:_!#,X)#+u'b!!!&5fOt`j2uip_QO!fRW;mG^1'ZqC#1s.D!$VX*#1s.,!!!&5!Q7=:#/C3=#R8@0!"/l.'EA?IYQEtf!!0b;+pI!,\-;@%#3]\'%"JNVhugc2[/oJ!a8rLG/.'B-!!!2l#58*3!!0be,&6EDJ-Lf0O8pI/3!IA-k6M9Z!!0bB],eK`7hY+g!PJ`".[g>;#-\(O!PJ]Q$_.1s#QgYYTI'f6O9)Qe[f@*D!PL/h3P,7k#4MYU]k7-Adf9@K!!0c5]fO"1iW&rZgB"oT0E^b[!!!&5!PKVF3Jme:!!!&5!$Z0X"b6g8#R9KPkU$tXkQ\6q#4OSV$PU8\!!_?]!!!&5pH]RYRKf]\!!0c4?Qaq##,_[J!!0be'I3JT0G<gS!!!&5LcB7p!k/F;!!A<3".2%J]`PYKdf9@KT)]R59*XkepeV%$"kQBOIg:L##5ADt!PJ_g=+UDP0HU=\!PMh9&uu!4!Qb<P!$VSs%-S5c"df96!PJPj,bb8=!!!&5!K0_L-jKGH!!_?jkPue,]`k>=OoPI_!!0c<3%KU]"o&;3!"0\%]`888_uKc<:nqA-#3Z-_!!!&5!Jk<e']T:N!PJ]YFn,M4+l<86!#,X!#+-72+MRmj!PJ]1(PDbg!!!&5!$Vfn#1*S<#1rn`T)]Q*+pQ[$a9LQ&T)]Q0]a![%li7"d!!0b9>pG4,cs*gVELU;>#+-3n!!!&5!P9`WLfY;-!!0b;>=F\TTE$+/!!0b=]j((.\c;^2!!1=d;$W0o#ESoc!!!&5!#,e4#1trf#06cPLB&"g]`u7Vl2Ueb#adFt!M9>l#`o#ds$#<_=pUc^#bWr6TJHkHTI[b_QiW3QcNp0L^B(YlO:ULhhuU%f!!oM.!!!&5Lc?`66C.rZ#Qg)IQoG/V!k/F:"h+IG!!0be]crmFWW3#"!!0c1'GdGDTG4!uVuS"G3!Fg:rs/h5#-]E^#-\;n#R7du!"027]`888q>^Kr"5l.P'FiY"0E\ca!!!&5kVP>bT)\ishuE`X!!0e>ZN(9XpB@GqZO#bGpEkXrZO"o/V]26/YR'/OkQnBn!PJI=4k]l9!!!&5_I"CR0EhD^!!!&5!PV:.!!ppO!!!%l!OE'i.B`fF!OE'Y49$l#!O)jf#j;Pu!!0b5]l]/4dJs7J#5B`-pc&6R!k/F>#R>l>!#,LD#D`KV,j,.A!PJ`"&aTJt!fm<q!!0be?R4V2.A%iS!!0be,!,T$\-;'rn,OX9/.K)m!!!2d!!!&5!PK#^$/>L\!%+4?!PJc31u&'2)4U\4\2X]F08Bf;W!9aY3!Q;`k6M:%#.Q!/#-\3.!!!&5!Q5`.#1*>M50j3C!"0"`]`88Xb5_MC#3\#K-3^RY#/CH,!"0"p]`88h\c;^2!!0b<,&)o7!!2Qh#Qa][!#.f`]eB_IZ2ak*GJdc%]eBZjiW&rZcN"Y8B*Q-U#1s'WODGH#^]q"H5QS7q#Oi/si!-D9_un$ahuE`XT)]Q0]a![MPQ1[aa8dCt+pGI[L]u-*"ir4r!PJI5,eO*WfDkn'!!/\tZO#IhLBNY=ZO#2DpBodYTEsI.kQnBn]`a].irB&[UB.t;\,s]/!!0b;]l)!naoDDB2UYr/#EUsD!!!&5!#/;!#bX$3!!!&5!K8V#])Vg2Y8$R/]a!*lq>^Kr!!/%)O=L;2pBJ,3#.Q35!PJI57H+:I#-\(8!!0b5N&1>2!!!!"#-\(O!#,X1#.Or*!!!&<\2X\s!k/F>!!!&5!PVsR!!ppO!!!%l!OE'i(]Oa/!OE'i(]P'(!OE'Y7b7sU!O)jf#j;Pu!!0b5L^NGJoE5*o!PL0?1n+IFrs[+Y]`t\GMuWhY!!0bc$Tk?g!!]Y-#R7Lm!#,LD#.Of&!!!&5!Ls4t#2gU("Q'1n!!0be]kc'siW&rZYQ,kI+pEK#^]h4J"i*)!$O<"(!!TS,"g@tN!$VSs!g!Sq#R/"'!"/q%+oheNJ-E.W\,[]V3!><HV[*IA!!0be3.0H\"o&;3VuR2i!PJI;*UEb+3i<"b#*:+V7/$_g#*;3U.CT>a#*9\:(P`$t#*:I@!!!&5Z<L3&#bV/0!!!&5!M<lV#iG[_!!qdF(BLiB#j<8#2R`^n#iIV%#d=?6]`8?%KE(uQn,\Xa$^1Pp!!!&5!L5:Li\1VP!!0cP]*[a&cSO&O!PL/l<LNmf#,hQb]m?^ZRK*<gRK:#-n1]n?!!0b;3!PNGrs/hM\,Zm<!#,D;#-\3m!!!&5!PK;50_tbL/"6RO#H.e"!!!&5!#,j1#bWIC!!!&5!#/tt#.R(i+,9h1!*ofE#-]VA!!!&5!K;8T%fcS0#0:3Q#R8X8!#,LD]eCN-S,`Ni!!0bgUE8FqkS1f5Eu]]J&;VF$!KdYDPQ1oD!!0bD,%QQ2W!BO,#Il_r!$Z%]"5!jo!!!&5!#.BQ"i(r;"ipZf!)j!@/-WN`!!!2,!!!&5dU+E80Eg!'!!!&5!Kft=WW36b!!0c2]//LJpF)d;!PL0K+5?hr"J5Z.!PJ]a#J'm8!!N(1"b8Q43!-Pp[g3.n!!0b7]f4C?l2Ueb!!/$F!$VCC#)EKQ#R:&`pa-#sp]fpd#Cnc<]a!X*li7"d"NWPL3!-Pp[g3,`QN.^$!PL/i=Q9A]#L<F9+c?Q/!!!&5-ob,j]`mR)Z2ak*WWBa6!!`4,!!!&5!"3>[B)i.7#,hd:\82>a^]CqH\,iu?(_"b!!!!&E!PJ]A98`cM#Qp_ZTI)am",Icr5fWj=!!0be,%mAF^]ol#!!1=I)[;Z0#+,Aj!!!&5!L5:S#KRd\]`EY8irB&[rrJB/:&6OE!!!&5!#-];\HeL'-jKGIJ,gbn]`m=!OoPI_!!0c['FN:hLb,_0O8pI/blkfdQiI*e!!!rBTK!.C[g%?eO8oXi!PJI;'Z'hM!!!&5`*WoDfI5V_!!0b;,"/a;^]q"C!!1=I)[<eP#.OX5!!!&5!"Ug,3!75n`s;do!!2Nk]eC\G]Dqp4huFr++p=PCa9Li.M#\%f]a!s-j8]/\ZiRccL^(U+!!0b;Ps+C4TI[JP]mR[$lMpnc!!0br$RG9C!!]Y-!!!&5!M;T/#iG[_(nUi8#iIY6)Xd^5#iJ(r#d=?6]`8?%UAt8p"kQCU'F0FjO9D0U!!#q&!PJ_g([M,%!!!&5!"0mM'EA<@0EIL?!!!&5!#0X8#/DnL!!!&5!PM5(#Q+Q%!!0SY!PgYp3!-Pp[g3#U!!0b7+ru78^]sQ6J,gbr+pNi.kQcnD!!0b;'LpOOTFckY!!0b=?[f!T"2@^e!PJZh(V0SH/?]$f!!0be+tBYohurfT"gDVB!pBf<i!kca[05+ai"*$m/.'Z-!!!/s!!!&5TIa$"]`8$:g&M*RiW6[q!!`4*!!!&5gL#?>YQBRg!!0b;'FDAOQnY-4q>ae+]*F-C*uKS1!PJ\n*MWT7NsLAF!PL/iICfIZ!!_@d!"0"h]`88`Z2ak*!!0bG>unfBO=Zn%#1,74]mG>2MZ<_Xp])L8+p,gip]l<L#Db>@MZVK9#5B#9!!0bM'Es'gL^hr9O8pI/blkfdQiI*e!!0b;N'lV*!!!!"#R6q]TI*.KO9;Ec!!0b;+p,X^L^*VS#Cnc<-3NuJ#/CIopacZ#]`8$:aoDDBciK8<=OI0R!!!&5!#0dc#4M\d#R:&`J2fd.&'kLd!!!&5j')Z8TE#"F!!0b='Q^#LW!:!:#,!IN)=IdVcl`@I!PK$KGhW2u!JZbE#+u+F!!!&5!#/hX#4M`8#2fIh!!0b5]k=nVgAh3S!!0c""a#n-"0Vrs]`Eh]])Vg3,-P0h#bVHrf*J$*NX2:&TEpV[ZOsYPcQ)BSYR$=CW!D5]!PJI=CoRI8"eYi'k5Z1r!PL0!.Js/G#1rn`!!0b5Le.(:qZQWo!PL0;=0hl,!!!&5dU*4,)34fN!!0be,#.q7J-D;?TE$/>3!/jY`s;jIQiIL+!#,D:]eBMKdf9@KhuFrX3!Fg:f*DTE#3[Be#3Z8q!!!&5!PMmq'Z'hM#R8((a>a71!k/F>#R8X8fJirA!k/F>#R93HkVrXQ!k/F>!!!&5!Kh\\qZ%(e!!0bj'GQ-!#)G2<#*8g/!R1b_#+,AjQiI+*!!0b;,#>NFn--<%"i*)!L^0OX"g@t-!!0b52J(nKOoP^=!!0c@]gf%&qZ$Ts!!0bn+q9J2^]s9.#5C.\+rQ^QL^/G1!!0b7]f<=uWrN,#!m!>5'F'<u0EpV>!!!&5!P8m=#M4!K!PJ]1$1e,s!!!&5!$Y@:"b6cD"eYi>"fOD*$Nnud!!S_i"df96!$VSs!It?H1?SWO!"/t/]`85'Z2ak*Nrb%j0J//9!!!&5!PN<M>ak]n!!!&5!#.3*"h5>_#R.Fl!PJQD=.90i!!!&5!PL#;'X@]=#1rs=!JZL4!!!&5!PN^#B#4NJ*NoGW!!0bePth)Tp_&>_]e,ZWZN't+!!/^-+:+&/8"W?(O'2g^TEq2[#bWsZ#bW!K#`o(I..7G71"QH4#`p^c#N,We]`8>:_Z0Z;!!"T<!M9YM#iG[_!!qdFNrcQekSpu_^B(YHfGh:(cN1?Xi%^9GYQ:s6!!qco!!!&5a>dSe44a`BW!:<i'F)V_YUtV1!!0b;?P^fb#EN6P!!0beT60B!O8o7]$dTq$#bWr.TFlr_1C0WZ0p`0=!KIGY#bVHb!OFqu27F"o!O)ik#cJ!d!!0b5P[+(c!!TS-mf4%%!PL/jK^&O;bQ5<V]eDr%lMpnc!!0bo]a+00oDejl!!/$&fJij2!k/F>$d\p,C(-10&#^#[n6#tJa:4dG!!/Sl!PJIEFP?cq$24E6a>aC."d]K!W!:<i]`ttNg&M*R!!0cP,#s6qfEV*N!!.u^%1ia5!!!5]3U6^Y]`88pS,`NiNrTk&+pPPFTE`13hZ+>p`!4:I^]4?8!!0b;PpW7+O;Xqs]cc)8]Dqp4a8dCr+pGI[fEKV%cN"X\$O,0%!!UFD'@-Xm!!0beN'+EH!!!!""i(*^!"T3o"ip_t!!!&5fJkqX"6Tpo\-CS4]`uO^OoPI_LB&#=!PL0=7FD/9kQC#^B,B2@(k;eZ!QYhn*oIir!Q#HD%.FJb!$V])"J>s\#+,B7TK!"o%Z^l"Qj031]`t,5dJs7J!!0bi3";#NY6Y?r#3[B;#3Z9,#1rn`fDm)q]`iojK)blPrrJBqJd0!n!!0cN]5Y=]Y?0HZ]`s8q])Vg3!PJMaIej$E)s728YW)ic!N-2-p]drL]`t,1_Z0Z;k5Z2R]a18sdf9@KY5sms$3nib!!!&5"e\gO,^9HB!j;kP"lKEZ%=eMAGQc)j!#,Qd]eC&]WrN,#!#,Hi#1*J8#2fJ*kVr^<"g819^]s!L/-b;B!!!5]!!!&5!!0cS!J.i_^bGg"i;aAk'ElJX0LUs%!!!&5!)mg"'F'X!Qiir\!!0b;!J9;2#R:&`J2dV>!k/F?!!e</^AnrJ]a'W$irB&[n,OX^+pGI[O9PCZ"n4&H!PJI5?L%Rk6AklV#-\?Q!!!&5!"1[%]`888M?!VW#1#qQIg:L##5ADtmofsHp]gLZT)]Q0>mGl]n56Ll#,!p["kNs/#*8fmO8pI)blkfdQiI*e!!!rBTK!.CQNhsEO8oXj!$VCI"Mb5'!!!&5!$Wf5"Mb5oi!.7Q_un$ahuE`X!!0b;]hX1[aoDDBQN._'!PL/l%GCd^#G;&@!$VXB#4Mkr!!!&<!PJ`2=fVN&!!!%Y^AnrJ'F'@5O=?4j!!0b;.qS#H#1s-a!#-.I#3ZAK%CZ<O!P&F(!$DKu!!!&5!L8)%K.mPF!!0c2+u\ul^^#r$QiJ<5+pNi.J-V_IO8oXn!PJI<';PU.!",);fDm)q3!P0C#1*S4fITJ[+ohTIL^)K3#2hHF-3NuJ#1*S4fIR6b.f]PR#1s-Q!#.Pn#3[Lk!!!&5!#0p_#1,L,!!!&5!$VZZ"Mb5'!!!&E!#l-0]`si(q>^Kr!!/$"!$VCC#)EKY#R>l>!PJMh,H:_DTG%!&1C0WZ5E?)C!KIGY#bVHb!OEs45aN(\!O)ik#cJ!d!!0b5'J%o<0EpV>!!!&5i$KJ6fETt4#1+n*!#,D5#06o0!!!&5O%V%A#Dc1YJ-UUS9*^7XLen9<#Cq:/#D`V8&XNJ3!)j,Y9*Y.kJ5?Hr#5Cap#Cm$Rp_VOc'F+=:J-)>CirE?i+pRNZp]fXVk5Z2#]E[RefFtUm!PJI;)i=UqpC,PY!PL0U4.?3M#06cg\17]trs$gS`rHef'F*J2kV9OH!!0b;'R@:jcj%5b!!0b<]hlTHgAh3SOo`0!YR@X!!!0b;bpoIga=%#h!!!rB!$VWg#07"a!!!&5)Zbh[&"!H\_HR8l#06cR!!!&5Lb*V1+ohTJL^/_9#EUnL]`\!7Z2ak*#2hI]3!-Pp[g33%B)iVI!PJ^,(n(F)\/>8Wa8dCf+p>+RL]u-*mf4%)$O,0E!!UFD!!!&5!$Y(Z#)EM_#R@RnYU0JHYQjk-#H00Y!PJI54c9:?QiXEVV&]7EL]N;4'EOj0&_IK$a;kW/J/$?K!!/#t!Sm_UO#RB#J,tZ4^B]Q"!!0b;$XASi!!W,t#58*3!!0beL^o":Rh*77]`tE1RK*<g!!0bP'JAtWTJ<VM!!0b=+_mJH!!^LE!!!&5QiW,OL^g!X3sP0]"-3eV!#,S2#/DLf!!!&5!PK,o:ndpi!!!&5!#.o6#Cm#n.Gk+>!P&Gk!%8'8#4MU:!#,Up#5BYIJ1gm:^AnrQ'Et-6#EW!e#4MZ(!$VCk"lKU[!!!&5T)jc=huE`X!!0e>ZN(9Xs!!L)ZO"nkrtXDlYR'/5kQnBn!PJI=D#424!"-nR!PJ^4Lm%f=T)]Q+]a18FlMpnc#+./1#07"A!!!&5aE8g+YXe`ufET\'a@?47!(rFZi->;5Y5f7>!PL/jB>X]L!!!&5!#0RN]eB\X_Z0Z;huFrP3!?/a^Bb&-n,OX<]`ZmkRfEEhQiJ<B+pEK#fEIoJ`rHeT$O*I9!!S_i"8;d0!!0be]+=f>cZ,-L!PL/gET-ruci=*\!M9>t#iG[_fDkn'T)l8(cpuss^B(YHfLOg'[fNf@i#9W?YQ:s6!!qco!!!&5!PJTp)7feJV[V2]]lX$.ZN't+!Jgc5;VN(e!PJ]Q(m4k!!!!&5MueLh!!!!"#)E7'!R1b_#*8fb!!!&5fEHDMncf$t!!0c43#:KR"/lEs!#.i)!PL0_:AY"k#1*>o!)Wj>]`ug`K)blP7H[iQ#bVHrQO'6?NX2:?TEpncZUE[VLGef,YR$=UW!D5]!PJI=IZja3"m>q1!$VTV!e:ID!!VR;"m@oG]`PYKdJs7J#.QVp"4m_O#,hM0!!0b5!K?%="3:Hdco;+%"1JO<#Qr^=!PJ`IIBihQ#06h9/Z/iX#IjaX!$VGo#07%b!!!&5J0nY"p]gKu#4O/Jn2LCJ!k/F>.*hl-!#,Y4#Cm-D5L0<D!*ohcp]6-?"gBrj.0?sa!!!24#R/"'!#,LD]eCG8gAh3Sp])L7+pEK#kQZP;#)G5B]`G#:li7"dM7[+#TIu9+!!0b;,$Tp)^]r-cfDm)u+p6I%\-Cjk!!0b;]1^$AVf/=2]`t\EZ2ak*p])Ka+pEc+L^&A0#)G5B$N[.2!!W,t"o&'A!$VSs"lKT8#R6)E!"/h*'EA=30FPo$!!!&5kVs?X!k/F>#R9cX!#,LD#5BmE3Muik!PJ_gMMhH7fE%*8&Xi\(!!!&5!#/.r#-\m3#+tr(!!0b5.o5.)#*9"UTK"\#)tsUBO8o8Zmf4%+]`si:bQ%VDL>#u>0EK2p!!!&5pd8oHckkUVk5Z2-]a185gAh3S!!1"J/-b;<!!!5]#.O\u!PJI54gP+gYQDTe.0@9c!!!)A#Qi@4!PJQDL["j>!!0b6'LBnBn/J8*p])KB+p5=ZfEZp,#Db>DM\tU_#5B#9huFr<]a"69g&M*RO!7qD]`t,YWrN,#QiJ=AB*?!T#G;=[W,)[2L^CQrkQ/'q(]od$#H.VH!"0$n]`8;)P5kR`!Ur&hn1o1nkQ0TB!U)KD!PN[_5JdC#!!!%l!%eK7ZO#1`rs$4=ZO#JOrs$4=ZO#2Ga#JhTYR'/KkQnBn!PJI=+jp>j*L?a?!*of%#*9qEmm-bW!PL0:MSfDo3QFbnP6TZ1fG(%\]`ugfMZ<_XaoT+UW%.6r!!0b;3(Umd[g3#-!N7sZ3!-Pp[g3#=NrTjq!PL0T>LNQPmg"MQ!PL0W3kG@l#ESp0!$VNT#D`VP.F.u.!)j,q]a'W!])Vg3^AnrL'F1!0TE`.2^AnrQ]a(J?iW&rZN4WFOYQg-h!!0b;!KPS.cjenWFTe'9:]L^P!!^e$NrTjo+pQ+#^]r-c#1tm<+pY:WfEU76#3^13!K0bS&-h%mci=%H!!0b;$WX5-!!W,t"o&'A!$VTV"kX$0#R6)E!"/k;'EA=3]eDYNqZ$Ts!K7&?.0'>J!!!5=(XE'q!!0beZW!=nh`[#$ZNdoYQSXs/ZNdoMcU7F-$O4*P!!]A%!!]B8#-^&e3'4#D^Bb%R!!1"\]`t\@MZ<_X!PJMk'[cs]$a0Sr]ee\&UAt8pn,OY$+pQ*m\-D^.J,gbt]a!*oOoPI_JH-3u]a!BrRfEEh!"/gZ'EA=30LY((!!!&5L]NXURK<Eh]`uhFq>^Krp])K_+p?g,O9L.7"SaMM!$VCC"Q0FX"b6RspacN7]`8$8WW3#"!!0b:?Ql]T^B'#2]`si/RK*<g#,!qB548[M#*8fm!!0b5?Wt#@"h/+0!PJ^,.H:C.J-NeK$Nnub!!]Y-!!!&5!%g!jT*X'LhuE`X`rWLPfF,.lpAqT+i!uA-YQ:s6!!qco!!!&5!$Vo2"RlVo#R7Lm\7d4m]`8$:RfEEhNrTjr]a18C_>jQ:!!/$A!#,D5#*8qZ0qSF[!#,X)#+uOZ<g!GgQoG;3*5;a`#)E6eY5f7:!PL0-Ato>+#*8kJ]bg5>M?!VWlN+TuO9+em!!0b<]c,W*RK*<g\2XMYQNd-gVuR2+!PJI;@^5t6!!!&5!$Y%9"Mb5?!!!&E!#l-H]`t\@RK*<g!!0cS!JKJ5"/c0U]eBo\ZN't+#ErLM]eB]Cb5_MC!!0cD,(J;HE!MI)#FGK8!$VXB#1*UJ#ESonO8pI)!$Z@e#Cm&H#G;&@!PJ]a?.&]Q"g@tN!$VSs"5j?m!!TSX:B2(/!!0be!JK_<-BA1m5(X"&!!!&5!PL&]8G`Ae!!!&5Pl[AL0GiUI!PMm`5_8t9#Qjc\pa-6<!q8_^#Qjc\J2f6T!k/F;!!!&5^c4j]QNhsEYQ,%5!PJI;.@U;;#KQlh!Q55A#J^<>YQ+Z%K)rUi!!f`,!!!&5!PJucOeVmV!!!r=TMu,_YR9Ru"3;_j"4ma-#KQqD#07"Qn-Z*s$NZUq!!\Mb!!!&5!PKrQ-JJM#!!nrK!!/\l`s@b,cNiV6]Ek0!!JH@3]`8>2Z2ak*fDm*H`Wj3_!!_'V!!0b5].ej;Y;(q9]`s8s_>jQ:!!/$7!)ERp'I2oDfE.ZFhuFr*'F)ngkQ7@Vo)N&#+pQ[0\-;'rn,OX9/-1h9!!!2d!!!&5W&P9e$&8ci"df8t^AnrJ!PL01S!j<WQN.^#!PL/i3VrdVW!17A,R*B5/uJsd"n2Pj$1J&<TF/bC-4%*f"/lCE!PJZP62LW^$ASY<#2!YM!!!&5!#lWQ3!P`M#(QoN!"/tn'EA?!L^;$$!!0b;!,8J6z-isF0"M2SW!!!&5!M9G;1f+/P9E5&p0)lHcS,p91]`;F@'EA+6h[$G#!PMk_'N>&4?q?Ua!!!&5!!/^61]a6L!!!%u!Oi*9!N6(?-gq)B!MBM7"TJM/!MBOmW,Md1]aj6,]Dqp4!!0b6!JrQ3fO-&`LL;nI!KLOt):)\m#M0!_TMPmNctFO&!!0b>!PNj\T2GXhTE"rm!!"SO!ODfo#PSG;!ODfo#PSG;!ODg""TJ_Y!MBId\,iOI!!0bC!%hFUT)k;ZTE"rm^B(YA!LPMEf+.ngYQ:C%!N9r<!!0b5!N7gT#/D&M!PK5H>C->M?iU4j!!!&5!PJMk]itI:$ig8.!!!&5#^8oK#Q^.q!Pna9W!EUS!!!!+#8R:>!h]URKE:EC3!#fU]`bq>g].<T!!"SQ!M9D6!RLfH#/:2F!RM(L#/:2F!QYMD48/c^!RNN]!MBId"lKF6!!!&5!$VQY[n?uL\0qmi&0LrR#QOnA8-!B)!!1"D!"2$l!PJIe!L*QaDu]pQ!!/\lD#o.e!K[DM!T?,4!K\e_O>?p!O:p^WDukt"$g.PP"lB?e!Iu5XQr!h\]`HI\1]RLV!!!%l!ODgR+4g\:!ODgRcj$CTTE27t!!1^Q!!!&5!PJQ)!OMh,!"]0n!PJTB]c-qOMuWhY!!0b6!K:gpp](cm!!1=H!R20(]biF'63$uda8c2l!!0e7T)\o-ci=%H^B(YAa:I_D`rWLIcj&qBf)`2Y^]hIUmfB`qci_T!TE1\dp]9"J!!0b@]`NieZiC(,K)rRc-jI-]!!!&5!PJO3!QkBB!!!&5!!0bAfJEp8T)\ilci=%HNrcQffE[0:rrKG,cnr38TE27t!!1^Q!!!&5#Q^Z(!#,D5'G*ge(c_Nq(tSa%qZ'nE!R2/V!mgoI#WMf.!!"](%d3r,!R1`I"HWlh&-oC3!!1>(W+S@4Cj8JQ!Jgr1YQ;-;^^QS7!!1"J!"2$l!PJIe!g3N`a9SY`]b%+_RK*<gk5ghLlO2&H!!0b6blWb&0F.XZ&-B=6!!1>(]g*(s@K6B/!!!&5fJEZ@T)\ilci=%H[fNf9fE(^INrcQf!SBn!#/:2FZN8ECrr`9%TE3CCfE%WG]aTu'JcGcO!!!!"!uq:@j8kVO"M3t$!!!&5!#,J#]c\<(bQ%VD!!1=F!LOE(#Ohl;%_+SC&',@'!!!&5!PJN8!PAC4L_p*sT)]Q8!PKU=!K7!Y'@-Xm-ibG6#07u"!Q5g/B.*`[YRgo8"1W.R[3u4B\-'5A]`XW*9E5%npB-pm!PKT\!TX4\&-)aU#5DgBLhm>F&.Hne"h4T@$]kLi-ia6E!!!&5(RPLC(!mB9!!!&5!Pnft]`8<<li7"d!,sar!!/\l!OZS@,i:QT6/Pjj%G2/H.$&U/DukuDZN7gcNs,I`!MF*,ciJYV!!0b9!'UMc]`J$263$ud!!0kl!!/\lZN7Q9T)tVcZN7Q:T*LDXZN7iBNt:[[YQ;6O^]B5l!PJI6!Mf\q!!!&5!!1PP]`G,5>Q=a)pArHE!PKU;]c-qO.f]PM"SX-J!!0bU!M:81!Or+0YQ+YT^B(YAYQgEu`rWLI\-.QgL]O.LVua[7!!0bC1]a$F!!!&8!!!%l!ODg:+O:,H!ODgB#,_X>!O)U7!Pe_l!!0b5?NGf[+9fN,!!!&5!PJO*!V69k!!iV"!k1f&[n@84]bg_N$31&,!!0kl!!0e6T)\nj\,ZL0rrKG,^^#o)[fNf9\/pt>[fNf9W#h9.0*/B[!Or<j!Jgc\]`8)K3WK-\!U9]u!PJIE!fI$Yz*<I)Y"M:6C!!!&5UgFB)-omV!!!!&5!#,^'FVk1P+p\/k]auRl;ucn!^Gl8;!QHet#QOia&D.u\!PKQ<!V??la8c2l!!/\mZN8DQIg"@(!ODgJ3St(^!MBJ?!S@FG!PJhr!jhq-!!!&5QiX6L0F#9#3&gr6!PJ]P#35aa!!!%l!%e5uZN8,I5PHf3!ODgJ#KK@'!MBJ?!S@FG!PJj(#)iN^[g'nf!#.CX\Ng>U!$EZj#QQQ$!!!&5fJEX,/H>bO!QY6@!!!%l!ODgR+O:8,!ODgJ+O::R!ODgZ"0VpD!ODgJcm=_hTE27t!!1^Q!!!&5!!/^5]E*N_O9_ri=q.qA!r+pnO>@$,O>,8eJ,tZ2cN0+.NrcQh!Iu6pQr!gV]aqmZX8i5$!!0b7"Tabd&3(*.#6+Z;!!#q_!!0be!PMA2!NH,"!hTH,pAbm]\H]PE!$EBb!!!&5!PJTB]fZ8plMpnc"IrZs!PLGm]aOl@e,TIL!!0b6?NGcZ#/::o!!0bU!M;CQ!RLfH!KR8f!RM"r-AMW.!RM%[!MBId"gA$[!!!&5!QG2B/H>c1!QY6@!!1_/!!/\lZN8DQ!llqp!ODgJ!lm(:!ODgZ7JA*h!MBJ?!S@FG!PJSk!M]Vp!!!%l!ODgRcj#OaY5ts1co(8)TE27t!!1^Q!!!&5!La)6fE.[!!&+fe^C"=%!PKlc1e[lL!!!&P!!!%l!PST]!!0k8-AMW.!S@Y/3SskDZN8D`%lrMJ!ODgB#JUDF!MBJ?!S@FG!PJu)",d-Z!!!&5#^$0\csQhR#R6(qTECQAW<8Lha9p8p4pulF"cs.Si)L'0YQ^[)!"a8`!!!r<!!0bE!M^P5-20YIkSQR73&iAm!!0bub6#ief)t4;+FbLk.!5e<!$V[K!PK$u"4I5M-lMbE3!#I-.Q@Id]f7u*g&M*R!!0b8]`XGugAh3S\,jbT0ERjU3&gr6!PJ]P]dj'_irB&[!!0b6`WLhn!!"tZ!hTH,^Anrr!PK<SDgMHa3$8F?3,8Q-!!0b5!!BM,z!Mfi<TE:2Y"M;5H!!!&5!M9GC!e:7NT.^5OZN>X\^DsEXTE9WVL]Pj']arHke,TIL!!0b:]*#tOT)teh!PMkV!UKdd-pRbV!!!&5Y5f81!Js>N7Ge.@56)Bo/-&sX(pF'4&"!^N?l#@l!PJ`^!i,er(ln]_!PJnL]lX5SZiC(,!!0e9T)\nbYQ+Y((T2*N'8HV(n/Bn^1BG8o/"ZjX!KI2r!Pe`/!OF)57J?i'!O)U/!QY:l!!0b5[n?i('JKdo3!5cQ$h"'0!!0bu!PL5g]h/8)K)blP!!/#Z!Pna9+ohlK+u![1/3%SKbl@`W0Gjcj!!!&5!!0c#!PN"D#D<'W!&t"A!PJ^("k3MP!!!&5!M9Ce!e:7NpFcQRZN>YAO$oT@YQB>"L]Pj'!PJI7!Mf\q!!!&5!$VMu!PKU8!MTPo!!!&5!Ped7!gE[U!!!&5!!34T!K1Uk!!N'6=<ISf!!!&QLbo/1T)\imJ,fQMhZ:%bL]Pg'`rWLJ!e;pV!RLkO]`8+i'EA+6!J1?a]jO"lX8i5$f)QKf!*r,2]f62FMuWhY!!0b8T*!4:J,fQM!f/Z7!ODb+6,sVi!ODi`5dprY!MBLE!f-m(!PJ`J!Q+m;!!7s5!!/\lZN>XWpBQ`[ZN>pamfoBbTE9X$L]Pj']aU80irB&[!k1f'!$X*&!$WOf!PKmh!iuA%!!!&5!L3_\ia=q<!!0b7!L#PE]jN5gS,`Ni!!/#][n?]$&'tR`#QhJ.!!0bu])g@\Nrjq7!PMkX",d-Z?lOki!PJPu!iuA%n,NL'!M9>m!e:7NVagcoZN9OtNrcEbTE9WJL]Pj']`dO#"98E&!"]-,!!!&E-ibG6!!0bE!Jj,D!V?Pf!!0c01]kSq!!!(V!!!%l!ODiX!l#r*!ODi`J-#ZlciKd@n,eCH!!0b9!PMY:!NH,"0PCG1ODk1DGQ8oiBE/E*!!0b5]`S$1K)blP!!"SQ!M9Df!e:7N!!7s5^B(Y@p]lQYpAqT$L^/\9hZ:%bJ/bZsciL?P!!7rW!!!&5!PJR"]1`2)QN<f]!PMkB!KmE_!!!&5Lh?gA#KSk5:^l8ukQ/'scjcWT!!0b6blOO=$E*q*!PJiu!JCFQ!!!&5!!0e@T)\o]J,fQMhZ:%bn.FOY`rWLIJ.^ZBIfZkW!e:`p!RLk?"Mb(p!!!&5!PJQX]gDc"ZN't+!!/\p1]i1-!!!(V'%[/j!f-s91>`,=!e:O5!RLkO]`8+iqZ$Ts!!0b8!!8Viz"UYAV!fR53]`c!Y_uKc<!!/]&1]d(G!!!&p!WN2,!Vd%p'#+IR!Upqu!Pe`/!JgdO!!!&5P[=^_5VTYU!!!&5!$VoC!PL0H&%hlBh["mB!PMkM!fR*Z!!!&5!#,a0!*r,C?T8,:'B]hC!!0c@?P&G%5QQp,!!!&5!P8F25R*hh!!!&5!L3rW)aFI[!!!&5!K7&t"NUQC-qF=^3)BT!!!!&5!$VJt!PK$u&,ZD-QO'5u!R1TI]dOEl>Q=a)!!!%l!%e6@ZN97ihZ8c=ZN9P!hZggrZN97nLFAbqTE4N`p]8/2]`csg]Dqp4!!0bA1'F*I\.6"cQN.^*!PL`#$1n2t!lk=t]g)Uoli7"d!!1=F!PLH("loX`3%,V!#QOnAmpH;!!PM)1#*])f!!!%l!ODgr2t$h:!ODgr4-']?!O)Uo!Vc]2!!0b5]a_%Cg].<T3!#-J"OmpK!!!&581Y70!#,D5]g)baRfEEh$e/Ma]jMl4C&e57$/>Qn]g*m)MuWhY!!1=H!$Wg&!PKU8$A8BZ5Yh@o!!!&5!#,ap'K@l*5R-r_!!!&5!PJfX!f?sX7#q<^2uk-f!!0beT)tJ^n,NFh!VeJP!ODb+-.`6S!ODgr-.`1,!ODh%7)oN3!ODh%30t98!O)Uo!Vc]2!!0b5?Nu_p5R!3J!!!&5!MT\o!!2Qp!!!&E#^8oQ!k1f>[n@hL9.1&I0F.`h#Ia[IY5f7r!PL`J?ZH,H#O_fN!!0bu'FNn$+9J/8!hTH,!!0b]]`RL"$31&,&6JoV!!^4X&-*nV!!0c8?O4RM5T^&d!!!&5!PJc/]fZ8pX8i5$!!1=O!PKlu!Rq)LLB3QF!PL`'"7uQn.A$X+]`IIbX8i5$!!"SV!PSTu!!2!X!!!%l!ODgr&&/=`!ODgj&&/=`!ODgb"j]'p!O)Uo!Vc]2!!0b5!PKHQ!P8=3)<V$V]jLr*9E5%n"ip_'QiI?SO:'V@Lc[j-J-(c>!!0b8?NJ=M:e8&p!!!&5!$VI'!PJaU]c7"P_>jQ:!!1=F!PKlm#IFI2!([-Q!PJ_s?Rl*V"j[;3!!0bu?NSCN#Iap8!!0c0blj72-kH@Z!!!&5!$VL2!PKU8"3LTD3%,V!!!!&5!PJ]e"M=^7!!!%l!PSU(!!2!X"7H8s!T4"Ak:ZkBZN9Or1<4kF!MBJ_!Vc]2!PJo'!qQBl!!!&5(a]?Z!PLHP!Q"g:(XE'q!k1ff!PK<U!MTPoNs"HM!PL`W"Mt-=#UfZs3%-1)!hTH,-n'I&#QQ&.!!0b]?Nme:!NuWq!!0bu1'5r*]f7DWZN't+!!0b749EY*Ql$*QkQd1MLc\-/+;V]t-dMc,Y5f85!*r\1T1B%LTE"rm2YU5Q!O+9(2ST:[%`e[TmfBXKNWH@#YQ:BtZPh?qpB1ErTE1]=!P!(L!PJrP!J1:O&3'Y64/W&m!!0bu!M;1K!Up'h!!2jOpAqT#pcGqccN1?Qn2oe8^]CY?!!2iq!!!&5!PJZJ"-W]b!!!&5!!/]Z^&d^'!T3qY^B(Y@i!,eX^B(YAhuU:kT)l8!n-tF)^]CY?!!2iq!!!&5!NcBed!,ic!!0bBT*(S`n,NFh^B(YAn,oQmpAqT$n,g?=^]CY?!!2iq!!!&5!#,LH,![<d]b!.'iW&rZcN"X`(c"?@!PLH@!oa1[1WKJ0#^8p,!!0bM?O#Ki&+9Ve!!0bu]`bA9aoDDBVZ7D7!PL`$!MTPo!!!&5>$hEl#)F&0!!!&5!PJTi"Sr)u#QhJ.f)QL%!PL`#!il;$"P5mB!PJO)btA$:-kH@Z!J^Xh!!0bu]a!HrdJs7JVub-FQk1ANcj>d7coXJoi!&QZ!!0bC]`GG>o)Jak!!0b7'ENgd5V1dm#QhJ.!!0bM?NT3e%^-!2!!0c@?O)/_.*i"D!!0c0OTqN[q>a%e!!0b<'F++.80=`0#Nl($!#,Zg?!&9-/P%Yt!U'L`!!!%l!ODgr!ga,+!ODgj)ZMaW!MBJ_!Vc]2!PJW7#P%ip-m0X^!!!&5(bu<5!R3SP_'fip"8;cr!!0bu]`Q%N\c;^2!VeJW!%e0NT)n-Un,NFh^B(YAkX>FTNrcQfpdG,eY5ts1n3;[c^]CY?!!2iq!!!&5!K7)t8H8_j9->oB3!]Sp!!!&5j'Mqp5U=qd!!!&5!!!6"+92BA"M3t#!!!&5!PJQ!"2"U6n5'*/!!#k*!!0c0aT9lkL^E8G1^CN4!!!%]!!!%l!N6$T#cJH`!PBMp!LO#6!!0b5%fslS%k&"i%koF43!,cR!Jpde!!0bu'*PB:%$(r"!iQZ0Qm;]g+dW`L#G;*q"cs#bfF+?T+pl$i'G)Ae-oA+-!KR3p!!#qO!!0bU!M<Nq!S@AP!M9D!ZN8][mfD;HTE3[MhuTbW]`[0n&c_n485K:1:]LJ7!W2u2!PJJ0!os=]!!!&5Y5f7N]`FK;li7"d!!0e8T)\o5fDkmP`rWLIa8qn7`rWLIfE\;ZVua+'!!2!Y!!!&5!!0f=T)\o5fDkmP!!"SOi%tJ]ZN't+Ns)omZN8tecN_,bZN8DTcN;u)ZN8tdcN_,bZN8,LNs#C_TE3[LhuTbW]aiBiJcGcO!!0b6!PL5g^2!]K!QY6A!!/\l/HOK(!RLfH#/:2F!RM(t!hTM"!QYMl&DmMp!S@G1!N6$l$Fg,p!!!&5!Pneq6i[Jm'*&"4%e'b.#ZM4n#06gq#RTE7!N.E^!U'Tp^f_/GW!'U>!!0b8=ojN]!LP+0Qnnc1QpUfRO9(@BY5t!khZ:%kL]s[f=95W,]`8)+$31&,!!!&5!#,I^!LOn2!!!&5!!!U(>?_,d]`FK#.f]PM_#ON6fG[9]q@)9m!!!!""<@IBGQXcG]9iW[!!0b9.0n&s!!!DBV[SY$!LQC\$2=V4"kYn5]l5"dS,`Ni(]gcA[nAstf4Y-c(haH]!!!&5!PSfO!!/_m!!!%lpE0L@!PgW&^`'C[1CToW7c+6^!KI2r!Pe`/!OF,.+Q!@K!O)U/!QYY!!!0b5N!88B!!!!"!!!&5!M9SG!e:7Np](:G7ffps!e:KA"9/D.!Ve\4!q-/r!e;SX!RLk?%);q#!!!&5!!0c2?NHr&2jXT!!!0bm/HhjL!VcWp!!!%l!ODiX#+l+7!ODh%481"U!MBLE!f-m(!PJQ%"LJ./p](:G!!/\mZN>XWhZ8c=ZN9h%<sHD?!ODh%!RCeU!O)WU!f-m(!!0b5]`Rg+S,`Ni!OQ29]jLu@PQ1[a#S8<cBE?+d!%e0N1]d@O!!!(V!!!%l!ODiX#QG"C!ODh%#QHB:!ODi`"G[-+!O)WU!f-m(!!0b5'EY'1==o:.N!&9L!PM#*"Jc"t!!!&5!PJN6!JCFQ!!!&5!WE,K'EAU;!!!&5Y[IS)QjUn:!OH,>]jNnAKE(uQ!PDbA]jN.A])Vg3!!/\m1]i1-!!!(Vp](:GT)l8!p]nP7cN1?QL^1[=T)l8"J2QcsciL?P!!7rW!!!&5!!0b?T)ncgJ,fQM!f/Z7!ODb+!M9e8!ODi`J:@`pciL?P!!7rW!!!&5!!/^.ZN>XWNrkpSZN>X\cN2>mTE9WHL]Pj']a^nAgAh3S+9@T*]`H%OiW&rZ!!0b7!#.d#>qdG:+9IH$!!!&5O?N]0_#OH=!!iQ*!!!&5!!1>"!K',Z5RZ3UL^9qTfOI/TYR-["p]6'SYQ`)KfE$g5YRZHo%%)GP%^6#E!!!&55WAi2-3h3j(^HE>!K7&l!PJIM"/>hrcN3<<!PLH+"/>hr!!!&5!PJQ(!L`ug!!!&5BQXEpB+:L6W,Mt)!O-AG[6P,@i!RO+/.CG?]`8%Go)Jak&-8L+[n?]$'GpfO+;<'$2jXLY!!0b]]`I*mnc/Xj!!0b8]`[!hZN't+!!!!#$mGZOlidH`QiWEP!JD-f!l+l5!o*j9]q,:e!!0b9?Ol,s0:*-d!!0cXT)jlNVuQeuT)l8"W%n;QpAqT%W!D3,p]7T#!!9A*!!!&5[n@F2'L2p*81^qE!!!&5!MTafbl@_T(]XO:#Qk$!!!0bU?P].3"7H8D!PJMi"cNE]!!/04!!0b5!PK]X#eU-;!!!&5!PK!0$`j=.&W?b&]dNp=U]:AqVZE%i&=cQ4!!!&5!PJ^0%YOf^!!!&5k=Z3T!ItF\=93q!!#,Ha]`EpJH2mpG#60!V!PJMi&=`_#!!!&5ZsOKZGVc6(!!!&5!jFLS!M9>l!iQ)!#EJnl!jE#e4-'EK!iQdi!Vc]"]`8,<ZiC(,!!0b<!PMY:]c$kNX8i5$!!0b8blO=7:d>!]=:aV.ODG0+3!%Y6"n2Q##4N%g?jL[D!)NY'!!!&5!PJrd&DR6c#QhJ.^AnsM!#/fH'PKq]E!!3C!!!&5(a]K@Y=f]<-6NQtbod97-m/Kj(bbq6!!!&5!K72hPQ1[`!!#gr8CmhU!!0bM'F(?5!k/99NrTkB!#.*u>rXs--jRBb#WMf.0E;-3!!!$2!!0bU9+I`t(^L;3(^Ls*#QhJ.!!0bU!Kgjl!Q"gr!!!&5RU6VbGVFmS!!!&5!M9Cg!iQ)!QiI0$!%e0PZN?d"hZggrZN?dThZggrZN?LLrsOS_YQCaAYQ=M"!PJI7!gEZb<t(lX!!0c()?SCgkT?,k!!0bD]a+H8oDejl\,j8R49F^U!!!%l!ODj+0:r@H!ODj+8Dco2!O)X(!jD_#!!0b5]`G/6qu?]t!!0b;bm01-:e1Qe===3q!)P4#!!0b5])h6u[gTPD!PK<S!K7!Y!!9A]!!/\lZN@'*pI*%&ZN@?4VZDhZYQCaYYQ=M"!PJI790rUY+:()j#QhJ.!k1fN'EQhl3#h#\'>FM]cN"YE!*r,D?T8,I!k/6j!!0bu]*mBo`r__2!PM#-!pTac!!!&E%(KpmC^SN;#)EHHp]7c6YQX.l+hpYT!PL/m$a]m6-jUqB!!!&5!L3c)`(1*1!!0b>'FpW58-67#:^Cu43%.TM!!!&5!$VN/!"1JO[n?]\]f69!U]:AqcN"X`DbEV*:aT!E!PL`H"4I5Mci=*b!PBfa!%86!!!!&5!M9Xf!S@APs#m8R]E.4VkQ^Y[!PJI6%+G7W0F/dJ!!!&5!O2e)J,u#;!k1f'$NZn+!!//]#EStR!Jh$.QNR"E+pRNAJ,t`3QiJ<2!PMS9!K$jW*5;IfT)k2o"6146!!!&5!*p#/N*l_R!!!!""8;d0!!0b]T*N:7fDkmP"gB'L$HN83fJ*%2=Y'LV!iQU]QWaj6kQ0m"!U)<?!U(l.!S@F57dgBA7csfY!SB?_!N6%']`8*&MuWhY!NKK7]m'gt]Dqp4pAbm.!R3"r>VH-X>SmH#]c[;?6i[2f!%7l1!PJW2!ODb+QiI0$!M9>n!iQ)!Y9*eOZN?L_Y7ekVYQCaVYQ=M"!PJI7$`j=.!&+B\!!!&5!M9P^!iQ)!!!9A]!!0e6ZN(&ok6BN=ZN@?k3ThIb!ODip",?rM!O)X(!jD_#!!0b5!PJg?#P7ur!!!&5n2^`Y+:FhH#T8t%!!1=m!PL0@"O[8M!!!&5!KdDY$KM1p!!!&5!R1b1!Jj8H#X?X.LaE.Y!JjhY!!.U$!!0b5=om=W!U(NTkVE8'kSfcgfE%!5T)n-VmfBa1fE(_*Vu`OlhuW<J!!0b6/HPbL!h]Mn!!!%l!ODj+0#n12!ODj#8!aAQ!MBLm!jD_#!PJo_"S)Nm!!!&5!PS]<!!8Mf!!!%lYVZE[/H>bP!h]Mn#/:2F!h^m$#1im^!jF#4#/:2F!gk<q)ZKiE!iQ[&!Vc]"]`8,<RfEEh!!0b7$O;Oh]`9_dP5kR`!!/\q1]jTU!!!))!VZW$!jDq0"G[#a!iQA(*3TCLYQCa>YQ=M"!PJI7#(cgT$1Ipe!$VGo/5QA'!!!%M!!!&5!R1]+bqK+t3%+b-#XCX!!!!&<5QDuf!!0bM>612nkPt\E!!0b6]`HO]WW3#"!!0b7!$YYJ!"2&"f1Q*?]het9\c;^2!!1=Hph*+t$BS'oYR$>,!OWaO#LE[Z!$VZH!"0oO!PJJ(#4hfp!!!&5!P8NY!RCq4!!0c0bm4+G-ia5J(bbq6+?0?F!%7gT!!!&5!L3b?K1H0d!!0b:]a9Ss,QIfF#.FVu]a*j?\c;^2cN0:9!O=*W!!!&5!M9J"!iQ)!QiI0$!%e0PZN?d"QNk2*ZN?L<QNk2*ZN?dDa"#C9YQCaOYQ=M"!PJI7!k\L5#QOnA!!0e6T)\q[VuQeu!!"SP!ODj#%)3"]!ODip3hHVk!ODj#%AsH_!O)X(!jD_#!!0b59*3fI8-fBc+:(Lb!!!&50I@%j!"1Id!#,DU]bgt2_Z0Z;!!"SW!M9Fd!iQ)!#/:2F!h_%#!lk>J!iQ@E!Vc]"]`8,<RK*<g!!1=F3!#+CmoTUX!K\iG!PJI5!qH<kk5j(>!PL`'!g3N`ODt72!!#pu!$VGo!PNGS#K$NA!!!&5!PJi0#3u6h&$Q).N,TX'!!!!"2uj!(5QDuf!!0b]]a98jn-PH_blO"8TE"rm#\Qd@!!1>@!$YMV!Q5g_$WmB/]`:S'K)blP!!1=O+p!cjJ,u#;#Nn_\$NZn+!!//]:]LO@!PJMq"j6lGh[6u&!PL`-"fhV'%/0`9!PJNt"oA9"#X"/@J0k;I!ItFVJ,t0N]ahdXMZ<_X!!0b7])qg/hZioX!PK<P#0HoG&-)aU!N71j!Q56t$RbuTblAR\(]XO:#Ti_5!!1=e!$Wg.!Q56t$RbuT9)oe/(^L;K!!!&5!R1`+,#CN)5Q]jD?jL[D!)NY'2uj!(#d@r<k\MYL3!\XM%u:7o!S@JC!!!&5!PJ`M#,2(tzd0(fs!ji+3]@?rC!!0b9?N^3+)!;%_!!0c81]j`Y!!!)!!!!%l!PSW.!!85^!WN2,!iQh-!hTM"!g",j4mrEX!h^q0!Up,o]`8,4qu?]t!!0b=!K7os+ohTC+rD^.]c]!/_uKc<!!/#]!$VCC!L>-!0Lu5S:^Q>uTPOqu3!=a6$K(rm#NuNI$A:Z7!!/\l^&jr-!g!B_T)l7uO;X)\`rWLJ!h`m)!Up,o]`8,4ZiC(,!!0b7+pe)H$\0@5!!!&5!PSc6!!85^!!!%l!ODj#!RCo#!ODihTHK;&n,]0`fE.uP!!0b@2?DS5#i#Df!!!&5(j-+k!PJI5"k3MPT*VN*!PMSB#kS)s"hXh@!!1#'B*"(oJ8beHW$#mb[/l?oE!sG^[n?s^]m'eaKE(uQmfA[TliDnl!!0b7/HWij!girf!!!%lW&+RKZN't,`s7Y+ZN@',`s09ZZN?KqNruQdZN?dEk:5p$YQCI*VucAg!PJI7!qZHm"RlC8!!0b=]a'2j\c;^2!U(X,"JcIA!!!&5!MTV[FT;CQ9)nr/+:&%X!!!&5[n?qT-j/r?#QhJ.!k1fV!#.Bu'L3D"8.(sh)s728PQ4ucXC"3s=@\,K!!!&5!PJR,!TO.[!!!&5!PJTB"G?aT!J#DMci@6g?NRM:=?WPh!!!&5YX8K!O;XE(!&uD4VZ7D2!#.[$'M't9:_C_J!!!&5!R1]*,&e(n'PM^kL]m/H!!0b6]*%*oT*"lj]`Eojg].<T!!1=H!$Y5V!)ZQp!PMS8"bZjU!!!%l!ODj#(lnm9!ODj#&"aB)!MBLe!iQ.h!PJN,"QTO_!!!&5!$VI1B+P)o!K[><ctj)_E"9)S%aY6a#,hmu!LNj2!!0cX/Hji/!girfO8o<q!M9>n!h]Mn!!9)UNrcQeQj3![cN1?RW!;]7^B(YBO9Y.X`rWLJTK/Vsn,]0`Qia2e!!0b9]`YS@nc/Xj#j>n%C^lIS"Lnlu\,iuS#hWMm+><d>!!"u-!!!&5!KdJZ!OMhl!!!&5dU**_=;@/(!!!&5!L<iY_#OH8a9VbH!!/]%1]br'!!!&Pk8K*u=p(E+!T68Ai%kDli&A+GfE%!5`rY*!rrKG@cmFMMTE27t!!29a!!!&5!M9CE!h]MnQiI+<^B(YBQj)@OhZ:%bTEX3R^B(YBTF7q,n,]`p!!9)"!!!&5?q1@#?N:/5"K)CO!!0c8!PK0I".B2i!!!&5TP"@jC_0t]$)e6iL]On3O92WsBE04eDu_(9!!0bm!M<Nq!h]Mn!!9)U!!0e6ZN(&g^B39nZN@'/^BVFRZN?3lY6WqcYQCIBVucAg!PJI7!pTac!!!&5!!/$f!PJI5!oj7\!!!&5!PJPd"8`&u!k/2^95k9SGR+A[#QhJ.!#,Ha!Jgg?!!!&5!PJT("cE?\ZN*6K!!0b:9*L1Q-jTm`!!"]%!!"u-!!!&5!!0cS!!1OKz'cdE(]TF'T!!0b9]`b\Bj8]/\!-iVe!!!rL!!0cX!#,b?>sJI`0F4HS#QR\D!!$,DBE`oo".2)NWDEq`L^N>H4pR/V"eZ6R"fPF?]g*(sMuWhY!!0b:1^s!V!!!&@!!!%lf51Q(LC]IU[fMgA!RN59"3:M&%CcGc#RQS0fNA='^^GYn!RNV4!RMFn!QY;%6*C=9LL1(gYQ;NBfE%'7!PJI6$KM0e!!!&5!!0cK1]t)b!!!(f!!!%l!ODih5edH*!ODip!T+C-!O)We!gj#H!!0b5FU-Cr)\<!gDu^E9#_W5k!PJJP"loX`!!!%l!ODih5PG39!ODih'W4Ii!O)We!gj#H!!0b5T*5&lO8o7]!gkeG!ODb+-BA3%!ODip0#nij!O)We!gj#H!!0b5FTJQDMZ<`b#[dW5!!#h)#QRtL!!$DL!!!&5!PJQQ!Mf\q!!!%lQo"l+ZN't,f*.39ZN?L%pFYh7TE:2XQiZ+G]`Z=WKE(uQ!!0b=GVTm3E-6+Jp_s25]l3rSg].<TS,ch#!PM;6!Rh#K!!!&5.!GmV'FNau0F#8l2pVI<T)]Qb!*qhk]eBPaUAt8p!!0e7T)\qCO8o7]f)`2ZJ-*alY5ts2O930!huU%`!!8Mg!!!&5!K7'=FT;CA#QP.o&-*8a&-)\L!!!jY(]XSp!!0)*!PJa="nVcp#/:-PcN"YU!#/No]jLo6gAh3S!!0b6)[+prF^P1L!!!/+BE/'k!*B[9-s/5)!)Rf7!*F@L!!0b5T*W(0O8o7]!gkeG!ODb+7%X[u!ODih7%Y<g!ODip)4s(l!O)We!gj#H!!0b5BaDWWFa*ldMZ<_o!It.N!,rAQ!-fdi!J#:u!PK$ET4@p%O8o7]^B(YBO;.EnT)l8"O?LWEhuTJP\,r#u!!0b:FT\uN"Gd&&GQ7^_GURe`!!CAJ!!0cXOTN/q3WLi7!!!&5!PJ`N#4)<i!!$t\YR9#ji&P`bi!ds9huTeXp^?j+#EV+W!pBpBa9g3n]a^nIj8]/\0EI::]`X/mj8]/\!!.lXF]\jhMZ<`b#[dW5!!#h)#QRtL!!$DL?iU0G!!!&5!gkfj!M9>l!g!B^J,fVa!ODb-5N`6c!ODiXQp9aMNrcQgO>c8HhuTJPJ-))=!!0bC]`E`cj8]/\GQEF"E-6+JG]ai'!PK$E'Is.`#QgUu!!!RQ&-)\L!hTH,KE,9p!PJa?!l=p;!!!&5!KdNM!hoZk!!!&5LeIs,YTLX`!!/\n/HV"6!f-gV#DW>d!f.\K+O:(p!g!Ze!T4!O!n[RA!!!&5!K7,L#cI_'!!!&5!%e>ZT)sfKO8o7]T)l8"L]ib?LB4^_O;X)dhuU%`!!8Mg!!!&5!M9D1!g!B^L]@E,^B(YBLc1k0Y5ts2O9VlmhuU%`!!8Mg!!!&5!It@5FU.tl&-)`]J,fQg!Jkk!!K.Kh#Q]_]!!%6Q!!!&5!PJTX"oA9"!!!&5!PJNh"e,JlO8o8"!Jkk+!K-pX#Q]_]!-eJrE%#rd!!!&5G]a)"!#lIL!PEXW]`<9aJcGcO!!/#]!Q4s<0ERjH!!#!$2uipt!!!&5!,-L)BE3#P!*B[9-s/5)!!0c0T*=N\O8o7]!gkeG!ODb+0],4K!ODip"90@u!O)We!gj#H!!0b5!%hCTT)sfKO8o7]^B(YBL^261?NIJ7!g!kp!T4!_]`8,$M?!VW!!"SR!M9FL!g!B^"9/D.ZN>r4a$5=[YQBmrQiZ+G!PJI7#D)pU!!!&5!M9PU!g!B^"9/D.!g#1X4i[T0!g!]6!T4!O#5A7e!!!&5!K7*?]`8$4lMpnc#Q^%l]`bV@l2Ueb!!0b6!!9b4z!LO6?liNg`X9,=$g]G.iq#T+K]?YBs!!0b9?OE;'4HBf-!!0cHMuiPN!!!!"&.ATP!!0b5blmY=:d>!]!osBp!PJJ0+rgR_'R2kC8-Hs5!!!&5!R1cF92H0"F]\on]gr-2j8]/\!!/\p^&b_D!N5u!!PgMl!ODb+&&/27!ODg:&&/>#!ODgB!RCi9!ODg*(8hes!O)U7!Pe_l!!0b5+p[0/B2BEFfH:Et%=i6t[9*rqa:,9R+p">?,%)f!,%rY1]l5q28cShl&-)aU#^8p\J,gd<!"1ae!PJJP#4)<i?iU4c!!!$2!!0c0!N96'$.'-C!PJs;"mc3h!!!%l!%e5]1]af\!!!&8#EJnl!Peo[#/:2F!O)dK#/:2F!O)rm#4DT!!Os_B!JgcL"5j3q!!!&5!!0oX!M9>t!Or+0"P3[\!Os85"SVr'!OtY/!Jgc\]`8)KU]:Aq!!1=F!M`I&=9o2I(]XT]!!0c@$O#er!""G]!!!&5!P8Bf"oeVQ!!0c(cia1GBFWl#!!1"D!"307!R1U@92H`2=9p.d-ia:m!!0c@blZr+E"E!M#/:-P%ZhlZ$ZH,s]`<!Oe,TIL&-8L.!R1TE+rC:[`!@Ic(]XO:!W)o1!PJIM#*])f&-)aU=9'OA?iVA^:]LkO!!0b5r*M2ZBLgYU!!!&5!PJU-"I&ld#\X2^?iU4c!!!$2!!1>@f1SpOF]\nN,#A8I]a/9OZ2ak*!!0b7T)l"n\,ZL0!!"SO!ODg22Q$bo!ODg2'upBj!MBJ'!Pe_l!PJr(",d-Z!!!%l!PSTE!!0"u!hTM"!N7E55N`'R!Os90!Jgc\]`8)Kli7"dY5f7;!*rt6]hec`9)nqm!!!&5J0G*FFU2Xd\1do%:ac;E2uj!(!!0c0/H^q3!O)P(!!!%l!ODg:!f$up!ODg2!f$s"!ODg:,DS[Z!MBJ'!Pe_l!PJN$"2b*=&-)aG!#,mP,$77"$QrgW'ECr0:_]N%8(R_T!!0c8]`G_FUAt8pT*ep,!PN.\!kSF4!!!&5!L3`?Jk-*L!!0b99*)[*#IjiE!k1f^!LQ+X"L&9L&$S,d$CF/H!!!&5!KdK%"5<fP!!!&5JcWJ%8-.<F!!!&5!PJPf!J1:O!!!&5!!1>#!$Z@n!$V\n$U=`C]`<!O>6"X(!!0kl!!/\lZN7Q9[fQL0ZN7iGY7$s'YQ;6<^]B5l!PJI6!JCFQ!!!&5!LNth"OIXo&%F\l$(*<B&-)aU#5:be!$YMN!PK=X"7cEl=:WCr(=u1b!K1=k]bjR*aoDDB!k1f'[n@PD"HWlj#QhJ.!k1fN!PL/m"H*6["oeUg]`I^qdJs7J!!0b7]`af)irB&[!!!!#!Z:t<MZT+H!PJWJ"2k0>"loYhQN.^Z!$X*#!PK$e]lX5S/-#YN!!!&5!$VI1!LO-0!g!rVLM/b']aqUY6i[2f!!!%l!ODgj#M0%G!ODgj"igcG!MBJW!Up-"!PJX"!Q4s<!!!&5!$VU5!QHNi])Vh5^BM7N!PL/fT.9mAkPtS`!!"SO!ODgb(l&4^!ODgj(l&=1!ODgb"TLBP!MBJW!Up-"!PJ[#]i4t3]Dqp4!!0b6=p)D;!N8E<W&"IQW$TajTE1&RpAq2ncN1?WQj!-bBE>=<"o&,&!!!&5!%7qK!!0b]]`Z1Qg].<T!!0b8?NHVr:`uA=!!!&5".W^R!pCcA!!!&5!PJMk"G?aT!!!&5!MTUQ]DqpC!!9V1[fO,Y9-=39-ia=X'(5f7!!0beT)kA\kPtS`^B(YAkT6&pY5ts1kQHY\\,i6'kQ1/R!!0b@]`PhHU]:AqJ,u&=TFIP#k5[@O]`G&tnc/Xj!!/#Z!Pna9PlM'i`%ZZA!!0b7]`G/63rf6]+J/WJ!LO:W#1s=)$BR>7%_*%q81+BO!!!&5!MD7V!M9>l!LNieW"A,o]Fgb:VublY!#,D6!N80U!!!&5!PJNnT0!#QkPtS`!UqoH!ODb+#.FX-!ODgr"oeW'!ODgr!l#Pl!O)Ug!Up-"!!0b5n2*K4T)\ilkPtS`!!"SO!ODgbkQ]'\cN1?Qn,i>.0*/B[!T4%R#4DT!!U'R)!Or07]`8*&irB&[%+lI!!PKr_!h0/i!!2Xp!PJN4!fI$YkVuZg5QDu18,shN!!#q?-ibGN!!0bm2Zi7E'IX4e0Ho<R!!!&5&mk[.]eBK%\c;^2!!!]7!Uqp,!M9>l!U'L`#1im^!Uq:o!oF$b!Up,n!RCeQ!U'XC!Or0'!U'RR!!!&5!!!,-*rl9@fE%NFblZZ%!PJWIQlH)+fF-U<kW;lSTJb%'!!0bC!PN"D",$XS!!/`L!!/\l/HM4=!K[9]L]@Ii!ODb,TE2e<hZ:%aTE43W^B(YAO9+MK^B(YAL]QZCT)l8!QpA,=BE=b,%[[9i!!!&5!PJN@!Rq)L*680&)X&--*p3M;!!0c8!PN"DT.0g@QiI*e^B(YAQiuRVNrcQfQnXR+BE>=<]`8)+6i[2f7*bmc=>O&]N`[?Xs&_emk5hml8-A;]?l/pK!!0b5Jm21S]iY78$31&,!!!%l1uDh7]N?N$OB="6!!0b>FTI-qbl@_LkQh.h#Q`]]a@ZF449OLD!!!&5TJQ\DT)\ilQiI*e[fNf9!MC50!S7@Y!LNuHTP+A!]aC\=])Vg3!!m]J!!1=E#V6Mu!Pna9]`8<<WW3#"!!0b6!!/5_zj95W#M?9"C!PJWJ",m3[:^!F8!$VW7!$Wgn!)k"J!$Y5>!PM;H"bZjU&#]Mn)t4m+TE##+^'1kR!LNif!!/\l+9AD@+0R_dpK@U-\,j*+!Osod!Os9H!LNnJ1>`,B#PS8*!N67D^j#ma!PMS9!V??l!!7[-!!0e6T)\oUp](9p^B(YAkQ.:[f)`2YJ1dH?NrcQgp]7i.a8qq7^]K#e!!0b<]`J$26i[2fn,NG?!!0e7T)\oUp](9p^B(YAn-5cpmfB`qkQ[peLB4^^!Vh-]!QY;7"c*51!!!&5!PJVh!K7!Y(iTINDu]l8!!!&5!M9JD!VcWpkPtXt!%e0OZN9OqNs<?"ZN97mcN_,bZN9OtcN_,bZN9h'Ns39!TE4gAJ-!^l]a^nAX8i5$0EI:;]`Q+P_Z0Z;!!0b6+p!W&#cJ*_!!0b=]`Q[`HN4$H!!!&5!!0c*]`Y>9,QIfF!e^Td]grKke,TIL^B'T$!j$&p!!!&5!M9Iq!VcWpn,NG?<roW.!Vc]Q#/:2F!Up-I!hTM"!Vck[!QY;7$`F,W!!!&5&-8L4[n?]$9,IX1+92JP!!9W&!!0b]!*p!5'JKQh0GL,Z&,uVDpAbme!PL`\].3j]T)k\f!PN.Z!OMh,!!!%l!ODh%"5a<t!ODh%*3V&W!MBJg!e:<m!PJ`j!W)isJ,fV/!Pna;Qj<`F632cN!PJIM!g<Ta!!!&5!R1Y.+rCjk]au:d'EA+6!!!%Y!!0b5!PLf"!J:@P!!!&5!KdHT!M]Wk!!!&5`rVG]is#35!!0b7!PKu`]j(O;"98E&!!!%lJ2@<%ZN't,k6I%KZN>X[`s8LCTE4gRJ-!^l]aX*+U&Y/ok5Z1t!#/67'NcoQ?icSo!J:AX!!0c0blQMu(^L*B!!!&5!!!%h+TMKB%LNCF((pc[]`bq:]Dqp4!!1=H!#-7U!Q6*^Wu(g:(]YZZ!"],<^]4DS!R2/\'Gq)U+9^9rp](:p!!1g]!"0nL!R1TUbn'jT(^L*B"S`"b4!4sQ"7HK)!Q5'7FVk)Y$RbutblA:T&-)\2!!!&5!R1\ibn'jT(^L*B!KR3p!!0bU!PK0I!PAC4($G\&!jDg;!!!&<!!1=]!"0o'!!3-3!K[imT)]E&=9&=%!!$C`LD0D)QWe&NBFDmF%f^2u?ic:$ZNKZ0NsE]+!MEO!%G5VJ!!!&5$h-PHblA3_&-)\2#QOnMYQ:+.+:[fFh[8j7`!Lqp(]XO:!!!&5!!0c4^&b#0!LNif!!/\lZN7!)V[%tXZN6Euf*;6UYQ:['!O-eL!!0b5]`G_F$ig8.!!!&5!PJNV!Ls,i#)E<)!"0n\!R1TU]at/D$31&,#QOnM^]Bf>+9\VL0+4./!Q5AMbnpE\+:nMR!"],<!!!&5!%e5OT)kSbVuQeu!!0e7ZN(#nk6A[%ZN6^"k6A[%ZN6Eors-RFYQ:[+!O-eL!!0b5^&bP?!LNif!!"SNYVZBRT)\ilVuQeu^B(YA!LPME#1im^ZN79`!q01k!ODg*!q/D#!ODg2TH=<gNrcQf!O*XL#/:2F!MBXh!P\ZA!N6(7Y]p2A!PNFQ!m1KCz_uLSR!PJWL$If%U!!!&5!OEX8!rj87!l,Ig+86;m#iKr,W$DY!5kfL5"fMI"!Jh/GL]t:kNXNW5^Na\u`rWM2E#[sp.]3<R'6"#6$MScF!!!&5!M9\2!f-gV#+#@s!f-ou2X^[Q!f.69!S@FW]`8+qZiC(,^B(YXn-Yd,^B(YNZZ'gm[lKKM!PNFUZW$o)f//fp!OH_I(<7K:!##IU]as"Fli7"d!!0bD'F"+/&BB"qQ[!a7DuktDZNIsek:jpW!PNG$(%_J+,Q@eNZZ$K-f0bT"!OH_H3O]jo!!0cP'G69(%_)Rr!OE97*Nqs4GQ8Cr!KJ8r53I00Vg&1TDukt9!PM9R&qg5b#LEL9)PA%j!!!&5O>IO@T)\imL]@DUpAqT%O>$VJk5hmjL^]%\fE&2X!!85_!!!&5O>IT7/H>bP!e:7N!!!%l!ODi`2U;TB!ODiX2U;HF!ODih$,6W;!O)W]!g!H8!!0b5]`FW'PQ1[aGQ8Bj!KK.#0V<T/QZrKD!!0b@ZN69jQRDM.!#'<&N_#def6D68k5hmuE!XK3!!!&5!OEF:#IbVLNrcS+E$"`ipNQZOG^)1i!KJ>t&'oK>.@1(AZZ$<@LG-[K!OH_e7#sEr!!0cPZP17WQSZAW!OH_P#HocC[fNgSE!N!F!!!&5GW6&[NXD\/Vg*.]NrcRKZZ(+AVa0,?!PNG@#J:$:kBHt?DuktQNX!gS[fC@J!!0b7ZNp+&h]fN1W"X,6(QWeC-u]4/cj9jE`t%#0!T5"%=U:C>$A](O!OE*:/Dh2'!!0cP`<aB^^Na\uQN=E`E%n0r)2A7!]l4,CbQ%VD^B(YGE";%n)?0`DZZ%)&k<cWY!OH_L7-?@uf)`3sE#&+.'Xn+LZZ$`,k;gih!OH_W);dd$!!0cP'*X$h.[PA[G]3\D!OF3S1UfiGrrKHFE%-h^!!!&5!ODj'#NmAIGQ8Cr!KJtf&W_0U!!!&5!%eN$T)sNCL]@DUQN=DoJ3io6QN=Do!f0>N",?o`YQBUsO9*u7!PJI7!O;\*^N]_lDuktMZRprWa"bm@!PNF["6':\4dQ2UZZ$5+^F-2c!#';o3&'fG,F<Y"G]3\D!ODm#'(7f`f)`3sE!V4H+o_SL'6"ob%I\NA!!!&5L_Buo+8:!f%%)9=a<UlO1Z*Ed&(go\%G1r:a9D?ANXCjKf6D68T)l8IE"fu0+.iS?ZZ$\pNu[<`!OH`-"d^I[!!0cPZO)irT/WqS!OH_J"IC\&cN1@kE!<F#!!!&5Dul(.ZNHP=h_^)h!#';i3!eDd,F<Y"G]3\D!ODj25L1#3!!0cPNWZ$VO*GUE^B(YHE%dPGYBU$\DukteZRi;)V_cX"!OH_j%Hf=0!!0cP]`P26F8u:A1?S\EZZ$')Nu@Be!#';]N\pc\Q[!HM!!0c"]a9>le,TILG^)1T!KIl_'<cY".e`tM]l6NOZN't+k5hmkE%RtHQZrKDG^)1U!PLJ%"hOa7!!86=!!/\lZN>p_k5r[)ZN?4NO"nBMYQBUgO9*u7!PJI7#Li_R!!!&5!!/^,^&j)j!VcWq!!"SN!ODiX"P3dc!ODh%"P3jm!ODiX2X_cL!O)W]!g!H8!!0b5ZN7rDQOoJa!OH_c&]ZklGQ8Cr!KJ/?!p=fI!!!&5!ODjO7`R@cGQ8Cr!KJo'"m:,L!!!&5!OE-'1WM34LB4`#E!G2\$`=$d'6"fO4-t0lG]3\D!##Ql]e8JmirB&[GQ8BZ!KJ\V2g>_ga:$?-a9;8Dmg?9"VdaTKi!B*8"i+7I$ciX9!!!&5!ODs:)WsHENrcS+ZZ'OcV^%N/!OH_G"6Ui2!!0cPT*^GVL]@DU!!"SP!ODiX0]*)$!ODiX-/SgN!O)W]!g!H8!!0b5'*YrIcOQ<BDun':$#g=:$J5^,GTK68=U^sJ"i(>@!ODg:3<(7jf)`3sE":JO!!!&5!KI;_$28[`55tYiZZ$uKV_>L[!PNG$$2ac'.^oGbZZ%+\k6gYY!OH`8#eq"u`rWMcE!H%M!!!&5!RqA0QZrguDun'D#bV[+^^dRT*^-+sJ9V9k!N9-1%>Y;JQZ-mo!!1%N!#';ON^j%nhfs)@NrcRH]l5>?gAh3ScN1?UE$N+>/'e7&ZZ$T(s!Phf!VUI?29uBF"e[_l!M9u)!f-gVJ,fR$^B(YBJ-=1&Y5ts2LdLPcfE&2X!!85_!!!&5!ODg.7.28]Y5ttKE#cV(7(33'ZZ&+shad\I!PNG@"Jc"t%B';f'18[B8'cD[G]3\D!ODfn08BnTrrKHFE"np50#%Fn]l4/,iW&rZ!!0b71^L/_!!!(^!!!%l!%e8.ZN>XWVZsm:ZN>Y.VZP`VZN?4>a$uBrYQBUnO9*u7!PJI7!eUIQ+h%KYZZ%8kpHaQ8!OH_I5,U7+!!0cPZNJn]a$60s!OH`1"c#LLGQ8Cr!PKkI"loX`LNie4DuktMZQ#fef/15C!OH`9#F@lGNrcS+E$_\$!!!&5!PJN^".B2i/[kbeZZ&$^f/&Hg!OH_\4.eRk!!0cP]`ma&lMpnc!!"SO!M9FD!f-gV#/:2F!e;\c5N`'R!f.*=!S@FW]`8+qnc/XjpAqT+E$1b^*6/)dZZ$&FQR^#V!PNFe"G-UR!!!%lO>I#pZN't,Y6)`FZN?3j/Y<g[!O)W]!g!H8!!0b5'*6ee+h)[rG]3\D!OG%p*nM0_VZF,CE')Z@G\I-gG]3\D!##s2NXhD#hfs)@`rWM"E':BB!!!&5pBV&bE%K$h&(^igZZ$nFcO0CI!OH_n+/^ugf)`3sE#FuL!!!&5!PJc5"bQdT!!0kl!!/\l'`kfE7GeI9QV@M%\-\6!!Jjke#`&bZa?IXJ1BGPt6'hVn!KI3%!QY;W!OE.53M/d-!O)U7!RLk'!!0b56ijXp4TGH^BP7AWZN'uE^F0$^!OH_JYWj:tGQ9`3!PKTL$^(Ji!!!%l!PSVk!!2ip"LeE<!VeX@,hE('!f.&i!S@FW]`8+qg&M*R!!0b:]`Q+PMZ<_X!!0b8ZNBClrtr3G!OH_t1\VZoGQ8Cr!KK:g+l@N`(B4EA]l6:;WW3#"!!0b<'*\754MQ+@G]3\D!OE9^$EjnoT)l9;E%\%R7CN<(ZZ%SLpF<oY!OH`-*rcPu!!0cPZO!$#[k[=P!#';kN]aLiO*GUEcN1?SE#@1d!!!&5!KI?D"1NMo*iB%F'6#o1$^Z)<G]3\D!PKh`#.ad7!!!%lO>I#pZN't,h`p9)ZN?4DhaNS,YQBU]O9*u7!PJI7$aKa4!!!&5!PJl)%#P#b7IL8`'6!u-%$,W5G]3\D!ODt(%^-Z:!!0cP1]`a>!!!(^!!!%l!ODi`%`^fs!ODih)ZLNG!ODih&GI!E!O)W]!g!H8!!0b5T+-q`\,ZL0%`f@c!QYE4YTKc;\6/e4fFRHT-\kk4!QY;_T)m"hNWI3Ba8rdOZPMF!`sC8tYQ;6nciJq'!PJI6"M4X6z"TotL!eCCE]`c!^S,`NiMu[,n!$Wfm1'e,H]c\.?oDejl!!/]#ZN>XW5egA$!ODiX41?=#!MBLE!f-m(!PJNt$2ac'!!!&5!PAKX%]Bf;!PJfd"Jc"t!!!&5!PJ]U+uB9"]a,_\PQ1[af)^[.5QZU+!!!&5b[1j=3!Pua!!!&5LboLXT)\imJ,fQM!!0e8ZN($qmfC0(ZN>q4mfpN-ZN9PF[l9?KTE9WHL]Pj']aiBjMuWhY&-;e8[nA+L9,IX1+92JP!!!&5!L4)kS59TK!!0bA]`j>pS,`Ni($Aa/!Pe`O`rWt3NWHp4^]CY?ZSh1PNsg^DYQ:s3n,\%?!PJID"ge70"h4O?5QDu.5QSkAKO4]Z3!/OO!!!&5!K7JH]`8$4KE(uQa8q_3\-]ANquOGJ%\OXJ!!!&5LboCMT)\imJ,fQM!!0e8ZN($qf.E$aZN>pff*8tjZN9P#+#q:A!O)WU!f-m(!!0b55n9CbS6,gl!!0b<+q:UR`Y`Xp!!$s=fH:/<pAbm5!#.[&'M'7J:]e*+5Z.Sf!!!&56sg/Z]f68sU]:Aq!!0e>T)\o]J,fQMf)`2Z!Us.n0:r9O!e;B%!RLk?#1s!5!!!&5!PJd:"loX`hZB9S!PLH/$iBu)(]\bQ(h`mn!,)DQoDuT)]`8lXX8i5$:]Zpa4)bMi5fX,>!$VQe!PK$e$D[Y%./s8]]Du5>!PM#4$fh9f!!!%l!O`$5!PftY!PAWo!"A'9!!!&5!PJ`n$EO4-!!9W&k5Z2e!PM;3"hXg8!!!&5!M9IQ!e:7N!hTM"!e:o="ePh%!e;TK!RLkO]`8+i9)nqmTP+@f!#,D;]l47<KE(uQ!!0b>[nBBpc:@p:8/NHM!!!&5!R;%*]kA6*qu?]t!!0b?!PJU9#(usV7@sPo!PJNL!hoYp!!!%l!%e8&ZN9h$T*3aHZN9h7cT1.hYQB=YL]Pj'!PJI7#cn"+Y5u";!PMkE$EO4-!!:bF!PJs3#+PYnp](:G!!/\mZN>XWcN_,bZN9h>`s0!RTE9WYL]Pj']`sQ"iW&rZ!!0b8!PLPp'G:BG3!JaN7^i@3pAbmm!*r,!PrJr[E%[a`!PJ^8"4I5MVZPX\!PM;5!h0/i#QOnM!!0bM]`OW&]Dqp4#jbn']jLl=RfEEh!!0e:T)\o]J,fQM<roW/!UqK*#/:2F!e;Ze!Oi*9!e;u6!RLkO]`8+iUAt8p!!1=I+q1CU+qPjs+rEiN`#qkV8,rVj8/M=N!N,o3Y5f8-!PM;5"Hrfc!!9W&!!0cH]E>bG(^/"_!!0b5T*FW^J,fQM^B(YBJ0</BT)l8"J33K,ciL?P!!7rW!!!&5(aq-H!!0bULbr!0T)\imJ,fQM^B(YBJ-![pLB4^_L]PO'LB4^_J03AGciL?P!!7rW!!!&5!#,J!!Pec?!!!&5!PJZr"g\1/pB'Yf!PM;o/MmG-!VcWp!!!%l!ODiX)4q,J!ODh%%At<"!O)WU!f-m(!!0b5+p>1O&,77I#Hn+A!!0c0i"TAq3!?,f&0Lrs!!!&5U0@f]!Pe[:!!!&5!!0cJ!LPYC".0,1"n4T5#+,P.(bbq6!!!&5!#,X,]kB4rPQ1[a!!/#\!#,D5]f6ne_Z0Z;!!/\r^&ifb!Up'i7ffpr!Uq)4"O@+T!e<2,!RLkO]`8+il2Ueb!!0b:])n`-Nrk1>!PM;g"g\1/!%7l1!PJWC".T>k!!9W&!!0b]!PMA2!h')h!!!&5!KdMb!rN$X!!!&5!M9Cf!e:7N!hTM"ZN>Ya[g'SJZN>XiV`!?4YQB=[L]Pj'!PJI7]lO/RK)blP`rVG-]m;q,o)JakY5f7?!#-g_'JMN03&A#D!!!&5Lh?k]$A_4R=:Y+Ba8r[cJ.1'4:]M[M!!1"\!$Xr6!PM#@!Q+m;!N,o3!nU(Y!PK<M]0$&nLBi_<!PNFT"j6lG/Va<?!#Ti<!!0bE?O$'$!f$fF!!0bm?O)JhBHPi1!!!&5!K7-O"ipZD&-*Pi-ieHa!!9W&!!0be-4#e8(`3;C(XE'q!!0bm]a"$-dJs7J!#Th[!!0bE]``oe.KBGL!!!&5!!0bI!PNOS"Mt-=(^]CM!!0be!PMA2#MT4Yn,NL'!M9>m!e:7N"/c1+!Up-)4i[T0!e:F"!RLk?#06k%!!!&5!KdPd]aOm+P5kR`MZLEj=:aj'!!!&5!KdZ)]lF*Dq>^Kr!!0b7!JjnZ!K'%\!!0bu!!C[Mz!gs*6"M1--!!!&5!!m]u$h$^g#V6Mm!Pna9]`8<<a:IJ8]cEID$31&,zTE>8r".TMs]`bp:"98E&#R.D)!!1=M!LXK1_$CSP!!iQ*QlVOt!"%!ZzRg]<$!PJWIU'(Gr!!!9*!!!:J#QOnA(?cM6%tGUtz"Tec+"M;E>!!!&5!PJU5$2ac'\,ZL\!!/\nZN@oB^B95lZN@WLmh+FXYQDT^a9%G(!PJI7#h/hS!!!&5!#,Y(!LO>J&#]Mr!MB\m-O>Mi!*olG!K[E5$g.PU]a0R1ZiC(,!!"ST!M9G'!l+d9!T*pa!k8?9^D?pWYQDTDa9%G(!PJI7.l75+!k8Js!K.oT/g*[b+ojk.'L3K85Q[PX!!!&5O@'&-GV/q%!!9W&[n?aP!Jg^WO>d.R!!0b6!PM)*"H3<\#e0oY"0aBWVu`iH6NN8L2:hl-!!0bE"U(n,"7H8h!PJc'"P`tW!!!%YO9*N)GSK$9!!9W&!PJN$]a=`>,QIfF(][*3!mgt84&?C-!hTgM!*p,fT0NM.^]4?8rrKG-^btQ_rrKG-!l,<I!g!GU!l+lY!!!&5!PJN@"OmDO\,ZL\!!/\nZN@oB`s09ZZN@WhT,HemYQDTDa9%G(!PJI7!NQ2#mr/<NE'k0J]b!'Qg].<T!!0b7U&p8R!!!9*!!9W&!k1f6!#-7M]c\a'bQ%VDf)QKc]`FcA!!B/#!KdECRfEJN!!0b7!JjYS3#i1$!!!&5!P8N2!VZY[!PJN,!Q+m;!eLHb]f6n5)uos>!!9W&T)]R5!PN.hSSA-)^H`>25QSk`!PJI5e9V)p#iJecLB&#r!PN.MBPIMIbl@`/8-f1r#Z(LFT)\oQ!#/N:3+,.@Z4;Bb^AnrK!#-h!>qcGK]c_\&irB&[!!/\n^&l(M!jDY*!m!1u!ODb+(Z,G3!ODj3(Z,;O!ODjK!Ui89!MBM0!ltG)!PJZH!i,er!'gRI!PJNo!mCWE!!!%Y!!0n9!L3Wj!MDiQ!PJQg!f?sX!$D<)!PJQPQnn^BYRR6+3rt-H)NP/S!PJ]i!qQBl!!!&5!%e82T)uM&^]4?8!m!2"!ODb+,EF[B!ODjK\0I&)^B(YB^a"mErrKG-^_OloNrcQg^]C&uO9)!Uhu^t$!!0b=!R!"o']/qiGUa0\!Jgc\Vu`98'EPE=TE<^F!!0b61]lA2!!!&p!!!%l^MO#@mfJ"Q+2:to#3Z,=pB#k$NWO_=J-#EGZNdT7QS+m2('3nQ!f-l]!PJa5"1%t-!!!&5?idAr!L43-lOYlP!!0b88H[rPGQG#[%\Nit/cPj%!!!&5!K7/m]`8$4])Vg3!!/\n^&l(M!jDY*!m!1u!ODb+YQU"gT)l8"a97P^^B(YB^c&(oO9)Qe!!:4C!!!&5!#,Rb]atn@MZ<_X!!"SQ!M9G'!l+d95dpd#!k8Jr!lk>J!l,&%&+9P*!l+io!g!GU!r)i<!!!&5!PJW9!"o83z&Hr7d"M4%:!!!&50QdEW+q9>.a>a<YVu`7f4$Z=Hn,r]0!!#q#0EK?NIkVe%FYG3l]at/t/-#YN!!!:I!!E"=T)`""!PK<ON"2K\!!0b7+p4V@'F6Yu5QQoG0E;)O!!!&5!M9IQ/U.6qD/]ITLB33D(=-/=1I(ts0>@OD!KI2:mfA5`QN=E?GT"g3O@TDV!PJI6]lF)QbQ%VD!!0b7T)niia8c2@!!"SO!ODgB"oe_W!ODgJ"oeeA!ODgB#PSJt!MBJ7!RLk7!PJTn/R/8U!Pe[8!!!%l!ODgJ!T*q8!ODgJaB&E"^B(YA!Phb@7eZqi!QYJc!LNn\"c*3+!!!&5a<:VtL`4&2!!0bL]`FQ%P5kR`%B'sA!N6.Q#Uf_3!%;t4!jH;Kctj7I+:.0:%Zg_!!#0Yh;`G#s]dNj\iW&rZ-iqKlFXT0J+qO`.]bi^//-#YN!!!%l!ODgJ$BG;H!ODgJ!QP8f!O)UG!RLk7!!0b5]`Fl.o)Jak!!0b6."=Vb!QHfA/H>c!!Pe[8!!!%l!ODgJ"ht8V!ODgB"G[2B!O)UG!RLk7!!0b5T)kD]a8c2@!RNY(!PSO6!!0S0!VZW$!RM(,#/:2F!Or?#!q-/r!QYMl!LNn\$]"i1!!!&5s%!i%!)l,e!R!.s0J3;Y0IS?!!!!&5!!!!+!uh4?j95SV"M4"%!!!&5!R1bS"Fq$`5RXN'"Rp4][1EK!kR"Ho;%JHb]g)PtS,`NiLB3Y@!n91K!!!&5!#,Ob'Hf'd-kq^B"h+IGF9#T#!!0bU]`Ia*$31&,cWgL_!PLGoT-F=9ci=%H!!"SO!ODgJ"fDFj!ODgJ#,aK=!ODgR7%YUJ!MBJ?!S@FG!PJlV!SdYT!!!&5fLZ23)mEuZ!!!&5+9@T5!K9&>_#OH8!!iQ*.H^[F!PJMq!R(ND!!!%lLbo-_ZN't+O9_*Qh]q:bO9)E`!PJI61ck[;!!!&P!!!%l!ODgR!T*q8!ODgR!T++5!ODgZ!m_+t!MBJ?!S@FG!PJs#!Q4s<!!!&5!!0cK!MW3ebl@_L&-)\2#QhJ.!!0bM!PM)*!TX4\O>3Y:1Cgnq*<-&$!KI2B!K[><!ODi_#N%qA!O)TT!LO;:!!0b5]`Ecd"98E&!!!%lfJEWUZN't+mj-KcZN8\_cN3b@ZN8\\!l&(C!MBJ?!S@FG!PJieTEG5pO8q*<!!0b6]`GtM9E5%n5S*o>!R_"]!PJIE]lF)Qdf9@K!!0b6+p!Q$+qR!>7MnYr]g)PtK)blP(]Y`]!!0b=1]c;1!!!&P!!!%l!ODgR*g\LO!ODgZ#H&m"!ODgZ+O:2"!MBJ?!S@FG!PJm9d!>Zl$0M9h!PJMq!J:@Pz\/lUiWNPTfV<aP%m-O')\"nq6P2V.oiIll<iSiaqL:i6!L96BCKS>TJiMtjiL#M"LMmnGRP2V.tiIll<iSiaqL:i6!L96BCKS>TJiMtji!!&^.!!!!>z!!!!,zs8Tj=!!!*$!!#?is8W((!!!!>z!!!!&z!!!!Rs8W-!s8T$j!!!48!!$\V!!!"Cs8VsT!!!(V5)S84559q758Rp656QG14sdOG5*[kh5*QR15:S[8=nc^#g/C=/F&M;]s6=,1/ZZsdL?&f,0#D;qd;OoB'+!j4"JF(')#u^dFk+,1e+V3A)$Wqok>%TW0^\;i3,eP';&<+!))"i*dTg)bkgCVk%iILRbKSn[>NAjIjlYA`;<1>%4p`)TrEUi2o@bg&1Jo]#"rS7TYXh'8#8qC@TA&bQ)1BC%%/I48\&H'6V?RnWe7AKHdfp]!o,jMKRLC'a,/=jNUsl_.;)g39M[:7((kcf_"r:O/C>B47drjQ55Z1%[P2H]c3hS(SZFd72;$TtZ;%6Ad;:AAG;%-;.=U,ff8\:o*',d(Gi;=C(ksR&RqVEDmcqGM9):0*o)-1#T1?.K_.;Qe@2qQm=,>mQ.4dcHk)1594=I'X0E[X""I&eQg'N'Vu@_)d^dVdI';'JlP!=0RLF7t9%;+[q>l3J78h+p93;(`VR56i&r8ng:N/l;lP@o3_5&Ub$)4c3W!+:rh+)0JdZ-Lr/Z$Q19g:QY"6r0frW;4cK,p')B?+:>UN;$0\?)-]tK46(qt);YpdCo4$5)&"D5;mh/]o7HYT3,/sAN)g$DI8Pk*i(?T`gBJN9ANmoG;%QV&))>%i3i,RWLldqVgBJP5RI)r()-g%#_kLrVrY;XTj+N;?#oU&a];Pr(1P3,0OTcV&olTV['9*26,[BMP7;iMNFD7npFm6DL"W8CZ1)N5uTElE!*1D71;#sIN;$&d+;$'V.)&#j^s3^BI<p!%,jl!p<)<=CBPtQ$(*FXX=Q>.3b)-Tm#=dJ%WEZuk]J#s?h;,'7g))+o"':s4H%N,UNGg01lp?(X$D"Ma++Ap*3js:NU6srNVa)Tsr?:9%I*Z,c`$f7tYMocEk1t.82n(e(uIGOpo):Eec>(7Y$lF)+_YYjk37Su-B[=AT%Ols\^KQG90%oFTL2VAETP,>AL#FZ1B$Q1Ek;D'E+>F$:\)/K_1aX1:+i16a1m0Bcqdt,5h;-Ae^)'2XJ=8_^r?aH9J1cPs_J^jk1%c3&Wq:?(g3`-Yi)?3RTF8Vg>6E#[a)(e^lg.aO/X]#QEK^[\OLNgc']j:p]na=8+;%calJ-QrBOob3d5>fu=)c8%];>jLqrq<CF$6KNk\'h#u&fEnMWo.0&Y?Fq!Q-W+FKL9$A&/dgVD/IQ]gjj0Z>HdUFoXS[7:)4?XqX3J.Du+'0rp\8;rkGKYI/a)F!uZ$?X%lcA#9!JsUq+g"Wsn0Z'H-o,g*WrZ_>fqls$_lnpu7k7f6iTZ)?-_<U2*R7DKM<grC2)A!3>Mmb<;p+#T6rGo@6$7CsMXEI/\l$"rRKf1cR]^33.-Qe-R#fKSdc&N>pHC)>kn`qeC6U/:n0GSGF%ZX,`(-HQrHDiCC$b;8:%qUXcD"X8Ynqd&ZZBI,@g#`_ff#7+hb^i5gD[%N0RiIdE8Q<a)Z`BZ@GYF/u1cTFi(@TAhf#/D,K;LY`l0%bQhn))7/!^cdSdH?F!qmr%<PCM-)8X6iQ\$lT%qlUfSmBRF4&np])m&fE],:O@?Ic$@X)SH?9j1J]oZ+02;upB;H0SU*1+E[:r._cts0#S7l@772Xo=PC7p>="Ft;3KO/)/E)W^Er[i$PWqJNA?/bI0ak!oEOhiqspdi[u1J/L9jI<2[L?G,&bn/A)d.QFAiMackJq7<!C>(*p<bF;59]FX%6)Q$5rg.I;d-Zr^L?4rDE:j)?,i#MM^=%0!HSqLTHTT(97f-pW9K8);C4Q>ND(\EEoToAAGZa>"Odj7>W$&FF:XoA`]_1+pPOB4H&qG1]m9/3/RV:Hl_d4.8_2Z2Y%4nY)S//(7bKSr@tA-ee&<.F^T!Nj)iMN<i]B"O:82g`&&#CGY7uZnO7m=AS]O(195#5rj8_amo^/=a8(D6gi]H0_V1@HN!L;F\XE(2WtG2oC/P!/J?)RFHppp/&fFB,'4.86\nV[6)h3l1T0l!sU3rIhrYhh')?06.X,9O[[O+L%mAmA%X!aqSG#A7L<<N[IEDit5D8NT$WWO-^$5rm:UP!h;X^Fg_P#86Y9sY!@X&?P!KWG)6)37Yo'5dgW)U6UMFK<YUCP[B;g8iIqjou_&U$i);;>O/"re[\&Y"TKH:'C_cL)#8b&fNYIN>Rm\rb/?<;?$Hn/I`Sq]1PM"\_gT3U/c"reWpR\maiq5i__YRm0X_4deU/h_FBB',7POgBAJ/KHr5F?A_sRhR(W_B-1Igd4Ur@(-iT?eNmTbq*TWcm)4".5`ki/idsm@#']fZ>\,JUJ0)2WD)5n+I"PR;o0Q?Mm.a#]Z"W@/:,Hco]X)V!E"r[8MI;R!=*Z981%WSZ6RnO=r!)fC.d25GN/HjNgTG]:_/JtKn192[#p+rcK>U9q!pa9_*>qF7ag+$Flo;fk#rYV^6#:g6$0B9n'4@.87X3BSMGH:^MndZP8M[epVP_[[.PRR)>@*<p9;>O\$;?Rjq;.75&H4(UcV6kut/Yk-!$*0KW4TBf+R:cpGXVpT8R>A]q#8u9Seb/.])=:ZU8;HXC_P:LX=0U^p%iIuQVYXR"QWd6\UtAel),XRNq*qCne,Fstf4ot,re%9O#uLmE4K26m):GdjiV8K@`Cq,j(E!<J<2_*=73PYN<f7]DI6JNh?i(l<)0cL:-!qK"S6QR<6scApPYVB))?!@3jl)p?7J]k"4]0$;;>pj%CCD))QI:6[Ni[$%)(A6:SFqOH&A^C/VUD1K+uCPf1'\\D\")>&&/jJk04tF_Ud2AC-Vu\-X1k<_fj"e#njb%F!38%[[0%<F#oNk[JD^*ZKlP`5nd?<b!;L(sBl?>rlVXd")>[pFdl%(6@M!'=quHM&)0opaaE#`33)LM1N)g$DI8Pk*q.`2;F%,[=oiFRC'cH]Jd0""6=>S[lo.a2(>R/I:h@b+rnJA7QH)h$Er4B$.nqmbl8)-?[f$rq*;>q60X7]=HhbhH1R#)@l0DV<3M:<oJ$fSRj\uQ=B+pT!f*RL=M$lKPA,X-q`KG?;n,7pNnX/d/>`2g^1C'ki?dO%f8=!7(99EQ1.Ki+MZ)>p50Vh3e;T/K5'Q+'8rQRYB+^_7U#p)T)Cb,gu&eHLpPhMSbm),Zh)0]*0SaBAR!;+lg!EY'+qTG>eQT7lq[^GjDuX,tj8+]83q;7!d5)8f<PnWQ<F7]t6Rr'O$nXG>A0GJN9G]UpuT1Wd"#^W\o;4Skhco_pVY.Cf-6RIh`:'^a;^RA:[s?g42YRJ.B#!R$ObPa)B;&r;+.k`-C>)9V9;K1dC&).fm5Rp6:b)K)0/So,D\X+*u(#oW`u[f$t&#K<aT;9Mh#HjP0,K-D!I^?9a\Y@Bk&][BRIVFkAp&K,65Y`-W$\MX2]P)f)UX<%)9qpDGY#8tZ]b;a\()&CEJdk4Z0g7FJ!h?/`Uis6Nh73:jT;&WQl)&uM%(QE28bb16Q&QK8X3Itp&+=D)s;4_4sWX'L*]S[2A)2>aq#=%bhWGa^T13/C<X)]CH#T<VIkePgnB(0_#Q&Z4i[>jT/W$C>hX%lM!$Q8r=GeXtLD%m<[I"ii1<Dd&YDaG!Q7Vi-*?h=Q^92Gq;j/X'j)9GbR!+t:$-H>u20j<+,E`(K2Z)aNpri`C$82:Pjj?[i9C.e=X^87lEHj`5f',a;QP&P,sONU)@K:bHCL,;X[)59d/#Atal*l?=BqeE08X?-t2%sFKYL/9'/!D0jD'2]JK*\A*EP,t)+)ljPISrp)L*3'\?)31?O6Q2!mG*X;T)%AS/g--8Z_srZR)/+tVG)/s":Gn9@X8AHg8?;X1rfjJ_)?0K5Src>NX!dM4TXFb:Zm5CA)>oAmh_dt/#oR\Naqm"g`jl+0Hp^c)s*P67ro:$a)?-;0@JgHA7(AT$9GE;eN_uE2#T9X>_;=[t?J%m_4i%sQIplC5I+tc=HXX)SFN^t$A5f9#&fJ;X%+'&M%:D^'52o%RFD+/$$5p-r9HUU;8[Z5aTR;?d)+ma[Km=mJ3`7\j%iGXM+KA@m&--421R3.g)$+``!rBV:&4=9/)$WqsDRF-bjH8WD;20PF!tcE$2F&%a\OrBF3d#q2]ssbj3/%_XQ!4J<E^S%brD]g)hGOFnrPknrLTh(&[:ahP;<DuerlV9>1G^g2__X))c3tT*)LeV"L34.FX(IJB#oW^CCp4rB:DYGo&2JWm&mtq^W@b)iZQ:!*Oa>j#JEPR3gN:a#XhBZVY!-X6UTnW!V_`4t)>R,jL7nDMW!N*d"W>T,eE#g7;/K/erl2"#X8FWOf2;B8#oVPrOPKS,O'mh9r%tHs$7lH#ZbiF`[8A@X)?(&F(F\,K24.bn)[1#Nr^j./n50`oda/:<BD-X3X2EO&3ii4X+r2'qEiKbBHQ=XIA@XdmA.pI3D4N).X(Y?PCTIHU%L3mM9A4_;%2ltul0(n4Cd.jZnMOh+:C8!%D'pA9HDW6oX+F2,/$%U1Hk@7o)="YmQK&IO'?5^$R-b]a)?)1f(@#<52aH:i_da&laZ?jMj0#\irf=)t)<XVmB6^!X7ECQd=gFRVX#,@.%N57peg[^[bQ"-p_J"m!4KF&1X(5*,$5qUMGPf72o$1:(&/ifV+?rq1-'<B^#lo.`!/+,Q)(1)bZMoU`)8B:UoW(gsZBiO#2i4bL+eJiS`,Mb398O#oGbHgCHljLbI17'Ua:#X;jFNe[eddKM)$A*1AU%Ag=N$Cn7#mMU)(^QR1YW3@R-"CA)*(A.0naTh;F<Hq&Y)l.(.q`%!mb$V)0oP@=oDEK$p,B-"SYB4EGc3DFJlf\3bktdGk/@^GuD<MI*eWqCII:A@)D\9:K[V8GH70:jOC703gidEg_1Q/[d$<:TRCKN]?"U6U0VA:#oRd#_\4]_bcUp]@0mgMO.a8>6)>1f;1u9VpD'_lI&l+$%h'>WLrepHY=I@0I,MtdJZC_%X2%U0@B9:Mrm.X]X4`H4'H+VaC:5.k;%EsTDm^RCBG(aT<gX`1)5$u1&lpt"2Y-"q+D:7_)0'eHjlo;B7GgBQ:9->i)5hkV)>bVYX5G`8$lLiu:\`(Zjj\L8E'!:UCTBj#=reg6:Z"6E$5pV/Z!W%74'=+b\uVKlJ--\aQ`D41SjXIq,1/M3rL9Pu3]&?\j?(&!BfIVfV`^Y`)`8LGeTf/"&L86'OD]\[5p$2IKFiu<$5=*eP$`o0Cf5UcmSrXM)$")J<426*n;Q;DG)_"?#T<W]`ET`ZeFSOg)?*"(`E^(bcc@VLk"Ik[['H`33fF=^NY$no$lO.Wltd?>lM!M0Z9ftnbfn<Um**\t#9eK0'!'qfr_ffoNiSdLa31O_,<#]B$O@UMLO&7'I/)!4*ILT:;8lBY'-2IM"T])N+X2Ai1q.]:+:_;REf:)<rXu9.<FZ7OG#bI9X#a*H<3,uV;+=F^edNG4)UP@TMUW3!);BptOA!k0'mHN/QVA>B).\aj)4utjiqPqM_Fk'Sa?L;8"W@>;$Ff[4)7r`smjD]R5mQ;oVQ4=Z4qAP+T;]-C3M?lAOfOc-];lY*I)Ah\]hou4)>G/O@h?BW@D)j_8]Qp%0^fJhKhDd`&6bYFKj+Zo=?Zs-iNd3!Sc]j[$Q5uL<9^/I7TQ,7)8qq5+HCaXHQk9lFJh6i)'Uai(S%uB";uEYX-IE,#9!?Xf.EP])4H89,"N1Q(%FV$F]_N8!u\@^)'#_70^BMZ&(VA\^KHtn)?-S8B]XCEi0E(3);Rt-BOP]alqPK]Hr*>%r#ugJ:"&R2;85q:)DHP;C=*5'`b<c(Al2B%;>pj%riW;d"W?Aub(%*/21g58I.RiJP>OPQX8I[PoW.s[$P+-SO:\4'CaqPLrrDsl#T7#=T)*"`P=]"[<&k4%oK$pY"rZY$>/i]QP'hM%rgg)Wk,WQ#I,.ZuKr[C2);7se70K@j=0\8Q+6a1O(Wk2+$"*O67B=YR))Y:h:<dqilM9-l8c:n(m!0-[<MJ>Ic)k5Q9o[+kR8H7S$Q6'DD8fbug#VQG):;,*@+'H*4(Ja;)n5L$Fr^WD]rO9$JHd"Z(NF*-Y`c&![G23/On-duQ%$g));r_H!2OB=0`cWc+I?OoRbFg4Z&f80R:47gX/"!fX*jjMrhHN)+E%i0Q[9)K!.U%;T0sMGX)X[^SPes,()a\\6=)[f9BH]RJ:)`^[c;SR\8Pee#T7+>EYJgcIBY!(*N05]'EE!^&K+aP;CX-T;R-I\>Asjc6KnpJ$3hA\hE;*m":c;,j3e-<m9LpnimfE(rgBh+;>tF5rZS?5OP^E`-1JRZW;7s#N<L3(&eH:#"VqF_+sgr`,,]]>)-//5ck_cNp9q&rLTBAZ$jdgN.mt>gK=S+J;?#4K)0JeaaP#SU)?,Dl4g\N$!<H8_nO9J\^/8!0^oR'(1G^6S1G^gC*#ZN?DfF"3jKi959r[G_jfiBB;R5d\b-"Kg9rQQX)>R+0,[ZiPP#`P8"]'deM-D>FH!ZFF:TJ44)>@#*bXK&K<-W2X&K/HIJfK2GbE9<.`'0kHpo:o\r^X"E$lSn=Zf@"84?=hiXuF%5"rY]`WEg-N%N1s$_@\H[lb+8garhe0ApdW=qCJ[G;69#_mKsgsX/Uff-+4`_rb&;#cSuIRrL]q$mLH67j-#(M8ZS[&X%ZChkH"TP]D\dh=bd;$EQOr';')Xa+VG[UCB@@Omjn?AGR@hcjUTcU)2_9cCbc8,=,%QGB+bCL?\\rE[S^(&!u\4<),l8IY2=7./t\Gm`7G3T\8\Lh;?#@O)6$IZ5/`!VX'e9k:ojS8rkkf8"FQJ3q/*0;BMi_GHmJt71]To=YYgof%iM$;On^hZ%apSsn^8S7):%T)j"k-H;?#IRmfOFr%2i."#Sd*8%_^DgG:>?iq&?Ar)>X]@`_Cjh?"d!Ee7R+?)-c'I>sSo0mW\W6E+`U8I!"D_!uVKh;>Nr<%s<8$I!-QY\uQp3bfq?kbfn;T#8t;S*9=-!X6:.uR8KYd)>]]#K7^oHY:a!=)5:0FStK'kWY+6[X./8eI)"R>%N/0U2'IF#RN"0-57"mU%N.%;-H_MLT`-sQ,l=R3CJcdm:JkCp)?)q&3ejC>![>c1(;8h:Hn-p(%2i(O;oE5A`9,Gn>P2#D^R2&G;Af]WkC!2ncOR"S^]4?F1_^hB6D!s`aFloN^OX@I3K(+4;4&t+X'njGV,@(d*33mQ@LX4SYk/3T%/QrsUus#1;>;-3rirNjX8:tZ&K1Hk0SVrt3Xg,-&FXuq3>l50f+T#2LkEu*N%3PPRu>T6QjiW=QE/X=)7WQ3B#_^n<+?;arI>:o-o_9Z0YDisbc>l_r*QN(X'r>^#oWK).5d,/VLC!JB=`IML%GWgYc%7(,>mL"#8oU#bC'5P;.$khrmRq8@%.691CG(D<l_7];*__4$lP6r25#gSXcEN`470)EB#bE"dd,9u7aaUIbK\fhrk>EP)4!amT3>n4)<ZD9>lt9:n2bIO"q_aB"aea851\B%'i!%C"3Aj2Wt"*:!"\qk;8.P\j;/]G,d7cr[(M"j.ZuXLZ)Ni])l5X\6;`O5#8uMu7hmIrX,I76$lSj,d$nLEIBM1<_l?XTb,[6o'a>QS1[3KCI!AM"f;gC9r(=$eeP$MlrQu]umU-mKeCZ6:m]-r9ANtS@<NFtRj:`F1SjRU=M>gc+LK.PIS]=+6mnm'!X8M^m*.7`tEs<L8JkBU!E<dB1"h+NM%N2M=)-EI3S8Jfn'n2&LLoU\.*XWea">f`W%DBiY*!@-DX2cHe0rq+I3"-](!0)(U,lh,;)3[AoU*YU,!tbf<K*/#?E!USfZC;A/#8t7QR>9sO)%bMWV(GFH)$,.j5hq;'BLof1BW24Sd@sfVGrpCp)?*L6!6!+f(NERLSHBa=!uXU$X7V&""r[F.IBV6"EI;8-R@5=4R@0J2+Aoo,ED6`W><7M%X0%dO7B?3+))kF-g";N!`,m`os4JW;X'[@I.]`;XmfOI+"?P8@HZBK37c4R%X^Pp^YnJ#F_B*s`8-HiN3?:W`Yo>pb'H+9t-o=`L+cKnQ&I*!;15(,j#mt:Y$lO(_?G%S<70ru"7#+"TRo/-A)?+l]5Kp\@nkl2[$5q8hFn<bqjmZlM[8H8Q-rF>K)4O7!#k?(E[GAG%#8q.lqAb2$)5Ek'm-d+DIFeFL)@IFPn,:T<BE)a($5q/4"hQT4MOM#l0WPAnn-U&+$Yl=TKROgSqCATUkc<K9"pu7E5?aB_SRDpNrY-53]?H?m1sI-JK)VJK3]'&0X#Hr"5uIS=)7jR`A/k"BHmW4a%iGG.UAS"RY&\5Y\'\a')*h(g5[a0oCs0Ce?p^[`Fl&is&lFcg;?#p_r>;TqeZ5`J)-To5OR<hpNE\tKPf$5;R8t8!o*cMWd@+WT@\:h8)3Rg$UJ+hp#T;BF35&7.2Ag1i2<bDb&U.!o)5:,V?`)uo9*.6gDjM]2X8#Jk#^lWGHj:NKba;sU=0'POX:6'HVJB4/T'gjuUMb*h;>t70)4FF(]R'/UP0un?jJs--MusssFaOlar8Obp'Sd#5M!H@H(uq9nNA:t]\Wu_#M@/:OTpXgP;>fOVrWfL/;?"M7q*1p5)>rQrON192(ur?7S,+b!(@%*YqP1+)F\*#[8[3jeG;cD*I(P+p$5kiW;$FSnWNV$Z2Grk8X$9m;#T<W/P#Q.dQIK6cRe6t)2Q8"?)7>[UPPoS82_dE.V(92P.2X4I!u[qVX#`8GjK&7"rHkUA4Al#R):F_LC<imi\nQP#YPr@\)QS4#X6<F[%2o.l>bE[(6?*lV?fDL<Hs9H\UO6ajrA:QE`%VB5G$aDCX8WO.HVsd%#T72NddA3bb=rr2Lo[7In.$?1L(KnC$6_?K[m%?GrcY>T'H*K>ZFmp]NBHa/^S]L,Ji*+pW1WW9)BK>*[O&+W)Z^OuWt:5(mAp5<r=5n-%gbsX^&S-5)>u+ene?$F!uWI`I(ELK%2hN%!\Q1$W>pgs!s&a8Rg9m#0(O^Q;;in!p'DU^6[(CY7/R>_E+oRqadcX]0rrVlrYMX7N0atk4;t]oVHPH3)/69+dHJ@NjBWtd;#LV:m'C=r),sI\F1)l$6OFM.<g=te8m)7A9'?]W8U1_P)&"`P+GPLT"t&+[fmK0or?nWSJ#PpUYBjnnoVEf0^N+^3YcMp=]FeOM^Y`STpJZK;WgthoRRpaMQcKrsRL*%ggrrm:N4VNnQmbWaJ@JVUPVZ6VlFa+d7L9qa=kmg<hqHWljB2j.;5W)<aJ*-I.gR#8K+IUcX7"OIS#cNGrGSb6c"%2"rP^ZdkBAH6rf!mbI/[l]d]71mrZA3?`VTiWn`hlGrAY9)4uj%+32Tk+0d1b>HT_WP9`>ONKrZhTSdHA3%sEsBR:e!5X,'V#6W*TE.+&YFKRXXI!b-ZpRU.$F*E[t7$mZH'Xc=cC/G>dDYk06"2!(Wh!!!!0r[Y%a)>[C7Tjo2N(1*CF,o@L#YrID0*?uS;T,jhE-5ll*L+%[fHkQTsUjNcHrH5.X32d'"P<oL#l4FmJ'<*eBVjND05*QN"K:%5=6667I%2nIsmQHgrk_,4OpAguh)8B%6/V_%I!]%kZ`-g"-Q3\@(-^I4GX%%B,hQ+`q"U>qEF[t4Er)%#,I4#F@Y.9K5XX;c&b'`G,)7ECHV$:oHYIR6<X#Wp>i)->&))6Jc)t=jR^Vmef#-/jM((;)[UP'D*5I7.N;2cYsTaht-.b!#5'3Fp8)V<c[IuA\X212)p)\Er>N#]E=%L)r*NtdOnD&I@pP,B08/"nH[ZEUh%D<iJHaSsAq9E%Vo;=V];X,KnI^O6$!]O7d/6NIT5I&/?\IM+1V,-*,ppcPVRL/FsJI$QCcSU>g4V@jbfn+aj$B^pI+aNF3;BCfsap]DBW@SsrGIDuF.;7Mo4r[k07Zag\dVCkOaJu);UJh^"?nY*>"X--&T8uqR:oEcE76oXqph^r-t)?,&bKn695/#b9"W4\#froC-NN_t^3Z;F\#I%q,g1E/^CRSQ/`Wt2YY%2o/N>ek1BgsX+`7*nFW)+7=4PY9s=#8s0g8$OWa;0r=T+pf-<%%tY"B.F]?@q,f_<Ikt")$g9Os$ijjeDd%h"fjX\X6!4X`)2WdX8]u:$Q8qCkk>Upm9)Zo);@8k[AZ"dOR`Yp+mlkDP#3g?ph:*R:(YJ@3!NF9;5d@5ZjRcEO9tK`Pa;7N!NXY,+p/_(.]^T)Wu"Xu&/k4\'Ee0U%@bhS9KFRaI_IeS)6HB/Ie7jo?"]5E6c>Hi%2k_W?,CCsc.Klb7+OX3pC%oFGBcW-d!b/^X*Ss'WiQ'N2&@/0P[HWd&Qji9SmhdY#tUC,JP[BjY#1c,H?KZ6a$[b?X(nr+)2D(DjiZ9gj>*-Q2X:5>H[b^+c3YArh=7Y`_JcT*J#eE'X05Cl$lT!fDqJ=[o'"g`<pX!B."MU@PAV9S3mgeMqbX<o)-a@njsS(UAlmjCHll,9;12<3'*]>DFD-T`dL[:G7]>QOfrJ:k?A6pJX-uC\Bi4`e)?!=2CI3po9(!VfG]O(8=6]q,ZXI0=";u"<7l<Os;>r/Jr`Z@:%2gfrdssNS,V'#233@62?ZUUj73E!VE+$*2IcI5GJ5NcEhA?>4WX9XC.6f#:.\U]0+WD;m1a,e`1T4e5#U<cQ-]rcu2]Y\b."l+E&/f>Uq;FN;C<HC*qnd$WC"**K)%E`rrahK(7o36M!"[PBX2#hX4feRLDod>$h:(3k<=BbZlGbDfk>hlCI+Tc3/Q!%YX8_LeUoXKXI""rh[];D/rjo/I;K*!]lUepMBRF4&9a_iC.2>4I,_p%O@&n.2Z3hKKXMAK8MElDP)4+4>4+?#j)*5u%Z`,\m.t\#DlBpqoCn#kN;1SDXE!@2W/C;8lq]W"G*bkotOJ7j+)<"HXRla1M/JG2']l46;)<F^GRmYj6+aC%:Hu]f:0H+$aM]Fn$()XF";$/l%?1WFR#T911D.&\AEn.0g)+'d>I9Bb\drEL(%2g(^FRttd;b=70?HKBS;6a!EL(YABR&maJ+Kd!MMj]1Z%uiZqrm\!lh3JNgaiYrZgg:WPd_RkE`5r<'H:#S/)..Fc4Rsd.%nk\]*Q7fj;-)+6":#fV(tbX`$lKYA\&1pIRo*<jY1IL:<'h'4k<<A/F!]lGgHBSlh/3`@fZ,1chFS1Afu=q)qEh7#;?"#))9u*HV[aRTo=hB(rW8`As0B23Zoo0B%9\?8P&UOBH!uaTl:Q@)A5;PR;?#d[X):d`_]m[0O'F++)8F/-cepSgm8PFUjQAO1/:9;,"q;GXYmMTK,9XJ8qe[K2)+%\X17X4/-k^p1)4kRO]og8D+/]J(P,+uNX0MosdsV"DR@5<hR@0J2Lo\;$qTu;B)?-G4TmDS+K@NrC]W,>F)*_%S(UN35U4a.L263N<)29D%ES[2o_TfnJ:>B(ma/b1sX)q5<]M\Z^3rWrrRU`C/'rtJ74]HgrFfS;8),3taX&DLq(ep#AX)nq!&/kAeQ,P(1,hS<ZZhFg&%E4+*0mlhqnBe44#T78PDI^DLlq2+#)>Sc_htJW-ES'Z05-%#(r*ueA;2)ogPc_"5'c@``je#^2<2]/'m(HbE8&)oWfUuSQ+;Yo<>O6;BeEt%!GMYY5^sq6c;pBY+#T:Gp1N<h[^5/bA`8(h>EBsC(oLjH31TTF:B*]CSO-RK;)3+sV$'aEY0Kj`Z25F80#oRrbIYJ"_HNt]<0a\f*'LUi,(bt88qUMXT#T9C7kn7%#F#)_H$5pTUYB<tqVV,G/#8p9Cal3"O;;";<c^1\-2#7@nX5=;CLo^GF":uH'_k(@H=.]1l_3/&.;3oL+!IE4["M2H%!!!&5!PJMe!JCFQ!!!%l^MO"%cN0,!rrLggO9(Fn!K])<!K\u/!It32!f$f<"2=lC!It?OQr!gf!PJI6!TX4\!!1_/!!/\lZN8DQk6904ZN8\Z[frZ1Oo`o5fE%WG_@>,uYR6`u]`bhL&c_n4!!!&5!!0bAfJH5$T)\ilci=%H!!0e7ZN($A#0.5T!ODgBcj%N$k5hmifE.rUVZF+)cj/G2TE12VL]Q-/fE&i!O:0D=!!0b6!LF,n)41Gl!$Vfd!$Vt6!$WON\IJ%!!%95rs"GiBfJ"jI!$X)t!QHNAU&Y0I!!",B^aK5h-O.p&!!0TSQj/(i.gUq?"c"KS!!!&5!"]-Oz!!N?&!$)%>!!*'"!'C5]!R(ND!R(ND!R(ND!R(ND!R:ZF!R:ZF!R^rJ!R^rJ!!3-#!R(ND!R(ND!R(ND!R(ND!ZV1?]&Oe>!!0b9]`b,2"98E&$CCk-T**"3\,ZL0!!0e7ZN($)[fbLgZN7!.[g0YKYQ;6<^]B5l!PJI6!i,er!!!&5#fnu)3!PE\3N!]24:hOJ!!0bM!L!ij!oO-5!!0bU!MVXU2uipa#*0$$"kWeg!PJWN!TX4\!!!&E!R+UV!PJIE!L*Qa!!!&5^d\C$TGXU=!!/](1]b)d!!!&8:T"6"!Per,"J5_$Oo`'W^]B5l_?/'b%Ia>u!PJ]!!J1:O&+C]$O:qhZ"MZ>qcmSq#D?eGmp^db!huUS%#*1/8a904d+FYF=%DW72k9q`<!!0c1&9W!n!$V[K&1e)(!PJI5]bCGH\c;^2!!0b6_#^kB!!iQ*!!!&5!PST9!!0"u!!!%l!%e5]ZN791cN320ZN7!/!nRq`!ODg2!f$oV!ODg*4P'dm!KmJn!Pe_l!Q#8t%\O0-!PJrH!S[SS!!!&5!!"TT!!/^"kA=l4,KG$UGY"H1a*9Cb!KMCB!q1AA"J5_$!O-6]!!.U0!!!&5!PJNG/K+Th!O)P(!!!%l!ODg:YQNbnpAqT$\23j_L]NY>BE>mL$-3.a#ETAh!!!&5!#bi8z&<6_j&<6_j!!rW*!!rW*z!#5J6!"],1#Y+jp!!3-#&<6_j&<6_j&<6_j&<Hkl&<Hkl&<Hkl!!3-#!2okt!&X`V!$D7A!!*'"!(-_d!%@mJ#Y+jp&<["n&<["n&<["n&<["nz!!3-#!+>j-!'C5]#Y+jp!.+\G!(?kf!!*'"z!07*[!)*@m#Y+jp$5igDBk:F1I76"Zba0mq!!0b9'G]*t=9l#0#Hn+A8--8/!PJIU@,q:f#Hn+AY5f85!#/N?]jM)K]Dqp4-n$Se!#,TlBK-$J]`8$toDejlf)QL.!QmA+W!g[3"c.U7"NUnbQQSgY5QQm3'*Pd8"M[J-O%;f$84Y]F!KJqU#EMD@+92GP-iao/!PJQ<#L!/J+92GP-iao/-n>A&'Es7?3!"d7!!#8t!!!&5!"F4,'OV$8BEb:6=9&A[!([P95QQlF\N]1I!$EZj-m/PN!PKnJ-+j3X=9&A[!([P95QQlF\N]1I!$EZj-m/PN!PKPh=0)B%T+:t/!O=rlcjR'K&)\fBIL$&&"LnoV!#,m8]hes;S,`Ni5Zg!q!"T\!\6oB;80@m5Y=JX,84Y64=?$Ak%jcur?j#p!!!!&5!M:Xm!QY6@!!1G'&r.S0!SB9=fL2'01BH,/5dpdH!KI35!S@G"!OE5r/H6(7!O)UG!T4!G!!0b5^(eck!Or+1!!/\l+9BO`&D'Y>a'&MrfE'VY!SB1/!SBTn!Or/j3QD0Q3kk^%!QZOY!LNnl]`8)kS,`Ni!!/]41]bYt!!!&HfKY^>=phG6!n[k[fJ<]PfK[CWciK.-hZ;@1f)`31a@+WNQiXDl!!2!Y!!!&5!KKUu(XGW;ruail5QQlJFTf0E'HdBH'Mo;?=9PN%8,rWg83d39!PL\s!QkBB?k35O+@lOD5QQlF]`m"Yg].<T!KI237F+Li&C1B`ZTnYKQNX2e89I0%!#,D5!#/6?!#/NG'OV'ABEa_&!!!&5:j!M;!#-g]'NbL9?j*A-:]LJo-id@l!!!&5!KJmf"Lgoe"n)JuF[-(r'F4\0:^=0(!!!&5!#,aP!)lu1!KK\N7F+Li%,V)l]g)^UKE(uQ%fd:bhZ+?e!#/N;'OW`+\S)KR!%:A=!!!&5!#.5Z!#/6?!#/NG!PMkOL%G?F!'k2u+@nHl!KJ#S"Lgoe+94rT!!!&5!#.;D!#/NG!P)SKNW:1mf18.-8,s;,82p[S]a+!s9E5%nLF=Q$LB&"l5\N+X!PJI5L7A5D+?2=]5WAhk3!B7(#IbgH!%7lZ!!0bUN`Y!9[n&abmfB`t5QmDW"K):,F[-.t'EA,('Mo;?'NbkG'OVFO\S)KR!%:A=!!!&55\M%r82pSLNY2:6[n&ab!(_58%fd:dVZ7E-!PMS<0`1nN!!!%lcnkdED#aP:!SA!>T3=.FfE'VV!SB1/!SA6e!RLk-4RW='7#qAT!Q\-Q!LNnl]`8)kqZ$Ts!!0b7'*Hqg!j>,pmmou/5QQlM]`bf8_uKc<T)]Q:E-5h[!#,\=]m'dcX8i5$!!0b\'L9S:3!"d7!!#8tf-!UD!!0bJ\T-s9!$EZj-m/PN!##C".fun&"c"KS!!!&5!L--n]`8$\>Q=a)7j(>^83d39!ODp<"IB;\!!0buNZ+DfcU^;%hZ:&P5QliN"K):,F[-.t'EA,('Mo;?]iYdF_uKc<!%9aN!PN*P'(c/("igTW!'k3WcN1?P5QSV'!!!&5!OE-W"G[Q7VZF+h5R*PX!!#Q4"K)56%fd;?!!0c83(fD81<2pVn3@#7\-J'"-m/KjY:+W/!!0b7'K!/s\S)KR!%:A=83d3989G0`!#,\=!PM;?42_+!"n)JuZTnY[QNX2e89I0%!PJI58,N>e-m/PN!##[".fun&"c"KS!!!&5FB\jJ]`Hacli7"d%fd;HVZ7E=!P)kINW:IucU^;%!!0b<'LL"D\R5pJ!$Ff583d39!PJZg?h=<u^CL@O!OG#l"IB;\!(_5t!!0bE=sen&!SC5hfJ<Q\fM'$\\,hTjmfD&Af)`39a=E<)QiXDl!!2!Y!!!&5!PV$V!!0S0!!!%l!QP5^.ea4@!PAHc!SCc/!!0b5'Fsa8=9l#0#Hn+A8--8/!KI.&#4G)J!!#Q4!!!&5!#,[t'Mnq1;cjP1]gr,'oDejlVZ7DI!#/64;cj1#N^s-McU^;%!!0c%FTdm.E@:fh"fDC"&$ULj!T4(L7)&^9!!/!k8.?D<!KI-[53GI%!!!&5!MUe)BE/#DBE/#L]`8$Tqu?]t!'k3]+@nHl!KI6U"Lgoe!!!&5!#&#\3!?ue1S73/a%/`\5QQlV3"_KJ!LFp"83d39!PJWF5g03.!!#8tO!$tQ5QQlJ]`bf8S,`Ni5QQmDZNKqmLE"hG!OG#o#+#Ij!(_5t%fd:D%fd;g!!0c8.g4#q"c"KS4mr@b!'k3W8,s;'82pae3'!U%,Mu$_83d39!#%Ab3!?ue/!idtcU^Sd5QQlH]doF?o)Jak!!0b6'QLbcBEY45-qFBL5QQlF]a)kSPQ1[a%fd:W$^bp9W.&+bL]r;=%fd:O8--87!PJI]:s8n>!!#8t^IS><84Y]C82p^L]`cYPe,TIL!!0bX'EbrI'Mo;?'NbkG\R5pJ!$Ff583d3989G*f!PJI5GO,;0#Hn+A8--8/!KI.&#4G)J!!!&5!Oru:80A%k!%7l4!!0b5'HPs/:^=0(#Hn+AY5f8=!P)SC]`90GKE(uQ8,s<,82pae3&@0t&B@=4!!!&5!P&R0NW:1MT-tf_-iao>!PJQ<"2b*=!!!%l!%e8>ZN?3g`rr"8ZN?L&%*&kZ!ODih-a*cY!O)Wm!h]SX!!0b5\Hi!3!$Ff583d39!P&F'NW:1MLF=8G-iaoD!PJQ<.eE]@O!$tQ5QQm/\-093-m/Kj!!!&582t\W!KKYm"Lgoe#QRD<!!!&5!OrDu!luG@!KI`4#L>q+#QRD<:_*O?=:YBG?k35O!!!&5cnnVdT)\ila8c2@.]4Bi!SA`sfHBol1BH,/8`'R$!KI35!S@G"!OEd'0`N8^!O)UG!T4!G!!0b5'MbG(\R5pJ!$Ff583d39!ODs]!KRD^%fs"%F[-##'F4\0:^=0(!!!&5!#/OgEDQnD=9l$;TEiPe'Emn+?jEk8!!!&582s_INWGap[n&ab8,s;+82pae]a'Thli7"d!!0bDFTqC;'IWrP'Mo;?=9PN%8,rWg!!!&5!#,X+!#/NG8/5MCW(m=8"kQ9I!!#Q4"K)56QN.^r!#/N='OV'ABEa_&!!!&5!P)S8NW:IucU^;%cN1?W5QQoc!!!&5!OG2$"IB;\^B(Z+5R*Q$!!#Q4:_*O?!!!&5Y[fi6n-$6CJ,u5NO;RHh\,ioAn.C`o!!/]-1]j$E!!!(nO8o84cN1?RO;WfUmfB`rTG`M&QN=DoQr(77kQ.mh!!8eo!!!&5!PKuL"R5seY:'Aa-n$SI!#,TlBK-4J2uiqD%%eY5!!!&5TJUJlT)\imQiI*emfB`rTF7Y8mfB`rQp/8)kQ.mh!!8eo!!!&5!P&^;NW:1MpF%-b-iao.!PJQ<B<2(5cU^Sd5QQlJ;$3^e]dP!'oDejl8--7n!KI.&"kQ:1T+:t/!#%U!3!?ue3)<(98ZtZU83d39!(_6.!!0b=\IRs+!$Ff583d39!P&F'NW:1McR9n:!!0b7N\\fYf18.-mfB`u5QmDW#QRD<#Hn+AY5f85!#/N?]jM)K_uKc<LB&"l]`HanbQ%VD-iaoW-n>A&E<V+G!J_#d"1We>%%%*h!!!&5!#/B(!SC'>!!!&5!K7P`,ldoFE=`*u!m^qH#M=JZ!Vd&L!LEd#-ipn=!O*+87fYM&!#*:!!!8fM!!/\lZN?KoQNODlZN?dGs";n(YQC1LTE46W!PJI79p>VXfH,fO1BH,/-2.Gm!KI35!S@F_!OG/n:sVbC!O)UG!T4!G!!0b5]irncRfEEh!!0S:!#$b'.fun&"c"KS!J^Xh!'k3W!!0b5]aM+Gj8]/\5QQlV3"_KJ!m_u[83d3989G'E!PKTU'>skN#Hn+A8--8/!KI.&#4G)J+=I9$!!0b5ZP<<;cVM"N!O=rn\-0$,$(,T6#iGfp%A3a:@0)];%[[a!fR=(XJ-*Lf5QQlIZNRa.QNX2e!OG#q"IB;\!(_5t!!0b='L:.J3(ULY!!#8t^IS>Q8--"!$A\cA\.4=4^CGc$a%-12Qk3[.IL_/>#06kM82paVN_$oUa%/Gr!!0b8NaLiIpIIOM%fs!='0lVk"M[J-:In#9Y=M2D!!0c)FVr=&'EA,('Mo;?=9PN%?k35O"K)56!!0cHN*#oW!!!!"Y:'Aa-n%%V0K9*B1'EpL+ttD^]bi-tPQ1[a8--87!KI.&#4G)J!!#Q4!!!&5!KKsW56"/=^IS><84Y]C!PJT5;Nq.]"K):,F[-.t'EA,(:^!Zr=:YBG?k35O!!!&5kRM)"#g`hnYReMN!KKD`"Lgoe+94rT:_*O?"K)56!!#r"5QQm9'0cFe"M[J-Vas?<!!0b8N[UCtpIIOM!(_57VZ7DZ!PM;4#J'm8#QRD<#Hn+AY5f85!PMS?&X*1pa%/`\J3Z$u89I]9!#,\='Mo%<=9l#0#Hn+A8--8/!KI.&#4G)J!!!&5!##\9.fun&"c"KS"igTW!!0bmF[4FV'F4\0'Mo;?]iYdF1]RLV!!!&5!P)(ONW:1mf18.-mfB`u5QmDW#QRD<!!!&5!#-T8!P)SKNW:1mf18.-VZF+-5QQoL!!!&5!#,M"'NbL9?j*A-:]LJo-id@l!!!&5!KI3W7F+Li)qP+sZTnYKQNX2e89I0%!#,D5'Mnq1'NbkG]jM?NoDejl!(_55%fd:L%fd;?!!0c8N^*FAQREsW-iaoI-n>A&]`j0>C&e57"K)56QN._-!P)kIo)L10X8i5$!!0b9]g_Pn_uKc<5QQmPFX!/C'F4\0'Mo;?'NbkG\R5pJ!$Ff583d39!##Of3!-9S#Ob2S83d39!ODp<"IB.U#Y6p?!KI;L!M;nJ"K):,F[-.t]`8%'j8]/\VZ7DH!P)kINW:IucU^;%!!0b<FV=$@'EA,('Mo;?'NbkG?j*A-!!!&5!#.>E!P)kSNW:IupIIOM!(_57!!0b]3"a"-5*$gW83d39!Or9A]dP!'X8i5$(]fX:-]\>e!!"-T+;b->!OEf-(cRcl!!!&5!PM$g&).'a!!8fM!!0e6T)\qKQiI*emfB`rTEs]upAqT%L^</ErrKG-Qq+&MkQ.mh!!8eo!!!&5phLW"L]b..Y5f7?!#/67'NbUD?jEk8!!!&5!KIqb#4G)J!!#Q4:_*O?"5a(m[f@+E!#/fs!P)kSNW:IupIIOM!!0b8ZP2'nLCE&@!OG#o#+#Ij!(_5t[f@*B!PM;f;Od^e83d39!ODn&5Q[Pg#QRD<#Hn+AY5f85!#/N?\R5ZG!$Ff583d39!P&F'NW:1Mf-haB-ianq-n>A&]`j0>ZiC(,cN1@C5QSV'&-,7D&-,NQ(][Z\!!!&5!OFN95Q[Pg^IS><84Y]C!!0c/N^i@8O!l+O-iaoE-n>A&]`j0>\c;^2!(_5A$,CNdfR?X-$HR/k=:YBG?k35O+@lOD5QQlFZN\rONs2E^!PL`!0t[JdfJnpq1BH,/..72h!KI35!S@G"!OFnt;:ces!O)UG!T4!G!!0b5ZO<Q/!hTu(%fs"%'0lSZ"M[J-:In#9a%/`\!!0b<.lcSi"c"KS"igTW!'k3W+@nHl!KJn,"Lgoe+92GP-iao/-n>A&'Es7?3(ULY!!#8t^IS><84Y]C82p^lN_$oUa%/Gr!!0b8T,>EFQiI*e!!"SP!ODihO@GiQ^B(YBQkceckQ.mh!!8eo!!!&5!#-:!!Its;L^sJ"!!.uY?k"5tBQX:T!#-7MF`7J]'F4\`J-W7X%fd:E!#,HiMZJnM+F!keBE/'k:]N*J!!1"<!KK\N!fol;+=I9$!!0b5]hlWIqu?]t!%9`d!PL,H17S=EQUjY,84Y]j!KKA4/!idl^IS><84Y]C82rDt]b&4T;ZHdu+@lOD5QQlF\H_Ln!$EZj!!!&5!P&SjNW:1MpF%-b-iao$-n>A&'Es7?3!I>&!!#8t+27i_3'[MZ*VU[I83d39!Or9A]dP!'ZiC(,!!0b6'NXQ#'Mo;?=9PN%8,rWg83d39!PL\s.I7$7#QR[I(][Z\?k35O#QSO\#Hn+AY5f8U!#0Y_!ItEYBE/'k!*B[Q!+9pL!!0bMZRXH)Ns2E^!OG#l5Q[Pg0E=Xd-id(d!!!&5!#$'j.fun&"c"KS8@JR5!'k3W8,s;'82pae]`Z;GS,`Ni!!0bAZU3FINuZIH!OG#l5Q[Pg0E=Xd-id(d"K)56%fd;G!!0c@'HrtH?j!#$V[h@!E.2I(#Nu<[=9&A[!([P95QQlF\N]1I!$EZj-m/PN!#%GT.fun&"c"KS"igTW!'k3W+@nHl!KK7&"Lgoe!!!&5!#-6]!#/6?!#/NG]jLu@iW&rZ5QQlZ'*G.'"M[J-QUjY,84Y]j!KKA4/!idl^IS><!!0b9]gdq\aoDDB-n$SW!#,TlBK-19ZN'tj^E:2k!PL`!!Mf\qT+:t/89I0!!#,\=!#/6?!#/NG!P)SKNW:1mmmo\E-ipj_!KI.&#3RBWY:'Aa!!0b7N_Iq&:Im_O!VZW$F[.nS'F4\0:^=0(#Hn+AY5f8=!P)SC]`90GS,`Ni!!0ba]eP`OX8i5$!'k3d+@nHl!KI6U"Lgoe!!!&5!)jVs!KK\N56"/=^IS><!!0b93(ei(!r!g.83d3989G'E!#,D5]hej0JcGcOVZ7DG!#/fD!P)kS]`9HOj8]/\!(_5\Y5f7B!#/67]iYNCS,`Ni+9@K)'/%TZ!j=!PLF=Q$!!0b:NXF89:Im_O!WN2,F[.nS'F4\0:^=0(#Hn+AY5f8=!P)SCnc0e'mmo\E-ipj_!KI.&"HOrR!!!&5!#.*Q!#/6?;cj1#]gr,'ZiC(,!(_5L%fd:DhZ+?e!#/N;!PMkO9=t6)"fDC-ZTnPP!hTu(!(_5t!)Rel!!0b]3!eOE3WC3m83d39!##LE]`c)@qu?]tcN1@:5QQocT+:t/89I0!:j"Gl!PKl])WUku=:YBG?k35O+@lOD!!0b5'I_`:+?68!!!!&5!OEEf)ik'8-ipkD!KI.&29.*fY:'Aa-n$SI!#,Tl]f6%JaoDDBY5f7L!P)SCNW:1mQUj@B!(_5V%fd:L%fd;?%fd;G!!0c@'H329'OVFO\S)KR!%:A=83d39!ODn&"IB;\VZF+h5R*PX!!#Q2!!!&5]NYX4!S@B5!!!&5!#-$X'NbO*?j*A-"d]3'!!0cHZNmi;cNBd?!OG#o5Q[PgNt28t!#%Tu3!?ue]h_0ij8]/\Y5f7S!P)SCNW:1mmmo\E!!0b;1`)S\!!!&H!!!%l^E<QufIW@S$D1K&!S@G*`rXgKNWIcufE'>"ZT6nDcSXecYQ;fOhuT2G!PJI6&c2P."K)56%fd;?%fd;G!!0c@.l3[q"c"KS3gTg\5QRQ<f1Q)DN^u-$f18.-!!0bZ.gFH&"c"KS4mr@b!'k3W+@nHl!PLXO*Ld$/+@lOD5QQlFZN\rO!hTu(8,s;g82pae!PM9"*5_aV^IUmT5QQm93!72lN^k3_[n&ab!(_58%fd:L%fd;?%fd;G!!0c@'-$fK!j=!PLF=Q$QN.^'5\N,<f1Q)DN^u-$f18.-!(_5YY5f7B!#/67'NbUD?jEk8+@lOD!!0b5'H4:XfLrCJ!!0b6NWcB_[n&ab$(uACF$L4c"IBJ:moKaEn-GZjVZF+)5R*PX!!#Q4!!!&582s-#82sC9N_-EF:Im_O!VZW$F[.nS'F4\0:^=0(!!!&5!PJhn#3u6h#Hn+AY5f8=!P)SCNW:1mQUj@B!(_5V%fd:L!!0c0'+!:l!j=!PLF=Q$LB&"l!PLGn$bHB=83d3989G0`!#,\=!#/6?!PMSG)<(Vr#Hn+AY5f8=!P)SCNW:1mmmo\E!(_5:[f@*B!PM;f*W,m;"igTW!'k3W+@nHl!KJeY"Lgoe!!!&5!P&KcNW:IucU^;%!(_5;%fd:L!!0c0\/V.B-m/KjY:'Aa-n$SI!#,TlBK-$JZN'tjT)ub.!PL`&*pWe+-qFBL5QQlFZNKqm!hTu(!(_5tY5f7B!#/67'NbUD?jEk8!!!&5!#$'I.fun&"c"KS8@JS(!'k3W8,s;'!PJWN'@[!^:_*O?"K)56!!#r"!!0c('F2PV:^=0(Y6KMsR!r-Ba9dY0Y5f7G!P)SCNW:1mmmo\E!!0b;!#.g$!#/NG!P)SKNW:1mf18.-VZF+-5QQoLT+:t/89I0!!PJa=FXd@k'EA,(:c>c_=:YBG!!!&5!)l5F5QjUX"o&+c8-7u^QsiG0J-W"]$g<$H"-<]M%,V)lZTnYKQNX2e89I0%!#,D5'Mnq1'NbkG?j*A-!!!&5!#-*Z'NbL9?j*A-:]LJo-id@l".oQ-VZ7E=!K1Up%2`1INW9&Mk=@i=-ipkB!PJIU$h=8t!!1G'!!/\l9EE37%Hf\5!PAHc!SA]_!!0b53'2cn(p?J$[n'%L5QQlM',[oD"M[J-Vas?<84Y]B!KI</"/e[T^IS><!!0b9;],*+N^s-Ms%#BU8,s;e82pae3!6'L"OBV083d39!Or60'.=t'!j=!P!!!&5!!0c*\Ji*\!%:A=83d3989G0`!#,\=!#/6?!#/NG!P)SKNW:1mf18.-!(_59%fd:Dmf4%u!PMS9)S?%M#QRD<:_*O?=:YBG?k35O!!!&582r3>NWd[!Vas&R!!0S3!PKm(-F<aQLF=Q$!mkojIQ.P`%_rM:5\L;Y!PJI5&VC&`-qFBL5QQlFFU-5`]a+U/iW&rZ+@nI,5QQm8FTf0E'F4\0]hf4>li7"dY5f7D!#/N?\R5ZG!$Ff583d39!P&F'NW:1MT-tf_!!0bA\/h"<-m/KjY:'Aa-n$SI!PJYl,I.:L!!#Q4"K)56%fd;?!!0c8NY'Y>[n&abVZF+,5R*PX"n)Ju]g)^ee,TIL!!0bU'KWT$fG_4!!!0b6NZbY.cQF&*!$ERA-ianl!#$$<\chIU&-*gR!!!&5!#$`T.fun&"c"KS4mr@b!'k3W8,s;'!PJWN+f#)<*7"YlZTnPP!hTu(!(_5t!!0be'I_`:fM:#u!!0b6]dW4IiW&rZ!!#q)!*FA?VZ7DZ!#/fE]kBgK\c;^25QQlHZNRa.QNcgY89I0#!#,D5!#/6?'NbL9'OVFOBEY45!!!&5!#,P4\S)/5!%:A=83d39!ODn&5Q[Pg!!!&589HVn!#-OU!#/6?]iYE8irB&[!!0e<T)\qKQiI*eLB4^_Les-<LB4^_Qr&hLk5hmjQo<8HkQ.mh!!8eo!!!&5!#-F6BK/0D'*&"t"M[J-!!!&5!"T?fN[OqmV^NA_aT)hs!PKla3Re$/!J^Xh!'k3W^B(Y@5R*h^#QRD<:_*O?!!!&5!KIqj"TKkmY:'Aa-n$SI!PJYl!L!K`p]TeU%3O4:'o3j^!R)7f*T&7fY:'Aa-n$SI!#,TlBK-19ZN'tjNrm&s82rjRNZI""[n&ab!!0b9N[DpLs%#BU8,s;e82pae]`Y0'RK*<g%fd:bVZ7E5!#/fD!P)kSNW:IupIIOM!!0b8'Fh,D:^!Zr"K)56%fd;G!!0c@\.5eE5Tg%-Y<W($5X6h$:cJNc%jcuj\6+"V5Tg%-!!!&5!#,jYBK/Pl'*&"t"M[J-a%/`\!!0b8'IVB1=9PN%?k35O"K)56!!0cH'E[%i?j*A-"d]3'8--87!KI..#L>q+!!!&5!Os9<'.=t'!j=!PLF=Q$LB&"l5\N+X82pSLN]I+^[n&abmfB`t5QmDW"K):,F[-.t'EA,('Mo;?=9PN%!!!&5!)kNB=ERF?!#-g]'OV*BBI^1c=9&A[!([P95QQlF\N]1I!$EZj!!!&5!#-m*'NbL9;d^+9]he\/l2Ueb-ianm-n>A&'Es7?3!I>&!!#8t"j[4U]g)V5S,`Ni$.)ZS%%%+;+@lOD5QQlF'*ZuY!j>,pmmou/!!0b<]d_/*RK*<g%fd:]%fd;G8--8/!PJIU0>%8ba%/`\84Y]B!KK^c"33qt!!!&582q%<NX*Tq:Im_O#QRD<#Hn+AY5f85!#/N?\R5ZG!$Ff583d39!P&F'NW:1MpF%-b!!0c0'HclG?j*A-:]LJo-id@l".oQ-VZ7E=!K1Up%2`1INW9&Mk=@i=!!0bsNY79NO%;M:+@nHn!KI6U"Lgoe!!!&5!#-Hc'NbUD?jEk8+@lOD!!0b5>:td5"33r'^IUmT5QQm93!72lN^k3_[n&ab!(_58%fd:L!!0c03#_\p*krgg83d39!Or9A'.=t'!j=!PLF=Q$!!0b:'F)/L'NbkG\R5pJ!$Ff583d3989G*f!#,D5]hej0]Dqp4!(_5@%fd:D%fd;?!!0c8.jDk2!k0R+T*RD9(dL&3!OsiH,q'l93$82L!LFo_!!!&5!#,aF!P)kSHN5Hb#L>q+!!!&5!#-j)J8nBrITR*kYR[lc%fd:O8--8/!KI.&"kQ:1!!#Q4"K)56!!0c0'-@#N"M[J-n43ScD@>)+\.6;&\,j>H"/eZpp]7U-ILk?E#e1;182paV]`cYPoDejl%fs!DF[-##FYEed'IWrX=9PN%?k35O:]LJo-id@l"fD>7!!0c@NYp7Gmmo\E-ipj_!KI.&3WCKMY:'Aa!!0b7YS*-"!&uY5%B:gHVZ7D2E-5gs!#,\=]m'dce,TIL%fd:e!,-L_%fd:LY5f8U!#0Y_MZJ>=+D:`U!!$+1(][rd!!!&5!#,gh!P)kSNW:IupIIOM!!0b8ZOYsp!hTu(!(^H^Y5f7B!#/67'NbUD?jEk8+@lOD5QQlF\H_Ln!$EZj!!!&53$Smm-9r:F'0m[*!j>,p[n'%?!!0b7NWY^Mmmo\E8-,Um!#,D5'Mp]s'NbkG'OVFOBER,l-qFBL5QQlF]`\""KE(uQ%fd:O%fd;?%fd;G!!0c@ZR"T3!hTu(!(_5tY5f7B!#/67'NbUD?jEk8+@lOD5QQlF\H_Ln!$EZj-m/PN-iaoN-n>A&'Es7?3(ULY!!!&5J8up2\/G&VhuTJkE!<HT$*XG](<@NS83d39!ODn&"IB;\VZF+h5R*PX!!#Q4!!!&5!#-aGn8VP@IUEZg"K2^t!#,g6\S)*&!%:A=!!!&5!KIu/"8>>O"n)JuZTnY[QNX2e89I0%!#,D5!#/6?!#/NG!#/fO\S+O[!%:A=83d39!PJ`a($ko#!!!&5!#$XC3!?ue#EMDHa%/`\5QQm#\-J'c-m/Kj!!!&5ct"?TW"Xsj\,h`rYReMM5QQlO\-J'c-m/Kj"5*Yb(]fXF]e\b!irB&[5QQlX\H_Ln!$EZj-m/PN!##C*.fun&"c"KS#1ihh!'k3W!!0b5]a`0cdJs7J5QQlb'*ZuY!j>,pmmou/5QQlM]`bf8_uKc<!h_@[!M9>l!girf#-S'6!h_(<:sT0K!glXD!U'Qg]`8,,qZ$Ts!'k3M+@nHl!KJRp"Lgoe+92GP-iao/!PJQ<)>!n/!!!&5!#,S&!SAO(!!!&5!##p4.fun&"c"KS!J^Xh!'k3W8,s;'82p[SNX,#D[n&ab!!0b9N\#b^O%;M:8,s;)82pae]a'Th]Dqp4%fd:[8--8/!KI.&"kQ:1Y=JX,84Y]A!KIER"Lgoe"n)JuZTnY[QNX2e!PL`&.B<FK83d39!(_6.Y5f7B!#/67]iYNCUAt8p!!0b^\IsPq!$Ff583d3989G*f!#,D5'Mnq1=9Y#k!!!&5!KJY8"/e[T+92GP-iao/-n>A&'Es7?3!"d7!!#8t!!!&5!#$@%.fun&"c"KS4mr@b!!0bmZPg@T,**68(]fX>BE[K@NW9&%ru`-Z+93T7/Fm!V!PKTU$`j=.!!!%lf51Q0LB6$V7.4:h!S@G*rrLb.NWIcbfE'%oZRsc0V]DB1YQ;g%huT2G!PJI6'>a_L#Hn+A8--8/!KI.&#4G)J!!#Q4:_*O?"5a(m[f@+E!PMks/?/[MY:'Aa-n$SI!#,Tl]f65JU&Y/oVZF+;5R*PX"n)JuF[-(r]a+U/S,`Ni!!/]8ZN?KocN4%HZN?L>mkL^@YQC1DTE46W!PJI7&,ZD-"n)JuF[-(r'F4\0:^=0(#Hn+AY5f8=!P)SC]`90GWrN,#-ipjd!KI.&0qTj:Y:'Aa!!0b7FYWFe'IWrP:^!Zr"K)56!!0c8/KKuS!Pe[8!!!%lO!"JEfHRLn3JUc=!S@G*`rXgKNWId-fE&bgZT=]Zmk"26YQ;fYhuT2G!PJI6"gS+.T+:t/^_]6;p^=S5n,^<1"M[J5a9%H3IL`jr%`ejI82pY&82sC9NX*Tq:Im_O#QRD<!!!&5RTg])!S@Aq!!!&5!PT97!!7rV!!!%l!ODip%0$@3!ODi`#`h'f!O)Wm!h]SX!!0b5NWeqRmmo\E-ipj_!KI.&!r")cY:'Aa!!0b7'K<o0'NbkG\R5pJ!$Ff583d39!PJZg)Y*k."fDC-ZTnPP!hTu(!(_5t!!0be>6a'efDmXh!!0b6FWej-'F4\0'Mo;?'NbkG]jM?N\c;^2Y5f7X!#/N?\R5ZG!$Ff583d39!PJ^+%%7.r!!#8t"K):,3'[Vm#IbgH!!!&5!P'B6"99Q8Qj\F0"jdS`@0Z0k#Nu?D:jrG\#I"E"+=I9$+9@K&'+t6m!j=!PLF=Q$mf4%*!PLHU$E=(+T1DL484Y^#!KJD^3M/i-!!!&5!#$.E.fun>!k1E[h`+FlW;mG@!PMS9*:j.1!!#8tJ-3k/^]B6!8-P(UfO4ibkQns5%%)JO$fDK(mmou/5QQlMZNRa.QNcgY!OG#o#+#Ij!(_5t%fd:L!!0c0'Gf^/'Mo;?=9IF\1Ud>u%fd;O8--87!KI.."8>>O-ice\!!!&5!OEB4(dGbGf+.ng+?134]eIbLF8u:A!!!&5!##L0.fun&"c"KS!J^Xh!'k3W!!0b5'KUjH\S)KR!%:A=83d39!ODn&5Q[Pg^IS><84Y]C84Y^9!PM(.3pH\FY:'Aa-n$SI!#,TlBK-$J'*&"t!j>,ppIIh7!!0c'ZSBo/QNcgY!OG#o#+#Ij[fNg#5QoD/!!!&582r?@N_-EF:Im_O#QRD<#Hn+AY5f85!#/N?\R5ZG!$Ff583d39!P&F'NW:1Mh^BTJ!!0bM]aTMnirB&[84Y]p!KI</"/e[T+92GP!!0b]'J[K*3!Rt7!!#8t#QRD<#Hn+AY5f85!#/N?\R5ZG!$Ff5!!!&5!PK!/,gu_n83d3989G'E!#,\=!#/6?!#/NG!P)SK]`90GWW3#"84Y]^!KK^c"33qt#QRD<:_*O?=:YBG?k35O+@lOD5QQlF]`m"YdJs7JY5f7F!K1V@%2`1INW9&Mk=@i=!!0bs/Hb&6!g!B^!!!%l!ODipO@l\ecN1?RQkSX3kQ.mh!!8eo!!!&5cnlNLT)\ila8c2@.H_fS!SAfUfFcG51BH,/0(/hn!KI35!S@G"!OFlF-JqGi!O)UG!T4!G!!0b5ZR)(@cVM"NW&R$F"TKSJ83d39!PJWF%D)T?-id(d"K)56%fd;G!!0c@=t&D2!SC9DfJ<Q\fL#$-ciK.-hZ;@1pAqT,a:5<iQiXDl!!2!Y!!!&5!P():NW:IupIIOM%fs!=F[-##'F4\0:^=0(!!!&5LaXb\'Es6r3!I>&!!#8t!!!&5!PKZ!3m.L'+@lOD5QQlF3!Io)]gj29OoPI_8--7+!KI..#L>q+#QRD<!!!&5!M:CU!QY6@\,ZQD!QP0@0t0lt!PAHc!S@pW!!0b58g'Q&%(I(o!KI>>"8>>O-ice\:_*O?"K)56!!#r"!!0c(\IA$/!$EZj-m/PN!#%PW]`PAcP5kR`5QSDLZNRa.QNcgY!OG#o#+#Ij!!0bu'I:6i$CD>(mgJ&nOFCj_n-5fq8--72!KI.."8>>OT+:t/89I0!!PJa=(=E0_O%;f$84Y]F!KJqU#EMD@!!!&5!#-ct'Mnq1'NbkG'OVFO\S)KR!%:A=83d39!ODn&5Q[Pg^IS><!!0b93'$R18A@\d83d3982p^l!PLuG#Eo,fT1DL484Y]r!KI`3(XGW;[ie4$5QQlMFTf0E'HdBH'Mo;?=9PN%8,rWg83d39!Ot>n'.=t'!j=!PLF=Q$LB&"l!PLGn%\!Fu!!!%lTJQ_;ZN't,^B2FVZN?d:LH,#/YQC1iTE46W!PJI7/CFLu=:YBG?k35O"5a(m8--87!KI.."8>>O!!!&582q.WN\\XGO%;M:+@nHs!PK6"$`j=.!!8fM!!0e6T)\qKQiI*e!!"SP!ODih5lUlJ!ODih5lV)P!ODj#5lUlJ!ODi`4m+Se!O)Wm!h]SX!!0b5'EjX#=9l#0#Hn+A8--8/!KI.&#4G)J+=I9$+9@K&'*kup!j=!PLF=Q$mf4%*!PLHU's[f>LF=Q$[f@*G5\N,J!##>43!?ue"33r'!!!&5J.r?cQj9f'Y5f7BMZJV=+E.;]?iU4c:]N*J!!1"<!PM#(-^+N17j(>^83d3989G'E!#,\=!#/6?!PMSG"o83!#QRD<#Hn+AY5f85!PMS?,-h1K83d39!ODp<"IB.UVZF+h5R*PX!!#Q4!!!&5!KI?D!gb;XY:'Aa-n$SI!#,TlBK/&>9)nrW82s2m83d3989H61!#,\=]hes;g&M*R`rHef]`Hb*RK*<g-n$Sh!#,TlBK/0D2uiqD-he`S83d3989G'E!PKTU4L5"fVas?<84Y]B!KI</"/e[T!!!&5!M;OP!QY6@!!1G'rrK%uQN>_Zq>n59!!1_;!!!&5n1d58LC`#FLB&"l5\N+X82pSL]a!XBlMpncVZ7De!#/fD!P)kSNW:IucU^;%VZF+/5QQoLT+:t/89I0!:j"Gl!#-g]]iYE8WrN,#!!0b`'F!Ls\R5pJ!$Ff583d39!PJZg4o,-Y+kH].!PJNd(5i.m"n)JuF[-(r'F4\0:^=0(#Hn+A!!0c8'H<MA'OVFOBEY45-qFBL!!0b5ZO<c5cQ97j82rj;NWRNL[n&abVZF+,5R*PX"n)JuF[-(r'F4\0'Mo;?]iYdFg&M*R!!0bD'J6$Z\S)KR!%:A=83d39!PJ`a5,&#W!!#8t^BafQ84Y]C82p^lN_$oUa%/Gr!!0b8'KPabBER,l-qFBL5QQlF]`\""OoPI_5QQm+'*Pd8"M[J-O%;f$84Y]F!PL8/,DuO%!!8fM!!/\lZN?KoY:]bTZN?d8pG]P^YQC11TE46W!PJI7%Z15d83d39!ODs]"IB;\!(_5tY5f7B!PM;76fS.HLF=Q$`rHeW5\N+\82pSLNX")X[n&ab-ipj]!PJIU/XcY>:_*O?8C%8M%fd;G%fd;O8--87!PJI]7.UBY!!1G'!!/\lD#q]X!SB$6mogTifE'VX!SB1/!SAaF!RLk-$f;!;*<-&G!Q[(#!LNnl]`8)k_>jQ:-iao,-n>A&'Es7?3(ULY!!#8t^IS><!!0b9T/"4`QiI*e!h_@O!ODb+#)<9#!ODj#'_akZ!O)Wm!h]SX!!0b5N[]hc[n&ab-ipj]!KI.&#1k7GY:'Aa!!0b7`WEaP!!"DJ9#goG%fd;?cN"Y]!#/fu!PN.W5O/:L?k35O"5a(m8--87!PJI]-L(R2"K)56QN.^r!#/N=]jLu@irB&[8--7^!KI.&"kQ:1"n)JuF[-(r'F4\0:^=0(!!!&5!KJnh0]si$!hfT)(]fXF'0kq6.DI82h^Bm4(bdp*-nI(8!##>4]`PAc])Vg3%fd:t%fd;?%fd;G8--8/!KI.&"kQ:1!!!&5!OFJ;"IB.U8,s;g82p[SNX,#D[n&ab!(_58%fd:L%fd;?!!0c8!!paJ!!!3az!!!/k!!!/k!!!/k!!!/k!!!*R!!!*R!!!*R!!!*R!!!(2!!!(2!!!(2!!!(2!!!0f!!!0f!!!0f!!!0h!!!0h!!!0j!!!0j!!!0j!!!0j!!!0f!!!0t!!!0t!!!)a!!!!X!!!!@!!!%J!!!!b!!!!E!!!(#!!!.`!!!.`!!!.`!!!.&!!!.&!!!.&!!!-c!!!-c!!!-c!!!(d!!!"+!!!!T!!!$n!!!6j!!!6l!!!6j!!!7)!!!7)!!!7)!!!7+!!!7+!!!"E!!!!e!!!(R!!!"W!!!!n!!!)_!!!"i!!!""!!!&u!!!)i!!!)k!!!)k!!!#,!!!"+!!!%G!!!-?!!!-?!!!-?!!!-?!!!,J!!!,L!!!,N!!!#F!!!"8!!!&c!!!#R!!!">!!!(5!!!-i!!!-k!!!-m!!!-m!!!-m!!!.n!!!.n!!!.n!!!.p!!!.p!!!#r!!!"N!!!'H!!!,B!!!,B!!!,B!!!,B!!!*4!!!*6!!!*6!!!*8!!!*8!!!1Y!!!1Y!!!1Y!!!1Y!!!1[!!!1[!!!1[!!!0t!!!0t!!!0t!!!0t!!!$Q!!!"g!!!+V!!!1[!!!1]!!!1_!!!$a!!!"q!!!)A!!!+)!!!++!!!++!!!+-!!!+-!!!+-!!!+-!!!%(!!!#,!!!%U!!!0.!!!/]!!!/]!!!/]!!!/]!!!1M!!!1M!!!1M!!!1M!!!,f!!!0P!!!0P!!!0R!!!0R!!!'C!!!'C!!!'[!!!'[!!!'[!!!66!!!66!!!/9!!!/9!!!/;!!!/;!!!,"!!!,$!!!,&!!!,(!!!,(!!!,(!!!,(!!!66!!!66!!!-Y!!!-Y!!!-[!!!-[!!!-I!!!-K!!!-M!!!-M!!!-M!!!-M!!!2J!!!2J!!!2F!!!2P!!!2P!!!*J!!!*J!!!*J!!!*L!!!*L!!!*L!!!*F!!!*H!!!*J!!!*J!!!0H!!!0P!!!0P!!!0P!!!+_!!!+_!!!&g!!!#r!!!'K!!!*r!!!*r!!!*r!!!*r!!!'/!!!'1!!!'3!!!'3!!!',!!!$+!!!&@!!!'8!!!$0!!!$'!!!-m!!!-m!!!-m!!!-m!!!-o!!!-o!!!.D!!!.D!!!.D!!!.D!!!'V!!!$?!!!'4!!!'`!!!$G!!!'c!!!!#!!!&R!!!&T!!!&T!!!'C!!!'E!!!'E!!!'E!!!(&!!!(&!!!(&!!!(&!!!((!!!((!!!((!!!1o!!!1q!!!1q!!!1q!!!-o!!!-q!!!-s!!!-u!!!-u!!!-u!!!-u!!!'u!!!'u!!!'u!!!("!!!("!!!("!!!("!!!(]!!!$m!!!$M!!!1W!!!(^!!!(^!!!(^!!!(^!!!(q!!!%#!!!%7!!!(l!!!(n!!!(n!!!(n!!!(nz!!!)4!!!%.!!!)-!!!1;!!!1;!!!/=!!!/=!!!/=!!!/=!!!7)!!!6d!!!6d!!!)P!!!%<!!!$$!!!*\!!!*\!!!*\!!!*\!!!'[!!!'[!!!'u!!!'u!!!)j!!!%K!!!$(!!!)7!!!)7!!!)'!!!)'!!!)=!!!)=!!!-]!!!-]!!!-Y!!!-Y!!!,@!!!,@!!!,B!!!,B!!!"*!!!0.!!!*C!!!%`!!!(S!!!*M!!!%i!!!(B!!!'O!!!'O!!!'O!!!'Q!!!'S!!!'U!!!'U!!!'U!!!*o!!!&!!!!&"!!!2H!!!2H!!!2J!!!2J!!!2J!!!,n!!!+0!!!&,!!!&`!!!/e!!!/e!!!/e!!!/e!!!+B!!!&6!!!(D!!!,P!!!,P!!!,R!!!,R!!!/_!!!/a!!!/c!!!/c!!!/c!!!#a!!!"F!!!#?!!!+f!!!&J!!!(B!!!,t!!!2l!!!2l!!!2l!!!2l!!!2n!!!2n!!!,/!!!&W!!!(_!!!(2!!!(2!!!(H!!!(H!!!*:!!!*:!!!*4!!!*4!!!)1!!!)1!!!)3!!!)5!!!)5!!!)5!!!)5!!!)7!!!)7!!!*R!!!*R!!!*@!!!*@!!!*@!!!.<!!!.>!!!,k!!!&t!!!'[!!!'-!!!'-!!!-$!!!'&!!!&;!!!+_!!!+_!!!66!!!-4!!!'0!!!+m!!!-B!!!'6!!!&r!!!-N!!!'<!!!$'!!!'/!!!/O!!!-^!!!'C!!!(>!!!2H!!!*\!!!*^!!!*^!!!*`!!!*`!!!1?!!!1?!!!1?!!!11!!!11!!!(4!!!.+!!!'U!!!$V!!!(8!!!(:!!!(<!!!(<!!!-9!!!-9!!!.C!!!'d!!!'.!!!1a!!!1c!!!1e!!!1e!!!1e!!!1e!!!.a!!!'p!!!(g!!!6d!!!7A!!!7A!!!7A!!!7A!!!7E!!!7E!!!.@!!!.@!!!.B!!!.B!!!(L!!!(N!!!(N!!!(N!!!.r!!!/8!!!(0!!!'u!!!!9!!!"@!!!)?!!!/H!!!(8!!!%1!!!)C!!!)C!!!)C!!!.l!!!.n!!!.n!!!.n!!!/=!!!/=!!!/=!!!/=!!!(@!!!(@!!!/l!!!(L!!!$\!!!/+!!!/+!!!/+!!!/+!!!(`!!!(`!!!(`!!!(`!!!7)!!!.f!!!.f!!!.h!!!.j!!!.j!!!(`!!!(`!!!(`!!!(b!!!(b!!!0K!!!(d!!!(#!!!.D!!!.F!!!.H!!!0[!!!(l!!!'`!!!+9!!!+9!!!+9!!!+9!!!0P!!!0f!!!0f!!!0f!!!02!!!02!!!02!!!02!!!&V!!!2J!!!2,!!!1.!!!),!!!)R!!!20!!!20!!!20!!!22!!!24!!!24!!!26!!!28!!!28!!!.J!!!.J!!!.J!!!.J!!!1T!!!)>!!!%]!!!-E!!!-E!!!-E!!!-G!!!-G!!!,`!!!,`!!!,\!!!,\!!!&Z!!!&\!!!&\!!!&^!!!&^!!!0H!!!2'!!!)U!!!$Y!!!!;!!!)7!!!)7!!!)7!!!)7!!!,F!!!2C!!!)c!!!&_!!!/?!!!/A!!!/C!!!/C!!!/C!!!02!!!04!!!2a!!!)p!!!(V!!!0&!!!0&!!!0<!!!0<!!!0<!!!1K!!!1M!!!1M!!!1M!!!1M!!!**!!!*,!!!*,!!!*,!!!-9!!!-Y!!!-Y!!!-Y!!!3<!!!*4!!!%;!!!)W!!!)W!!!3N!!!*<!!!&n!!!'i!!!'k!!!'m!!!'m!!!'m!!!'m!!!,4!!!,4!!!,4!!!,6!!!,6!!!,4!!!,<!!!,<!!!,<!!!,<!!!4%!!!*Q!!!&Z!!!4/!!!*W!!!)_!!!4;!!!*f!!!)7!!!1E!!!1E!!!)i!!!6d!!!6d!!!)g!!!)g!!!)g!!!)i!!!)i!!!)i!!!)i!!!0`!!!0`!!!0P!!!0P!!!.6!!!.6!!!.V!!!.V!!!.V!!!.V!!!.X!!!.Z!!!.Z!!!.V!!!.V!!!/%!!!5<!!!+2!!!%k!!!5F!!!+=!!!$*!!!-'!!!-)!!!-+!!!-+!!!-+!!!.`!!!.`!!!.`!!!.`!!!.b!!!.b!!!.b!!!11!!!-O!!!-Q!!!6%!!!+Q!!!':!!!6/!!!+W!!!(5!!!/3!!!/3!!!/O!!!/O!!!/O!!!/O!!!/Q!!!/Q!!!/Q!!!(^!!!(^!!!(^!!!(^!!!(n!!!(p!!!(p!!!(p!!!(p!!!(r!!!(r!!!'-!!!,\!!!,\!!!,\!!!,^!!!,^!!!1)!!!6q!!!,#!!!)&!!!0t!!!0t!!!11!!!11!!!2<!!!2>!!!74!!!,/!!!)[!!!-o!!!,`!!!(T!!!(V!!!(V!!!(V!!!+-!!!+-!!!+/!!!+/!!!)K!!!)K!!!)M!!!)M!!!)M!!!'G!!!'G!!!'G!!!'G!!!2T!!!2T!!!2T!!!2T!!!,f!!!-1!!!-1!!!-1!!!1e!!!1g!!!8%!!!,R!!!)E!!!1S!!!1S!!!1S!!!*8!!!*8!!!*8!!!*8!!!8?!!!,^!!!)$!!!/!!!!/#!!!/%!!!/%!!!/%!!!/s!!!/s!!!/u!!!/u!!!.L!!!.N!!!.P!!!.P!!!.P!!!'_!!!'_!!!'_!!!'_!!!&Z!!!&Z!!!'7!!!'-!!!'-!!!'C!!!'C!!!'C!!!'C!!!2T!!!2T!!!2T!!!90!!!-,!!!)f!!!(X!!!(X!!!(X!!!(X!!!(Z!!!(\!!!(^!!!(^!!!1W!!!1W!!!0\!!!0\!!!0\!!!0\!!!+A!!!+C!!!+E!!!+G!!!+G!!!+G!!!'o!!!'o!!!'o!!!'o!!!9j!!!-M!!!%;!!!28!!!28!!!28!!!28!!!2P!!!2P!!!2P!!!2R!!!2R!!!2R!!!)=!!!)=!!!)=!!!)?!!!)?!!!(<!!!(<!!!(>!!!(@!!!(@!!!(@!!!.b!!!.b!!!.d!!!.d!!!:Y!!!-k!!!'n!!!2(!!!2(!!!2(!!!2(!!!2*!!!2*!!!:o!!!."!!!)Q!!!1W!!!1W!!!&n!!!&p!!!&p!!!&p!!!&r!!!&t!!!&t!!!2b!!!2b!!!2b!!!2d!!!2f!!!2f!!!2f!!!&Z!!!1W!!!1W!!!1W!!!1W!!!1Y!!!1Y!!!1Y!!!(T!!!(T!!!(T!!!(T!!!'M!!!'O!!!'O!!!'O!!!'O!!!+s!!!+s!!!+s!!!+s!!!+u!!!+u!!!+u!!!-1!!!-1!!!-3!!!-3!!!-3!!!/c!!!/c!!!/e!!!/e!!!/e!!!+)!!!+5!!!+5!!!+5!!!+5!!!+7!!!+7!!!0\!!!0\!!!0^!!!<I!!!.c!!!(k!!!,f!!!,f!!!,f!!!,f!!!,h!!!,h!!!(L!!!(L!!!(L!!!(L!!!<g!!!.t!!!'p!!!*L!!!*L!!!*L!!!*L!!!*N!!!*P!!!*R!!!*R!!!.l!!!.l!!!.l!!!.l!!!=8!!!/0!!!&u!!!-!!!!-#!!!=F!!!/7!!!'#!!!=P!!!/@!!!'&!!!=b!!!/G!!!&n!!!)c!!!)c!!!)c!!!)e!!!)e!!!)e!!!)e!!!)g!!!)g!!!(*!!!(*!!!(,!!!(,!!!(,!!!(,!!!'u!!!(2!!!(2!!!,\!!!&t!!!&t!!!>E!!!/b!!!$!!!!'#!!!'#!!!'#!!!'#!!!>Y!!!/k!!!'D!!!)C!!!)C!!!)=!!!)=!!!>k!!!/t!!!(I!!!17!!!17!!!19!!!19!!!+m!!!+m!!!+o!!!+o!!!+o!!!2f!!!2f!!!2f!!!2f!!!2P!!!2P!!!2P!!!-1!!!-9!!!-9!!!-9!!!(X!!!(X!!!(X!!!(X!!!)+!!!)-!!!)/!!!)/!!!(L!!!,f!!!,f!!!&T!!!?`!!!0D!!!#f!!!*X!!!*X!!!*X!!!*X!!!*Z!!!*Z!!!."!!!.$!!!.&!!!.&!!!1W!!!1W!!!*4!!!@/!!!0V!!!'N!!!13!!!15!!!@=!!!0^!!!),!!!1;!!!1;!!!1;!!!1=!!!1=!!!(*!!!(*!!!(*!!!(*!!!@[!!!0n!!!&q!!!)a!!!)a!!!)c!!!)c!!!3E!!!3C!!!5+!!!5+!!!'[!!!'[!!!']!!!'_!!!'_!!!'_!!!)I!!!)a!!!)a!!!)a!!!!3!!!#c!!!11!!!1E!!!1E!!!1E!!!1E!!!1G!!!1I!!!1I!!!1I!!!*8!!!*:!!!*:!!!*:!!!AV!!!1@!!!&@!!!*J!!!*J!!!*J!!!*J!!!68!!!6L!!!6L!!!6L!!!6N!!!6L!!!6L!!!.6!!!.6!!!.8!!!.8!!!.8!!!/c!!!/c!!!/c!!!/c!!!B5!!!1Y!!!'7!!!/q!!!0&!!!0&!!!0&!!!0&!!!0(!!!0(!!!0*!!!0,!!!0.!!!0.!!!0.!!!0.!!!BY!!!1m!!!':!!!-9!!!-9!!!.P!!!.P!!!.P!!!.P!!!.,!!!.,!!!.,!!!.,!!!..!!!..!!!"L!!!2V!!!2V!!!2X!!!2X!!!2X!!!/c!!!+o!!!+o!!!+o!!!+o!!!-e!!!-e!!!-e!!!-e!!!+G!!!+G!!!CL!!!2;!!!&5!!!+5!!!+5!!!+5!!!C^!!!2G!!!&R!!!'3!!!'5!!!'5!!!'5!!!,F!!!,F!!!,F!!!,F!!!,h!!!,h!!!,h!!!,j!!!,j!!!,l!!!,l!!!,l!!!.0!!!.0!!!.,!!!.6!!!.6!!!.6!!!+]!!!+]!!!+]!!!+]!!!+_!!!+_!!!+_!!!'G!!!'G!!!'G!!!'G!!!60!!!60!!!60!!!60!!!66!!!66!!!66!!!-%!!!-%!!!-%!!!-%!!!Ds!!!3$!!!(h!!!0\!!!0\!!!0\!!!E0!!!3/!!!%l!!!,T!!!EB!!!38!!!&f!!!/k!!!/[!!!/[!!!/q!!!/q!!!66!!!66!!!'3!!!'3!!!'3!!!'3!!!Eh!!!3L!!!)7!!!*D!!!*D!!!*D!!!*D!!!)Y!!!F/!!!3W!!!%>!!!)I!!!)I!!!6f!!!6f!!!6j!!!6j!!!6j!!!,p!!!FK!!!3g!!!&t!!!(<!!!(<!!!(<!!!(<!!!+a!!!Fe!!!3r!!!&B!!!+U!!!+U!!!+i!!!+i!!!+i!!!+i!!!"*!!!"h!!!!%!!!'G!!!'I!!!'K!!!'M!!!'M!!!G8!!!41!!!&K!!!)M!!!)O!!!)Q!!!GJ!!!4<!!!%:!!!6d!!!1s!!!1s!!!1s!!!1s!!!1o!!!1o!!!!5!!!"`!!!2p!!!2l!!!3'!!!3%!!!3%!!!2@!!!2(!!!2(!!!H'!!!4R!!!)^!!!/c!!!'_!!!'a!!!'a!!!'a!!!'a!!!H=!!!4^!!!&i!!!/+!!!/-!!!/-!!!/+!!!/3!!!/3!!!'#!!!+_!!!+_!!!*@!!!*@!!!*@!!!*@!!!*B!!!*B!!!*B!!!*B!!!0>!!!0@!!!0@!!!0@!!!+9!!!+9!!!+9!!!+;!!!+;!!!+;!!!+=!!!+?!!!+?!!!'m!!!'o!!!'o!!!'o!!!'o!!!+_!!!00!!!00!!!02!!!02!!!02!!!02!!!*b!!!*X!!!IL!!!5:!!!%o!!!*4!!!*4!!!*4!!!*4!!!&V!!!&V!!!&X!!!&X!!!&Z!!!&Z!!!&Z!!!Il!!!5M!!!'H!!!-C!!!-C!!!-C!!!J-!!!5U!!!'3!!!1o!!!1o!!!1o!!!1o!!!*$!!!*&!!!*(!!!*(!!!JG!!!5b!!!$"!!!,n!!!JS!!!5i!!!&s!!!+i!!!+i!!!,4!!!,4!!!,t!!!,t!!!,t!!!,t!!!Jo!!!6%!!!%E!!!*t!!!K.!!!6-!!!&!!!!+#!!!+#!!!'-!!!'-!!!KD!!!67!!!#f!!!''!!!&l!!!&l!!!'-!!!'-!!!KZ!!!6A!!!&q!!!/E!!!/G!!!/I!!!/I!!!,f!!!,f!!!Kp!!!6L!!!%)!!!L%!!!6Q!!!$;!!!)'!!!))!!!)+!!!)+!!!L7!!!6Z!!!&"!!!*h!!!*h!!!+)!!!+)!!!+)!!!+)!!!*Z!!!*Z!!!*Z!!!*Z!!!68!!!68!!!68!!!6:!!!6:!!!+U!!!La!!!6p!!!&<!!!+Y!!!+[!!!+]!!!+]!!!+]!!!M"!!!7&!!!'\!!!.D!!!.D!!!&`!!!&b!!!&h!!!&h!!!2H!!!M<!!!72!!!%5!!!28!!!28!!!28!!!2:!!!2<!!!2<!!!2<!!!2<!!!&l!!!&l!!!&l!!!&l!!!&n!!!&n!!!&n!!!'c!!!'e!!!'g!!!'g!!!*,!!!*,!!!Mp!!!7M!!!%R!!!)s!!!)s!!!)s!!!&Z!!!(N!!!(N!!!(H!!!(H!!!0<!!!0<!!!N;!!!7]!!!(Z!!!,l!!!.:!!!NK!!!7e!!!'Y!!!/5!!!/5!!!N[!!!7n!!!(,!!!Ni!!!7s!!!&f!!!Ns!!!8$!!!,%!!!O*!!!8-!!!))!!!)u!!!*"!!!*"!!!*"!!!.&!!!.&!!!.&!!!.&!!!OL!!!8;!!!)<!!!/g!!!/g!!!/i!!!/k!!!/k!!!/k!!!'-!!!'-!!!'-!!!'-!!!)U!!!-g!!!-g!!!-i!!!-i!!!0X!!!0X!!!0Z!!!0Z!!!P)!!!8S!!!&@!!!!g!!!+u!!!P7!!!8Z!!!&L!!!,<!!!,<!!!,\!!!,\!!!0R!!!0T!!!0V!!!0V!!!PQ!!!8g!!!$"!!!'%!!!''!!!''!!!/u!!!/u!!!/u!!!/u!!!Pi!!!8t!!!)j!!!2`!!!2b!!!2b!!!.8!!!.8!!!.:!!!.:!!!(r!!!(r!!!(r!!!(t!!!(t!!!Q8!!!90!!!%!!!!(l!!!)'!!!)'!!!)'!!!)'!!!QL!!!9;!!!&k!!!QX!!!9A!!!(2!!!0@!!!0@!!!0B!!!0B!!!Ql!!!9O!!!))!!!(f!!!(f!!!(f!!!(f!!!(T!!!(T!!!(l!!!(l!!!(l!!!(l!!!/3!!!/3!!!/3!!!/5!!!/5!!!/5!!!RK!!!9f!!!$*!!!-=!!!-=!!!-?!!!-?!!!-?!!!-?!!!1?!!!1?!!!1?!!!1?!!!2X!!!2Z!!!2\!!!2^!!!2^!!!1E!!!1S!!!1S!!!1S!!!1S!!!1U!!!1U!!!1W!!!1W!!!1W!!!'-!!!'-!!!(H!!!(H!!!(H!!!(J!!!(J!!!(L!!!(L!!!+/!!!+/!!!+/!!!+/!!!SP!!!:<!!!)<!!!11!!!11!!!11!!!13!!!13!!!,(!!!,(!!!,(!!!,(!!!,*!!!,,!!!,.!!!,.!!!,.!!!,.!!!11!!!1%!!!1%!!!1%!!!1%!!!,f!!!,f!!!-A!!!-C!!!-C!!!-C!!!-C!!!0.!!!0.!!!0.!!!0.!!!*j!!!*l!!!*l!!!*n!!!*p!!!*r!!!*r!!!*r!!!*r!!!(<!!!.t!!!.t!!!.t!!!.t!!!+i!!!Ta!!!:o!!!&F!!!1'!!!1'!!!1'!!!1'!!!2n!!!2p!!!2p!!!2p!!!2p!!!U(!!!;)!!!)`!!!+o!!!+q!!!+s!!!+s!!!+s!!!0H!!!0H!!!0H!!!0J!!!0J!!!0H!!!0H!!!UL!!!;;!!!$7!!!UX!!!;D!!!$a!!!-c!!!-c!!!-c!!!-c!!!-e!!!-e!!!V!!!!;P!!!(#!!!0B!!!0<!!!0<!!!0H!!!0H!!!7E!!!V9!!!;[!!!#u!!!.l!!!.l!!!.l!!!.l!!!1;!!!1;!!!1;!!!1;!!!,B!!!,B!!!,D!!!,F!!!,F!!!,F!!!5)!!!5a!!!5_!!!6.!!!6.!!!6.!!!6.!!!60!!!60!!!Vq!!!<#!!!%O!!!1!!!!1#!!!1#!!!1#!!!1%!!!1%!!!1%]?pU)!!0b9]aN$aU]:Aq!!0b<.gWK^Y8@G)%`!&qIOIdC#N,mW!)j*K!PB6L!#Pjg!!!&5&1[sD'G.H]-jJ9'(]XP7"k3Rc!PJIM!W2ot!!!&5%%p0#+-7Pj!!!%l!%e5]ZN791k6'TBZN79]cV)jjYQ;6<^]B5l!PJI6$%r9YYQ+YT!!/\mZN7Q97IL`f!ODg2%F68S!O)U7!Pe_l!!0b5,mKk>&.7V<#+#<(f)QL-!P0[9`Xi+e!!!i:VuQk4!M9>m!Or+0"5a-c!N61r!VZW$!OtVV!Jgc\]`8)K8cShl&-*OnNssAL!#-PA\gRcL&-*OJ!#PaV!!0b5(aU^5QuNB3+9hcRL^rp'!P2YC]a+TTli7"d!!0b7.g:S+&?co^8@JR5!!#qG!%V7j!!0bM+p+P?%aYaeY8@g$LB&#"!PKl^!TX4\YQ+YT!!/\mZN7Q9Y6Cg)ZN792T-D;VYQ;6\^]B5l!PJI6"mc3hYQ+YT!PgMm!M9>l!Or+0rso.:ZN798mg&"VZN7ifQNQ+GYQ;7*^]B5l!PJI6^)?tO!N5u!!!/\lZN7Q9&@W/N!ODg*9@jBO!KmJn!Pe_l!Q##M!mhAF!PJZ@!QtHC!#PaV&-;%rE=f;j4J)em&!25g&+Bgc(]XP7"4R@a!PJIM!kJ@3(]XP7(ifYi!!0b5!PL#a]ef]hZiC(,U]J+1!!^4B!!!&5!QG.n]`8$LHiO-I!!!&5!M9CW!Or+0"5a-c!OtU[8G<.k!Or9Q!Jgc\]`8)KU]:Aq!!0n<!PJI=!kSF4!!!&5(aT3g!#,tE'HdUH-nC&Q!#PaJ(]hVf!PJI5,n^1X#R6)%#+#<((]h2j!PJa=!h0/i#S,KH!PK#1!rN#u!!!%l$^VuL!OsQPGSRtsms$X5!KMCK9Wr\S8G<.kP%Y#s!J!-1!Q#/9%$1S4!PJc#!i#_qY8@g$%B'sP;^`gh]bg_LA,lT1!!!%l!PSTE!!0"umgfH*ZN7!YD\h42!O)U7!Pe_l!!0b5,m!!*&-)h%Nt9$GJ:8V,p]\/:QN.^'!P0Z`]at/\)uos>!!!&5!!0bY]`Q(OM?!VW(]hVX!PJI5"6':\VuQk4!M9>m!Or+0"5a-c!N6=&0UDgH!Os*K!Jgc>$fD'$%IaD8%"JMs!!!&5!MT\f+ohTS&&9"^(]Z[&!!!&5&1[kS&?c01k5q;r^j[[oYQpO%!!#q-irQe0]`8lOiW&rZ!!0b7.g49#&?co^3gTg\!!#qG!fL8"!PK<M/OTR=!O)P(!!!%l!ODg:"0Vga!ODg21lhje!ODg:1VX'j!O)U7!Pe_l!!0b5!PJg?]aOl@UAt8p!!0e8T)\nj\,ZL0hZ:%aW#,11DZR0F!Or3g!Jgc\]`8)KRK*<g!!0b8!!.]P!!!!gz!!!!#!!!FL!!!!*!!!!*!!!3e!!!!6!!!!/!!!3i!!!FL!!!!k!!!!D!!!!=!!!3a!!!!\!!!!B!!!3d!!!!f!!!!H!!!3i!!!!r!!!!M!!!3h!!!FP!!!")!!!!S!!!3j!!!FR!!!"5!!!!Y!!!3c!!!FD!!!FH!!!FH!!!FH!!!"G!!!!c!!!3c!!!"S!!!!k!!!3e!!!"c!!!!r!!!3]!!!FJ!!!"s!!!"$!!!3g!!!FH!!!FH!!!FH!!!!#!!!FP!!!FL!!!FL!!!F^!!!FH!!!FD!!!#>!!!"3!!!!"!!!F\!!!FT!!!FL!!!#N!!!";!!!3f!!!FL!!!FJ!!!FJ!!!FJ!!!FJ!!!FD!!!FD!!!#f!!!"K!!!!"!!!FL!!!FL!!!FL!!!FL!!!$+!!!"U!!!3d!!!$7!!!"[!!!3b!!!FL!!!FL!!!F\!!!FN!!!FP!!!$M!!!"g!!!3a!!!!#!!!FD!!!FD!!!FD!!!$c!!!"q!!!3c!!!FD!!!$q!!!#"!!!3a!!!%&!!!#)!!!!"!!!FP!!!FL!!!%8!!!#1!!!3c`fC*;!!0b9]`su,oDejlLB4^lpe$<!VZF+)p_1[NVZF+)pcnKX!e=qb!$VCC!O)W]#Hn+A!#,Kr!gj4r#Hn+A!PJQ-/[PKXTEP$?E<2s?!OiB>$.s]?!f-sR=9&A[!)O+A=9'NF?iUio?n2?Z'EP+>E!k1s?iU4c!*B[I?iVANBE/]"BIa2b'EP+FGY!kqBE/'k!+66QBE/\GBK/&6'*R3+31"Rahf*No!!0b9'L:^ZkX1C2LB&"j'Edhm"8EB,"5j3j!KI.&"5j:6!$X2%!K[EAkRRY-%fd:G!#,P)]`\$?KE(uQJ,gcX]`O8s9E5%n!f-gi!#,L<!g#CNQn\RO!gk_E!g!J>!f-gi!PJQ<.b"Fu!&XUX!!0cP]i0RaMuWhYL]A)/!#o8HBEEti!!!(^!!8O$O9(@A[fVouQiId#3!R,!!gj%V!#,Rn!h`'X!!!&5!KISq"4..k!"U@D"4.(2"3:M'&t]9Q!!!&5LcA"[^B02mJ,tZM^B02mL]A)B3!?tt!f-o6!!0c_!#/*,"7QAi#)<0m!P&=-!$DC%!!!&5!P'ZG!$D?!!e:<3!fmD="K):,!e:IS!Vc\U)NOrM!!!&5!f/fu9U>g:!e:<37DAn[!f-gi!$W]O!Vc_X!!8O$T`>T']`Oi-PQ1[aVZF+kpaMg?!e=qb!$VCC!O)W]O:M=*!!0b7N`ad2ci_>i%g.Rhci]C1Vu_n\-Nh^'cuB$r!!0b8'EXa(^`KBR!!0b9]f2G]_uKc<Y5f7U'Edh0p]mu&huU@jNW:1(huhU4+p<Z'O9=D@!!0b6]cZ#0g].<TO8oqV3!7b6!g!JF!#&60"4mUAQi`X7'-r>7f)hTF!!0b8N]4TNhuhU4+u6>(O9=D@hZ+>k]`[I&o)Jak!!/\n1^(#_!!!/3LH_&8]EH#D^btHZ!PJI9!QtHC!!7Zs^AnrZ'EX()O@+d'J-!4_,nL%X&-)cf!!!&5!KKq!"3:S[!"VX#NW[@"a903YBI*$K!!!,B!!!&5!KK"$!f-o.!#%`g"MY"oL]WAl!PNsa"I];jQS:*Q!!#k4!!0be'K)rl^b"(;!!0b9'J7f7^al;_!!0b9'F!h'Qj9epY5f7<\H8E/+9I?"J,tZ1Nrk+=T)l8"J-Grs!!0b7MbX*L"/m%;j8ln)!!B/i!!!&5!#-g9"5"dS"3:MS!KI]k"3:S[!PLIb;S2u0!!2k.VZF+(p`#8!VZF+)pe@([rrKG,p`$t4!e=qb!$VCC!O)W]O:M=*!!0b7'*5-6:9SU:s*+MWG^(_@!PJN3:&Ftk!"HSF!PJWO,(opr!!!&5!#%GQ5i2UX^]D51'--`IT)m"5!Q[5<"Q'7$!RLf[co=PYhZ;()fDlQf]b:&?ZiC(,!!0b_3&Rc;!O)U/!#$+I5i2UP\,j*!]g_YrCB+>8#Hn+A!P&9)!$D?!!e:<3!fmD=,+enB!e:IS!Vc\U/XHNh[grMGZN9h3k6ImcZN9h*mfAaUZN9h\Y6Us+BE@lr!!!(N!f-h#!#,I<!g!Yj!!!&5!#&3$!j;Z]L]WAlZUa`kVZOU6]`O!(PQ1[a!"`g?(]Y3L(`55^!#&#7]`c(mMuWhYn,O+g3(DL$!q69\!#$a3!p9X[p]C4M]`d3oMuWhYTE#Wd3!-8b!h]Uf!OtL`!f.s!!f-gi!PJQ</(=P!!!!&5!#lj#!j;Z](RG+9!"T-m!gj+iL]Wr!]`O8sli7"dL]A)a'EYH>O9LC>R/da!1'3gE!f-oF!PJPr-Cb&9VuQfL!!/\p+9\nK8"W5Rk?8#(^]_GL"Mcer"MbNI"K2?].^&uj+K#7H"L&]o"FpNW]`82VX8i5$,1g!T"Mb/ULBPCKNWd-j^]_.JZP`]F[h/97YQV0Sa97"o!PJI9&#91*"5j/'!#,Hq"6]uV'or>/!#,P)"8FS="5j3j!KI.&"5j:6!PKqc/Z\pP"5!X7"G[*;"5j/'!#,Hq"6]dS(:O8X!PJU),.%=M!!!%YL]A(g.fumU!f-o6QoG/V-i[!E!!!&5!$VMt!e:?NQiI+bO9(@CpB$]`QiIdi]`u4Qg].<TcN"YF]`c,-P5kR`"/$D6+q;9eE!)a5"/l25!##t-%DN"L!!!&5!PV.D!!Jqp!!!%lLEH`(^cfG+(meD/"Mb/UQNY)[NWd-F^]^;2ZTsQSpHb\XYQV0ta97"o!PJI9$et^^0)#>[^aB/5"3>Ek!!$[A!!!&5^c4L4hZ:Lna8ckV3#:ZX!QY;_!##Lm&s!(?!!!&5Lc.Wm3h-0O!!!&5!P'QL!$DC%"5!X74kBeo"4.(/*nLMH!!!&5!OtYT!f.s!!f-gi5Uuo>9]lJ=']/m)!##F,"MY#:VuinW3(f55!iQ1!W&PR=T)tqm!iU?'!iQ7"!jDY<YW)]fQNFAmO9)mJ]`9G^j8]/\L]A)$'+sC/^B0Js(]fO(]at7$li7"d!!/\q1^(#_!!!/3T+$NqE!3sM!S@gapjN7J%u<a^$*sZF]`82N])Vg3)#t0LQne`1O914>L]A(i'EYH>O>E4'!!0b7]fiFsZiC(,TE#Wk3!/7D!MBId!#$OE(?Y^sVu`hV'2$ROhZ9q]!!0buT*`+0J,fQM"c+u=!ODb+'<_Vd!ODrc8WOFt!O)`X"c*<.!!0b5'L];.TFR:gQN.^$\cSfT!!8Mg!!0bEZQtJ0^HA\#ZNI]Qmn*6SZNI]lrtOVs]`YbkKE(uQrrKGe\.ATmpAqT&\/tAccN1?S\0%%r!!0b8+u6M*O9=D@k5Z1s'EdP$n,qhR!!0b8]eSRJe,TILcN"Xp'Edh\peU>YhuU@jNW:1(huhU4]gDGqMuWhY"3<GN,G,(Z!!!&<!KI8t"2G#K^h=8I]`8$7ZiC(,TE#Wf3!-8b!h]Uf!$Y-m!gj%f!!8fE!!0b5BGK;&!!!,R"5j/'!#,Hq"6]l[!!!&5!#-^>"6]pO#-S"@!#,P)"8E,q!!!&5!M9P%"b6RQ!!S08hZ:%`Ld:,)pAqT(J3`9#f)`2]J.:C%ciL?S!!S/]!!!&5QWasE^]_Fc"Mcer"MdC."LnJm+bp390uj=$"L'u6"FpNW]`82VU]:Aq!VfJK!n\Hr$0M>q"1UVb,hE('"1TYT.%^OH"1So/!!!&5O:NYUn-4CXfE&#YkS(`E!U)KE"Q'7Di"*U>^]T)nn-X[H@0>*^&"j0caF4T>fE/Pc!Ur&U2:hlu!VcX.!PJTe]R0\ZL]ap`!PJI71TUQV"1SAl+plj$"1U#b!!B`ErrKG+\4-EdhZ:%c\.@IIhZ:%c\4,:Dk5hmk\-qI-VZF++\1+=)hZ:%c\3]"<LB4^`\3Ga5NrcQh\4hrWNrcQh\1k*"!!0b83&/>O!Vc]j!##Tm"4mU)J-(6\'-$BAf)ga.!f/f<%aP34!!!&5!$VX,!K[EAkRRY-%fd:G!PJU)0[p(&%+bIn!P/?J&-)d9!!9YV!!0bEZN]Cih]^;HZNI]bY:@9fZNI^%cRR6A]`YbobQ%VD2uk-[5QDHO5Uus:]`G#rbQ%VDmf4%9'EdP#n-/OdpAbm0\HDU-+9UO&fE%!4cNE)-!!0b`3&7i@!f-o6L]Of2n.+@X"jh,h%\O<!%+#$i:6,I4E!t$$fR<k"J.ALgJ,tZ5T)sfML]A)D3!?tt!f-o6!f/gc1ku-g!!!&5!#%043fa="huVaq'*R1n^B*Nu!!0b;3!>EF!oO.<!#%WD7b7_*kQ9s-]fiP#JcGcOL]A(tE<<<F6^Ii+k^ESphuhU6i;aAl]`OQ'_uKc<k5hn;\3HT)k5hmk\2B<d[fNf;\3[Si!!0b8BGH1#!!!(N!f-giLc>OPIfbE-L]WAlN\lLmL]W)-]h-fWoDejla8ckU3!?tu"3:Sca>b7@[fa\R!!0b@%i5'Cci_)aa8q;'T**FB_#P!?NW[W0ci_>i]g:f`qu?]tDZCIa!P&=-!$DC%"5!X7/'e=U"5j/'!#,Hq"6]sh#6+Z;!#,P)"8E*#"5j3j!KI.&"5j:6!$Wkq!K[EA!!!&5!#-`t!g!Yj#Hn+A!#,L%!h]e%!f-lf!PJIU*M`Z82R`^n!e:IS!Vc\U$blan"j[4U!Vd;*#H%U/!Vdte!!7[aL]AV!'EPE>!g!om#Hn+A!#,L%!h]e%!!!&5!M9k?"L%k+^^lJG#R@"*!q6\es&qJ0^]_Fp"Mcer"Mc_#"L%oe-g(WJ&FTY+"L&KA"FpNW]`82Vli7"dk5Z2,'EZ'.a@u=.\,j/B,nL%X&-)dI%+bIn!#,LU!mhCc!l+iJ!P/gB:]LOc!!!&5!#,b1"McLR!!!&5nllI6"Mb!I!!!&5!(7+h!##>43'm!=0>@bu#QOiD!!!&5!#%KE"MY"oL]WAlLcBkcNrk+=J,t[*rrRuXL]A)(]`c(OZN't+W;mG5!KKDI9s6fAh`(TLf`2O*!KKDJ;O9X.!!!&5!$X&f!K[EA#JU6Q!#,P!"7QQ1#JU6Q!P&=-!$DC%"5!X76MCT?"5j/'!PJMq!f?sX,e!af!P&=-!$DC%"5!X7-MIW#"5j/'!#,Hq"6]gD!!!&5!KK+g"2G#K^h?TkNW9%]^]V(I]asi>X8i5$",Jo?"Q'<;"-<KrO>mTfhZJrB".2%N><pe*QiIck!!0b82BIeWS,`Z,!!0bk'*d.j"93$7VeB`opAbm.!)n+p!PN.H#j_Nk"K):,!e:IS!Vc\U%A*]P17nTR!VdD-!q-/r!Vd>S"K):,!VdM`#H%U/!VdG.*PVW]!VfLk!!!&5"3<G7NXtk<a903Y3)'>SLG/hGa8rM3!!CRMUBA;%TJuoP%(B%7%eB^b!gj%^!!!&5!#,sm"6]rE#0-]X!#,P)"8E)X"5j3j!PJIU,l@WB!f-l;,i8Zb!f-h#O9)R6!!8MhRKA:8!#,DG"6]dS!Ug"&!#,P)"8Doc"5j3j!PJIU-1h0;"G$O`!KI9/"4..k!"U0t"4.1]"3:M':A4k;!!!&5!"U0Y]eBTRdf9@K#cJOI#1sHb$E+!@;3(h3i!H>jIKZSW%$1VM!$VfD"4./.!!Ck)!!0b59`pjb%tFi9fL6AHn.'sS)5on<&s*m]"3:MS!KI]k"3:S[a<_4t'G(6HcqUD<k5Z1u\c^SL!!C:C^]BH,hZLq%!!0c1N!.#u!!A#X"2JRM!KI-["2G#S!"Vd'"3:Vm"2Fqt"c!3$a<:No!!0b8ZPg+MT*5/pZN9h:[kaQVZN9h,LB?oF]`In)g].<T!!1"jNW[o6"5#:.!KKCB[fau23!#7;!##>4]cc2llMpnc"2JRS!KI-["2G#K^h>TtNW9%]^]V(IBLg)F!!!,:"1SAl8tQ4$!!C#M\,hTi[faDJ"2JSD!KI-["2G#K^h=DUNW9%]^]V(IBJ])Z!!!,:"1SAl+3+K!!!C#M\,hTihZLXr\,hU&9[<\@!!C#M\,hTiVZX^:!!0bE'/$Wl)da-V3"Q&i2TH@?!!!&5!#$18]M>YDBI)(.!!0b5#q4j7O9=D@VZ7D3'EdP-n.b<kY5f7=\HDU1+9UO&!!0b5.gM4;!N/aj$J,7l!!#r*=9'"2==XLR]`G$5PQ1[ahuUABNW:1(huhU4+t9\tO9=D@VZ7D3'EdP-n.b<k!!0b8=q1B0"Mc,:^bZ,/^_W7>\,hTmLBPBq^B(YrYT/]nJ,ukW!!L@G!!!&5!#-%*"8Doc"5j3j!KI.&"5j:6!PKiS(&@n1.#.d:!PJWO']T/n!!7s7!PJ`=,mjVP&-)gR3UZq^!#,O^"5"@G"3:MS!PK$E&Bk+S!!!&5!#,LA"8Du]"5j3j!KI.&"5j:6!PK,L)MA(jYAaITRK:&r]`<!RZ2ak*[f@*L%g%h@QiYk?!gk_E!g!J>!!!&5!P&K3!$D?!!e:<3!fmD=!Vc\U/%5S1!!!&5!#-m3!h^IH!g!GoQmE:D]at/FRK*<gfE%!If)sq5ciK.iVZYQR"5%9[!$VCC!K[EA"h+IG!PJU!)l*H6!f-lf!KI.&!f-o.!ODig"ofd=!KI9?!e:=H!PM%e%]fX1!k84D\2X`F`r`aP^]5#d3!\%:!l+lQ!#%J]#M0$ua9'FB',gfOf)j;!!!0b<1^oTK!!!1Yp](:G!!/\pZNYjZQNQ+GZNYkJ7@+Mc!ODq(7@-H8!ODrc2YRf]!O)`X"c*<.!!0b5'Ihf;:a>]75QChC!&tE)5QDu.8,s;W81OfB'EP+&=<"FD!!!&5!##\2.g,f2!N.n:!Oi%C!!0c('FLoAO@-JWd/X[Y1'3gD!f-oF!PJPr%GCd^!!!&5!#$+F5i2U0QiWR6'--`IhZ9AM!MDD;7J?hU!!!&5!PJ`6'@Hj\!!!&5Qnf/OO914>L]A(i'EYH>OA1K1!!0b7NYI?N!!B_3!#%Sp)V5),"3:HUa>a=;^B;OZ!!0bG]b\`j]Dqp4huFrOE<2.'#Hn9'^jZCLL^<2GY5f7E'Edh0p]mu&huU@j]`9/Wqu?]tNrcQk\201%LB4^`\5A#Y[fNf;\5B_4f)`2[\/a*?!!0b83"CTA"5!_.fE&:-J-N4[i(._f^C%ISfE9J$@8;jc"i(2dJ:7R8kRPZA!!1"DNW[W."4/_&"41_2!PJI5(Rb=(pa?+dp](s.BI)aA!!!(N!!7siL]NM99`HLB!m(EQ!PJPr+LD+K"5j3j!KI.&"5j:6!$X2%!K[EA!!!&5!##js!j;Z]($>Q2!"T-m!gj#)L]Wr!'*=6sY6'L[!!0b7\I4>r+9UO&fE%!4pB0=UhuFrf'EO9tkXM`UpAbm0'Edh?p]mu&!!0b8'EO*l^^?t>!!0b9NYCFQa903Y'1M'd^B;OW"3<G)$KhN4!!!&5fJjA*hZ;@1huFDn3#[PQ!T4":kVr_&/uLZ0!!2R8!Vds;!#,tE!e<qa'YaV^!P/>g&-)b+!!!&5!##Uk!j;Z]",?jj!"T-m]`OQ-irB&[:VU'9"Mb/UY6;WsNWd-U^]^kBZTb8iT,FO-YQV0?a97"o!PJI9N][:AhuhU4+p";<O9=D@Y5f7;]`[I'>Q=a)"/#W-gfk6&"/#W-!!!&5!#-*b!g!YjQk'02%fd:F!P&9)!$D?!!e:<3!fmD=!!!&5!$W6V"0_m#!!!&5!#-<`"7QQ!#Hn+A!P&=-!$DC%"5!X7"G[*;!!!&5GW6f33"38UVdKOUaT)i('*3mihZ8f=!K]9+(&n;r!!!&5Lbo@+T)\ipJ,fQMf)`2]L_@/ucN1?UJ2ElMciL?S!!S/]!!!&5!##h=)4pr.Vu`hV'*R1nk5hde!!0c']bB`4ZiC(,!f/?=!k/5e:]d"D!"Vr)!h]RF!!!&5THt5n'G(6GW#EDNpAbm/\cT)C!!8eo!!0bENXP1RhuhU4+p";<O9=D@Y5f7;]`[I'WW3#"Y5f7@\HDU1+9UO&"5!_V!jD^Xi!usu@8WX!"iph6Ljf\]YRC4:huFr''EO9tkR,')^AnrM]`[a2e,TIL!!.ua5ReQ$!$VCC!PL0X)3b+$!Jg^hLc>a^hZ8N6O8ops3!/7D!K[>D!$VR'!K[>LQiI+*!!0b6;\ZeC'0#sl"91UdVa*KtcN"X[!)l]e'+"(-"91mlVas?/!!0b63!@G*!mh"q!#&#o7b7^ofE0\b'+(iDf)jk1!!0c&'HN&2n-@hNY5f7=\HDU1+9UO&fE%!4cNE)-!!0b`NXqiaa90Ka%o!!*ciX"Ca8q;'LBGm*q#Cp/NW[W2ci_>i%mAMH"40=6"3:M'-'&/T!!!&5!PK*3#I4=0!e:<3!fmD=!Vc\U8Z)W?#Ia`?!Vesq17nTR!N6;(!q-/r!Vde`!!!&5ZWdab"Mb!L!!!&5J7opT+ohTEYQBU\%fd:E!#,Kr!gj4r!!!&5!KIQ9"3:S[a<`S8'G(6Hcl2?Q!!0b8'+*(e:9Q>O!#rdZ!!0beZPTYBLI[C+ZNI]uV^2!;ZNI]pmh,!h]`YbVg&M*R!h_Lf-FX&L!iQ)4W&P%6LB=CUYQ,=p3!\%:!jDa1!PLbE&).'a4gtD*!PJWO'C5]!!!Keg!!/\lD$7'C"MbVaa'(UO^]_G+"Mcer"Mbhg"LnJm38XkS-LUuA"L'DK"FpNW]`82ViW&rZhuFr4'EO9tkQLV[cN"X]'Edh6pc%pI!!0b8!#-[Y!g!Jm"3CNRQne`1O914>!!0b7\H;$r+9UO&fE%!4Y63\bhuFrV]`F2s\c;^2f)QL$!)lu1!#%m']`\:2WrN,#!!/],D$7'C"Md!P[ou7f^]_GI"Mcer"Mc+7"L%oe*S1G0-C4b>"L'HW"FpNW]`82V_>jQ:NrcR/\/:8DNrcQh\/p\P`rWLK\1#BGY5ts3\5BG,`rWLK\2_Mg0EI193)'?+T.gA_!!0bj\I6me+9UO&fE%!4f)sq5ciK.iQNPkBfDm*13!.G/"4./.!PM=5)3Y%#"2Fqt62(K&!pK[q!KI9'"3:S[!"UB:"3:Rq"2Fqt.JEqc!!!&5!PJd:"I&ld!!!&5!PJhm(lJ@oQOj]Y!"^[t!!0b5'+ERp(?]oBhfsB*J,g5c3"h8Q!It3$!PJWn#b(eoJ-(6&%iWLqci_Yqa8q;'f)sA%JH/XP]`ZU_l2Ueb!!"SS!M9Mi"b6RQ`t&3WZNU%cO!i6SYQ]P3L]l'*!PJI:%FP4Va90LC"@U94$*XNIfEr)_k6&d7%#A=E"OIXGa:$pTNXW]6^]V(IBEO"l!!!,:!!!&5!#-'p"8E5<"5j3j!KI.&"5j:6!$VH9!K[EA(Z,3,!PJU!#K-TB!f-h#!#,I<!g!Yj#Hn+A!#,L%]`Oi;iW&rZ%fd:H!#,P!'Edh8"8EB,!!!&5!M9eE"b6RQ!!S08[fNf8LcEuihZ:%eJ3:SAciL?S!!S/]!!!&5W$Mn['G(6GYX=0Gk5Z1t]`P]%qu?]t0E;aq!!!sF0JGI?!PJQ<#gr\QL]Wr!.fte6mfJ;A+9@BU7h?.))8cN3ci=^Zco?LW[fatZfDlRX]`c(P])Vg3VZ7DE]`XW,b5_MC!!/]&1^(#_!!!/3V[LOU]EH#8^`hD4!PJI9&`Wikpbr0ehuU@jNW:1(huhU4]gDGqlMpnc!!0b9'+qkWk6$57"+W?4+n#M`",Hpj!PLIZ,LZVm"5j/'!#,Hq"6]g<"ciWt!#,P)"8E,9!!!&5!#-*)"8Du]"5j3j!KI.&"5j:6!$W&Z!K[EA#G1u1!PJU!(8:d/*p3R1"1Uqc2NImF"1Sr`1>`,="1SiE2O=HN"1TYd!!!&5!KJ+n!h]U^!"2L#PQ1c@!!7ZOJ,gbn!#&`A%DMt#"0qs?]`8+iU]:AqfE%!FT*+!RhuFru'EO9tkS0'XNrTjr'Edh=p_8bhhuU@jNW:1(huhU4+p";<O9=D@Y5f7;'EdP(n-?,sY5f7=\HDU3+9UO&fE%!4LBHH:!!0b9'F('-"7Qg$p^[?=huU@j]`9/WP5kR`Y5f7;'Edh."8FML"5j3j!KI.&"5j:6!$Wr>!K[EA"SVm1!PJU!%GUp`!!!%Y0EIC<0IZu%!PJI5"0)>$"b?Xa!PJT.]`\<8K)blPfE%!@f)sq5ciK.iY63DZ"5%9`!$VCC!K[EA!!!&5!"U%.NW[@*a903Y%mf(Ta97>"!!0b8'F9Qr"8EB,"5j3j!KI.&"5j:6!PM@&)7okK3qiZ]"1Tt=0#n"!"1T2W%^uJF"1Sj0+ccZ1"1TWV!!!&5!#,q("7R,a(Z,3,!P&=-!$DC%!!!&5Qnf3+!g"N+!!!&5!KIe]"5j:6!$Wca!K[EA"6TXu!#,P!"7QEU!!!&5!PBMl!g!Mi!!0b53!.e6!O)U/!##Lm'))F:\,j*!'*R1nLB50j!!0bO3"b]]T.gAg^]BHQrr^=E"2Hli]asikWW3#"&r:0H*9[In'"@t+*7u?pa9J;XZO;9kO$_G!\HBW+[gSf/ZNIu\V_QKuZNIuK[i4E1NW['j^]V(IBL7IV!!!,:!!!&5!"U6B"4..T"3:M'9s4ZG"Q9=k!KI9/"4..k!PMBt-JAG""5j/'!#,Hq'EdPPn-@hNT)]Q-]`\$4MZ<_X!!0bX3!b]J!j=:3&G#q8!PJIe$K;$cIiojnLEI^!!!1"p!KIus8_4dj-m/Pp0E;ad!!!sF!!0beK3MO[]k@Bi_>jQ:NrcR4\/MP/rrKG.\.\6K^B(YC\/=ZJNrcQh\-VOTLB4^`\2q)PY5ts3\1d"t!!0b8+rJH&O9=D@mf4%&'EdP"n,_tX!!0b8N[+,qL]W)-'.iSR^B02k!f/f=3.D!c!f-o6!PL=F#dOF1"5j3j!KI.&"5j:6!$Wca!K[EA"6TXu!#,P!"7QEU!!!&5!OE0P)6Xp]!ODm<8'`ZG!ODm<5bAAO!PJTF"4R;N"1S=E!!!sF^`rrkNW9%]^]V(IJjfV@!!B_3!!0b5]cY]'_Z0Z;!!0bA\J4</+9UO&fE%!4T*+!RhuFru'EO9tkS0'XNrTjr'Edh=p_8bhhuU@j]`9/WZN't+!gkqd"Q'9J8+uut!$VK;!e:?NQiI+bO9(@CmfJjX!gmX+!KI-[!gj%N!KK[j!g!J>!PJQ<%(ZE=!$&=L!PJWO#jMBi"L.q;Qne`1O914>L]A(i]`PA=RfEEh\,hU6Y62QB"2JS:!ODb+3KGZi!PJTN*hiW7"5!X7.B`j3"5j/'!#,Hq]`[I/lMpnc!!0b>\gG;p!!9)"!jEs^!#,tE!k:UQ!!!&5!#$<'.g,fJ!N/ajf*dCSY^TsjJ-Mq\!!.ua8.?D4!$VCC!#%%_]`\::e,TILL]NMAT)t)U!!#q@!$VI=BE@lN!!!&p!!!&5!OEg;7`R(+!ODm<(Zuml!ODm<9E,Cg!ODm<3VPSt!ODm<(S=CA!ODm<(@N[/!ODm<3l_o#!ODm<7?9[Z!ODm<*hQ9D!ODm<(Pa9&!ODm<*lfb&!ODm<*OdMj!ODm<28;u&!PJTF*RXof!!!%l!O`-8"Mbr%!PCtD"Mb,'!!0b53#@bY!RLko!##Lm(?Y_NfE'Va]d`CNl2UebDu^OkE%;%j'EP+NJ4P_$!!#pu!!0cP'HXjdO;,G0QN.^$\cS6/!!7rW!g"]>!#,tE!gj\:!!!&5LbpO7T)\ipJ,fQMrrKG0LbZXr^B(YEJ3gA3ciL?S!!S/]!!!&5!KIJt!e:=HJ7qK/+ohTEYQBU\!!0b6kS1<&^B^Y;ap=XG^]K#eILL`8!Vd20!$VHj!O)W]!!!&5!PJl@(YSih"5j/'!#,Hq"6]dS!Ug"&!#,P)"8Doc!!!&5!#,[e"7QAi"ciWt!P&=-!$DC%!!!&5!#,Tp!Jj:-GQ7c&!,rAa!!0b5]E=T&YQr>P!PJI8+e&H3!!C#M\,hTipB/25%fs"4"1S`j`t&3WNWZd?!!B_3!KI6Uk5YUo\,hU50S]W1"1SAlN^j$K!!B_3!!0c_',epm+Q#-Y!ndQq3!#%)'-GOc+Q#-Y"H`Zp3!#%)_+s_i!!iQ*Y@mnLDu^PHE%;%j]`G$MdJs7J"5%9!!$VCC!K[EAk\gG8DZCIR!PJU)*pN_*!!!&5!##I`)!;"R"5j/'!Q5)e"5!SR!$njS!PJTf-^"H02ZEfa"1U5O,2WF-"1Teh&[qeI"1SW?7(33'"1Ur&50!]1"1U2f!!!&5!PK5Z'=%T<!oEtlL_Ks\p]B=]huU@jNW:1(huhU4+qh']O9=D@hZ+>k'EdP'n-4XJ!!0b8'GTj5BH+,T=9&>"s'Pg??skJe!#,I3;fEuU]jLg?l2Ueb"3;c<!#,tE"4/$k+.iNI!PJTf-fP++"6TXu!P&=-!$DC%"5!X7'!DDq!!!&5!#$RI!j;Z]L]WAlZUa`kQP[+3'*<smY6'L[!f/f;#O__M#H%U/!f.eV!!!&5!PJtp!TX4\Qk'02%fd:F!P&9)!$D?!!e:<3!fmD="K):,!e:IS!Vc\U&bc?W!!7[a!!0b5]c!"6M?!VW"c+uI!M9>l"b6RQp](:G%fs!>"S`t'!lk>J"c+.b1]IK^"b9+p"OI14%EJ^/$&AW!%Hn,F!!!&5!#-Z`!gj4rTFV#:L]P$fNW:1'L]W)-]`O5rl2Ueb&-*@h!!!sF&.gf4!PC>2!"]Rm!!!&5!%f2.T*4ohJ,fQM!!0e;ZN(-trrVWiZNU%(rrVWiZNTaucN<P9YQ]P:L]l'*!PJI:!*T@&!!!.=z!!!?u!!!#G!!!#I!!!#O!!!!.!!!!,!!!"9!!!!:!!!!1!!!!7!!!!D!!!!7!!!!8!!!!P!!!!=!!!!9!!!!U!!!!U!!!!W!!!!W!!!!W!!!!f!!!!G!!!9>!!!!p!!!!L!!!9?!!!$P!!!$P!!!%_z!!!%a!!!%_!!!&6!!!&6!!!@\!!!@\!!!@N!!!$T!!!$T!!!$T!!!$V!!!$V!!!$X!!!$X!!!$X!!!$X!!!K!!!!K5!!!K3!!!K3!!!$&!!!$&!!!$(!!!$(!!!$(!!!Q)!!!Q)!!!Q)!!!Q)!!!"g!!!!r!!!",!!!$(!!!$(!!!$.!!!$.!!!$.!!!$2!!!$2!!!#9!!!#;!!!#;!!!#;!!!#;!!!JV!!!Jh!!!Jf!!!K#!!!K#!!!PV!!!PVz!!!PZ!!!PZ!!!PZ!!!PZ!!!P\!!!P\!!!EG!!!AE!!!AE!!!AG!!!AG!!!AI!!!AI!!!Q'!!!Q)!!!Q)!!!Q)!!!#f!!!"G!!!8f!!!"*!!!"*!!!"*!!!"*!!!",!!!",!!!Ga!!!Gs!!!Gq!!!H0!!!H0!!!$$!!!$&!!!$&!!!$&!!!!?!!!!?!!!!?!!!#!!!!#!!!!Ia!!!Ia!!!$G!!!"c!!!!u!!!B*!!!B,!!!B,!!!B`!!!B`!!!B`!!!B`!!!"h!!!"j!!!"p!!!"r!!!"t!!!"t!!!"t!!!"t!!!@\!!!@\!!!@\!!!@\!!!BP!!!BP!!!!=!!!!m!!!!m!!!!o!!!!o!!!!q!!!!q!!!!s!!!!s!!!#]!!!!i!!!!k!!!!k!!!!k!!!%D!!!#6!!!"%!!!#+!!!#/!!!#1!!!#3!!!#5!!!#5!!!#5!!!#5!!!$`!!!$`!!!$`!!!$`!!!!1!!!!3!!!!3!!!!3!!!!3!!!Aa!!!Aa!!!Ae!!!Ae!!!Ae!!!@*!!!@*!!!@*!!!@,!!!@,!!!EG!!!?9!!!?9!!!?;!!!?9!!!?9!!!$jz!!!$l!!!$j!!!$j!!!&E!!!#e!!!5Q!!!&W!!!#k!!!5A!!!&c!!!#r!!!8e!!!Pt!!!Q!!!!Q!!!!Q!!!!Q!!!!?u!!!@*!!!@*!!!@*!!!@*!!!$X!!!$X!!!$X!!!$Z!!!$Z!!!BP!!!BP!!!Au!!!B(!!!B*!!!B*!!!B*!!!'H!!!$<!!!0B!!!@Z!!!@Z!!!@Z!!!@Z!!!A+!!!A/!!!A/!!!A1!!!A1!!!@>!!!@>!!!QC!!!QC!!!Q/!!!Q/!!!@,!!!(%!!!$X!!!0X!!!$N!!!$N!!!$N!!!$N!!!(E!!!$c!!!1c!!!&R!!!&P!!!7K!!!7K!!!7K!!!#!!!!!c!!!!c!!!!e!!!!e!!!!i!!!!i!!!(k!!!$u!!!:h!!!"0!!!"0!!!"0!!!"0!!!D$!!!D&!!!D(!!!D(!!!DB!!!DD!!!DF!!!DF!!!Q=!!!Q=!!!Q=!!!Q=!!!@"!!!)D!!!%6!!!90!!!B<!!!B<!!!B<!!!B>!!!B>!!!)X!!!%@!!!0M!!!PP!!!PR!!!PR!!!PR!!!QC!!!QC!!!QC!!!QC!!!)r!!!%O!!!":!!!*+!!!%U!!!1c!!!"L!!!D6!!!D8!!!D:!!!D:!!!!9!!!!s!!!A9!!!*G!!!%b!!!1/!!!A?!!!A?!!!$P!!!$P!!!CM!!!B6!!!CS!!!CU!!!CW!!!CY!!!C[!!!C]!!!C_!!!Ca!!!Cc!!!Ce!!!Ce!!!A?!!!AA!!!AA!!!AC!!!AC!!!AC!!!PV!!!PV!!!PV!!!PV!!!"6!!!"6!!!"8!!!"8!!!DP!!!DR!!!DT!!!DT!!!!G!!!!G!!!!G!!!!G!!!+J!!!&:!!!8q!!!+V!!!&A!!!"K!!!$"!!!$"!!!$"!!!$"!!!A5!!!A5!!!A9!!!A9!!!A]!!!A_!!!A_!!!A_!!!?c!!!?c!!!?c!!!?e!!!?e!!!E!!!!E#!!!E%!!!E%!!!#o!!!,;!!!&\!!!"I!!!BF!!!BF!!!BF!!!BF!!!Ia!!!I_!!!Iq!!!Io!!!Io!!!QK!!!QK!!!QK!!!,]!!!&n!!!97!!!QO!!!QO!!!,m!!!&u!!!"?!!!#!!!!#!!!!##!!!#%!!!-*!!!'*!!!"$!!!-6!!!'3!!!0b!!!"8!!!"8!!!"8!!!":!!!":!!!":!!!":!!!"&!!!"&!!!PV!!!PV!!!Ia!!!Ia!!!!#!!!!%!!!!%!!!!%!!!!%!!!#s!!!#s!!!#s!!!#s!!!#u!!!#u!!!Qo!!!Qm!!!S)!!!S+!!!S)!!!S)!!!./!!!'W!!!9=!!!Q[!!!Q[!!!Q!!!!Q!!!!Q!!!!Q#!!!Q#!!!Q#!!!B\!!!Bl!!!Bl!!!Bl!!!Ai!!!Am!!!Am!!!Aq!!!Aq!!!Aq!!!EG!!!EG!!!.c!!!'p!!!0h!!!#;!!!#;!!!#=!!!#?!!!#A!!!#C!!!#E!!!#E!!!EC!!!EC!!!EG!!!EG!!!EG!!!@"!!!@"!!!@"!!!/8!!!(0!!!8m!!!@:!!!@>!!!@>!!!@>!!!/J!!!(9!!!8i!!!P*!!!P(!!!P:!!!P8!!!P8!!!!E!!!!E!!!/b!!!(G!!!36!!!"p!!!!U!!!#+!!!Bb!!!Bb!!!0%!!!(R!!!1m!!!EG!!!ES!!!EU!!!E[!!!EY!!!FD!!!FD!!!#S!!!#U!!!#W!!!#W!!!Qe!!!Qe!!!Qg!!!@J!!!Qm!!!Qm!!!Bn!!!Bn!!!Br!!!Br!!!Bt!!!Bt!!!C#!!!C#!!!C%!!!C%!!!C'!!!C'!!!C)!!!C)!!!C-!!!C-!!!C1!!!C5!!!C5!!!C5!!!!+!!!!+!!!!+!!!!+!!!@Z!!!@Z!!!@Z!!!14!!!)/!!!9$!!!@T!!!@T!!!@T!!!@V!!!@V!!!@V!!!Pn!!!Pn!!!Pp!!!Pp!!!Pp!!!Pp!!!1X!!!)A!!!8f!!!Q;!!!Q;!!!Q;!!!Q;!!!BP!!!BP!!!?u!!!?u!!!1t!!!)N!!!1j!!!@Z!!!P^!!!P^!!!P^!!!P^!!!@\!!!@\!!!@\z!!!&8!!!&6!!!&6!!!#Q!!!#Q!!!#Q!!!#Q!!!".!!!".!!!"0!!!"0!!!Q)!!!Pj!!!Q/!!!Q1!!!Q1!!!Q1!!!2]!!!)m!!!"$!!!AQ!!!AQ!!!AS!!!AS!!!AU!!!AU!!!AW!!!AW!!!3"!!!*)!!!0h!!!!G!!!!G!!!!G!!!3:!!!*1!!!!5!!!@N!!!@N!!!@N!!!@N!!!9A!!!9C!!!9A!!!9A!!!B,!!!@r!!!@r!!!@t!!!@t!!!@t!!!BP!!!J,!!!&B!!!&P!!!&P!!!&P!!!B8!!!B<!!!B<!!!B<!!!B<!!!Q!!!!4#!!!*R!!!8g!!!E'!!!E)!!!E+!!!E-!!!E-!!!4;!!!*_!!!8`!!!PN!!!PN!!!"h!!!4Q!!!*h!!!"E!!!Pb!!!Pb!!!Pd!!!Pd!!!%)z!!!%+!!!%)!!!%Q!!!%Q!!!P`!!!P`!!!4u!!!+$!!!8l!!!Ia!!!Ia!!!BF!!!BH!!!BH!!!BH!!!!s!!!!u!!!!u!!!""!!!"&!!!5@!!!+4!!!!O!!!&Bz!!!&D!!!&D!!!5R!!!+>!!!"!!!!QQ!!!QS!!!QS!!!QS!!!Au!!!Au!!!Au!!!5l!!!+K!!!"!!!!B,!!!B,!!!6'!!!+R!!!9:!!!@b!!!@d!!!@h!!!@p!!!@p!!!@p!!!6=!!!+^!!!9$!!!A#!!!A#!!!A%!!!A%!!!@>!!!@,!!!@,!!!@.!!!@.!!!6[!!!+l!!!!T!!!PX!!!PZ!!!PZ!!!PZ!!!6m!!!,!!!!8s!!!Pr!!!Pr!!!Pr!!!Pr!!!!I!!!!I!!!!K!!!!K!!!!]!!!!]!!!!_!!!!_!!!!a!!!!a!!!!a!!!@N!!!@P!!!@P!!!@P!!!@P!!!@R!!!@R!!!@R!!!AW!!!A[!!!A[!!!A]!!!A]!!!7\!!!,B!!!8d!!!H2!!!H8!!!H6!!!HX!!!HV!!!I'!!!I%!!!I%!!!PV!!!#]!!!#]!!!#_!!!#a!!!#c!!!#c!!!PV!!!PV!!!83!!!,X!!!"%!!!B^!!!B`!!!B`!!!B`!!!!E!!!!E!!!!E!!!D<!!!D>!!!D@!!!D@!!!AI!!!AM!!!AM!!!AO!!!AO!!!AO!!!#!!!!#!!!!8c!!!,t!!!1K!!!8u!!!-$!!!91z!!!%S!!!%Q!!!%Q!!!QA!!!QA!!!QC!!!QC!!!@R!!!@R!!!@T!!!@T!!!9B!!!-8!!!"?!!!E/!!!E1!!!E3!!!E5!!!E7!!!E=!!!EA!!!EA!!!Q]!!!Q]!!!QI!!!Qe!!!Qe!!!Qe!!!FB!!!Fh!!!Ff!!!GC!!!GA!!!GA!!!Aq!!!Q'!!!!)!!!!+!!!!+!!!!+!!!!Y!!!!Y!!!![!!!![!!!![!!!!K!!!J,!!!J*!!!JX!!!JX!!!:E!!!-b!!!34!!!:Q!!!-g!!!1_!!!BB!!!BN!!!BN!!!Pr!!!Pr!!!Pr!!!Pt!!!Pt!!!Pt!!!:m!!!-u!!!",!!!QO!!!QO!!!QO!!!QO!!!;*!!!.*!!!,7!!!"4!!!"4!!!"4!!!"4!!!!?!!!!?!!!!?!!!!?!!!?c!!!?u!!!?u!!!?u!!!PJ!!!PJ!!!PJ!!!PJ!!!Aq!!!Aq!!!;Z!!!.A!!!5A!!!Q%!!!Q%!!!Q%!!!Q%!!!B,!!!Ag!!!Ag!!!Ai!!!Ai!!!<!!!!.O!!!8k!!!Q=!!!Q=!!!Q=!!!Q?!!!Q?!!!Q?!!!DH!!!DJ!!!DL!!!DN!!!DN!!!$0!!!$.!!!#m!!!$J!!!$L!!!$L!!!$L!!!Q5!!!<Q!!!.h!!!9,!!!<]!!!.o!!!9-!!!Q5!!!Q5!!!Q5!!!Q5!!!Q1!!!Q1!!!Q1!!!Q1!!!Q3!!!Q3!!!Q3!!!@>!!!!;!!!@J!!!@J!!!B"!!!B"!!!Au!!!Pd!!!PP!!!Pj!!!Pl!!!Pl!!!GS!!!GQ!!!Gc!!!Gc!!!PV!!!PV!!!PV!!!PV!!!Cg!!!Ci!!!Ck!!!Cm!!!Cm!!!Pt!!!Pt!!!Pt!!!Pt!!!@@!!!@@!!!P\!!!P^!!!P^!!!P^!!!P^!!!$P!!!$P!!!A%!!!A)!!!A)!!!A+!!!A+!!!EA!!!EA!!!EC!!!EC!!!#'!!!"r!!!!W!!!BP!!!BR!!!BT!!!BV!!!BN!!!B\!!!B\!!!M=!!!M;!!!NN!!!NL!!!NL!!!>S!!!/h!!!8r!!!Ia!!!!=!!!!=!!!!=!!!!3!!!!3!!!!3!!!!3!!!!;!!!!=!!!!=!!!!=!!!@Z!!!@Z!!!D*!!!D,!!!D.!!!D0!!!D2!!!D4!!!D4!!!Q;!!!Q;!!!Q;!!!Q;!!!$"!!!$$!!!$$!!!$$!!!$$!!!QU!!!QU!!!QW!!!QW!!!QW!!!QW!!!DV!!!DX!!!DZ!!!DZ!!!B0!!!B0!!!B0!!!B0!!!B6!!!B6!!!7M!!!TZ!!!QO!!!QO!!!?l!!!0K!!!99!!!@#!!!0P!!!"h!!!$\!!!$\!!!$T!!!$T!!!#!!!!#!!!!7M!!!7K!!!9A!!!9A!!!B>!!!BB!!!BD!!!BD!!!Q3!!!Q5!!!Q5!!!Q5!!!@Z!!!"4!!!"6!!!"6!!!"6!!!@[!!!0m!!!!6!!!!M!!!!M!!!!M!!!#i!!!#i!!!#i!!!#m!!!#m!!!D\!!!D^!!!D`!!!Db!!!Dd!!!Df!!!Dh!!!Dj!!!Dl!!!Dn!!!Dp!!!Dr!!!Dt!!!Dt!!!#!!!!#!!!!#!!!!#!!!!A1!!!A3!!!A3!!!A3!!!AN!!!1;!!!0i!!!",!!!",!!!",!!!".!!!".!!!".!!!Ad!!!1G!!!1P!!!"t!!!#!!!!#!!!!#!!!!#[!!!#]!!!#]!!!#]!!!#]!!!#S!!!B/!!!1V!!!9;!!!Q3!!!Q3!!!Q3!!!Q3!!!@\!!!@\!!!@\!!!@\!!!B,!!!B,!!!C9!!!C9!!!C=!!!C?!!!CC!!!CE!!!CG!!!CI!!!CK!!!CK!!!TZ!!!T\!!!TZ!!!Tj!!!Tl!!!Tj!!!Tj!!!@Z!!!@Z!!!@Z!!!@Z!!!QI!!!QK!!!QK!!!QK!!!QK!!!B*!!!C.!!!2+!!!35!!!Co!!!Cq!!!Cs!!!Cu!!!D"!!!D"!!!$L!!!Q#!!!Q#!!!Q#!!!Q#!!!Q%!!!Q%!!!Q%!!!Q%!!!@V!!!@V!!!CZ!!!2A!!!0g!!!Bb!!!Bb!!!Bb!!!Bb!!!QW!!!QW!!!QW!!!QW!!!$b!!!$b!!!$b!!!$f!!!$f!!!$f!!!$f!!!!M!!!D/!!!2W!!!"+!!!#7!!!#7!!!?c!!!DA!!!2c!!!9!!!!DS!!!2h!!!".!!!D]!!!2m!!!!%!!!Dg!!!2t!!!!7JTUuk!PJWK$FBd5!!!&5E&\33'*j;3"4qbtLNn&'?ibj)0])n]!!!&5!PJTJ$,cfD3,eo_!O;sNL]Q^a%_-B_^B;g_8-OeMfO5$*O:.uh%JYA[$.&j3G]7UnBE/'k!+66IhZ+>j!)mP5!#&H7]`ZkoS,`Ni!!/\t1]j<M!!!)!#-S'6!iQ.o8>cKp!h^m$!Up,o]`8,4U]:Aq=9'NO(]fO;i"m5$fE7KJ?ie%N@0>+`#3ZA\\:+q?fF5P)!!0bDWsY'k",HpXJ,g7-3!7b5!It3$!##Tm"4mR0L]N;k]dC2hj8]/\"dfr/3!7bd#DXue[l=E3!PKm)U,i8S!!!Q2!!_4_!!0bELcA'.#L<qbW!DN>k<CX%!S@ARcj@3jIL(H6$^_<X0K9:+8Oh#[3%ua/7cu0J!!!&5!PJVp;euF64CA-h3fdqShe6[_Du^OS!PJTe!lP'=!Jg_"!!/![E"*Y/!$VCC;d]aL'5.@G3fe4[hf*No!!0b9YQqN8!%8Zb+935j!!!%lW&+RKZN't,Ns;cgZN@(%LBdJRZN@'P/cTGa!O)Wu!iQ.h!!0b5^&jc(!!;<a+9@`MIlmBI3$9%T#L<r(k7B%$-n%%V!R!S!-q^Bc-m0X(!!;=V-n%&'+A"Zh!PKm("P`tW!!9)U!!/\l/HVRF!girfO8o<q!ODb-8ac][!ODip*QJ3<!ODih*QJAf!ODj+0@(ku!O)Wu!iQ.h!!0b5]`HU_WW3#"!!0b6]a*<mK)blPJ-!gpJ3fe.!Ji]9b6Q'YT)j`KIfY?k!It3$!PJMi#35aaQiI+<!!/\nZN?d"k5j`HZN?Kt#QG;8!ODipTF]@5n,]`p!!9)"!!!&5!J1CLVZD<M!!.u]BFPet!#,D5]l4)2$31&,!!!&5!!/\pZN?d":!Xm^!ODj#TF0"Hn,]`p!!9)"!!!&5TK!"i,_ob2f4Y-taCo5h(C,^'"o&Vt!Pebef5M&K#l%g1%`en-n,e]#3!krQ,_p>Xf6@9/G^)1MJ2eM:"1Lf%3!"gpJ4TjPL]N#,!!1"=!PN^X!Rh#K!!!%l!PSW.!!85^!!9)UY5ts0W%@rQY5ts2Vuikd%fs!<!g!J]!nRIZ!h_@$!Up,Q_AE?Q&."X(!PJj8!g3N`!!!&5(cVWh3![b@!p:+;pE1S<+9BYIIipDR]c\./q>^Krn,^*'n.k^!!!/],^&jr-!g!B_cN1?PO?9?@LB4^_TEELNn,]`p!!9)"!!!&5!PJQI"4I5M!!!&5W&+X8T)\imTE"rmhZ:%bTLPOh[fNf:W%u*kNrcQgTEV5_n,]`p!!9)"!!!&5!$VNf!K.dc(^IPfY=JX,84Y64!PK62!SRMR!!!&5!TX:B[l=DM!LPhKMZ^FZ!Jg^V!!.up%0-EZ+ohU^]kDWjMuWhYGQ8BY!O;gZn,hNm$E.hE!Pem&&+BV7@0_R4!q6BWY^QWBTEb/o!J!-2]a)S;irB&[=BINdTGJl/i!5VYfE&bm"4po^n.*6BIKeX5#H.g1?oS:F'*j;#"4q2dmq?Ao!!0bP!Q7;)#N,R^Y;cLq3&iDi!PK62#-%Y'!!!%l!%e8FZN?Ko`rhY/ZN?dV1rg+-!ODip2to9*!KmMW!iQ.h!Q#9'#iH':!PJ`r!i#_qBE<oK!Qt_g6(\16J4TctL]N#,!!0b6YTb=mVu_DYL]AV,!$XZ/&MO6I]dNl*UAt8p!!0e;T)\o-ci=%H&!%h6#`)3qi&on#1BHD72"q%/!KI3=!T4!o!OFT.:o=Jp!O)UO!U'QW!!0b57fX/%zYQ+Y'#64`)#64`(f`2!PU]:Ap'*&"5'*&"4f)PdNYQ+Y'YQ+Y(/H>bO)ZTj<e,TIKWW3#!WW3#"4TGH_+ohTCf)PdN7fWMh-ia5Ig&M*QU]:ApU]:AqU]:AqU]:Aq!WW3$PQ1[`PQ1[a@/p9.2uipYci=%GPQ1[`YQ+Y(G5qUD6N@)df`2!PZiC(+ZiC(,ZiC(,Q2gmcQ2gmcP5kR`:B1@p!<<*"S,`NhS,`NiS,`NiVZ6\t>6"X'cN!qF\GuU0AH2]1fDkmOVuQetZ2ak*!WW3$df9@JD#aP9g&M*Qh#IETF8u:@ci=%GlMpnbGlRgEfDkmOo`+slIfKHKdJs7I!<<*"NW9%[fDkmO*rl9@QiI*eg&M*QYQ+Y'2#mUWT)\ilc2[hE8cShk6N@)dV>pSsdJs7ITE"rl!!!!";ZHdtY5eP'fDkmOVuQetVuQeuWW3#"WW3#"WW3#"CB+>8\c;^2g&M*Q\,ZL/\,ZL0HN4$H_uKc<g&M*QMZ<_Wbl@_Ef)PdNU]:ApVuQeuVuQeuVuQeuV#UJrh#IEUg&M*Q\,ZL/\,ZL0\,ZL0\,ZL0ZiC(,`rH)?l2Uebf`2!P-3+#G%3Q>k!Z2mh]?hH&!!0b9T)tegci=%H!!0e7ZN($AVZEt%ZN7j4s"0!,YQ<*&fE%WG!PJI6$FBd5!!!&5&9S'@>7\4D&-)b'!!!&5!#,a("8Dr4&)[Fu!!0bEQii9Ih^B<B-n%%r!#,Rn'/31:"MZnrs#;tt3&il=!#$CA3!?u]$KjZ>a$;mL!!0c$-oc;Ka%I3s0FYGr3!]Pg!P&HU]`9/tX8i5$!!/\p^&cR\!Pe[9Y5ts0cn+nlpAqT$^a8FM%fs!;!Pelb7CN<(!RLq@!MBIt]`8)cli7"d!!0b=]`HU_li7"d!!0b;Fp7dDbm4:\&1@MZ0E;r4+:eGdcNkpY!!0b<^'1;4!Pe[9!!/\lZN8DQ'qZQK!ODgBcqWtQTE12Vn,_/BYQ;TDi!?Ok!!0b</HN]g!QY6@!!1_/!!/\lZN8DQcNUcYZN8\_#1!e\!ODgJ"4%G.!KmK1!S@FG!Q"rk#ac%1!!0b5B`Y"0#J_FC!Po,QT)],sci=%H!SB40!%e0NZN8,IY6M02ZN8]"Y63Y_ZN8,g^J4.tYQ<)QfE%WG!PJI6"1/%.!!!&E>62AJ!PJIE=u63Z!K\acO>?p!O=uq$J,tZ2rrJ2^pAqT$!J"5jQr!gf!PJI6!TX4\!!!&5#Q_+q"1JHd0E;-3!"]S^!"a;R&9S-.&1^!GFTmO3]bg_l"2Fm;!!0cR!PJU9T*,,oci=%HVZF+)ciNkENrcQfcihAtTE12VO9*u7O9*3,i!K/g!!0b:]`HR^l2UebfE(+8#*0T3V\g71&-7MG!PK=S"5EkV!!!&5-n%%^!L$CD+=I<G!!!&5Md$4?!K[9_!!!&5!P&6<BE0/'%=eF4+92Gepb2h1$3S'GpG`EI%#A<o%EK'AO:%(u]`n06=o\O'!!!%l!PST]!!0k8Y9*eOZN8E52Z_5*!ODgB#aZ%a!KmK1!S@FG!Q##U"OIUf!PJ`*!L*Qa!!!&5!MTYd2uipa#*0$$^DHqa!!0b9]`J!1ErZ1@6N7$"!PJMq"4I5M6I,WG!PJMq!TO.[!!!%lf2r'(pAp?cqZ4>I!!//^!!!&5+9AZ%3!6WL9,BQI5WAkT!!!&5-n%&9!#,[Y3!-#h#L<Z8[l??,!!0b8^&aGu!Pe[9!!/\l1]br'!!!&Ph[]aoZN8EHh_F9pZN8\Z!T+t"!ODgB"cihJ!O)UO!S@FG!!0b59*2[)&/YPZ^CUr9"i!\6&4m]U!PK<]!l=p;NsHjf-ianb-o_@E]`sNGo)Jak(]h/L&:X[.&9\m%!O<gJQjf>n"Lof]IP;%h$MY.I!!0c8'Ek`B',V5[f*^^A+<WWG!O"B4#KJ58!!!&5!#,O9!#$ak"4ma]J1q#0Qu5_.TF0<Va8s$W2:jMb\-gksIK\"(%%%+K!PJrH!rDrt!!#7az!!!0&!!!9)!!gOE!"Xkc!"Xkc!"Xkc!!!l:!!!i9!!gUG!!"eT!!";F!!gOE!!!'#!"Y4m!"Y4m!"Xkc!!$"!!!"VO!!gLD!!$@+!!#1_!!gOE!!';)!"X__!!%WO!!#Oi!!!$"!"Xea!"Xea!"Xea!!&De!!#jr!!gUG!"Xea!"Y(i!"Y(i!"Y(i!"Y(i!"Y4m!"Y4m!"Y4m!"Y4m!"X__!!'P0!!$I.!!gCA!"Y(i!"X__!"X__!"X__!"X__!"Y(i!"X__!"X__!"X__!!([P!!%-A!!gUG!!)Bd!!%EI!!gLD!"Y(i!!!'#!"X__!"X__!"X__!"Y"g!!*B+!!%oW!!gUG!"Y(i!"Y(i!"Y(i!"Y(i!!+5C!!&5`!!gLD!!+SM!!&Pi!!gUG!!,4_!!&_n!!gFB!"X__!"X__!"X__!"X__!"Y"g!"Y"g!"Y"g!!-("!!'P0!!gOEPl_p*WWD&Z!PJWJ]mKe[bQ%VD!!0b8=>k7$]`s,ioDejl-m1#B!Q5Q4huhm;!&/O*2uk-&5QDuV!!0bUN!,pV!!!!"#QOnA^B(Y@+9nG>!!!&5!!0b9]a(nEli7"d!!"SO!M9F\!h]Mn"nr&(!h]sWLCXElZN?L&h[\fMOoh9YVucAg_?8-d\-Al4]aE[%ZiC(,6D%Ed!T4":Y6!Q;NWJ'!huVI2ZS7^HNs3i1YQ<*=kQ.=W]aaH3g].<T=9'NI?idK.=@W@)!PSP=!!85^!!!%l!%e8F1]j$E!!!)!"0Va3!iR?!LCXElZN?45LB?oFZN?L=pFhR.Ooh:1VucAg_?>YrJ-)AE]aTu3e,TIL!!0b7T)m.9TE"rm!!0e8ZN(&gmhXd]ZN?d9!RD8W!ODih!RCf0!ODj#"lC$_!O)Wu!iQ.h!!0b5!sJN%,'X)!(]f-e0N\@d0E<9s!!0c8'EY?9i$Y,s!!0b6&HU#S!!8BEVcWp4$'6>h`!D`<=9&=%f)t)@!PMS?!Vucr!!!&5fPprYi)&kJ!T8D-#Oi"L!!!&5!M9G[!h]Mn!!9)U!!"SN!ODipQp16Tf)`2ZW'9qWhZ:%bTEC5Wn,]`p!!9)"!!!&5#)EX*0IZuU!Mobr$d^k8\-0$]!MLnB&'tNr!O*#p]`:Sgb5_MC!!0b63&VHN!PK*G!V??l!!!&5(]g?f+?0?$G6Yef&-BUm!!!&5!fL8t!PM;0]i+n2OoPI_!!/#[!PJI5"<.=@([)<qE-3&>E%;1oV'V1AJ-hSDGn.%Z%_rFuhuTNBJ-_5A!!0bD!M=H6!h]Mnrso.:ZN?d(Y61s/YQCI"VucAg!PJI71c,14!!!&P!!!%lQXg-DJ3^"M$j"!C]`8)kK)blP!!0b8b$/'M!T3qY!!!&5!!0b?i!`chBE<o"O8ogoQiJ<2!P'$J+oj<9]l5Y*l2UebVu_eX#R]JlO'#L7O9)1(%`i;dQiX.2!MN$p$Kq\]Du_()!!0c0]`YP?])Vg3!!/\m1]j<M!!!)!QiI+<rrKG-VubKO%fs!<!gk<i!TsKi!h][g!Up,Q$@i2V%Hmi0%'TuP!!!&5!)Ref:f&YJ!$X`'!)lEr!PM;0"1%t-!!#4`z!!!'#!"EN?!"F#M!"F#M!"E*3!"E*3!"E05!"E05!"E05!"E05!"EH=!"EH=!"Dm-!"Dm-!"E*3!!!'#!!";F!!!l:!!]b0!!"kV!!")@!!!$"!"F#M!"F#M!"F#M!!#Lh!!"SN!!]_/!"F#M!!$@+!!"nW!!!$"!!$p;!!#(\!!^.;!!!'#!!!'#!"EH=!!%KK!!#@d!!]t6!"F#M!!!'#!!!'#!!!'#!!&,]!!#dp!!^"7!"E05!"E<9!!&hq!!$%"!!]_/!"EZC!"EH=!"EH=!"E`E!!!'#!"D['!"Dg+!"Dg+!"EZC!"EZC!"EH=!"F#M!"ErK!!$a6!!(1B!!$a6!!^%8!!(UN!!%3C!!!$"!"EH=!!)Tj!!%HJ!!^%8!!*$!!!%]Q!!^.;!!!'#!!*T1!!&&[!!]P*!"EN?!"EN?!"EN?!"EN?RK+Z7!PJWI_%ZkL!!iQ*L`;G&]agD8$31&,!!!*$z!!!'#!!)coi;irZ"M2>K!!!&5!PniMfFS@>#Q^Y+&3'XiD$,P!]at0;A,lT1TE"sD!!0e7T)\nZVuQeuhZ:%aQi`$DVZF+)TE`^G[fNf9W!E>+GQG#L]`8);/-#YN!!"]qh[g>L!"^\I!!0b5]`Fo/'EA+6!!!&5*S>g7#1sHjTE"sD!!/\mZN7!)"fDk3!ODg*TEV5(VZF+)W!0X5GQEs.%aY6\"HWZ$%B'cH!!!&5!+7Vj!!/\lLEK\!BGKtDYYMr:BJX<0NbBW7k@e6(VZF+)=9?MHE$tak!!0b5!$W$U!PnaA]`8<<1&q:T!!!W3z!"ADu!!!'#!"A>s!"A>s!"A>s!!!N0!!!K/!!!$"!"AW&!"AW&!"AW&!"AW&!"ADu!!!'#!!'e7!!"SN!!"#>!![]K!!#.^!!">G!!!$"!"A](!"A](^Ao&M!PJWI!UKdd!!iV"#S8rqS506B]at/E_uKc<!!0n:&)[NQ&-)aI!!/\l1]aNT!!!&(#,_L.!O)`g"j[4U!O)X'".'%p!N6.qY]p2Q!PJI6]`\<8KE(uQ!!/\m^&b/4!LNifVZF+(!LOr3*tJCY!ODg*(>f7m!KmJ^YQ:tQL]P@%a:@tU!!0bB&3(!s.g(P46/N4b!!!Q]!!!&5!!0b_!PN7K]b:AG1&q:T!!!&5!!/]Q?o1scQYc^&(6<,XBILW.O(^=_!KLh[!O$0E(>f/!=',[Q]`<""@fQK0QlMcF!!SH(!!!!2z!!!!#!!!GS!!!GS!!!GSz!!!GU!!!!2!!!!0z!!!!B!!!!8!!!!"!!!G[!!!G[!!!G[!!!G[!!!!#z!!!GS!!!!`!!!!Iz&.A^Yq%sDP!PJWI"hXg8kQfa"3!PEO/*@`dC_-W%!!0bM^&c.P!N5u!!!/\l/HN?]!O)P("5a-c!N643[grMGZN797^DXceOo`'J^]B5l_?\-_Qj2IL]`iosX8i5$!!0b8&7^(f]c[`FZiC(,!!0b6T)nQaBE/#5!!$spNtTb]O'6cj1O+-VGY$_:G]3\D!OFDn"j\($3!#1U$ePK1%`e[f"0`*q!!!&5!Png/]`8TDg].<T!PgMm!M9>l!Or+0YQ+YT%fs!;!O)^I#Nl,o!Pf,!"K):,!Or?[!Jgc>$'52'"ip_]"OIU6!!!&5!!0nC+?0?,'*aL'^C>\n-ipUV$-3OZYRBZ4^Bq[^-jb\1k[=[VfE%?J"jh]/!O)[)!!!&5!!/]s^&b_D!N5u!!PgMl!ODb+W!&_'VZF+)^]^8>mfB`q\-LmnL]NY>Vua[7p]85AQjh=C!!0b:]`ODuF8u:A!!!&5-n%&)!L$CD+=I8s!!!&5&3'^O+s?=["P41r"RuI&!!#q?!!0bE!MXl?2?3^_#*0$$\.A?J]`c(OEW?(?!!!&5!PSTo!!0"u!!!%l!ODg:#2]IE!ODg*#G3Z1!O)U7!Pe_l!!0b5!JF,H(oRK!!M:Eh!Or+0YQ+YT!!0e7ZN($)VZYfWZN796VZYfWZN7!.a%s_VYQ;70^]B5l!PJI6]bCGH_>jQ:!!0b7!PMD3!KmE_!!!&5k]-]]!l"^>cNk(A!"a;Y#L?$K&9\U%!R2/U]FZ1c&-AU-!!0b5!!2*[!!!!Lz!!!R>!!!R>!!!R>!!!R>!!!!.!!!!/!!!!"!!!R>!!!RR!!!RR!!!R@!!!!H!!!!=!!!!"!!!RL!!!!^!!!!Q!!!9Z!!!"/!!!!Z!!!9[!!!R>!!!!#!!!R>!!!R>!!!R>!!!RR!!!RR!!!RT!!!RR!!!RR!!!!#!!!R>!!!R>!!!R>!!!RJ!!!"_!!!!o!!!9Z!!!"V!!!"m!!!"#!!!!"!!!R>!!!!#!!!!#!!!R>!!!R@!!!RD!!!RD!!!RF!!!RF!!!RJ!!!RJ#mLGK]`bpC49,?^&-r;s!PnoJ'*&:<!j<.8mgp$i!!0b<$<mi;!PK$E9,[d1#QQ6-#QPEY&1[do!!0b5i-Ge3a9I/!!r#>$!PK$E!&=NS!!!!%z!!!!&!!!!-!!!*,!!!"^!!!37]"S.J!!0b9]`II"U]:AqTFa'`!!^1@5OT-p!"]0]#QQ%K!!0n9!MTQ"2uipa#/:ET&-*>I!!!&5!M9DR^/t@8!([(j^^>j6>#CUiBP8Hr,en"K8-+`aZNK)uNrdQ-!O,Z0]`<""$31&,!!!&5!KI26!oO^TYVZlXT)\ilVuQeuB*#=>!O)Uf#Nl,o!O)U.!RCeQ!N61"Y]p23!Q%Y6"P<bE!PJs+]fH,n"98E&QiI0$!M9>m!N5tu!T*pa!LNtU"2=lC!N6.qY]p2Q!PJI6_$g;D!"],2!!!&5!!0c:!!/eo!!!!2z!!!!#!!!K+!!!K+!!!K+!!!K-!!!K-!!!!#!!!K#!!!K#!!!K#!!!!:!!!!5!!!!"!!!K#!!!#;!!!!P!!!!F!!!!"!!!K%!!!!#d2`6(!PJWI!L*Qa!!!%l!!0f1s(qa$49&\D?m2^W?o&+FNaNct=("8o!WN2,YYYQ(".123!PJN$]bCGHS,`Ni!!0b6!PJmA!Rq)L#QOnA!!0b5!*(NL3!-8h#O_p(\,ZQR]`beJ6i[2f!!!&5!Q5$*>R1<0?O-W;]a,,o;ZHdu!!Kc(>60on!PJa=_$g;D!!iQ*!!!&5!!0c:!PSm@!!//]!!0#T!!/\lZN6^!T*;\)ZN7!-hZThXZN6-m!q1=6!KmJVVu`i9ciLuiJ-YQG!!0bB!#'\Z.DH83rs/li!!1b!/.bS&Z2ak1",I3`kU-N.!""GdO:B9[.gO]98&#<8!!!&5!QG/7&uZV&!M:CZ!MBDm!!0#T!!0e6ZN(#fk5kS`ZN6^"hZCh!ZN7!/!V[**!ODg"!VZWP!ODfg!lm"`!O)Tt!!0$;!!!&5*<6-*!rr<$$31&+z.KBGK.KBGR!!!!(/-#YM-ia5P1&q:Z1&q:Z1&q:Z1&q:Z!!!!(-ia5I-ia5P-ia5P-ia5P.KBGR.KBGR.KBGR-ia5P.KBGR!!!!(56(Z`-NF,HPlLda-3+#J-3+#N-3+#N-3+#N=TAF,0E;(QPQ1[`ScA`mAH2]13WK-[z('"=7h%18%!PJWI"KVS'!!0Sd!!"SN!M9Ck!O)P("fDC-!N69Z#-S'6!OrDj0#%Fn!O)[@!It36$\/8f#1*Cf#ET=T!!!&5!LX&F\,t:g!!0bAE<1^m,``B'$i#0i!O*$s!!!&5!K7'?_#OH8!!iQ*+kH].!!0cP!$YYJ&1e)(!R1TE%EJML#(Q`Y&4Z^C!MTQ>'*&"<!j<.8&-h>X!PM3_2H0YV!W2p/!!!&5+idc4E&2HPNc5l^QZ-=5G6,#T>[RcF]`<:2@fQK0!!!&5!PJMk]a=`>ZiC(,!!/\m!QSRJ/;GIj$j""[!PJJP]j^sA6i[2f!!!%l!PST=!!/_m"5a-c!O)Xo!NuO1!MBM_"nr&(!O*[/!It36#*8kq#1*Cf%[[Np!!!&5!!/]i1]af\!!!&0#,_L.!Or3/)8?3YOo_e"\,h*\_?-qB#G>H*!PJp"'LVp$%Bpn`!PK/>!K-pX!!!%l!%e5UZN7!)0*C)4!ODg*"cihr!O)U/!Or/\!!0b5>61/mDu]q0!!!&5!PJPm!W)is!!!&5+TMS-z"TSN&$31&+!<<*">Q=a(>Q=a2!WW3-!WW3#!WW3#=o\O&=o\O0!WW3-!WW3#=9&=$=9&=.=o\O0=o\O0=o\O0!WW3-=9&=$=9&=.=9&=.=o\O0=o\O056(Zj-3+#G!<<*"=9&=$;#gS'/-#YM!<<*">6"X'1]RLU/cYkOCB+><3rf6\!<<*"jo>A]>Q=a(I/j6S6N@)d/-#YM!WW3(!WW3#!WW3#(]XO9%2f`\"M2Ah!!!&5!M9G#!N5tu!!0;\f)`2XYR$"WhZ:%a!N7pZ^K1HBYQ:[)!O-eL!!0b5Dut[mO9Mj*!!m]g!SglZ!PJa=!UKdd!!$C`!!!%l2ofc;=uX30BP9*O$L_Xa?ic:$!OHu`#QFi!-ipPS]dO9X8cShl^BafQ#REC=!Ri@pFU.sIFV"NY"4.#Z#S78N!!!&5!!0c4!M9Jp!N5tuQiI0$!ODb,!lkD0!ODfoVuk!MrrKG,W%dZ@GQEs.#EStj#`&Mu#`o:Q!!!&5!!0cB!Po*C]`8<<)ZTj=!!!&5!!0cK!!0)"!!!!/z!!!!&!!!!)!!!4(!!!#o!!!!6!!!!6!!!4(!!!G1!!!G1!!!G1!!!G3!!!G3!!!G3!!!G3!!!!\!!!!H!!!4(z!!!G/jWOjFAP!^>]]Le[!!0b9]a`Hk_uKc<!)R>5$(s6XNX!6P[ocH-mfB`t:^!*g(][Z\#)<0m!!0c@NX`&if3h\]?idb`pi.,NBEt^Ci!8Ip'F194E!NQH#Hn+A!!0cXY7B=fpJ;D%:f'+Q!KIB!"Lh2u"n)Ju]gr9mli7"d!!0bD^'hjZ!Up'i!!/\lZN>XW9'6]c!ODgr9@j<=!KmM7!f-m(!Q#;mkR\/i!!0b6!PN7K#iksc!!!&5(cVc->6_hJ(]X[9!!!&5!M9XV!e:7N!q-/r!e;0W+J/\@!e:@P!RLkO]`8+ibQ%VD0PEEP!KIB!"Li&P"n)JuF^P?='IWrp'Q=Q_GQHt-BE/$2BOCkm!PM7;$igg:!!!&5!OrO0bt&rW8.Yb%f18F_(g&a#!PLh7%tjo_!!7s5!!/\lZN>XW`rYo8ZN>Y$`rb-!ZN>q,LJ4lPYQB>0L]Pj'!PJI7#(usV!!_Y#0OQj?!KIB!"Lhc@"n)JuF]\d5'IWrh'PJ!WDuo,%!!!&5!PJZL%\s()!!!&5-n,4\Z3JAM"4/_&^aBYcIL&1>#+,_T0ImNm'Es7G5QQW?!!#Q'!!!&5@!)X[!#-7M'PI`TE!NQH#Hn+A!!0cX!#0b['PI]kE!G2"YTR%q:]ZR`ZN?1irrf5#!#&043!?uu4Ju:`f2u-7:]ZS>\NHcl!$F6%T0P@d!!0c-3"1`G#/:E\!!"-ah]O$l!!1#+!PKTU"+gLQV\fCI+93TD!!1"L(^1`V!W#:;!!!&5!J^c9NW9mrk?qBm!!0SI5]o=75V!*?'Es7W:capC!!!&55]m@&5V!*?'Es7W:eRD\!!!&5!M9J3!e:7Np](:GpAqT$pd1k^[fNf9J/"V?ciL?P!!7rW!!!&5!KI5n,NiH:-idXtBFb(W!!!&5!OrQF_+5[K!!iQ*!!!&5!#,[f?oV7!'F2Z$]k@oVZiC(,!!0e9T)\o]J,fQMY5ts2n3Z:=pAqT$J.9O"ciL?P!!7rW!!!&5VZF+r=94Hd"K):,$]mZ8".'%p]i[5^MZ<_X2uj<h!'#*$3&iDo!#,Tl]gr@Zl2Ueb!!/\m/HUG&!VcWp!q-/r!Vc]I&@V\H!e:FJ!RLkO]`8+idf9@K!!0n;!PJIM#P7ur:e1VI%sS?*%Y+VQ"fDC-'1`.b"M[b5:JakI!!!&5!PJPu$)@P$!!!&5!PJT@!O;\*LIardk5Z2"?t`Y%!PJI5!kJ@3p](:G!f/Z6!M9>l!e:7N"6T]k!f/LjNt28tZN>Y1Y6+.nZN9h%rro;$Oog.<L]Pj'_?\Eha90ci]`n0?&c_n4+CG5\cr^DN$4>DnmpH?e"1VbD"2G)-i"*>H\H\-+!$FN-#QRD<!!!&5E&[m)5QeJ<E,Yoo-r9rT!!0b54os[D:LF7V"K):,'3GI*"M\=Ef3huG?skrU!KI2I44dkBT+:t/!PMS:"60@]!!7s5!!/\lZN>XWmfT`oZN>paNtdWUYQB=hL]Pj'!PJI7!k\L5!!!%l\245jD#aP:!Pg2Rf31hN^]D4a!PgJl!Ph<o!Or/jZTeK+QPH+nYQ:s5a8pel!PJI6!h0/if18F_(g&a#!"TNo]jLr!irB&[&-8L/!JURS!!JJs!!!&5!PJ];#1EPPTO7f2=9JU2#l"\8?jND4n6mN-L^*V_$h/TQ"kWt1(][rdBFb(WE";p_GRjcg+CG5\=94E^NWn$BT+G**?iUi@?oS;(?oUqi]h,D8Z2ak*!!/\pZN>XW%$(o"!ODiX1\UtN!O)WU!f-m(!!0b5]`bnHlMpnc!*En90OQj?!KIB!"Lhc@"n)JuY?1poIp`fg!!!&5!!0bqT*(khJ,fQM!f/Z7!ODb+&'#RV!ODi`*QJW0!O)WU!f-m(!!0b5!PJmA#O;?iY>A%T8-,;R!O>Kt\,jZI#N-s6IM`C<&&8;2T)]Qj!#/N<'OV1'BEbR>+A`*L8-+_N\H_M!!$ErrT/\MT!(^ctcN1?P8-\N5!!!&5:j!&-'Gq46'NbkG'OVFO\S)KR!$G)=:e1VI!ODs]#+#Ij!)Rf/!!0bUT*US[J,fQMQN=DoJ4l42[fNf:J5!.9ciK:2n,eCHQiY&-Qj/o]!!0bBBE@H"!!!%m4kB_@$W$nc]`::tnc/Xj$]%X\"h4u>"c33i!!0T;!R4.X]gr\7RfEEh!!/\q/HUG&!VcWpk77U"ZN9h)[frr9YQB=ZL]Pj'!PJI7!NH,"!!!%l!%e8&1]d@O!!!(V)=IU4!f/)Q!q-/r!Vdnk'V>E4!e<VH!RLkO]`8+ib5_MC!!/\q1]i1-!!!(V,M)t&!f/Ok"K):,!e<5]!RLkO]`8+i$31&,?iU1*?s!Gi@!)j<!#-g]!#0)W;fDd#]jLg?g&M*Rk5Z2$;\#/q"CM30^^-$(%]B^?@3:P<!ItNUd!c&#J-sp5!+9pT%fd:lk5Z30!)mh;!PMk@#20%W!!'h8z!"KJ=!"Lsg!"M$i!"M$i!"M*k!"M0m!"M0m!"M0m!"NB:!!!f8!!!Q1!!b4Y!"L1Q!"L1Q!"L1Q!"L7S!"L7S!"O/P!!"YP!!"#>!!a)9!"Lsg!"MO"!"KJ=!"KJ=!"KJ=!!#Lh!!"AH!!b=\!"OGX!"OGX!"OMZ!!$(#!!"\Q!!bdi!"KtK!"OAV!"Oeb!"Oeb!"Oeb!"Oeb!!$p;!!#.^!!a5=!"MO"!"MU$!"MU$!"M[&!"Ma(!"Ma(!"Ma(!"Ma(!"O/P!"NZB!"KtK!!&2_!!#dp!!a&8!!&\m!!#su!!bRc!"M0m!"M0m!"M0m!"M0m!"M6o!"M<q!"M<q!"M<q!"M<q!"Lsg!"MBs!"MBs!"KbE!"KnI!"KnI!"KnI!"KnI!!(7D!!$a6!!`T+!"KP?!"Ms.!"MO"!"N04!"N04!"N04!"N04!"MO"!"MO"!"MO"!"MO"!!)Bd!!%?G!!aSG!"Mg*!"Mm,!"Mm,!"Mm,!"PS#!"PS#!"L[_!"LIY!"LIY!"LIY!"LIY!!*T1!!%rX!!b1X!"NrJ!"O#L!"O)N!"O)N!"Lgc!"Lsg!"Lsg!"Lsg!"Lsg!!+YO!!&Jg!!abL!"K87!"Ma(!"LIY!"LO[!"LU]!"L[_!"L[_!"L[_!"KJ=!"LIY!"L1Q!"OAV!"OAV!"OAV!"OAV!!-.$!!'A+!!aJD!!-j8!!'P0!!bRc!"N04!"OAV!"OAV!"LIY!"LIY!"LIY!"LIY!"NZB!"N`D!"NfF!"NfF!"NfF!"NfF!"NlH!"NlH!!/8`!!(:E!!b(U!!/\l!!(UN!!bRc!"PS#!"PS#!"PY%!"PY%!!!'#!"K25!"K25!"M0m!!0n9!!)'[!!b4Y!!17C!!)9a!!b7Z!"NT@!"NZB!"NZB!"NZB!"NZB!!2$Y!!)Wk!!`u6!"N04!"N04!"N66!"N66!"N<8!"NB:!"NB:!"NH<!!2rs!!*-$!!a>@!"NB:!"L[_!"L[_!!3T0!!*N/!!aAA!"L+O!"Lgc!"Lgc!"Lgc!"Lgc!!4MJ!!*o:!!a/;!"LCW!"LIY!"LIY!!5.\!!+5C!!akO!"MBs!"MBs!"MBs!"MBs!!(:E!"Okd!"Oeb!"PS#!"PS#!!64%!!+bR!!bRc!!6X1!!,%Z!!b4Y!!73A!!,7`!!``/!"Ma(!"Ma(!!7cQ!!,Lg!!anP!!8,[!!,^m!!aqQ!"Ms.!"Ms.!"Ms.!"Ms."ToqK\u65C!!0b9!Pr"@EW?@F#H%h-&-)aU#RDpd!!k,'!!%0B!!0bEY=f3&'*nS."MYKJY7M7)!!0c'!PKHQE@V"h"h4r-!PKA\3"c2k)6XS_&./H%!!0b=&HF$Uznc/XioDek$p](:(p](:(p](:(q>^L*q>^L*nc/Y"nc/Y"nc/Y"nc/Y"!!!!/GQ7^Dnc/Xinc/Y"nc/Y""98E3h#W'-!PJWI]c7"P_uKc<NrTjp]`Ep;$31&,!!!&5!PSZ+!!0S0!!!%lcnkdEZN't+cN13MZN7Q?cNUcYZN8DWY6VfCOo`W9ciKL7_@$&=YQ:Bt]ajfAqu?]t!!/_nZ@<)*#3[01k\^I+huph!fE&_r9=H#KJ-4_<IKdLk$`FHC!$Vg/!Q5g''-I8T')s?[#VZ6&&3'Y6!!!&5!PSTI!!0S0^]4?d!!/\mZN8,IcN3b@ZN7itcNi>.ZN7QlV]Y(&Oo`W-ciKL7_@M_/W!L0>]a2ske,TIL!!0b6!%e<RT)l_-a8c2@%fs!;!PeoK"lB?e!QYJS0#%Fn!QYJc!LNnN!q66;#_2rm!iQ@V!!!&5\-rD^fE1ge&-8L;zEa'(l!PK<M+tN]o\0+$:-m/Kj+=I46!%7lf!!0b5!UM99`W,u]!!",B!!.U,!!/\lpLJLKLaM:S49<(q]`8(hdf9@K/AG?h!Jgc4VZDT0NWFr(L]N#,ZSp\Ak6Ja&!O-eL$BPe.!!0b5$<qQO]`Eoh&c_n4k6SR3]`EX',6.]E!!!`6z!!!0&!!!K/!!!$"!!")@!!!c7!!%uY!!+&>!!+&>!!+&>!!+&>!!"qX!!"PM!!!$"!!#=c!!!'#!!*W2!!*]4!!*]4!!+&>!!+&>!!+,@!!+,@!!!'#!!*c6!!*c6!!%'?!!#Ig!!!$"*<I/["M1B@!!!&5L]NGC^_"!q!!0b8!##J83%;TJ-3"5V:<rnS!!k+e"Lh#(!L!ch]a+TH)uos>#Qj`n!!0,+_$%4Q!!iQ*#QOnA!"Ao.z!)NXqz#8.":#8.":#8.":#8.":#8R:>#8R:>#8R:>#9EjF#9EjF#9EjF!!E9%]`bp8$ig8.i!?hF]cZ_W"98E&#QOnA!!<3$z!'C5]z"9AK&'ESFL]`bs!qu?]t!!0b8!M9Jp!Up'hhuEel!ODb,!VZWX!ODgb"fDIK!O)Uo!Vc]2!!0b5!P&=5!"=B;!OsfdfEq]D#L>@=a:>F_ILh5EpeV7C!!0S8!PoTqD?'qB*oA@GcmSq#D@H"<%_rA.YQ;K]"Q(U1kR4n/\:-[MTF%7prr<`=!PL/n!jhq-!!iV"#S8rq!R1kq]bg_Lli7"d&5Y=h8:Llb!O#<j"1M)D!!!&5pbW'E/H>bO!U'L`!!!%l!ODgr:WEL^!ODgj"J5k,!ODh%"Kr$U!O)Uo!Vc]2!!0b5!PWj[!!2!X!!!%lpbW$@ZN't+^B^)+ZN8uPT*<OAZN9h'T*L\`ZN9OtpG`*QOob%Wp]8/2_?-)*fEnJW]`ughoDejl!!0b7T)kD]n,NFh!!"SOpbW$8ZN't+pBIf%ZN9h*O%?/LZN9h0/?]Qb!ODgj;==^m!ODh%%#6hB!KmKQ!Vc]2!Q"lAJ.Jkt!!0b@!PK`Y]`\<8_Z0Z;!!0b6!PNOS!P/72^H_c45X7:35WB,6\O=J'!$EZj!!"]d!&t"F(]j.<3![Jh*Nq^n8/MB280S;Z!PK:?g&MH#^]DRYO9+Pd:f(g0!O!NI"1MAL\6&d;D@G/'%c@_^!P\tt(K^q+Qk/+`ILVq\n.5":&7@I$=FUF^!PMlC'++^>"MZnr3!IA_!O<dHJ-l!1"gDkK"7QZE3(O(baC-+X\-D^8%Y0!9#KR"g!!!&5!M9FG!MBDm!!0#T,QDT\(l&O(YS>\Z1C31F3r]5b!KI2b!O)U'!ODk-!S8uc!O)Tt!!0TK!!!&5&4ln\(j-Z,(b5jl]`X$,M?!VW!"Ju2z!!N?&!#GV8#AO5=!!3-#%ak=W%ak=W%ak=W!'(#Z!'gMa#AO5=z!/1CQ!)*@m#AO5=!'gMa!1a)i!,)?4#AO5=%ak=W%b(IY%b(IY!?_@B"M;<h!!!&5%pf:4!PMl;U20f0!!!Q2!)DuU!p<2n+=eQ7,!Lc)]aujt9E5%n%+#%C"6^*e[n'U\!*BX3?ieGQ]eBVf9E5%n=9POJ!!0c@]EQLZ?j22a!!0b5]a(V=_uKc<!!0b;W!&mr)?9a<!!!&5!PJ`N"l'(X!!!&5W&Oh-"Q)HRLe%QP49NA#$GZek#LI0E+pYn#3&"//,G-)\+@#t<80CJ(85M92!Qt_g3!H3^!!!&5Du_(S!,)sP!!"Sf!M9FL!g!B^"4%"S!f.SP#G2%'!g!\S!T4!_]`8,$HiO-I+92C?`u$3a(bdoS0P(?q0K:I/$mVAe]eBF?PQ1[a!!/\o1]ia=!!!(f!WN2,!g#LY#-S'6!gl3]mgfH*ZN?4&G7E.)!O)We!gj#H!!0b5MZL`r&3p3rfFI*SckcZckQn*o\,h?c%F?d=pb2`7Ad"J($0V`KLbT:i3!@kB^^/RR.LW0_'/2Bo30ul1!!!&5Qo"r)^&S-7!e:7O!!/\l/HV"6!f-gV!q-/r!f.$S"nr&(!e:IK4jO/8!gj/c"nr&(!g!T[s*"LMYQBnVQiZ+G!PJI7!Q"g:!Q5#O!PJJ@AT@bNMca(hT-.MB?idPX#l"qgfF#\^OD/)4cj#"(!!0b=T*!dJO8o7]!!"SP!ODi`:o=Gg!ODih:o=Gg!ODi`!lmIM!KmMG!gj#H!Q#6>&)[P?!PJnl74\E=(9dq_!PBDN!+5hk!!!&5!!0cL!PJg?"3^`F+9@!PTF<';$BP5k+D:ed!!0b5'*=U&31":Yhe6[_(iVG;:au^jGW9Y].Kd-s]m+d(RK*<g=:\^=!!0c@1]ij@!!!&@!!!%lcYW]uQN>H)8%2Yk!RLkoQN>GhNWIL'ciM2gZN[N50*9/pO<O_@!!1^Q!!!&5!%e5GT)sfKO8o7]%fs!<!f.DC#Nl,o!g!Sp!T4!A&"iuk!oO*r#D`N8!!!&5!PJQg!ic5#\6oh)JcWLc#Ol+%!!!&5!PJQ("HrfcW!M$t!,c0T$E+&_#Nu2L7KUA%$g7_k!J(HB#Clod!!0cX1]l\;!!!(f!!!%l!ODih$I8pS!ODip#F>[^!O)We!gj#H!!0b5'*5B="4oL4s#;tt"2GQXZ3/]D%(JP'\8Db[n.+pi\,j>P;?&lekR*\ck^H>2\-LXq46K6>!J3iB"fFm^!!!&5!PSTp!!7ZN!!!%l!%e86ZN>p_f)a1uZN>qF4P()E!ODiX4jPJ,!O)We!gj#H!!0b5!!/Ph!!!!cz!!!%E!!!%E!!!!#!!!%+!!!%-!!!%-!!!%-!!!%-!!!%?!!!%A!!!%A!!!%A!!!%A!!!%E!!!%E!!!%E!!!%E!!!%-!!!%Kzzz!!!%A!!!!T!!!!@!!!#-!!!%;!!!%?!!!%?!!!%?!!!%K!!!%K!!!!n!!!!L!!!#*!!!%-!!!%1!!!%1!!!%1!!!%3!!!%3!!!%3!!!"3!!!![!!!#1!!!"C!!!!c!!!#*!!!%5!!!"U!!!!q!!!#-!!!%E!!!%E!!!%A!!!"u!!!"$!!!#3!!!#*!!!",!!!#6!!!!g!!!%E!!!%E!!!%E!!!%3!!!#D!!!"<!!!#6!!!%E!!!%E!!!#^!!!"Gz!!!#p!!!"N!!!#'!!!%3!!!%E!!!%E!!!%E!!!%9!!!$3!!!"Y!!!#3!!!$?!!!"_z!!!$K!!!"q!!!#*RiqeX!PJWI9+1e#'(?s(#^%->#V,lT`C/Sh#QOi*!!!-%z!!#gq!"+kh!"+khAHi8;4`P=Q"MhQr!!!&5!#-9W]iY<%]Dqp4!!0b_`#H&`5QCcbO>m9$FTqdI,ldp1FV"OD'F4\83*6[k!fmn#!!!&582q42'*Pd(!j>E#mnch?!!0b<?O"FK#Iai3!!0bET+ej;p](9p!!0e7ZN($i*s9gi!ODgj4T>hV!O)V"!e:<m!!0b5T-*D"p](9p!!"SO!ODgr/_:*N!ODgr/>l21!O)V"!e:<m!!0b5NY(g_[n&ab!!0b9]b8fpg].<T0K;$?!KK%X!P]1*!!!&5!PL.^-F<aQ!!!&5!M9gS!VcWp!!7[-!!0e6ZN($i6`1Fq!ODh%6`1$i!ODiXkX26YY5ts1p`#hra8rLG!!7ZO!!!&5:b+$n'Jmd3BEcEV=9&>"3*63A!PJPq!os=][k=1X!PJaL!NQ2#^EKsk!PJaH/sH>9+94rT:_*O?"fGII%fd:T!!0c@]a)IUU]:Aq3!#$@]`sfgPQ1[arr<`N]`GW0bQ%VD!!0b@-3Ef>N_iPSf2+F-!!0bp(BU*,#hTBdQiXu>!j=iiL]O_gIKueV"2G/g5WAf>]a+!kqu?]t3(Q"[80%i"-:Wb]]gshJPQ1[a/EC.L]a,@NS,`Ni8,shPoDuT9]`:S69)nqm$.o4k:cJTm:cM6I]h,D(_uKc<0M"/;82ph:,6X?(8/2(p82*R]!!!&5!#-%+]g)^uP5kR`!'h"q!PJR2%AWt(MuX\Q!!0bE',$6(7b:02cU^Sd:]M[YT)]Q2!PMSD(:4&As%#BqMuf+R]a..@e,TIL%A[20!PL_u&'P"RO"`OQ3!#$B]f5BkMZ<_X!!/\n1]d@O!!!(NV[ig7ZN9hQV^'doZN>Y/^D6JDYQ=M:J-!^l!PJI7$JYU]:e1Vg3)DS*!L!Yq:]Ldf!!!&5BK-+CMZSqN(g$b=!'gN:!!!&<0L.TW!KI5J!fo<+!!!&5N*@"?]f6!#e,TIL3!#$C]fXhBo)Jak!!"SOJ2@;rT)\imp](9pcN1?Qn1g71Y5ts1J2*AmVZF+*pa5G]a8rLG!!7ZO!!!&53$ns55WC_W+p<r\]F[U68.;!h!!0b5]aLV9MuWhY!!0bV3$sji!fmm`82pX1!PK\D%\*M!!!!&5!PA[0!([Rs!!!&5!PJW*,4kj8QS:ZacN1?R5QSV'!!!&5!TP?iJ-Opk!'hh?8--"5!S@Y0cigRj^BqCT0EH\)fO4iJi!%I5#dAaZ%*/s@O%;f$84Y]A82pXjFTeU5]a+U7oDejl!'#*9!'hh1!(_5D%fd:L&6Lng!PJPq)2%tiO%;f$!'i(Z!!0b5GRDq#&-\tF-qFBL3!#$>]`\""e,TIL([,`O+6X*2TG?Z;TaALMp`Ju+b6uZ2\.#kJ3!$et#3R["[l?W40M"/+!R:qZ>=_"E5QCo'!!!&53-?M%5U?C182q.\3!,F#!folCa%/`\84Y]@!PJW6,K'Q^!!#!$(]ZfI#QRD<:_*O?!!!&5\8_SE\2(Mr$Kup>"S`/!!!!&5!JU]P5SW!5!!!&55WAhF3$bCM"Qq1(mmou/!!0b9?NRP6)nuW:!!0b=3!?Pf!r"B.[l??,liE:Q]f6!+e,TIL!!0bD'FVhZ3!Z>]!!!&5lrs[i!Or+C!!!&5YV[F!T)\ilVuQeu3ThLc!Os&W\00C,1BFud:6u!k!KI2j!Or07!OFKS4.eRc!O)U'!!0l[!!!&5!KI;8"Lh2ef2)G\=9'N`!!1"L!PM;0$/>L\83d395WAnU!$Xoe!PCB_!([Tq!!!&582qX^82s*n3!?]]!r"BFUdtN@!PM;B*i&c9\1#s41BFud1qs($!KI2j!Or/t!OF?O3o:(4!O)U'!!0l[!!!&5!##Bb3!-9S#Ob2S!!!&5!KIDT2t%;;!!!&5@p9/#]`GVCJcGcO:]M[Bg]>&Y]`:kLbQ%VD!!0bG1^L,^!!!(N!!!%l!ODh%4f8Lf!ODiX.-E4D!O)V"!e:<m!!0b5]a(kDOoPI_=BINe=?$AC3!%'%"5d3_!!!&5!PK23$*4+,!!!%l!PST5!!/Ge4neut!Ot\h!ODg>]`8)Co)Jak&Yrb:]a,(>WrN,#3!#$CFTqe1,ldp1]a+U/g].<T:]MdT"0u8F]a./aMZ<_X!!#q(3*8.:=?$AC3!%'%"fGI)!([.%!!0bE3#13K#3R[*QU!eqs$.e3!PL`4'P%1D3!-hp!!!&53&h24NWSr/T+Es_!!0b;]`m^%Z2ak*!!/#[5WA`DNX:b#O#TB*!!0b7'G6i8=9?eK!!!&5n0S:,]g+7S]Dqp40L.T'!ODio5QSV1!!!&5!KIuW"LgWUO"`OQ0L.T#!PJVs!Ls,i&3p4>'taR[!PJIu!Rq)L!!!&5!PK<!"2"U6QNVqJ!PJb5#,D5!O"`OQ3!#$G]`GkZ]Dqp4:]M.7:cJN[]a+"&ZN't+#GbQ.!PM#()U&0]pBS?<!PJaN&<m.p!#s]t!!0c(3#@5J"LgW]Y=JX,84Y]A!NZOp]g,+R]Dqp4!!0b<]`sW"MuWhY!!0bG?P0@>"TJen!!0bE3!,iT!r"B6!!!&5!$W*+!PBg7!&+ef!!!&5!#$:K3!-9K#OaoC!!!&53&gu_3!SP""Lg?MY<W($5X7:1!L!cW3'\:u!!!&5!KI2M"Lgoek:f.\5QQlL3!>QZ"HP6%!!!&582q:T]`Rp^ZN't+5QQlN"U);*gBY2!!!0b8>631Q]gr,JgAh3S83e1#!L"X]#Y56F&4e2L82pX1!PKf2#daR3!!!&5!KIVJ"LgWU!!!&5!PJWc!KmE_!!!%Y!!0n9!PJI=&#91*k:ekT3&il%!L!Yq2ujQ'!!!&5!KI>j"IDqE"TK#:!PJoC$-E5J&3p250L.TW!$XH'!PCB_!([^o!!!&5!PAJc!([FE!!!&5!PJlY&'P"R!!7[-!!/\lZN9h$LBap_ZN>XrT00R`YQ=M5J-!^l!PJI7$02'd-m/PpOr-[h5W/TH]bH,"li7"d3!#$A!#&.)3!?um44d;*&-C0rU]J,1]`;.GPQ1[a83e1+!L#@D#Y50B!!!&50K;%$!#,j6]g*!uqu?]t0K;$,!#,I+]g)^ej8]/\0K;$,3&ilf5WAnUc3!_o5WC_(#ate,!PJIm#dXL2^JFnD:f'+S:cLPg]ftm]WW3#"5QDu6!!0bET+7XsVuQeu+f?:\%bLflkR[.g=uY=>!OtXT\2+/q\0-h5Vu_nZVZF:.LB4_%W'?=VGQG#L]`8)Kg].<T"J]07!PL_u'U/Rt82pX1!PJWF!g<Tas"Hu'8-+`2]`bf0MZ<_X$\Mdp]a,O;b5_MC!!0b>;ZW?f]LW#&8/'bZ!!0b5?NS+F8EU]Z!!0b=]EbbC5RcEK!!0b5.pj1p]a,q1bQ%VD!!0b>>6^5j8,r\]!!!&5!##O33!-9S#Ob2S!!!&5!K76S2uipY$'-c*3'[M)!PJPq"0qn,!!!&5!S[gA!!!+_#QR+9O"a*a84Y]H82p[33!%&j"K+d]#QR\D!!!&53(Q"K!L!Yq8,rgV!!!&5!#,b#3*6<]!fmn#:]LNS5QEDR!!1"<5WC_'!PLuW"OmDOpc&;[D?6C7#l"Xt!P],+O"^uu"-?po"K2L>kR4><!"J]6NY"H(f0D:r!!0bZ3"glE#3R[*3(O#n"cNJp!PJJ("1/%.!'gRr!!1"T5WC_'NWPP$O#TB*!!0b7_#iZt!'gMbVas&nOo^ap]a..5U&Y/oT)]Q:?oV7S;Z`!k3)BST!gbTC!!!&5:cK!G3!%&r"fG0n0FcAg!PJQ$#eU-;cNSo-!PJaP#4_`o"K,XC!!#r*3*8.:=?$Ka3!%'%"fGI)!([.%!!0bEHs7cp!PL/e&E<`j!!!&5QWa^6\,j)K!Osod!Os98!MBIR1q*Lq5MlLJ!N7TR^j#ma!PJI6$`!b&#Z(LF"IB*&!!#r"U&hnt]`:S-RfEEh%DlHa]a,R<df9@K0K;$&dTZeI]f6!$l2Ueb8,s;*82p[S]a+!snc/Xj!eXh\]a,J,l2Ueb:_4WT:aSYe!PM;`$M4;u82(T%!!!&58881D3!>9r"LgomY>>34:f'+Q!NZOp]gtsjdJs7J5X6h+!K0I_7h@p.!",2\8,rWgkYM;cD?6C3"lKg)!P\uOO"^e5%B*\A%epR-TE:4(3!.G2!fp/Sa&#Sl:f'+P!P/H4]at0/ZiC(,#K'mU]a,7KRfEEh&*%".]a.$0g].<T%[1*(!PM#(#K$NA^JFnD:f'+S:f',I!KI8k]h_HaP5kR`!!0b?\dY#-(]Zf%!!!&<0L.TW!KI5J!fo<+!!!&5:cK'PZ3$(H!gldbk\^Eocj]+I\,j>Q!QS"CJ-i_oIK\:)%Y+iC:cJi]FTeU='F4\@?j*A-Nt>ta!!.uZ!%o*j!Q4t/N^*REO$GZ*!!0b73!5lT#3R[*QU!eq0L-rf!!0bu3!S@B!r"B.&3p4>$A8Gm!PJIu"QTO_!!!%lJ2@<%ZN't,cN^QRZN>Y;h\Z:nOob=qJ-!^l_@5o8J-OX,]a`m$lMpnc&-8L,!##>43!-9#!Oim_!!!&53&hD;FZ%2n,nL&AFV"OD'GpgH3*6[k"of-A!!!&5!Q5P=N^*REO$GZ*!!0b7]a;=OOoPI_!!/\r/HMdM!MBDmV]:Ic]E,ML\.4As!PJI6!W2otk:ekT3&il%!##LE3!-9K#OaoC5WAeG5WAe[3!SP""LgW]$/5KE!PL_u$(Cnp!!!&5=BINi=?$AC3!%'%"5d3_!!!&5jBDrV]g)Q&Z2ak*irQdq]`:;,U]:Aq0K;#m!$VX1!PAt/!'gbJ!!!&53&h#`3'%!m"Lg?MpFnil!!0b7>7H_q=9&Jm!!!&5!#$$o3!-9S#Ob2S!!!&5mf4%9]`GVOM?!VW%uP36!PM#('Cu2(3(O#n&rQe'!PJJ("Jc"t!!!&5!M9D0!VcWp!!7[-mfB`pJ4Z@8`rWLJp`mO*a8rLG!!7ZO!!!&55WBDJ3!ACm"ReT@(&@sD!PJIu%AEh&5S!i/!!!&5!$VT*!PLH`'s[f>T1D3fK)q/^]a..AlMpnc8,s;482p[S]a+!s]Dqp43!&dWFZ%2n,nL&A3!]LT"ogPYa&#Sl:f'+P!PJW6!R(ND%efr;!PJND$`a7-pFo,t!!0b73"P<TN^kco[m3Ib!!0b93"XdD!fmmp8,rWgQS;5q:f'+Q!PJPq%/U#)!!!&5!PJhl#*Jrda&l.g`rHf0!)mP7!KL7^!fo<C!!!&5i`d,']he\=q>^Kr3!&%R3!SP""ID)-'`U-;!!0bmFU7gD'GpgP?j*A-rt&j'VeBiL!K1Uo/f7[j_uN=.5QCcb!!!&5!Q5TH3&gm<.n;9Y8&%;S5Tg)cJj;g;!PJI;&[MH;!!!&5!$W!6!PK%8(;g+P!!!&5!#$-r3!-9S#Ob2S!!!&5qHjoZ#WV8f!!!&5:cK6N3!,F#!fp/Sa&#Sl:f'+P=EOeF!#,\=]jLu@iW&rZ5QDH&5WAhK]a+!kOoPI_Oo`34]`:"rb5_MC3']G+82pa]c34/$83fE@!!!&5!KI9!"Lgoe!!!&5nllj']g)Q"nc/Xj-nmUa!PL25&*!Wik7lZX!PJaC(r?7Q!!!&5!PAo2!&t^_!!!&5!O)^='*(9W7b:02cU^Sd!!0bP?Ou/s/XHR6!!0b=!!:UL!!!(3z!!!>f!!!>f!!!<(!!!;5!!!;5!!!;?!!!;?!!!;A!!!;A!!!;A!!!;A!!!>J!!!>J!!!>J!!!>J!!!>\!!!>\!!!!H!!!!9!!!.,!!!!T!!!!?!!!.O!!!:&!!!:&!!!:$!!!;g!!!;g!!!;g!!!=E!!!9o!!!!p!!!!P!!!/'!!!"-!!!!U!!!-p!!!;e!!!;e!!!:\!!!:\!!!"?!!!!^!!!/?!!!9U!!!;+!!!;+!!!>\!!!>\!!!>P!!!>f!!!>f!!!>f!!!"[!!!!m!!!-S!!!>B!!!>B!!!>B!!!>B!!!=k!!!=k!!!>B!!!>B!!!>B!!!>d!!!>d!!!>d!!!>d!!!#,!!!"*!!!.[!!!;+!!!;+!!!:h!!!:h!!!9C!!!9C!!!#B!!!"5!!!/Q!!!>n!!!>n!!!>n!!!<&!!!<&!!!=e!!!=e!!!=e!!!#\!!!"D!!!/c!!!>J!!!>N!!!>N!!!>N!!!=!!!!=!!!!<p!!!<p!!!='!!!='!!!='!!!:.!!!:.!!!>`!!!>\!!!$3!!!"[!!!-\!!!<d!!!<h!!!<h!!!<h!!!<h!!!9m!!!:B!!!>p!!!>p!!!>p!!!>\!!!<@!!!<@!!!;K!!!<J!!!<J!!!<J!!!=/!!!=/!!!$i!!!#!!!!/)!!!=3!!!=3!!!:^!!!:^!!!:`!!!:`!!!:`!!!:`!!!<R!!!<R!!!<R!!!=]!!!=]!!!=]!!!=]!!!!?!!!"8!!!!)!!!#O!!!=W!!!%L!!!#:!!!/=!!!<p!!!<p!!!%Z!!!#A!!!.t!!!=C!!!=C!!!=E!!!=E!!!=E!!!>\!!!>\!!!>\!!!9o!!!9o!!!<R!!!<R!!!<R!!!<R!!!9m!!!9m!!!9[!!!9[!!!9[!!!9[!!!<@!!!:.!!!:.!!!=E!!!=E!!!&A!!!#c!!!-j!!!>V!!!>X!!!>X!!!>X!!!>X!!!:$!!!:&!!!:&!!!:&!!!:&!!!&g!!!#r!!!-H!!!&q!!!$#!!!/i!!!<@!!!<@!!!<@!!!?+!!!?+!!!>\!!!>\!!!>V!!!>V!!!>V!!!:B!!!'>!!!$4!!!.6!!!9M!!!=5!!!=5!!!=5!!!=5!!!>&!!!'V!!!$?!!!/i!!!=A!!!=A!!!;O!!!;Y!!!;Y!!!;Y!!!>P!!!:B!!!:B!!!;A!!!;C!!!;C!!!;C!!!;?!!!;?!!!<(!!!<(!!!<(!!!<(!!!:.!!!:.!!!9e!!!9e!!!9e!!!=-!!!:h!!!:p!!!:p!!!:p!!!>f!!!>f!!!<(!!!<(!!!<F!!!<F!!!<D!!!<&!!!<(!!!<(!!!<(!!!:0!!!:0!!!:0!!!<h!!!>\!!!:,!!!:,!!!;#!!!;#!!!;#!!!>V!!!>V!!!>V!!!>B!!!>B!!!<n!!!<n!!!<h!!!<h!!!),!!!%*!!!.O!!!<^!!!;1!!!<Z!!!<D!!!<D!!!:0!!!:0!!!9E!!!9E!!!9E!!!<&!!!<&!!!<&!!!)P!!!%=!!!.i!!!<<!!!<>!!!<>!!!<@!!!<@!!!:$!!!:$!!!<@!!!<D!!!<D!!!<@!!!<@!!!?!!!!?!!!!?#!!!?#!!!?#!!!>\!!!<(!!!<(!!!;7!!!9C!!!9Cz!!!;s!!!;s!!!;s!!!;s!!!>X!!!>\!!!>\!!!:"!!!:$!!!:$!!!:$!!!:$!!!<@!!!<@!!!<.!!!*U!!!%j!!!.[!!!9C!!!9C!!!:N!!!:N!!!>d!!!*k!!!%t!!!/n!!!>H!!!>H!!!>H!!!>.!!!>0!!!>0!!!>(!!!>*!!!>&!!!+2!!!&.!!!-R!!!>`!!!>`!!!>`!!!>`!!!<(!!!<(!!!+J!!!&=!!!.R!!!<(!!!<(!!!>B!!!>B!!!::!!!::!!!::!!!=-!!!=-!!!<.!!!>,!!!>,!!!>,!!!;1!!!;1!!!<(!!!<(!!!;)!!!;)!!!9]!!!:&!!!:&!!!<<!!!<<!!!<<!!!:N!!!:V!!!:V!!!:V!!!;u!!!:D!!!:D!!!:F!!!:F!!!:F!!!:F!!!:H!!!:H!!!>:!!!>:!!!>:!!!:H!!!:H!!!:H!!!:D!!!:D!!!:N!!!:N!!!,g!!!&u!!!/G!!!<<!!!<<!!!<<!!!<<!!!=C!!!=C!!!=O!!!=O!!!=O!!!<6!!!?)!!!?)!!!?)!!!=3!!!=3!!!=3!!!=5!!!=5!!!=G!!!=G!!!=I!!!=I!!!=c!!!=c!!!;7!!!;7!!!;9!!!;9!!!;9!!!;5!!!;5!!!9K!!!9K!!!:"!!!-f!!!'H!!!/3!!!-r!!!'M!!!/N!!!9c!!!9c!!!9S!!!9S!!!9S!!!:&!!!:&!!!:&!!!=U!!!=U!!!>V!!!>V!!!>V!!!<<!!!<<!!!.E!!!'b!!!.[!!!:N!!!:N!!!:N!!!:`!!!.Y!!!'n!!!-l!!!:^!!!:^!!!;!!!!;!!!!<Z!!!<Z!!!<<!!!<<!!!/$!!!(&!!!/j!!!<n!!!=/!!!=/!!!=;!!!=;!!!=;!!!/:!!!(3!!!.>!!!;]!!!;]!!!;]!!!;]!!!;Y!!!;Y!!!;Y!!!;Y!!!<&!!!<&!!!<&!!!<&!!!;+!!!;+!!!;+!!!;+!!!/h!!!(J!!!.h!!!!#!!!9C!!!9C!!!9C!!!;3!!!;5!!!;5!!!;7!!!;7!!!;7!!!;7!!!;?!!!;?!!!;?!!!><!!!0?!!!(^!!!/3!!!0I!!!(c!!!.S!!!<4!!!<4!!!<4!!!<4!!!>f!!!=I!!!=I!!!=I!!!=I!!!:0!!!:0!!!<(!!!<(!!!<&!!!<&!!!<&!!!<&!!!9o!!!9o!!!9o!!!9o!!!>f!!!>f!!!:$!!!:$!!!:$!!!=E!!!=E!!!:$!!!:$!!!<@!!!<@!!!<@!!!<(!!!1B!!!)6!!!-L!!!<P!!!<P!!!<P!!!<P!!!;+!!!;+!!!<h!!!<h!!!>8!!!>8!!!>8!!!<h!!!<h!!!<h!!!;M!!!;O!!!;O!!!;Q!!!;Q!!!;Q!!!;Q!!!=E!!!=E!!!:&!!!:&!!!:6!!!:6!!!:4!!!=E!!!=E!!!=G!!!=G!!!=G!!!=-!!!9q!!!2?!!!)^!!!-c!!!>V!!!>V!!!<d!!!<d!!!<d!!!<d!!!2U!!!)i!!!.:!!!;O!!!;O!!!;O!!!:^!!!:h!!!:h!!!:h!!!:h!!!:B!!!;K!!!<@!!!<@!!!<Z!!!>B!!!>B!!!>B!!!<.!!!<.!!!<t!!!<t!!!<t!!!<t!!!=!!!!=!!!!=!!!!<(!!!<(!!!<(!!!>6!!!>6!!!=Y!!!=Y!!!=Y!!!=Y!!!<h!!!<h!!!;+!!!;+!!!9E!!!9E!!!;q!!!;q!!!:^!!!:4!!!:4!!!>"!!!>&!!!>&!!!>&!!!;K]$^R%!!0b9T)m.9^]4?8!!0e7ZN($1rreqpZN792Ns!]/Oo`?#a8qA'_@+]ka:H>m]ahOQ"98E&!!!%l!!0fQ!O_u9!ItIM!PD%n!!C#a!!!&5!!0baU&ouJ!!",B+=I46-idd^!!!&5!!0b`T)nQa^]4?8!!0e7ZN($1f)b%8ZN793LB4RZZN7iCLIR=*YQ;NFa8qA'!PJI6!W2ot!!!&5!W6.h]`EW`li7"d+93SdV]]b'&1T(2.OYM:"irA7#*:6_!!0be!M<$c!Pe[8!!1.t!!0e6ZN($1LBZ!)ZN8,]Y6EeaZN7974P+KP!KmK!!QY;'!Q"p5%JU@A!PJ`j`]O5$!!"DJ!!!&5[f@*L!PKmF!Lj&hL`Fbn'F9L2J5*cY!!0b6/HN`h!ItlNJ274VJ333#?ic8g#)<50".'%pY]'i>&"l/g!!0b5!PNLR'Pd[KJ1@Gs!!0b6!!17C!!!!2z!!!!&!!!!.!!!!"!!!&8!!!!#!!!&8!!!&8!!!&8!!!!H!!!!>!!!!"!!!&8!!!!`!!!!D!!!#Y!!!!j!!!!M!!!!"!!!&<!!!!#!!!&8!!!&8!!!!q!!!"1!!!!\!!!!"*=Muf]`bq-ZiC(,!!/\n/HN?]!O)P(!!0kl%fs!:!O)Xo"ePh%!Ped*"nr&(!OtU[!Jgc>#`&Ms&"is?!e:T5!!!&5\,jkX!R(NI!RMC#L]O=X!iQq@J-:[R!MKc&i!@\K!"^[`!!0b5]`GbGli7"d!,saq!!/\l[if>aGR2>Oa@,2pGVaRRNd(i]hfs)@rrKG1BJ[s>J2dS6!PJI63-5-#k9pS^>QL$c!PKU(!Rq)LYQ+YT!!/\mZN7Q9hZ;m@ZN79GO%,02YQ;69^]B5l!PJI6!NZ8$!!!&E'EPiX!PJIE]fZ8pM?!VW!!0n:!LWonQN.!kNsH9t(]Y3R!PJWN!SdYT!!!&5!PJMd!V??l!!!%l^bc)%^&S-6!N5u!cN1?PW!AXnY5ts1^^'$,rrKG,\-LnNL]NY>p]8/2^]D:QL^3,R!!0b9!PM/,3!oWc#*0$4\-qdB^]r^%-jIHfQsg-4kQ8g2$(-/J"4.C*O!lD9!!0b;]`HgeUAt8p!!0b6T)k)T\,ZL0!!0e7ZN($)!WNZ2!ODg*;==ST!O)U7!Pe_l!!0b5(cY\!3!PE\3N!]2U(@?[!PK<OG@LUQ'Sm9u!PJo?!+Q!/!!!!:z!!!!&!!!!,!!!7W!!!!:!!!!2!!!7Y!!!!F!!!!<!!!!"!!!!Z!!!!E!!!7W!!!N:!!!N:!!!N:z!!!N8!!!!#!!!N8!!!N8!!!N8!!!N8!!!N:!!!"-!!!!Y!!!!"!!!"?!!!!b!!!7W!!!!#!!!"S!!!!i!!!7Y!!!N8!!!N8!!!N8!!!N8!!!#u%3brnY9j;_!PJWL(VB_J"K*AX!PJN$%%I:tQk'02!!0b6'Gco5p_hZ`!!0b6T+T9I\,ZL0!l-Vo!ODb++/^Zn!ODjC24$hj!O)X8!l+kn!!0b5]bJZjj8]/\!!0b8CCI9E?j*AM!!!&5!O!.6&bdsZO"`7I0JG!Y!O!o\)NR,`!!!&5!M9IQ!k841YQ+YT!!0e8ZN('*!iHP0!ODj3!iH(n!ODj+%$(IF!KmMo!l+kn!Q#*:%Iab@!PJZX+qt"W]c^\_KE(uQ5X7:>J0G&U+9Kmr+><i,3%ui_!O!o\%A-/kO%;f$:]M[@3!$Q4!NuJG(8jCt"ge<C!PJIu%Fb@X!!!%l!ODj;$'tb?!ODj;'TXQ\!KmMo!l+knO9*3HO9)![!!0bB]b7[PU]:Aq!!0bJ/J>u%!jDY)!!!%l!ODj;YV#S[hZ:%b\/X=!L]O^]!!9q;!!!&5!M9Iq!k841VuQk4!%e0PZN@?2^B`WsZN@'9^B`WsZN@?AY9okBYQD=,^]K;m!PJI7"dAue!LNj2PQAEF!!/Gp!!!&5!#,[N]hej0]Dqp4!!0bI>62#0?iU_M!!!&5%fd;i!!0c@!PK]X"4R;N#gWJb!PJO/$cE#F-ia:O[r47p]dP96M?!VWQiW$Ei"=TY"HQ1^!KKDV,*t8S#R'<`!!0bu_%=fj!!iQ*!!!&5!#,O2\Ms_i!$EBb-ia:O!PLJ]#M]:Z?iVue!!!&5k=YiFNXuI!NsH9t#Q^tM]hR)aS,`Ni!!0bG!R<1q!MBr'!It3]!KI..cN/Q@GQEg0'-`c&hZ86-!J!-N"Q'61!Jg_"O8oqr]`c(NKE(uQbQ5?[!!/Gt!!!&5#)Es3'EO"#O9DH]QiJ<2!PKl^9/?PJ5S+'Zf15lT84Y]B!PJ_n#ODEjQiI/j-;a^C#KRGF!##Bp"MXu)QiWR6Y6sFn!MBDn!PM*\$\SK[!!iV"!!08'>6a7%&-*'%!!!&5!PJZd#+PYn!!!&5Zs*S-!LNis!!!&5!#,RC]`FK2qu?]tV]]aZ!PMkD",d-Z"K)5687rEoNWb^tcU^;%!!0b<T)mC@\,ZL0!l-Vo!ODb+7@s\F!ODjC\4*##QN=Do\51.9L]O^]!!9q;!!!&5",pGg]`FK#ZiC(,V]]a]]`FK'UAt8p!!/\o^&keE!iQ)"!!"SN!ODj355,5i!ODj355,<>!ODj+&$Ie(!KmMo!l+kn!Q"ti"m?<G!!0b5'EQ\`Qis;e!!0b6T)sWF\,ZL0!!0e81]RTU!!!)9!NuO1!iSrQ"h+N=!l.Xi$&8Pf!k8QG!f-l?%(HAS"kWjm!f.$,!!!&5!PSoZ!!9)!!!!%l!ODj;1rf`s!ODj+(U"=0!O)X8!l+kn!!0b5^'39l!S@AQ!!/\lD#ri#!Vd;JLKY4Lp]:.G!VeGO!VegE!S@F55d(4`:Tjf*!U*=W!Or07]`8+abQ%VD!!0bB!PMD3"2b*=!!!&5^bc>8T)\im\,ZL0`rWLJ^cg!FcN1?R\5//AL]O^]!!9q;!!!&5!$VQ/]c[?3oDejlVZ7D9\H/?+-ini!GQEg)#L<F$!It.`!PKQ3$JYU]&%DY:#bV3c^^[f!!MLVH$BPRu!!0bU&II4m"4po\f,u1q#T.,1%fd:l!!0be+pH*h]c^,OZiC(,PQAE%]`8lVX8i5$"TNBGMH_JW]dNj]S,`Ni!!0b79*Ugb5R9ThpeB@5!$XrB!PJb8"2"U6f,+K$(`547+?1X%'Fa^I-j6FJ!!!&5!M9S_!k841!!9qmpAqT#^amG0cN1?R\1>T%hZ:%b\/iU/L]O^]!!9q;!!!&5!K]9W*rc8&QiI/j-;a^C!K[>L!##Bp"MXu)QiWR6Y6sFn!MBDnTI*9dQiWQT!!0b6]a1tFiW&rZ!!0b7>6C&hQiI>b!!0b6]`sZ#U&Y/o*T'KlFUa-<+rC;N]I6SV:^$[s!!0b5!PNLR"Sr)u&-S%e89G3b!#-7M!#/6?!$YMU!PBgg!+5rH!!!&5!!0cJ=p(2n!VdePpbMsGp`@`^kQ-\Ek5k>YQN=ED!U+GU!Or07]`8+al2Ueb5JKhp5^5O"X$?fc^H`&*!!0bt'EbB9BEa_&-qFBL5QQlF9*=oZ5S+sn(][*L!!!&5!##Eu3!7c7,_oK(?iU52!#-*e;eRK?'3G57!j>u3LL=L?*T'Kl!PNF`"IoGl!!1PQ!PJO/"R5se#R'<`$a;T%+p@?G]au"\K)blP!!"SS!M9Ft!k841"fDC-!jF8S(=rSn!k9`#!f-l]]`8,Ll2Ueb!!0b<TI(!GQiWQT%'X^PIK?)P!g!r>!#,pY!N67$YR^^J!!.uY!B:+1'4:e?!j>u3LL=L?"HQ1X!PNF`"2"U6!!!&5!#,[mk]'E0=9PN&hu]9p+pOtR]I7.f?iuPm!!0b5]`ds-PQ1[a%fd:I8--87!KI..#L>q+!!!&59Nq[h]`Eoh_uKc<!!/\m1]k/e!!!)9!lk>J!l-2(0s:Va!k9`C!f-l]]`8,LK)blP"H6Oh!PM;0"KDG%"d]3'!$VH*]I3fJQjB,]!PJI6$Anf`(]XP7!!!&5ZWdL4]bg_T])Vg3"LD;5!PMk@#a,/f#Z(LF!!!&<5QQm9]`F`rlMpnc!!0b:]aEa!o)JakVZ7D9]`EolP5kR`5QQlGX!3T1f*DW_!!0c-BEbsIFT;Dd(]XSe!Jg_"!!0b]!PJmA"4@/L!il@7]`8(hWrN,#QN.^)\H/?,-ini!GQEg)"8;hH!!.Um!!0bMBEu-LFT;Dd(]XSeL^sJ"%fd:E!PJMq"60@]"K)56!!0c@!PJmA$,QZB!!!&5!!0bo]`jl*RK*<g%fes(pi->-W!B4-&(l=3$D7OsYR^^J!!.uY!B:+1'4:e?.DK6jhdBhOR/daR?n>so!L*Qa]`8$t\c;^2!!0n>!M9?'!U'L`V\Y=$]E.dIp]f1J!PJI6'Ij(_]jM?NOoPI_!!0b8!#-@P,$5#8]I7.f?ie^W!!0b5'ERe*(`oj\!!!&5J2dt<hZ86.fDm)u!#&H9"MXu!YR@Bh]cR1U\c;^2!87DXz###!s###!s###!s###!s#+>Ml#+>Ml!"f22!"Ao."&&[p#+bep#+,Aj#+bep#+bep!$qUF!$;1@!u_.>#+,Aj#+,Aj"uH;["uH;["uH;[!)!:l!%@mJ!uh4?#!)_a#!)_a#!)_a!*]F'!&=NS"&8gr#+>Ml#!)_a!,DQ7!($Yc"""!J##G:"##G:"##G:"#+,Aj#+,Aj"uH;[#+bep#+bep#+bep#+bep#+>Ml#+>Ml#+>Ml"u$#W"u$#W"u$#W!*B4$#+tqr#+tqr#,2(t#,2(t#!)_a#+>Ml"tflU"tflU"u$#W"u$#W#+>Ml#+>Ml"s<mG"s<mG"sO$I"sO$I"s*aE!6Y?B!,V]9""4-L!8RVT!-8,?"""!J#+PYn#+PYn#+PYn#+PYn!:^$h!.=hI""+'K!!3-#"s*aE"s*aE"s*aE#+,Aj#+,Aj#"ejq#"ejq##G:"##G:"!>,;3!0dH`"&/aq###!s###!s##G:"##G:"!Aa]U!20Am""+'K#"ejq#"ejq!D*7k!3?/#!u:k:!F#O(!3uS)"!.FB!G;B4!5&:3""+'K!IFeH!5nj;""4-L#"ejq#"ejq###!s###!s###!s##5-u##5-u#"ejq#"ejq#"ejq#"ejq!MKJn!7UuK!uCq;#+,Aj#+,Aj"tT`S"tT`S"u$#W"u$#W"u$#W"s*aE#!N"e#!`.g#!r:i#!r:i!Q+m;!9F1\!u:k:!R1TE!:0[c"&&[p!S[SS!;$6k""4-L#+PYn#"ejq##G:"##G:"###!s!VHEm!<)ru"&&[p"u$#W!W`9$!<rN("&Ams#!)_a!YGD4!=]#/"&/aq#!;kc#!;kc#!;kc#!;kc#+,Aj#+,Aj#+,Aj#+>Ml#+>Ml#+>Ml!\jZT!?;(>"!R^F#"S^o#"S^o#"S^o#"S^o#+>Ml#+>Ml"tBTQ"tBTQ"tT`S"tT`S!`&dr!A"3N!!*'"###!s!aPd+!Aa]U""+'K#"S^o!c%c9!BC,[""4-L!d+JC!C$Pa"&/aq"tT`S#+bep#+bep#+bep#+bep#"ejq#"ejq!fm<]!DEIn""4-L#+,Aj#+,Aj#"ejq#"ejq#"ejq#"ejq"tT`S"tT`S"tT`S"tT`S#+,Aj#+,Aj#+PYn#+PYn#+PYn#+PYn#!;kc"tT`S#"ejq#"ejq#,2(t#,D5!#,D5!#"S^o#"ejq#"ejq#"ejq###!s!n.,L!Gqf:"!mpI###!s###!s!oX+Z!H\;A""4-L#+,Aj#+,Aj##5-u#+,Aj!!3-#"tT`S!quZp!It.M""4-L##kR&##kR&#$(^(##kR&#!)_a#!)_a"sa0K!tbM5!KI-["&/aq#+,Aj#+,Aj#+,Aj#+,Aj"tT`S"tT`S##5-u##5-u##5-u##5-u!%@mJ]`bp8'EA+6#QOnAhuThX\.F`)!!0bS!rrZ.z!WW3#49,?]!<<*"&Ju2c]:UJQ!!0b9O9Ni.fG]PH]a"69PQ1[a!!0b6#E01\!!!%lcnkdEZN't+QNc7IZN8-CQNQ[WZN8EK[ftXiZN8-3mj=(rYQ;fIciKL7!PJI6"k3MP!!!&5!-/:f!l#98QiYPepHK2s#07>XTFT%OIKeX:!Vc\W(j,tC!PK<M!V??l!!!&5!PJWc!OMh,#QOnA%Ie?;!JibFhuh>T]`bhOZiC(,!!0n=!M9?'!QY6@\,ZQDcnk_'ZN't+`t#!JZN8DU"NM#R!ODg:-`7(8!O)UG!RLk7!!0b53!7)!;<K>UW$m!.!!0b7^''Ap!Or+1!!/\lZN8,ILBOLUZN7QMVZGZUYQ;fTciKL7!PJI6^1mWJ!Or+1!!/\lZN8,IpAsFXZN7QfQVI2TYQ;fMciKL7!PJI6"69F^+:eGd!K\]h!O;sVJ.'.@#)I.!"L%rX-pRgJJ7/]'\-L@k!T8D-#+uL:0Fn-t!!!&5(`55A(cV_\L+DF("2#0G!!0bM3!%M/+R]RIf+8KDM#\%h!)k!A!PK$E!Ls,icNlKi3!$;i"J>nM\-(r4^BM[]3!mq4Lg^Cpa8t3/"Lrmi"3:u!-l;uq&.hD5!!0bMT)u(oGQ7^E!!.U,)n-pi!Jin"L`c(h1BE:4(nUhb!KI2:Y5sH(,d1`1%%%mX!V?E*'EA/iLb\o0!!0b6FogY(TF/1?!!0b6]`GD=&c_n4!!!&5a:M,k!R1lN]FZ1c&-;Y/!!0b5]`Fi-dJs7J'[Kq`!Jgc4^B'-HNWFq`L]N#,ZRr?]V\[kb!O-fF!!/0P!!!&5!PJNH!Rh#K\,ZQD!M9>m!QY6@Y7CZ?ZN7Q:^B<?oOo`W+ciKL7_?.dZn-S"R]`c+S)?9a<NsHjfTE#W03!?tt#*1/\!!!&5!PJQ'!SRMR!M]\R]aMm]\c;^2!!0b6T)u:ua8c2@!!0e7ZN($9hZ9n]ZN8,s.c1a;!ODg:!T->t!O)UG!RLk7!!0b5U'&R=!!!9*NsH:V(]Y3R!PJWN^,uAq!Or+1!!/\lZN8,I".'N!!ODg:8=)*H!KmK)!RLk7!Q"l9O@TWG!!0b7]`Zsg6N@)e!!"eTz!!$=*!"W03!"W03!!!B,!!!E-!!!$"!"WH;!"W<7!!")@!!!]5!!f_.!"WT?!"W03!"W03!!!'#!!!'#!!!'#!"WZA!!#"Z!!"5D!!f_.!"W03!"W03!"W03!!#dp!!"PM!!fY,!!$4'!!"bS!!fS*!!$X3!!#(\!!f_.!"W03!"W03!"W03!"W03!"WlG!"WlG!"WrI!"WlG!"WlG!!%oW!!#^n!!f_.!!&Pi!!$(#!!!$"!"WlG!"WlG!"W03!!!'#!"WH;!"WT?!"WT?!"WT?!"WT?!!'n:!!$X3!!!$"!!(CH!!%$>!!fS*!"WH;!!!'#!!!'#!"W<7!!)Hf!!%EI!!f_.!!!'#!!*$!!!%fT!!fS*i;jkt"M2PQ!!!&5!Pni]FT<Na.f]Pl"c"3CL]j(h!PJaH!OMh,!!!%l!J!"OT-++6La(.b6JkrI!JgrAk5gApNWFqfL]N#,ZNU"'hZ]nY!PN^n!K[W'!PK#2!W2ot!!!%l!%e5m^&c"L!Or+1!RNY'!ODb+"nr2X!ODg:".'4i!ODgRa9.b>pAqT$^]To(*s&\K!QYK&!LNnN#hT1)"o&,8$ciFk!!!&5!!0bg!$Z4Z!$Vt6!N[,'![o/k*;B]1!M:4m!QY6@\,ZQD!%e0OZN7iA!Tsso!ODgB\,kb7VZF+)!Q[J/!LNnN"5!Y$$]kD+#+u1a!!!&5!!0bG!MXl?2uipq#/:Ed!!/9f!!0bU!PJg?!.+\G!!!!*z!!!JZ!!!!(!!!!@!!!5k!!!!+!!!!d!!!!K!!!5k!!!!#!!!JX!!!JX!!!JX!X/ZF"M2Ma!!!&5=>U*?!M9>l+A`%<+nn9XO'2g^?jG<k9W)8S=94FiZNZCt2[7;'+9@X%_?c6:W!q#R]aVsk/-#YN$ci@NEX2rd#H)eH&-)aU#RDpd!!0b\]`HU_9E5%n!!!%l!PST-!!//]!WN2,!MBIs"fDC-ZN6.hk5kS`ZN6-gNtm]VYQ:C!!N9r<!!0b5!PJU9T*bPuTE"rm!!"SO!PST%!!//]"K):,!K[?>`t&3WZN6EthZh+%Oo_3Z!N9r<!Q#6.!N6'U!PJT^_$g;D#S)@c8$>Pc!##V<#6_dQ8$<I8#.P4(!L"D)]a,0*@K6B/!!!9U&-)]R!!!&5!!0c3!!.rW!!!!,z!!!!&!!!!,!!!85!!!"4!!!OK!!!OO!!!OO!!!OO!!!!D!!!!K!!!85!!!OO!!!OQ!!!OQ\s`U7!!0b9Y]:-PJ.&:n!!0bB!Pnm=!!!9)!!!!$z!!!!Kz]#k!R!!0b9]`Ecd]Dqp4!%9`,!!0c\!PMG4/Hc%R!Pe[8!!!%l!ODgJ^fLR2LB4^^a8tH.QiW?NciMJoJ-!LgfEm'1!!0b8)$-N5"iqPU!PK/>N&1M7!!!!"+=I46!%7lf!!0b53&2ZX!PL00^(LDG!Or+1!!/\l/HNom!Pe[8!!1G'k5hmh\-KbLVZF+)a9TH`Y5ts1ci]=u%fs!;!Peeu"K):,!QYA0!LNnN$0VE:!gj#*$\/S7!!!&5!J!!6!M9>lD0Q$\!JhZ'hc_eeL]N;d!JiN4!Jh]8!It32#Nl,D"K):,Y]pE1O9V'Q!PJI6U1sZ.!!!i:^E<M"+<WWJ!$VR'"+UNY#`o)=!Mpn=Qm`L7%+oh0Tbn!DTF.UuYQNM\!&uY5!!!&5&h$6Q!#,D5zz!DWUp!DWUp!"/c,!"8i-z!+Z'0z!DWUp!EK1#!EK1#z!Diar!Diar!%S$L!%@mJz!!3-#!D3=l!D3=l!D3=l!D3=l!+,^+!&FTT!2fes!ZM+>]7U\)!!0b9/H`?[!N5tu!!!%l!ODg2VukQ]LB4^^YT*<<J,tf6QiX\ta8s-Y^^%Xc!!0b@T)m.9?iU0-E&?Hhf302M1N7:_E&4D2E*r^,!OET_1;?&_0EJCc!PJJX!mCWE!$.+n&-9!@#Y+k3]`85#oDejl!!0b71',l)]atGLZiC(,!Osre!PSO6!!/_m!!!%l!ODg2TISh0VZF+)TMNT2T)l8!\1j6QNrcQfYQa2CJ,tf6VuaC/J-!LoL]r;3!!0bB'*GTAY6Y5t#Q_44%-RlaO9tDo^BNO%#S"9E\7#EIa:7>6"L*=U$&B(An-[5Q^^^&>&-\F%fO5>PL^&qDpiq5p]`H1ZWW3#"fE%6<L^*Vk!!0nV!PJI=]hAD+\c;^2!!0b6!##J8!!9>0!Oi=?Nt;:)#S8<o!PAej]`8=2,QIfF!!!&5!PJN8]c7"PS,`Ni!!0b7!PLf"",$XS#Qj`n#Q]qk&HoQC"/l:qn-CNM/3iS0]`8$<P5kR`!Osre!PSO6!!/_m!!!%l!ODg2%#4t`!ODg"/GB:F!ODg"#PSGs!ODg:#PSA!!ODg"!lkP<!KmJf!Or/\!Q"oB!Jh#[!PJuY!Lj&h!&p6;V[.MQ!NQJ/2jXdM!'e4kV[.MQ!NQJ/5JII(!!!&5pIbO=]H@I]kQ7dc!PJI?!m:QDa8c7"!##>C#M0<Emg'1Y*KNiN#V6Me!PSO6!L`ug!!!%l\245jZN't+D[*BG!ODg:-gq29!ODg2#G45i!KmJf!Or/\!Q#$(#ET,A!PK"o!K-pX$igPk!!!&5!##C-%h[tI-j&o=!!",m!!iUi!!0b5!PLPp!"&]+!!!!Sz!!!!&!!!!)!!!+N!!!!4!!!!1!!!+H!!!5e!!!5e!!!5e!!!5o!!!5e!!!6&!!!6&!!!!R!!!!B!!!+C!!!!f!!!!M!!!+N!!!"d!!!6$!!!5o!!!5e!!!5s!!!"1!!!!X!!!+Mz!!!5o!!!5o!!!5o!!!6$!!!5q!!!5q!!!5s!!!5s!!!5s!!!5s!!!"S!!!!n!!!+H!!!5a!!!5a!!!5a!!!5c!!!5c!!!5c!!!5c!!!5o!!!5o!!!5o!!!5e!!!#*!!!")!!!+F!!!#4!!!"1!!!+H!!!5e!!!5e!!!5g!!!5g!!!5g!!!5e!!!5e&Kq5n"M1EM!!!&5!g#hb&s*m5#QOnA#QPM<#WO9J'IEbb&5LOO!!!9U!!!&5!!m]m#RCDA!!0,+_$%4Q!!iQ*!!Kc(1BE[F!PJa=!"o83!!!!+z!!!!s!!!6r!!!!*!!!!)!!!+q!!!7#!!!7#!!!7#!!!7#!!!6p!!!6p\sWO$!!0b9!QPTKYS,#r!!0nI!WW3+zFoVLB!<<*"\ssW=!!0b9#^$7M#V,lT#V7>/!Pna9+92ZI%[\?*"TT7Hz_uKc;_uKcA_uKcA!!!!'"98E%]#>Ke!!0b9!MKo%#_3GY!!0b5!PN"D!Rq)L&24).+92GP!!0nQ^bc#sT)\il\,ZL0VZF+)^]V=UpAqT$^]K91hZ:%a!Ot>r!Jgc\]`8)K)?9a<#-\-3)"8=9VuQk4!%e0OT)l.r\,ZL0!PgMm!ODb+"fETs!ODgBYQ^p8hZ:%aW!0($2Z^5c!Or6h!Jgc>&&84]%`e[f$-37j!!!&5&-8L.(cVKq>6_hJ]bg`SKE(uQ!,saq!!/\ls$15t,`d0oGS$KN[s0]R!KMC3ZWDBjY6Bsf!MO0-!!.U0!!!&5!!1%A!R1rO.i86d60B(%%+kTWGmqbB#P\DJa8qt?cjQc]!!0bC!PKZW!'1)[!!!!-z!!!Is!!!!#!!!Iq!!!J$!!!J$!!!J$!!!!2!!!!/!!!5I!!!!Q!!!!B!!!!<!!!!"!!!!Z!!!!I!!!5I!!!!t!!!!O!!!5M\tB$@!!0b9!MT\s'*&"L!j<^H[iceQ-ibGY!!0bE!$VOG!"0Vt!PnaY!<<B*J63#3!!<3Az!!3-#!!`K(!!rW*!-nPE!!`K(]`bp<1]RLVY6Y+A#REBk#V-/K/3iS/_#OH@!!iQ*Ql>0G]ahOQ$31&,!!!6(z!"(7W!"(7W!"(7W!"(7Wz!!%$>(]aa>]`bpeS,`Ni0E<9t!!0tK!M:JO1hZjh.0'?e/tYJV^KM*)1O+.(GS-QmG]3\D!ODsm#QG%D3!#1U"eYmH#2fO!!T440!!!&5^bc)aT)\il\,ZL0cN1?Q!Os3U#)<5cZN7i`"g:u.!O)U7!Pe_l!!0b5]`Fo/6N@)e!!!&7YS\l-Z38ba"ir(m$D;8R#Cm&h"J>e1@0XIP$/c<?^jZW@fE_0V-n%%U!PLh7T*bPu\,ZL0!!0e71]RQT!!!&8%u11l!Per,"5a-cZN7!XB*Z0P!KmJn!Pe_l!Q#B2(a&sk!!!&5YQ9qEciqJk!!0bD!PKBO]`\<8$ig8.!!!&5!!0oW!MTQ22uipi#/:E\!!0)*!!0bM%fersz1&q:S1&q:d#ljr;'`\46!<<*"/H>bN*WQ0?R/d3e56(Zh-NF,H!<<*"MuWhX!WW3#.KBGK.KBG\!WW34/-#YM!WW34.KBGK.KBG\)#sXK&Ju2b"M914!!!&5!PJVhEa/SE!l"^8&-MZ"$&B6+]ahdoU]:Aq!!/\p/HNom!Pe[8k77U"ZN7iB^BLM9Oo`W/ciKL7_?K]8huq+%]`a,m&c_n4!!!&5!Pnp"]`8<<g].<T!!0b8QiVj?\,k4_3"F:D#L<Z8[l??,(]h/L!PJI]!PAC4!!!&5!!/]R/HNom!Pe[8!!1G'VZF+(a9C`1%fs!;!Pem%%u11l!RM#5(WQQ_!QYK>!LNnN"-<Q1&'t?o"Mb93!!!&5cnkj#T)\ila8c2@Y5ts1cmFeXrrKG,a9CH+QiW?NTE3C?J-!Ls\-U^h!!0b7!PJmA".T>k!!!&5!L!W@]c\_Dqu?]t!!0b7&4nVW&9\m%!R:rNa;>GD!!0b<!MW3ea8c2GNsH9t(]Y3R(cVZ53!PE\/*@`d(g@P5!!!&5!Pe`AmfL99&.g?7!"T4a]c[FQ"98E&&-)]/(]Y+j!!!&56NOi?!PJIE1^X3_!!!&H\,ZQD!M9>m!QY6@7#qAT!RNa^"lB?e!OshU"lB?e!QZse#1!=V!QYDA!LNnl]`8)[H2mpG!!!&5!M9D(1jB!#!!!%MhbN>W=ojEt%.H1,LbfL-LeaiKJ,tZ2DZPXp1\UpVP'@,%!K]hQ!Q#/a$,?n@!PJYu!i#_q+:eGdcNkpY-n%%[!#,[Y!PL/t!KmE_&-)aI!!0b5T*"!Pa8c2@!!0e71]RQd!!!&H#-S'6!RO;s"K):,!OtU[#PS8*!QYNG!LNnN"Gd**!ltDZ$hsbd!!!&5!WE/,#*0$4^F0'q-n%%X-o_El]i!r@dJs7J!&=NU!!3-#&F'5q&E3Zi&EWrm&EWrm&EWrm!"T&0!"Ao.#]ThE&F'5q&DdBe!!3-#&DdBe!*fL(&EWrm&EWrm&EWrm&EWrm&DdBe!&4HR!$M=B#]ftG!(?kf!%7gI#]B\C&F'5q&DdBe&DdBe&DdBe&E3Zi&EWrm&EWrm&F'5q&F'5q!!3-#!+u93!&srY#]B\C&Fof$&Fof$&G,r&&G,r&&Fof$&Fof$&Fof$&F'5q&F'5q!/1CQ!(m4k!!*'"&EWrm!1<fe!*'"!!!*'"!3H5$!*T@&#]ftG&F9As&DdBe!4r42!+c-1#^$+I&DdBe&DdBe&DdBe&DdBe!ZM+>TGR^g!PJWJ#daR3"K)56!!0bu+pN]#]HCkfBF'7l!!0b5^'EEn!Up'i!!/\lZN>XW^D2e1ZN9P##JUcM!ODiX#PTgR!KmM7!f-m(!Q"p-!T4=+!PJPb!PAC4QO#9)!!0bD]`Xc)bQ%VD0GkE)5QDufquOGQ!!2!\!!!&5!PJ^(#)iN^n,NL&Y6DQALM-qoBP9@-!O"rT",Ch$U]:B;-ip%D!$VCCXBQ5i]eBEfj8]/\!!0e:T)\o]J,fQMcN1?Rn,gW4LB4^^J5Pb@ciL?P!!7rW!!!&5!!/]j1]af\!!!&0cNqQ6=olE&!PfDi^bZ#,^ab*?\,hTjhZ:LnLB4^dYX%pgJ,ukTBEmAq!!!&5!PSU4!!2Qh!!!%l!ODiX!Uq`QNt28tZN9P`pB0:ROog/.L]Pj'_@>-!n,oTi]a=H<)?9a<8._^i!M9d^!e:7Nn,NL'!ODb,421mD!ODgr7Fq_#!KmM7!f-m(!Q"r+%#>5Z!PJQ5!K$jW!!!&5E,[cl!P'iGBE0/W]`8%?e,TIL!!0b7!N0]5FVlet.f]Q7LHl./:]M[C=9'!g!PKQ3"1/%.?jHe:?oS7D]fD-]\c;^2!!0b61]dFQ!!!(Vp](:G!!/\mZN>XWrr^RJZN9h&^BC_@ZN>q8Y7S/DOog.TL]Pj'_@O]hW!'%"!PM#.!Rq)L!!!%lLbo0`ZN't,LBX:NZN>pgmjG"6Oog/&L]Pj'_?f'$i!"o;]aKW'X8i5$?t_:r$d`l1IV8et$fDQ2!P&]m]`9`OWW3#"!!0b6?idS6LBNE(84Y]B81RI8%nkeN=946Y!([(t5Y(l!!([.1!!0b5!PNLR!J1:O!!!&5!$VL8!PLI+!NZ8$!!!&5o326[]g)Q!)ZTj=hcNu??iVAR!P2J`!PMk@^0:R;!Up'i!f/Z5!M9>l!e:7N#-S'6!f0"c"4%"S!Ur7u*j5UN!e:NB!RLk1$]kFG&)[K*]dOB#irB&[!!0b6]`QX_Z2ak*!!0b6!$VaM]f6/9MZ<_X!lJ4F]k@i,$ig8.!!!&5!#,P+]k@PHirB&[!(m4mz%$gkn%$gkn%%I:t%%I:t%%I:t!"T&0!"Ju/!!*'"%$1Gh%$1Gh%%7.r%$U_l%$gkn%$gkn%$gkn%&s:-%%I:t%%7.r%%7.r%%7.r%%7.r!!3-#%$1Gh%$1Gh%$1Gh!'pSb!%n6O!!*'"!+,^+!&afW##5-u!&OZU!-%u=!'UA_#"ejq!!3-#%%7.r%%7.r%%7.r%%7.r%$U_l%$gkn!0$sY!)3Fn##,'t!!3-#!1s5k!*9.##"npr!3lM(!+#X*##,'t%%I:t%%[G!%%[G!%%7.r%%7.r%$gkn%&s:-%&s:-%&s:-%'0F/%&s:-%(H9;%(H9;%$1Gh%%7.r%%I:t%%I:t%%I:t%$gkn%$gkn%$gkn%%7.r%%7.r%%7.r%%7.r!:^$h!.Y%L##tX'%%7.r%%I:t%$gkn%$gkn%$gkn%%I:t%%I:t!!3-#%%I:t!?qLD"M1cG!!!&5!!0c$^&bS@!K[9^!!/\lZN6^![fQL0ZN6-kNs<o2Oo_3j!N9r<!Q"rk#P\CO!PJbh]ef]h$31&,!!!:I-O9u.!!!9U!!iQDfGLPD1_$ArT)\jn:]LIrcTm7.VcmIQ?j"ab0:uW.=94FiZNHP%VZleq!O,B(]`;^g;?-[t!!!&5!!rW<z!!N?&!!rW*"*FSDz#3l0g#3l0g#3l0gz!7UuK!$M=B!#P\9"*FSD!Ytb9o)[rq!PJWI"O$iG!!!&5!PJTj!OMh,^E>d$5WCM'!!0be]`Y>9j8]/\!!0b9!PLSqN"Q*j!!!!"+=I4c!%7lf#H2VB!K\kAa:HpP]arI#PQ1[aT)]Q,]`F3Qe,TIL(]g?6^h<]J!"ZRBQm`!@-OQdW#)EQ##0;5n"jdYH&24).!!!&<!!0b]T)jlNci=%HhZ:%acihAohZ:%acigNWf)`2Yci`/oTE12Vp]9"Ja8s-\kQ:M_!!0b9^&k)1!Pe[9!!"SN!M9D6!RLfH!NuO1!QYGR[grMGZN7iF#592?!O)UO!S@FG!!0b5!O+<Z7fYM&!!/$,!!!&5!##FX+sc>"FW`@<#QP:3"3:HM+=K2L!&#,.cWWsAO9(G=!K])I!K\VbOE^edZNH6hpBTj^YQ97T!LQ[a!!0b5!KLXi#/;Q/(a&j>!KIr9,HhY$#+u"1-oOBl!PKBO1^X3_!!!&P!!!%l!ODgR!q-3B!ODgZ"fDCq!KmK1!S@FG!Q#2"!Pe`o!PJ^4/P6!CT6L>9J,fQM`rW+>f)^sYS,p8Q!!//^!!!&5!jHZ*$eQ&I!!!&5!PSVe!!0k8!!1_/!!/\lZN8DQ569pJ!ODgB1\V'F!ODgZ5IUgR!O)UO!S@FG!!0b5]`Euj9)nqma8c2l!!/\mZN8DQ1;=>#!ODgJ#Nn#&!KmK1!S@FG!Q##%+:E]B!!!&5gKO`S"g@t.!!!&5!%.bUz%2o3H%2JpD%3,?J%3,?J%3,?Jz%2JpD%2JpD%2o3H%3bcP%3bcP!#kn<!"f22#)`H]!!3-#%13(8!%@mJ!#Yb:#)3*X!&X`V!$D7A#)`H]!(-_d!%7gIz%2o3H%2o3H%1E4:%2JpD%2JpD%2JpD%2JpD%2o3H%2o3H!+c-1!&jlX#)`H]%1E4:%1W@<%1iL>%1iL>!-nPE!(6ee#)rT_!/ggW!(d.j#)`H]!0R<^z!1<fe!)rpu!!*'"!36)"!*]F'#)3*X%2JpD!#tt=]`bpmg].<T!!0b7]`Rg+"98E&!!!%l!PST=!!/_m"K):,!MB^R"K):,ZN6^XhZ]&AOo_ch\,h*\_@5o7^^9c:!PK$L!TX4\:]LO1!,+1h!!/\l[if&YE##iRE%K%5hf(Aj!KM+d#QJaV^F4j[Y?Glh1N7:dE%e,.E)6Rq!OE%2?jFG2fJ!?1]a_1MX8i5$i".jK3!4p=k6K?N+9AbND?fSi#fm(W!P\c1hZsOu%Y.tF"5jCAL^_@R&H[Ic^*!Ce!MBDn!!/\lZN791#2]pl!ODg"!O+dQ!It3T]`8)C6i[2f!!iV"&-7^i",@D;n,\GO!PK$T]a=`>/-#YN!!!&5$M\WT%Y,7\!!!&5!!0cS!PoBKT)]E&YQ+Y(!!0e7ZN($!Y]gTYcN1?Q!MFW@!q-/rOo_e"\,h*\!Q%q>$Et"j!!0c@&HGu7z^]4?7#64`4$NL/,!<<*")#sX:)#sX:z2#mUV+TMKBA,lT070!;l-NF,Hz!WW3#^]4?7^]4?C^]4?C!!!!-zA,lT0zz_>jQ9AH2]=2uipYz(]XO9*?c:'"M9=$!!!&5!%e?/T)kkjYQ+Y(%fs!;!N61J!S7@Y!O)^I!It36#hT0f%,_0'&)[K8!!!&5!PJTB"4R;N"K):,\0(tT#Ts*J(]XT]U]J+6]`8<>oDejl"nZ"#!PNFP"QTO_!!!%l!PST=!!/_m!!0SdVZF+(TG3.arrKG,\0p_MY5ts1!O+ck!It36"7Q?$&+BV:%'U)[!!!&5#^$0l#V-/\.0G>2BE/#L70!<16&u/H!!0SP#^$Cq!T4Lhqu@4g!$GqWVZF+(+9n/8+92GP!!0b=!#/oC]l5!YEW?(?!!!%l\245jZN't+Y9VX"ZN7Q=^B+'0Oo_d)\,h*\!Q''^Lfac;!!0b7!PM)*!J1:O!!!&5!JU]P(XO&p!Kd`IFT;[I.f]PTLBPBu!#SW:!!0b5=okZ(E,\I2&_CtXBE=-4ZNgGKf*&8X!O,r4!-f$i!!!&5!!0cS]`O,m63$ud(]XT]#RDpd!!k,'!!0b5]`GbGirB&[!Osre!M9>l!O)P(TE##,!ODb,-AO/P!ODg::lb^F!ODg"!V]CY!KmJf!Or/\!Q#B:!g!\D!PJfd]aOl@o)Jak!!/\mBJa)s!N#hscYuS0EWNg.]`8,LC]FG9VuQfL!!/\mZN7911;=n3!ODg*:%o7'!KmJf!Or/\!Q#2r!S@V7!PJW'!h0/i!!r@C!!0bM]`QX_$31&,8]LfF!!0cP!PNj\]d!LWWW3#"#RDp^(b#QB+D:`T!PJI5!g<Ta!!!%l\245j/H>bO!N5tuLCXElZN7!+LBX:NZN7Q;k9&jfOo_cj\,h*\_?Tc9O:&Ju]a(bFK)blP!!0b8!!2*[!!!!Jz!!!!&!!!!)!!!7(!!!M%!!!M)!!!M)!!!M-!!!M-!!!M-!!!!@!!!!:!!!7#!!!!V!!!!@!!!7$!!!M)!!!M)!!!!f!!!!H!!!7#!!!!r!!!!O!!!7%!!!M%!!!M%!!!!o!!!M-!!!"3!!!!]!!!7#!!!M-!!!M%!!!M/!!!M/!!!M/!!!M/!!!M)!!!"U!!!!m!!!7#z!!!"i!!!"%!!!7#!!!M1!!!M1!!!M/!!!M%!!!M%!!!M-!!!M%!!!M)!!!M)!!!M)!!!M)!!!#B!!!"9!!!7#dMN!%!PJWI!UKdd!!!&5&-8mY(cVKq#/:T1!e^TB!PK<M!OMh,1sZ.9!!0cP!PJmA>8.&;]l3s^;ucn!!!!%l\245jZN't+NsFhKZN7Q>pB@GqOo_cf\,h*\_?/'bkQ6P@]a!s1&c_n4(]XTS!!0bM_#_IS!#P\:*WH*`+1GEmE&2HPNc6bOhf*60`rWLKY[D)J!-g0u!!!&5!!0c$a9,'8^^lMH!!0bG1]aBPT)\k)?iU0-Vb6t_!OZkk]`<"D$31&,!!!&5!!1>2(^ClX!Mq.\pa?O6!N:8MTb%EYn-b<Y]aU81OoPI_!!0b6T)kA\YQ+Y(!Osre!ODb+#F>M4!ODg:!lkH<!KmJf!Or/\!Q#&f%"JM3!PJ])!M]Vp!!!%l\245j^&S-6!MBDnVZF+(\,rR(VZF+)TE25!mfB`q\,kapk5hmiYQX\*J,ukT!!0S1!!!&5'`\8mzz!WW3#j8]/[j8]/hj8]/h!!!!.z!WW3#zz)#sX:&c_n3!<<*"li7"c!!!!.jo>A]/H>b[)uos=zj8]/[>Q=a556(Z`,ldoFz9`P.n.f]PLp&G'm=TAF+3rf6\z(]XO9!ZDgW"M35,!!!&5!PJQq1^!dY!!!%]!!!%l`ukD=QoVnk:&eAt!LO)<QN<I0NWGM(QiW9LZNHNpV[&gpYQ9O`!e=AR!!0b5'E\14Y<WTu[n$K""2>$B!P(`l*WRT:cNEAR!!0b<T)uY*fDkmP!T5d8!PSO6!!1.@!TsKi!QYD9)=IU4!T4*Q!q-/r!S@IO!N6$^$Le)S"eYn5$/c)F!!!&5!!/]q^&cjd!QY6A[fNf8!QZ>d!lk>J!QYH="K):,!SBC3!N6$^%A3a["2FrS#.P#U!!!&5!!0b?1]`I6!!!&Xa8c7T!%e0OT)m:=fDkmPhZ:%acmS8arrKG,i$[suVZF+)a:sC4rrKG,fE70oVua+'!!2!Y!!!&5!PJN0F^"hG.gQ+\7,J7U!!!&<!!m`R!!m]I:^AQ_\5!-]aoDDG!RMqiaF4Hja:>]\!!0b>!OtMt_$D.`!!iQ*(]Yt,%gi#N"lOh`!mh"12uiu_!PJ`Y!UB^c)it*-&ss-,!!!&5!PJN^!M]Vp!!!?+z!!!0&!!"5D!!c-s!!#Rj!!"VOz!"P4n!"P4n!"P4n!"P4n!!$X3!!#4`!!c-s!!)Kg!"P:p'F,WY*"`W&]>4dj!!0b9!O$#6#KJe0+<U]q%fd:D0E;b7!PJTe"f)+u"dB%O!PKU("QTO_^CUAY%fd:R+93&l+?0JT]f"CaPQ1[a!!0b;^'*d&!Pe[9!!/\lZN8DQ-1;?F!ODgR0V8U-!ODgB422fV!KmK1!S@FG!Q##e!Pf$:!PJW?#35aa#iG`XZ2bEf%d4H)\8DDYp^5paL]P7"#*0#rQiZtjILjd6%$1PS!##ma]`c(eS,`Ni!!/\s/HO2u!QY6@!!1_/!!0e6ZN($A^BLM9ZN8,P^BLM9ZN7iH^B`p&ZN8\`'^m+E!ODgJ"7J=d!KmK1!S@FG!Q#5;a8qY^!!0bC]`lmc49,?^LCaG!$+MGe"c!0;(]Y\$h^AI<-n%%r!#,Rn]eE3:PQ1[a!!/\p/HO2u!QY6@^]4DLfJER/ZN't+f)a1uZN7iSf*8DZZN8\kVZG*EZN8,Wk6L/NOo`o7fE%WG_?.dZ!JkCi!!0bm1]`d?!!!&P^]4DL!M9>m!RLfH[grMGZN7in[frZ1ZN8E)rskq-ZN8]Arrf5#ZN8E9cNfd;YQ<)[fE%WG!PJI6!O;\*-l;uq&-8-u&9\m%!PKTU1dV0B!!!%U!!!%l[ib^%O9j/W+KnrL1BES&4GNs!!KI2B!K[><!OG/6#aYVm!O)TTa8qZ)!!0bB!R5B[]FY&C!"^+N!!!&5&4m%a!PK<]"Jc"t#QOnA!!0b5T)nK_ci=%H!!"SO!PSTU!!0k8"K):,ZN8-#^b63!hZ:%aci]UtTE27t!!1^Q!!!&5-o_>,3![b8#KJ5@0Fn-tcNlKi3&il&!PJTE!Rq)L!!!&5!PJR#"2k0>!l"^L!!0Sh!PK$u!NQ2#+;(P#!O!EW#KJ58(FU[k0F,Wk!!0be!PJg?!fR*Z^Gl3,%B)5h7NVRhmgAhL%%nCW"1S`+5SsO;aC,4dL^;')$1NBM#j;APk<M9l5X7:9!P(V=BE0/'bl@_t3$82%3%tAn!PJU0!P8=3!!!&5!PJTQ3-#!!f.[7#+9AZ'Z3.QqJ/C6H"/'N8$0VVe$a9ZH\7$15YR5mf$cmc(9*<7#5VN;L8-f7"!K.&h%3R>)FoVLR]c[:ddJs7J(`546(cV_\L,l.K"G76d!!0bM9*3iJ&/YPZfFS(hD@`BF!g!_E!P\Z>^CUjq!LR:!$-3J+O9)#'9+IU*(`3Fk!!!&5&/>>SbmpBH&1@MZ^DHqa%fd:R!!0bU]`\-3df9@K#Tu)/!##Qt3!?uE#*1/\k9q`<!!0c1&9T`."-<Yi&--KM!!!&51&qEoz"TSN&"onW'M?!VV$31&3$31&<'*&"E%0-A.M?!VV!!!!)*rl9@('"=7M#[MU!WW3+0`V1R*WQ0?K`D)Q56(Zh.KBGKM?!VV<r`4+4TGH^MuWhXI/j6Q7fWMh!<<*"OT5@];ucmuM#[MU$ig85$ig8>$ig8>%KHJ@%KHJ@$31&<'EA+F\GuUA@fQK/zaT);@B`J,5M#[MU!WW3+$31&+(]XOJ(]XOJ(]XOJO8o7m'EA+5'EA+F'EA+F'EA+F%KHJ@lMpnsJcGcNMuWhX&c_n;&c_nD$NL/=OT5@^M?!VV$31&3$31&<$31&<$31&</H>b_ScA`kLB%;S&c_n;&c_nD&c_nD&c_nD!!!!28H8_jVuQeuK`D)Q%KHJ7%KHJ@)uosN]%n2(!!0b9\,ir:5Tg%-!!!%Y5X6hb!##Le9@!jq[nom\!!0bH^&t/2!RLfI!!/\lZN8tak6:S\ZN8DRrrf5#OoaJBkQ.mg_@;"rW!q#R]`l1Z$31&,!!/HD!!/\l+9@Q(9<U:PLKX_Oa8qqX!MD4Y!MBnj!LNnJ"5a-P+6N[2!K](O!N9Bi!!0b5!PM_<!i,erfDkn'!!/\mZN8tahZ]nYZN8\_#NlTu!ODgZ#Nl3H!ODgb!iI.'!KmKA!U'Qg!Q#2j&&8C:!PJPb!TX4\+2@o2!oO7'!!!&5!!"TT!M9DF!T3qXcOU&_ZN8]7f/Wd2YQ<ZEkQ.mg!PJI6!Q4s<#Qq"bBG:Zc#k/(s0H^CZ!Q#>6#ET+^!"TOk.l[XA"P5mEcNKVTY^TCs#RQ"h=CD1?!!!&5!M9C_!T3qX!!2:?VZF+(kQdFY`rWLIi!8-@T)l8!i#h+eYQ:s/!!29a!!!&5!!0b9!PNLR!QtHC!!!&5#Q^Yu&3'Xi>6_hJ&-)aC!!!&5&"!kQ!Ou5D,![7N`Y^r@!!#7b&-)aI!!0b5+94G&z?iU0,#64`8#64`(7K<Dg&HDe:%KHJ/0E;(Q*rl9H(B=F8!<<*"z1B7CT+TMKB!<<*"n,NFg!WW3#8H8_j.0'>J7fWMh7K<Do8cSi&9E5&(9E5&(=9&=4?iU0<?iU0<?iU0<@K6B>@K6B>B`J,E3rf6\!<<*"NW9%Z!WW33!WW3#4obQ_4obQo4obQoNW9%jMuWhhS,`O#S,`O#5QCcq*WQ0O+W+bm]`bq#MuWhY!!0e8/H>gu!S@AP!!!%lkVN=uZN't+f*/>YZN8DRf)bmPZN8\Z!S7h_!ODgb7ZSM_!ODgj/[#34!KmKA!U'Qg!Q"oZ#e1A#!PJc+]`\<8_uKc<!!0b7!PMG4!Mf\q!!iV"#S8rq.pE4m!PK$E(+T@b&uZQ?!NdC3f*]ki'=UU;!"Vm;]iY<oZiC(,!!0e8T)\o=huE`X!U)?@!ODb+#F>P=!ODgR#F>\Y!ODgj#1!P;!KmKA!U'Qg!Q#&&#I"6m!PJa5]hAD+'EA+6O8o<t!PJI91^X3_!!!&`!!!%l!ODgbk[t+'T)l8!hu]eZYQ:s/!!29a!!!&5!N,sM#/:ETV[D'r^j[+*O9G%_+9A\W!"T&`.l[R?"P5mE.*hl-kl;5j!Ou56bs3BO5R7>j!!!&5!PST7!!.TM!!!%l!P8Ao!MCL#moi-*TE1]1!MD4L!MD3/!It32#0-b;!iH(*!K[DM%tF\b%^6:r!!!&5!Or0jV*H.'a?VE[$fH::Tbml^O9>7Y!QGBN!!!!a!!!!Cz!!!!&!!!!/!!!70!!!ME!!!M=!!!!#!!!M=!!!M=!!!M=!!!#%!!!N6!!!N6!!!N8!!!N8!!!!V!!!!C!!!73!!!!#!!!M?!!!M?!!!!n!!!!L!!!!"!!!ME!!!MI!!!MI!!!MK!!!MW!!!M_!!!M_!!!Ma!!!M_!!!N6!!!N6!!!";!!!!`!!!70!!!N6!!!NF!!!NF!!!NF"V:bW"M41=!!!&5!PSU$!!//]!!!%lV_S:GhZ9r3*R>0j!O)U/k5heCNWH?mYQ9gdZVSUB[nlGnOo_4?!P!(L!Q#,(&+Bpf!PJ]q"I&ld!!!%l!PSU(!!2!X!q-/r!T4-j#N#Qg!Up64!Pe`!$hsbt%@@15$/c/h!!!&5&-8s;"1JTp(Kad![h)q,=BL%T3!$Qt!KI..#L>@`+92GP!!0nQ8:LUFY>>M?[nmV::f'+R!PKMW"7-!f!!!&5!M9Ii!Up'h!!2jOcN1?Pp]9O]pAqT$p]7Q;VZF+)n,r+^^]BT!kQ1GZa8s-dp^cQq!!0b:!PJg?^'"E9!T3qY!!/\lZN9OqLB7,MZN8tin5hgT^]CY?!!2iq!!!&5p]8PH^_k-13&il13&huZ'-6O$"M[2%"NWhfkVrq47)qOo+=I9$0EKQ$\/,,FQiZ+PJ-!Fm%_jt3p]p:sILVqP&"jEZ!Nuil#KK(@Y<Y?4&-8sT3![Jp3#>+V#KIBP!!!&5!%e6"^&dEt!T3qY!!/\l1]d(G!!!&pcOU&_ZN8tfcNTpAZN9h)LBGj'ZN98(Y:]bTZN9h5DZe;d!ODgb0UG#5!KmKQ!Vc]2!Q#&N#l"n>!PJj(U-&DU!!!9*cNk(A!!1=L&4m]=(j-Z,!PJa=]hAD+1]RLVLDUjY-ian_-o`:*'Em;A0F@aZ#.OXH!S.Cg\d.^)!!0b7]`Is0=o\O'!!!&5&c_suz"TSN&$NL/,!<<*")#sX:*WQ0?/H>bN!!!!)5l^lb-NF,H!<<*";#gRr/cYkO/H>bN^&S-=@/p9-9`P.n/H>bN!WW3+=9&=$=9&=4=9&=4=o\O6=o\O6!WW33WrN,"=o\O&/H>bN!WW3+=o\O&+92BQ\tg/D!!0b9!QZel"RmFn!MUXV2uipi#/:E\(]YO[!!!&5!!0bA!PoBKblAR\(]XO:T,8Cq-ibGc0E<:&!!0S@!PoTq!!!9)!!!!*z!!!#!!!!!#!!!Ia!!!Ia!!!Iaz!!!Ic!!!!4!!!!.!!!5E]$UK_!!0b91]lG4!!!&@YQ+^<!M9>m!Pe[8"J5_$!O)Ze"j[4U!QYA("7H8s!QYE<:T"6"!QYD9!WN2,!Pes'!K[>F#FGP5"4.(c$c!,-!!!&5!!"SR!!/^*cV/9XJ1K4ZJ.+(3!PJI6!Rq)L!!!&5!Q[)#!M9>l!Pe[8!lk>JZN8-+hZj)]Oo`?'a8qA'_?l#!p^Z3_]`u7\/-#YNT)\nl]`EWoPQ1[apAbm.]`EXO@fQK0^_>oX4quoo!It/l!!!&5-ibGb-iq=1!MTPo.f]Pd"P4b-(bbq6+92C?Y:'Aa-n%%V!PM"D]jq*CMZ<_X!!0b6!PJg?!K-pX!!!&5:ZjVu!It9FpAoe#NWFYf!J"ha!OE!6-gq,g5QR$e$CCjM#4MZ1$+L;o!!!&5!PJMt'3bG:!j=9Xa"T2,!SCXI0R,8O1,&j/]eCiWgAh3S!#,D6z!!N?&!$)%>!!*'"!+5d,!!3-#!!3-#!K7!Y!K7!Y!!3-#!JURS!JURS!JURS!Jg^U!Jg^U!Jg^U!!3-#!!3-#!!3-#z!*oR)!&X`V!!*'"!,V]9!'1)[!5nj;!ZD%=knjHG!PJWI]bCGHKE(uQ!!0b:!MWg!2uiq$#/:El!!Jfr!!0b]!Q/.BT-,N^ci=%HVZF+)cqoc,LB4^^cj'LsTE27t!!1^Q!!!&5!PJW+!Mf\q(rlUj!!0bE?NHAk'o)gK!!0bE_#pJ5!%7gJ^Bc5I-kJ-<1g::M!PK$EFUA*K]Dqp[!%;=X!!!&5f.:8K!PK%!]dj'_li7"d!!0b7&-YB#]gF@.9E5%n%JLD;!PJQ9!J1:O#QOnM-n$So3&h&m-3h3j+uhOn+rEQF$(+6`!!!&5!!0bo]`E`cA,lT1!!1_/!!0e6T)\o-ci=%Hk5hmicj,m<hZ:%acn`?@hZ:%a^^'T=pAqT$fE'SCY5ts1!ROmK#2]Hf!RMa_!MBIV%B'<[$ci@c#_2u\!!!&5!!/^-1]`+,!!!%UO?gj'>"eSj!K\_5!K])C!K\Oe!Jgc:"g7rgO<=3O=uO+r#l$leO>?p!O@m7gJ,tZ2Y5s^c[fNf=J-Y6@:]Z^["3:M1"6]d&"jdb3!!!&5!MKO_&V(^K.!5Zs!PAC4!%7o3!!!&5!!0bGT)nfhci=%Hk5hmici_SprrKG,cnOnmTE12VQiYh?kQ/O'p^a;(!!0b?'ERb)fFR-F!!0bA!PrLN!!"DI!!!!Jz!!!J4!!!JF!!!!#!!!J,!!!J,!!!J,!!!JP!!!!4!!!!.!!!5[!!!J<!!!JH!!!JH!!!JD!!!JD!!!J.!!!J4!!!J4!!!J4!!!J4!!!J>!!!J>!!!J>!!!J<!!!J<!!!J<!!!J@!!!J<!!!J<!!!JD!!!JD!!!!h!!!!J!!!5c!!!J<!!!"#!!!!f!!!5U!!!!E!!!JF!!!JF!!!JF!!!J4!!!"c!!!!q!!!5Y!!!J@!!!J@&Ied]]`bpQ$ig8.&-)aI!!0b53!#NL"IBB:Y94r.h]O-i!KJ9.!M:JOk8414B`JYU!!0bUk=['#3"Q&m';#gIk7A1T!!0bG(b?@$!Pna92uj3a"IBB:&-)]/#UbC#!!0bM;Hk%>!PK$EU,2iM!!!9*k7@nLNrTk,!)k!k!PK$E=uu]a'&XXX!PJ`"!"&]+!!!!=z!!!3)z!!!31!!!31!!!31!!!31!!!35!!!37!!!37!!!3/!!!3/!!!3/!!!3/!!!35!!!35!!!3/!!!3/!!!31!!!31!!!3'!!!3'!!!!#!!!3'!!!3'!!!3'!!!3'!!!!;]#4RR!!0b9Z2qT<#gaCh3,T51#`o2A#iG`u@6a2l$\/K/+FXgQ#1*L?(]XP5!!!&5!PJN8!TX4\TE]pC]borQ"98E&!!!%l!!0f9!Ug"ZT4h,p&DpYTBJX=8NbCV[05*lW"4%"Sl<",V!,s=e!!!&5#Q^Yd!##>43!-8p[g92L!!0b6!PJmA3%P%0QO!uO%/;.P!PAsT]`8TP$31&,#QOnA!!/\l1]aNT!!!&()tsB>!O)Zm#,_L.!O)a:"nr&(!N6`oY]p2Q!PJI6]i"h1"98E&TE"sD!!/\mZN7!)LBHE7ZN6^)2Zqq<!ODg""2=oX!KmJ^YQ:tQfE&hlkQ-JI!!0b<!!/eo!!!!2z!!!!&!!!!)!!!0Fz!!!#m!!!!8!!!!5z!!!!#!!!?e!!!?e!!!?ez!!!?e!!!?e!!!?i!!!?i!!!?i!!!!`!!!!Fz!!!!n!!!!N!!!!"&.A^Yq%sDP!PJWI"P`tW!!!&5!M9Db!Or+0#1!=V!Or@.)Q*VBOo`'o^]B5l_@N"7L^;?.]a2scPQ1[a!!0b9=onO$aETe%^N_OB!KMC22W&au7FqRHY\40C!J!-1!!0b5'EbE:GXL'_!!!&5#Tu)oa;5&AfE.u[huUUq"MZ>eO9jKIIKK!Ba<1u>-n%%V-o_ElP>UKk+=IX!!!!&5!!0nC!M9>t1hZjheGoSg^D#K*!PEY-!-eX2!!!&5!M9CW!Or+0"K):,!OrC/4P'V?!Or<2!Jgc>%]BED#KQq_#5AMG!!!&5!PJN@!rN#u!!!&5!!/])^&b_D!N5u!!PgMl!ODb+W'eT9T)l8!^dH-GNrcQf\,l=4L]NY>^]D4Op]85<cj]+J!!0b=]`GbG@fQK0!!!&5!!0oG(cVL,3!PE\/*@`d(^^ga!!!&5Qk25D.j49`"P41r!LWou!!0bUEWVI*!l"^8cNk(A!"a;YcV"D^Fq>Jqbn'jd&0LrR&6f1J!!0b5!MV+F2uipa#*0$$^DHqa!!0b95lm_\M?`8E!!0b6'EPfG\3']j!!0bC]`G27"98E&VuQk4!M9>m!Or+0!!0klmfB`p^c29>VZF+)W()gNcN1?Q\-;U2pAqT$\52QLL]O^\!!0k9!!!&5!M9Fo!Or+0!!0klY5ts0^]sfiLB4^^\-7p!L]NY>5QSY$&+BV:%d4=O!!!&5!NuOX!O)^2!Up-BFq=WR]c[:ddJs7J!(pGr!!0cX.KFbpzh>dNU#64`6#QOi)!<<*"g].<S'`\4D&HDe2!<<*",ldoF)ZTj<D?'Y:3<0$a+92BA!<<*"6N@)d-3+#GDZBb;!WW3*!WW3#;ZHdt0`V1RD?'Y:!WW3*!WW3#l2Ueag].<ag].<ag].<ag].<an,NFun,NFunc/Y"nc/Y"h>dNciW&rgiW&rgj8]/ij8]/ikPtSmkPtSmkPtSm!WW31g].<Sg].<ag].<ag].<akPtSmQN.!q>lXj)!<<*"p&G'mn,NFgn,NFun,NFu!WW31)#sX:]%/#*!!0b9]`X2nHiO-IkR#Th[m(-.#H.V*^^@kcILc,_#f$u'!L""d]a+TF6i[2fYR8_jZ3%3>%_r>NQu3D\^]gA?a8s$a#O_p"J-a5)IKcAF&'tTT!NQL)"LeX:!!!&5!Pni-T)],sTE"rm!!"SO!PST%!!//]"K):,!K[?VpC@;2ZN6EoVZY6GYQ:C#!N9r<!!0b5=>W>E!M9>l+A`%<'E:MAk?88/1LOTX?p1,i?s!Gi!OE$o-gq<?+9A]C]aT^1S,`Ni!!/\mZN6^!hZ<`XZN6^7!f%9e!ODg"TP"G+LB4^^!MF?FW,MdA!PJI6'3kM;.DH,grs/lAcN"Y*/-VtIZ2ak1!pBmjcmJt;!!Rl[p][mN.gq.:8&#<8!!!&5!!0c4_#]Go!!iQ*!!!&5!PJNVD@?LF$g7k`!M::?!MBDm"K):,!MCOt#QFh2!MC%.W,MdA!PJI6!Lj&h!!!&<#[@Oh@p]KA!PJaL!"o83!!!!2z!!!77!!!!(!!!!)!!!,(!!!!4!!!!1!!!,,!!!71!!!!F!!!!:!!!,,!!!!V!!!!N!!!,&!!!")!!!!S!!!,'!!!7+!!!7-!!!7+!!!7+!!!!+!!!"=!!!!]!!!,&!!!7-!!!7-!!!7-!X/ZA"M1E>!!!&5(V!"("5jsa!!!&5#QSlJ!R1kI.gQ[d/11]/FoVLJ_%6SH!!iQ*!(X4c&-*@L&3'g-3(L.`)6XS_&2O?N!!0b=#lkS<zTE"rloDejkp&G((q>^L,q>^L,q>^L,qu?^.'*&"D%KHJ/H2mpF"98E-]$(ul!!0b97KL^56GFos#e0jYa8s0i]c\-oZiC(,!!0b6E&:Mo!M9>lD.inLVg&mT+NIY>1O'7oGRa[tG]3\D!ODs-#)<;q3!$6s]`8(`.KBGL+.rYU"-<rdYQ+YT!!/\m^&b_D!N5u!*s&\J!N6+XY7CZ?ZN792*s97Y!KmJn!Pe_l!Q#3=#Ik&l!PK#"]kdZKX8i5$!!0b6!MV+F2uipi#/:E\(]Z'j!!!&5!!0c\!PU;h!!0"u!!!%l!ODg:"nr5I!ODg*#_rGa!O)U7!Pe_l!!0b5!R2egM&63mf,,>*-ipUV%JU'VL]jr"^CPi&#RQ"^J7/YsfEg+:"GhL5!n[[4!!!&5!!0nC^bc$.T)\il\,ZL0k5hmi!PhbA"SVr'Oo`'O^]B5l_?eKhfE^=8]a;a`])Vg3!"o84z&$,a2&$,a2&$,a2z!"Ao.!"T&0#M&kT!#tt=!$_ID!#bh;#M&kTz!!3-#&#91*&#91*&#91*&$,a2!(-_d!%%[Gz!)ERp!%n6O#M&kT&#K=,!+>j-!&X`V#M&kT!#Yb:]`bpA1]RLV$bueT&%E#BLBnGN&.g>o&1gBP!PJI5_#s`<!!iQ*!!!&5!!0nE!MTQ*2uipa",@-n&-*>I!!!&5!"8iXz!#,D5%-RZk%-RZk%-RZk%-RZkzz%,q6e!!3-#%,_*c%,_*c!<iH'"M3/$!!!&5!PJT"]aOl@MuWhY!!/\o^&b_D!N5u!cN1?PW!2o"pAqT$\-8c2L]O^\!!0k9!!!&5$(kB(1O'>TGUC1MG]3\Dk5ho%BER,sJ2dRm_@5o7a9/@A]aC\Ig].<T&-8L+(cVKq>6_hJ]bg`S>Q=a)!!!%l^bc)%/H>bO!O)P(#1!=V!Ot&F/?])\!PgVN!TsKi!O+/Z"J5_$!Ori!!Jgc>"4.(afMDUc]`jc4ErZ1@!!!&5!PJN`+qakU&24=`(]XTS!!1=e(b6F'3!@hM^Bb+L-ipUX#k.lQJ-LgI^B^tD-k,kOaC,O5W!%V\fEcp0]`YbR>6"X(!!!&0hZ+?)!PN^f_$U/B!#P\:$hsb/"c+%X+dW0C!")qT!!0cX!PLPp!MTPo!!!%l!,sc.2"(JG$*YZ#GWPr=!!0b5!M<!b!Or+0YQ+YT%fs!;!O)W\!nRIZ!Or:,!Jgc>%-R`-%*/Id#Oi(^!!!&5'`\:+z"TSN&&-)\1SH&Wi!WW3+3WK-[3WK-l3WK-l.f]P]*WQ0?!<<*"63$uc3WK-l6N@)u.f]PLT`>&m3WK-c3WK-l3WK-l49,?n+92BR3WK-[3WK-l3WK-l!WW34CB+>73<0$ZSH&WiFT;CI56(Z`T`>&m)#sXB$6]TZ&h,+Y"M;;J!!!&5!PJi9"0;J&"+U@b!#l6b+A![U!PJa]$.JqT!!!&5!PJPn!k\L5!!!%l!PSTE!!0"uY<)+p=ol]+!Q\0"a>3k<a?uR#Vu_nZ[fOPNrrKGj\-Ma0!Jh]r]`8)[ZiC(,KE8^f]`8TJ3WK-\QV^L/?iVAhkPuAH]`c(T_uKc<!!0b7M[%r:-r9mE!!"\^&-S%e5QDHW!M0DFLHkuu!!0b<]`GbG1&q:T0Lu0f!!!&<fJj"!$3>qmT0NdG%/=63#Ijr1%+ltW!NQEl:"M'!-j6G6!PJ^0!n72M!!!%l!PSVk!!2ip!NuO1!VccS-`7!O!f-m'!S@FW]`8+qX8i5$!!0b9!M;IS!f-gVJ,fR$hZ:%bJ2!StmfB`rL]bt!fE&2X!!85_!!!&5!PJNP"1/%.!!!&5!M9JL!f-gV!!86=k5hmhO9ET+%fs!<!f.!"%d*l!!f.#X!S@FW]`8+qMuWhY!!0b:BK/<YY9*^W&'-^2E$eE]!#'$Z3!@!8$KlAIGW5`-GU?%<!PNGk!Q"g:`s;YY!!!rE!!0b=3-@mp!NRUK:"M?)!!!&5^InX0FV"O;#QP"K!gE_L!PK$]!V-3j!!!&5!!0bA'*?)P?O#-_^]4?R&-9'B$E+:+QjNP*^BF$-&.dCo^gR;JW"#s8#(V.0".0=d!!!&5!La%H(B>R+#`&qo!PeibY:p(:!n^o_IKt[2#(R!;0Im4/FXX^QFW^ZLFXR5\]eBF_RK*<g"QrDY!O=Zb-NF]C$0Vi6%@DSm$J5W_5WAe)!PK\<!fI$YkT95,T+B9gL]@DU!g#5?!ODb+9>:\7!ODih&[)?3!O)W]!g!H8!!0b5_#aB4!!iQ*&-S%e+9Abj%?Lm`YR&Tn^B^tO+:6*ipgF<7YRL"-!Jl14>A+AB+92Gl!!!&5!PJR*!lP'=!!!%lO>I#pZN't,VZjO1ZN?4UhZ]nYOogFkO9*u7_@#c60G!XR!PJrh1_Kcg!!!(^J,fR$!!0e8T)\oeL]@DUcN1?RJ2$EoY5ts2O>-,-QN=Dopc/9UhZ:%ap]m,d[fNf9O9_*UmfB`r!f2%&!S@FW]`8+qUAt8p+>@@/!oS&POFB/"kRNs^VZ7D<!PL`$!P/72!!!&5!##CVN@DV%s#;t=!!#kB!!0bmT*3%3L]@DU!g#5?!ODb+"J5mr!ODih(WQ]W!ODi`9@j3r!O)W]!g!H8!!0b5"U";q"4nq$f-i%,!&/OQ!!0bM!PJg?"G6[S!!!&5!(R$)z#%di8#%R]6#%R]6#%R]6#%R]6#$_-.#$M!,!##>4!"f22""O?O#$M!,#$M!,#&jPB#''\D#'9hF#'9hF#%di8#&jPB#&4,<#(?OP#(?OP#(?OP#(?OP#$M!,!'pSb!$qUF"$Zbc#(Q[R#(usV#(usV!)ijt!&"<P""jQR!+>j-!&X`V""aKQ#(?OP#$q90!-%u=!'UA_"#BoW#$(^(#'9hF#'9hF#'9hF!/COS!(R"h"$6J_#$(^(#$(^(#$(^(#)E6Z#)E6Z#)WB\!1a)i!)`ds""aKQ#(usV!3#qu!*]F'""aKQ#%di8!4r42!+>j-"#U&Y#&F8>#&XD@#&jPB#&jPB!6kKD!,DQ7"%*%g!#tt=!8@JR!-/&>"$Zbc#$M!,!9jI`!.+\G""jQR#(usV!;c`r!.t7O"#9iV!=8`+!0dH`"#BoW#%R]6#*8fb#*8fb#*8fb#*8fb!AsiW!2';l""O?O#%di8#%di8#%di8#%di8#(usV!@%RE"M2)O!!!&5=>U&s!M9>l+A`%<.^o`Y*q'MF?o)1uNaPZ7s'Sq0QN=DnYY[7\!,*JU!!!&5!!1=i!JC^Y>pfm`$J5=a#QOnA!!0b5W&-mBT)\ilTE"rmcN1?QVuc&bVZF+)!MD(KW,Md#_@=!Ucjmhl]a]K!$31&,!!!&5!!0c#!JM3f%bM-0!PJ\f1a;u#!!!%u!!!%l!ODg"Vubdg%fs!;!MBJN"nr&(Oo_5"!N9r<!Q##=$fDAZ!PJs#!)`ds!!!!*!!!!$!!!!+z!!!?E!!!?E!!!?E!!!!>!!!!8z!!!?E!!!"Dz!!!!X!!!!B!!!03+XmI.]`bs4U]:Aq!!m]K#RDpd5]KNUIM`dV%-Rl1!"0)%!##><NWQBihZ*o_!!0bY]`lmcg].<T!!kIe!PJNh"I&ld+:`o8!"T\)/1:Xp+ohTcPQ2O#!!!9*!!!&5!##J,O;hO4NX,UdY5eh/!!0n;!M9>t!O)P(VuQfLY5ts1W!E>'rrKG,YQLLWJ,ukT!!0S1!!!&5!K7)]!!!J\TECi'^^6Y9#R:&)pgF6-n-A^o#(V.5#WOL\]gp*KPQ1[a!!0b7!PJg?"7-!f!!!&5!PJQq!e^ORY93fY$^`mTV*gRl-je6$piutg(^SIqfGFX_/.@mK]`8$Tj8]/\!!"SQ!PST5!!/_m!!!%l!ODg2Vuk!MVZF+)TH:9>pAqT$YY^AaJ,ukT!!0S1!!!&5!!/]i!PVqAD#dB4QZ+2L%*qE_1N3BQE$G$qE)6Rq!OG5H:%&;,0EI>E_@,:HO9>7Y]aVCUirB&[J-![kQkPho!!m]_#RDp\!K/`%&.-,p!!!&5!PSZ[7fXA;T)_OjYQ+Y(!!"SO!ODg*VubcdrrKG,YQ^'gJ,tf6fE&J_O9*3/hup7h!!0b6!PMqB]h/8)iW&rZ!!0b6]`OZ'6i[2f!!0Sd!!0e6T)\nbYQ+Y(QN=DnTEh(kcN1?Q\-JW0f)`2YYQMWUJ,ukT!!0S1!!!&5!%e8B1]aNT!!!&0!!!%l!ODg2W%dZNVZF+)\-BDHT)l8!YRT2<J,ukT!!0S1!!!&5!PJN'!O;\*$%N!h!"T\)/._m1'*&"<&a'E""Mk'K!!k+e!!0b52?As@!kJ@;!!!&5!K7'6QN.!c#QhL:!O;d1^^-;5!g%:#"4.CJ#\X7RLg_Rd!!2R!YQWm5]EbYJ#Q]ha!!0b51]j*G!!!&0VuQfL!!/\mZN791pBA#,ZN7R1:%o/!!ODg*"nsa4!O)U/!Or/\!!0b5]`F#kZ2ak*WsD2t2?3^Xz"TSN&"onW'&c_n3-3+#L-3+#Q-3+#Q(]XOC(]XOC(]XOC)?9aE)?9aE)?9aE)uosG(]XOC(]XOC1&q:]1&q:]1&q:]1&q:]0)ttZ*<6'>#QOi)4TGHc,6.]D$ig8-+ohTH!!!!+z)?9a;;#gS'/cYkO#ljr*?N:'02?3^W$ig8-DZBb@5QCcaz(]XO9&-)\1&-)\;&-)\;&-)\;(]XOC(]XOCOT5@g:&k7o%0-A.(]XO>&-)\;(]XOC&-)\;VZ6](=o\O&z[f?C.@fQK/#QOi)/-#YR/-#YW/-#YW/cYkY/cYkY/cYkY/cYkY&-)\;&-)\;(]XOCh#IE^FT;CA&HDe2m/R+iI/j6I$ig8-!!!!&(]XO94]N$q]`bt"oDejl!!/]"/HO2u!QY6@"K):,!Q\&l7@sUe!RMY'!MBIt]`8)cU]:Aq!SB47!M9>l!RLfH"0Va3!S@Uc0#%Fn!RM2"!MBIV$)dmW"0_gC#5A_5!!!&5!PnlN_uL&C&-)\2(]fFP!JW8b!Sd^3!PJMa!Ls,i!!1_/!!/\lZN8DQVadijZN8]?f)jP)YQ<)PfE%WG!PJI6T1f4bci=%H!!0e7ZN($A^BNKqZN7iZT*1beZN8DUf*D$NOo`oFfE%WG_?ecpkR*s`]aCD9oDejl!!0b6!KML,hZ86EL]A)A+r]&6J,t`3!!0b6]a3*f1B7CU!!!&50K;$S5]d)%>7:0R5QCqO!!!&5!L3](&E"22#W<Fe!PLSq#1NVQ!!1_/!!/\lZN8DQhZg7bZN8\_crX9LTE27t!!1^Q!!!&5!!0cK1]aZX!!!&P!!!%l!ODgR4i[_u!ODgZ7@t4E!KmK1!S@FG!Q"s.$*Xd+!PJp2"4R;N!lP,n!PL_u!fR*ZT.kLLJ,g5k3!7b5!It3$!$W,d!PMk@]m9YYe,TILDunr"!#,tEJ2hca#KK@9!!!&5!PJWc!UB^c!!!&5!%eE!T)m"5ci=%H!!0e7ZN($AT)l+rZN7iFT)l+rZN8,NY>:JcOo`oAfE%WG_?uA*kQub?]`G>JKE(uQ!!0b7!PJg?!i,er!!1_/!!/\l/HO2u!QY6@"h+N=!SC5H!T*pa!QZ)O#-S'6!SBc;+6N[2!ROR8!MBIV"fMIS&(gp"#I"Ne!!!&5!PJQ("4R;N+92gS!!!&5!$VKW!PB7'!&+H.!!!&5!'C@r.funF34DFL5Ze"1!!!&5!PJN8!pTacBK-$Q!PJ`a]jq*C_Z0Z;!!0b6.g!$W''DM&6'hQc!!#qo!!0bu!PL8h!pTack85=$"KYf1!PKTU>>"qr-ia:K!!!&5!PJQ0mlCFKl2Ueb!!0b7]`RI!aoDDB!fU=a!PMS8Mdl_e(e?%UT/^LDBE<hl!PMSc!n72M!!!&5!!0o/!KI-c#+o!W!!!&5!!0c3>6='i0E;0c!!!&5!!0bp'*GN?!j;k0[g55Y&-9!9#Y+k32uj$F"QpUMmjKSD",g@d!PKl]!m:QDL^sJ"!K]8A\HB<3!%;depGdCWDuk[q]m'S<X8i5$!!/#Z!Pna9ZN(72T*M7p!PLGs!pTaccPS>q!!0beFTg+m#QOnP:iHI!!O;sNciro`#LI>t"R$B#!gj#'@0<u8#cIjppjN\!a9Uo=!!#q*3,gij!JUj*E!(`+!!!&5!NuV&)ik7)VZif%!PJaD]lF)Qb5_MC3!#$@]`\"JUAt8p!!!]8L`HMPf)^[.GQEgg!M9CK!!!&5fJEZpT)\ilci=%HmfB`qfE'S+pAqT$cj'50TE12V^]E'gTE2n9cj]+B!!0b93!5WM"QpUEO9=u3>8*V=+92K?!!!&5!##IP>6:u6#QOn;!!!&5J,f]Cz"TSN&#64`(`;fl<&HDe5%KHJ/p&G'mKE(uSp](:!q>^L#q>^L#q>^L#.0'>Q)#sX:rVuou2#mUY+TMKBqZ$Trqu?^!qu?^%rVup'rVup'rVup'q>^L#^]4?>^]4?>_>jQ@_>jQ@_>jQ@&-)\8M?!VVM?!V]@/p942#mUVhuE`WMuWh[DZBbB4TGH^ec5[M_uKc>_uKcBp&G'tp](:!p](:!p](:!p](:!_>jQ@li7"jli7"jli7"jli7"jNW9%a\,ZL6R/d3l;ucmu`W,u=M?!VYX8i5*Y5eP-@/p9-iW&rYX8i5&X8i5*ZiC(2ZiC(2ZiC(2c2[hLc2[hLc2[hLc2[hLV>pT$jo>Adjo>Ad_uKcBMuWh__>jQ@_>jQ@_>jQ@_>jQ@g].<ZMuWh_MuWh_MuWh_X8i5*X8i5*li7"jXoJG,\c;^8p&G'tg&M*Xg&M*Xc2[hLdJs7PdJs7PdJs7P\,ZL6HiO-Oe,TIRe,TIRRK*<m\,ZL6\,ZL6X8i5*M?!V]M?!V]M?!V]M?!V]TE"rsTE"rsU]:B"U]:B"li7"jli7"jli7"jmJm4lmJm4lmJm4lM?!V]M?!V]`W,uDa8c2FZiC(2ZiC(25l^liVZ6\tnGiOhj8]/^j8]/bj8]/bJcGcUJcGcUJcGcUdJs7Pn,NFnn,NFnrVup'rVup'rVup'rVup'CB+>>])Vg3g].<SPQ1[cPQ1[gQiI*kQiI*kH2mpMH2mpM)uosD]#GQf!!0b9U&h%i!!!Q2^DIel!M!?u!PK<M!TX4\Ql`b-^(AX,!*B4%!!!%l!,sc..?>SOP^""*GYlumGV]PkNd*sahfr6(8+.Q&$CD7:GY6jsQZt<2!KMCb"5e?B"K):,!Kq+LhuS?fVuaaG\-L@b!!0b<!PJg?]lX5S1&q:T!!!&E%d4B>Z38br#H0$On889Ba9Bp$YQ;KJ#/:EQi!&%IIKZ#C"5"GMLF=Q10E<:+!!0tK!PKTm]`\<8"98E&(]XTQ!PgMl!%e0NT)l.r\,ZL0hZ:%aYSE3$k5hmi^_Mn8cN1?Q^]Ns.cN1?Q\,u+'cN1?Q\-&'%QN=Dn\-J?*L]NY>n,^<*O9*3!L]uE<!!0b@!!0A*!!!!-z!!!!#!!!P:!!!P:!!!P:!!!"(!!!!0!!!!8!!!!"!!!!R!!!!B!!!8\!!!P:!!!P:!!!P<!!!!l!!!!P!!!!"\t8s?!!0b9!#%Hp3!-8h8,!8pmg'1L!!0btcm]A'YRm`9!!k+`!!0n9!PJI=!"&]+!!!!)z!!!?Y!!!?Y!!!?Y!!!?Y!!!#%!!!?Yz#n6t>"MB`u!!!&5!M9So!It.MDu]pQ*Tp)r!K[T]!rN(k%_)P$!!!&5O%TY0Ors`Fa=o"Cp]85An.!/:KHNbk!PJI6T*,,oci=%H!SB40!ODb+ciN;?VZF+)fE(/2f)`2YciWZ5TE12VQiYh?O9*3-^]`!g!!0b9]aEg#KE(uQ-HB9p!K[>Df)^shNWG5+!K_7$!OF/_+J1^P!O)TT!!/H`!!!&5+>sT)]a_US/-#YN+92GY+9@],!PJI5]dj'_]Dqp4!!0b=]a1D6PQ1[a!!/\u/HO2u!QY6@^]4DL!ODb,^d@2p%fs!;!Q[Uj!NuO1!PfDA3o9tE!RMUk!MBIt]`8)cqu?]t!!/\r/HO2u!QY6@[grMGZN8-+[g1dkZN8E3mhUZZOo`oWfE%WG_@=QeJ-b?>]`cC__uKc<!!0b>]a27N;ZHdu!!!%lfJEWUZN't+T*G#jZN8]JT)l+rZN8EBf-[[%YQ<*DfE%WG!PJI6$H)oE!%7m&U]J+6]`9Geq>^Kr"QrDY-o`UT3!A[u,*+-#!!",m#QOnAi"1#2!PK$M$JYU]!!!%l!ODgR!oF-Y!ODgR:%&;\!O)UO!S@FG!!0b5N*?Db]a+T=ZiC(,0E;am0Im4.Z3%Kh%%oid^hs1W\-hF1fE&_k,c;IeW"%BfILGoU!l+l1Vb7JT]gr,K;?-[t/scPP!PJMq!i#_q-m/PN!#$Nj3!\%X2MWCt!$.+n!!0b]]`E`cPQ1[a+9@K,';#NF!!MIX+9@KF9*F]#+92Q-pD>;<!!0b@BEcT[''C)C"Rc=)!!#qG#kV=<!PK<M!iuA%!!!&5!M9D:!RLfH^]4DL!ODb,-`7".!ODgB:T##t!O)UO!S@FG!!0b5!PK0I!iuA%!!!&5&1[tW''B;ZQO!#"J:9IDVuk$N!!#q(!!0b]T)nfhci=%H!SB40!ODb+4jOAr!ODgZ.Gn"C!O)UO!S@FG!!0b5]`PP@_Z0Z;+<WWGO%VBd'.<i$!j=9X[kKKd!!0b7!Po`U9)o4t&.fMI!!!&55WAnr9-o?)8,tF.0E;-3!!!$B,c=9X!PKTU"8Vut&1@N&!!!&5&1[hSEBBL("Rcbd$G_*=$1J1m"nr!2(]h0$!PJIU#*])fQkA6t_$,W)!#P\:?O-WF#QOiDY6YCn!!0b7MZN,D+><cr+92BBf,t&,+<WWKO%VBd'.<i$!j=9X[kKKd!!0b7]`Z1QU]:Aq!p!Pg!PK$E!L`ug!!!&5!Pnl<FT<Na]at/lbQ%VD2j[/=#Rq%>WsAj+QO!Ql2j[/r&9S6Y!PA[<!"]9t!!!&5!PJT"!R(ND!&p6;+9@3>"c*3/!!!&5!SB5M!M9>l!RLfH"0Va3!SALW6dGe>!SBO/4l6:H!RLo"!MBIt]`8)cb5_MC!!0b6]`jT"]Dqp4"i=IE!PKl]".B2i!!!&5!SB49!PSO6!!0k8!!!%l!ODgRfK%Q%%fs!;!Pg>&/[kbe!RM.N!MBIV"eYnK"J>e4"6^*E!!!&5!PJPe!g3N`+92GY!MWcu]`F2pirB&[!$HCf!&@aa!!0bU>69BV&-)p/!!!&5]3>C']dNj]_Z0Z;!!0e:T)\o-ci=%Hk5hmi^c28oVZF+)cip$JTE27t!!1^Q!!!&55WAr<9+g%m8,tF.YQ+]^!!+2I!#$IT#M0ID$Le)0'F'aT';l>%!PJbh!MTPo!!!&5!PJW1#0HoG';#<'L'ccL&2G@/!!!&5!&"GdO;@lsTEq1mO9*-,#M1(,fEUhRY^Ru(Qj_7H+<WWEO%VA!/1:K=9)nr7+92Q-!!!&5!PJTp#J'm8k;WGT\H!-P3%R;r!PJI5!U9Xb!!KW4!!0bM!!2'Z!!!"Mz!!!!&!!!!'!!!+9!!!5?!!!5?!!!5?!!!5?!!!!8!!!!4!!!+9!!!51!!!!L!!!!;!!!+9!!!5?!!!5?!!!57!!!5?!!!5?!!!5I!!!5;!!!5?!!!!h!!!!T!!!+9!!!5M!!!5Q!!!"9!!!!]!!!+.!!!5I!!!5I!!!5I!!!"M!!!!e!!!+=!!!51!!!51!!!"[!!!!n!!!+&!!!"i!!!"$!!!+9!!!5M!!!5Q!!!5Q!!!5Q!!!5Q!!!5-!!!5I!!!5K!!!5K!!!5M!!!5M!!!5M!!!#B!!!"5!!!++!!!5+!!!#N!!!"<!!!+7z!!!5Q!!!#^!!!"C!!!+7!!!#h!!!"I!!!+)!!!5+!!!$!!!!"O!!!+;!!!5+!!!51!!!51!!!5U!!!5U!!!5U!!!5U!!!5Y!!!5Y!!!5I!!!5I!!!$A!!!"`!!!++!!!""!!!53!!!5+!!!5+!!!5+!!!5+!!!5Q!!!5Q!!!$]!!!"n!!!+:!!!5?!!!51!!!51!!!5;!!!59!!!5I!!!5I!!!5-!!!5-!!!5-!!!5/!!!51!!!51!!!51!!!5;!!!59!!!59!!!59!!!%8!!!#2!!!+0!!!5M!!!5I!!!5M!!!5M!!!5Q!!!%P!!!#@!!!+'!!!5Q!!!5;!!!5Q!!!5Q!!!5;!!!5;!!!5;!!!53!!!53!!!%t!!!#Q!!!+5!!!5S!!!5S!!!5S!!!5S!!!5U!!!5U!!!5Q!!!5Q!!!51!!!5+!!!5;!!!5;!!!5;!!!5?!!!&K!!!#f!!!+3!!!5I!!!5I!!!51!!!5A!!!5A!!!5A!!!5A!!!57i>;Y:]=B?k!!0b9]a9o'ZiC(,0EI17NWeM^h]OTR0EI1k]apG@]Dqp45QDu2!(_5d2uj<l2uk-&3!%#Q!%e0N^&cjd!RLfI!!/\lZN8taY63)OZN8]."j\7k!ODgZ#2]O/!ODgRfJ*%1rrKG,i(reHYQ9mf3!&4D!f-lo%`etO!!!&5!PJN(!mCWE!!!&5kVNR`T)\ilhuE`XT)l8!kUlN4NrcQfi!$#HYQ9mf:]]b\%BolM$.oBr!!!&5!%eDfT)mREhuE`X!!0e7ZN($Q#PS`0!ODgb#PS9!!ODgZ#PSD*!ODgR-D*HY!O)U_!U'Qg!!0b59F'&I&]bd(!KJ1VhZ]Z48H98e3!#%)BHlV)%fcSp8-4nR!!!&5!##Hf+sc>2FU154$O?`'+ojS&`\9@P!!"tZ!!!&50K90a]`u4_li7"d!!/\oD#o^u!MD1IY?F6lTE1]C!MD4L!MDd"!K[>B)Q*V/%$(Fq!K^1!&(goe#fmCh!!!&5!!/][^&d-l!RLfI*s&\J!RN.]9]#lWOoaJokQ.mg_?/'bW!JIc]`Oi:_uKc<!!0b7U'0f_!!"DJn1Xhd$3@dE!PJIe!P/72!!!&50K;$q3%G)d/4fe#]`8$lP5kR`0E;af0K:-2"Q'ab2uiu_3&h"qY;qY'LHkh?!!0b8NWFb4k85lR0EI1:N]#]:&.buGQkp:"a:5'XJ-!Fe,j.,qYR$V)IK\"&$c!1<!PJuYN\US78.(FZO:MKG8-/5i83d39!"V`[N^s5V^IUTj3!#$kN_]U>LH$sg!!0b83!"X37HZp$8,r[o82p^,LG%a\+:b=N!!0b5+p4hF>8T$o0E;3T!!!&5!R(VH!W)is!!!%l!ODgbi%t*LpAqT$i"<.XYQ:s/!!29a!!!&5!$VH6!R3;0>;-$W0E;0]E%h=8Y^Qb3kQ0lP!'"X&YlG:7!KKDG8H1q7"d&cq!!0buT*(P_huE`X!!0e7ZN($QQNQ+GZN8ED8=(D!!ODgb,0)F!!O)U_!U'Qg!!0b5>631Q0E;-;!!!&5!$VHV!N6O%O>$^XIL#'?%ZgdS3->_h3%GO?+pE`]+qR9F+rF,V\KFuS!%9f-3%tAn!PJSj]b1;Fq>^Kr!!0b6/HN-W!S@AP!!!%lkVN=uZN't+Ns"PGZN98D0TR:V!ODgZ%$+5_!KmKA!U'Qg!Q#>n$((pY!PJie"1nO5!!!&5!PJPe"0qn,&24).!!!&5!!0b?!!C(<!!!!_z!!!E[!!!F*!!!F,!!!F.!!!F.!!!Eo!!!Eo!!!Eo!!!Eq!!!Eq!!!!:!!!!7!!!3C!!!F"!!!!R!!!!@!!!3>!!!!b!!!!I!!!!"!!!#9!!!"!!!!!P!!!3C!!!F8!!!F8!!!F8!!!F8!!!F<!!!F<!!!F"!!!E[!!!E[!!!"?!!!!a!!!!"!!!"O!!!!i!!!3L!!!!#!!!E[!!!E[!!!E[!!!Ee!!!F4!!!F4!!!F4!!!F4!!!"q!!!"#!!!3L!!!Eg!!!Ei!!!Ek!!!#.!!!"+!!!3H!!!#8!!!"3!!!3C!!!#H!!!"A!!!3L!!!E[!!!E_!!!E_!!!Ec!!!Ec!!!#n!!!"K!!!3C!!!$#!!!"R!!!3L!!!E[!!!E[!!!F"!!!F&!!!F&!!!$;!!!"_!!!3O!!!!#!!!$M!!!"k!!!3L!!!E[!!!E[!!!E[bnpI&!PJWJ$*4+,LI8gNL_jG%Qi`o^TE2h:2m6lu%>Yj0d!cJ?'G,L!E!3'="K)56!!#rB?ic:$]g^7\j8]/\!!0b>!%hFUT)sfKO8o7]%fs!<!f0"[7c+6Q!g#FG!T4!A&"!Ecn8JEF]a0,uqu?]t^B(YG?j<5)+@lODYQ;ZBT*sig!!0c-^&bS@!e:7O!!"SNQo"l#T)\imO8o7]k5hmjQj8r_pAqT%L^07IpAqT%J-VDErrKG-QiiC$rrKG-!g#VI"h+N=!g!H_!T4!_]`8,$K)blP!!0b6]a2OVj8]/\!!/\s1]ia=!!!(f"j[4U!gj2$#,_L.!gjn(1X?*.!g#n/!T4!A$+L&(%e'M9".04i!!!&5@!VjT!ODb+:7j;F!"0%Q!PJJ0!pfme!!!%l!%e86ZN>p_"7Ha$!ODi`6`1"C!O)We!gj#H!!0b53!\LE"LfL=^Hb%D+@nHq!PJZO!SdYT!!8NE!!/\lZN?3gY6EeaZN?40Y6)`FZN?L8Nru!TYQBnSQiZ+G!PJI7!fR*Z\,ZL\!!/\m+9B7X3i>cG!NZ=K!RO?'cnb^Lcp>tY\,hTjf)a5!mfBaT^_c`7O9'k4!!1^Q!!!&5!##P&'J$A#'Q=Q_]m(%fKE(uQ!gkeG!M9>l!g!B^"h+N=!gk=d#58/)!g#n?!T4!A%&a5p#fm%`$h+Me!!!&5i'9k<!#%m/.j3_?"c#W>!!!&5i#;fP'/0Ck%_jt'2uipt!!!&5:alI?81OZ?'Em#iBIM1,!oX+i!!0cPD??7,:cF.0-tiXlY[@S6$4k2_cY*j1$E.A<#f$lD^^[5kZO;9aQNcgY!OH/:?ilr2"K):,ZX=!(NreDE!OH/7./sOM!!0c@!#/T:\H.3k!$GqUBOCk$!PJZg!UKdd!!8NE!!/\lZN?3gVZP`VZN?KtpIP#ZOog_9QiZ+G_?d@ITF9BQ]a*I)MuWhY"3;/X'EN^pL]R5MBE>XE!KI.."8?J:^M!T\VZ7D@!#0AT'R2QlJ-;bM!!0b6!PoHMV>q_=p]g3g]b1#Ag&M*RBE/\J!O>AEL]l@D&(#2&!g!TL%*/Ia@2$+`%=eJpk^E\k?k)T2"/,]*!!0TK!$YMf!QHNi]`8%7@K6B/!!!&5!JUZU%_lZWE";p_!VZR.!!0cXU&j9S!!!i:^BbrA!'FHi!!0bU]`G_F_Z0Z;k5Z1t?t`Y)!KI-["LfL]!!!&5!!0b?!PNg[",['Y!!!%l!PSVs!!7ZN"4%"S!e;qb2W"PA!g#";!T4!_]`8,$\c;^2!!0b8\-2X.=<ISE!!!&E"+Vn(]`cqh%%%"q!PSWA!!7ZN!!!%l!ODihJ3)9m`rWLJO9W`LhuSuBJ-))=fE&hop^5X`!!0b:3!#cS#/:Ed#H%P90E;b7!PJuX"k!AN!!$1&z!"cjE!!!6(!!!B,!!ls4!"dQY!!!r<!!!Z4!!m$6!"dQY!"c^A!"dW[!"dW[!!"_R!!"5D!!m9=!"doc!"cR=!!#^n!!"SN!!mHB!"dW[!"dW[!"dW[!"dW[!!$R1!!"qX!!lU*!"cR=!"cR=!"cR=!"cR=!!%9E!!#=c!!m'7!!%cS!!#Xl!!mHB!!&De!!$%"!!m!5!"cR=!"c^A!"c^A!"c^A!"cF9!"cL;!"cL;!"cL;!"dc_!"doc!"doc!"due!"due!!(+@!!$^5!!m'7!"d3O!"d9Q!"d?S!"dEU!"dKW!"dKW!"d!I!"d!I!"d!I!"d!I!!)6`!!%<F!!lj1!"d'K!"d'K!"d'K!"d'K!!*$!!!%WO!!m'7!"c"-!!%$>!"d-M!!*T1!!%rX!!n5X!"fP<!"fJ:!"gCT!"gCT!"d'K!"doc!"d'K!"d'K!"d'K!"d'K!!!'#!"bq+!"bq+!"bq+!"c^A!"c^A!"c^A!"cdC!"cdC!"doc!"c43!!,Lg!!&ns!!ld/!"d!I!"doc!"fJ:!"fJ:!"fJ:!!-:(!!'>*!!mHB!"c43!"c@7!"cF9AHsI\8T=dm!T>1=]`bsZZiC(,!!0b:_#`m&!$D7B!!!%l!%e5eZN7Q9mfSmWZN7ih-gqQH!ODg:!q-5p!O)U?!QY;'!!0b5]a!6l)?9a<!#Pa2#Tu),PZn@,]c[:\&c_n46b`Z.F^P?-&-)jsV[r9:pjR/bp^5@L!!0b9]`aQ";ZHdu\,ZL\!!/\mZN7iAhZ;U8ZN7Q>cOJJ,YQ;NKa8qA'!PJI6"2"U6!!$\TE"=W:!VZR.!!0cX/HP2<!Or+0!!!%l!ODgB3<'*,!ODg:"fDca!O)U?!QY;'!!0b5T)m^I^]4?8!Q[(u!ODb+3NiXj!ODgJ.c1<J!O)U?!QY;'!!0b5/HMRG!Or+0!!!%l!PSTM!!0;(T+:t/ZN7R)[fQL0ZN7QI8='hf!ODg20o&$g!O)U?!QY;'!!0b5%gAa/!Vlo?!OrMnbuc(g=<ISEf2u-*'=UU;!"W`k!PNG4"Jc"t!!!&5!#,Ip'EN^pL]R5MBE>XE!PJI]3%Ft/"LfLeQp:\XD@)C*%d3t]!P]/,"i!;Vp]SrPIKm"c$c!2/82pj1]`l.nMuWhY!Q[)!!M9>l!Pe[8\,ZL\k5hmia@YhT%fs!;!Ot_i'Sc^q!PgYG!K[>F%CcG["Gd)q$E+3>!!!&5!N#n`"R$qh5Y2r_89IHg81OrG]`j0^HiO-I!!!&5!PJWC!ic5#!!!%la><q5ZN't+Nrn2>ZN8-%^B<X"ZN8-?Nrf7]ZN7j0f.H^tOo`?\a8qA'_?7"C?ins]!PJoG'RTl\GQaoEBE/$2BOCk$!PLqJ"8i-!4Qc\Y!+9JB?ic8f]`beeH2mpG!!!&5!ODg,./sOM^B(QH?j<5)+@lOD:e3):?t`9,!PJI5N`#iWBFTauBQXFO!#,D5'Q=2QGW1BX!!!&5!ODh):7j;F:]Ll2!)P*E=@aqB!#,Rf]kAh?_uKc<!!!r>!'#*T!!!r<!!0bm\:+bbV-"iN=:1]%pj!)--j/*-$ePKR$\/VP!*B9A%fs!:ZX<j,QNX2eZN\,KNreDE!PMkA!V69k&,9g\%fd:\&',H(fPu-H!It[in-lgU!P&I>NW:28f4\Om!!0b:!!1dR#/:Ed#H%P9!&/OD!!0b5'EQAWJ-;bMLB&"hP6$Iu!%;L]%&dP:fEr)G#L@&lck"c;\:,7rYRSq[mfBa$?j)f"!!!&5!%e5pT)lG%^]4?8%fs!;!OsiP0_YUS!Pg@L!K[>d]`8)SP5kR`!!0b9]`c1Pg&M*R!*K:'z%kmt`%j1iP!!rW*!"/c,#H%P%!!3-#%it]N%it]N%it]N%laOh%ls[j%ls[j%ls[j%ls[jz!%e0N!#kn<#FGJk%mBsn%mBsn%mBsn%mBsn!'pSb!$qUF#FGJk!)3Fn!%S$Lz!*K:%!&OZU#G(nq%p/f3%orZ1%tXc]%tXc]%tXc]%tjo_%tjo_!-nPE!'gMa#G1tr!.t7O!([(i#FGJk!0[B_!)W^r#HRn*!71]G%kmt`%l=7d%l=7d%l=7d%ls[jz!4)Y*!+>j-#G1tr%ls[j%ls[j%ls[j%ls[j%l=7d%l=7d%lOCf%lOCf%kmt`%nZg%%nls'%l=7d%o**)%o**)%o**)%mBsn%mU*p%mU*p%mU*p%mU*p%o**)%o**)%oNB-%orZ1%orZ1%orZ1%kI\\%k[h^%k[h^%k[h^%tXc]&"EV"&"EV"&"EV"&"EV"%n$Bt%n6O!%nH[#%nH[#!>>G5!0@0\#G(nq%jh8V%k7PZ%kI\\%kI\\!@n-M!1Nrg#G;%s%mg6r%mg6r!BgD_!2BMo#Fthp%p/f3!#bh;]`bp:,QIfF&-L9J!MU4b+ohTK`X!+U!!!Q2!!!&5!!N?8z!,_c:!!3-#!$hOE!$hOE!sAT(f+J,g!PJWI!Q4s<!!!&5!M9Gka%ua9s#[Cb!PDeb!+5lX!!!&5!!/^61]a6L!!!%u([hC2!N64K%u11l!N6-n"Kqj4!MBO]W,MdA!PJI6!iuA%!!!&5!!/EA(C-iD.gQ[d/11]/FoVLJ]at/D_uKc<!!0b7!Q5*@?k9.8!!!&5!PJNP]gMi#'*&"5!!!&5!N7gX!M9>l!MBDm"h+N=!N6]f2g5;/!O)Tt!!0$;!!!&5!N7hB!M9>l!MBDmQiI+<Y5ts1QiiBM`rWLIW!AXjVZF+)!MFW?W,Md#_?.dZO::%J]aUP:&c_n4?r3J!f3gCB!KLP[ZYs5JNs)We!O,B8!,)S0!!!&5!'=D"!!0c@!PN:L96("4L]BrK!!.WQZ37oR!jE4:TPb"mi"#Maa8s$c8$<I1\,uG6IKoQSO9'k[&.gf(!L"D)]a,/X$31&,#QOnA*e6i_"/lH\V[&T/TRL9;kQIO^!!0bA!!0t;!!!!-z!!!!&!!!!/!!!9e!!!RV!!!RZ!!!RZ!!!RZ!!!R\!!!R\!!!!L!!!!^!!!9e!!!#S!!!RT!!!RT!Ta@u"M3S0!!!&5!PnlFT)]E&a8c2@!!0e7ZN($9B*$<Z!ODg:#)=e6!KmK)!RLk7!Q#2J#-\Vo!PJnt!TX4\!!!%l!J!"O`uk?^Ldd(6'X([@!Jgc4mfA5#NWFqdL]N#,ZODlqLBj.H8:#L^]`8(p,QIfF#1ihh!&/(70EI16]`beU9E5%n^BbB1!#Th_(`4b'!$MN$!PLi#!i,er!$D7L(a&f&!$D<^!!0b5]`H=W&c_n4!!!&5!MTXs2uipa#/:ET&-*qZ!!!&5#Q_+j3'X<#4kDYQ3%tAn!ODig33NI_!!0be5llT<&^V'`!##V,"MY<-O#T*Y3&il&!KJqU#ELhu!!!&5!M9D*!QY6@!!1G'VZF+(cir;2pAqT$a9)ABQiW?NfE'>"fE&hlO9`Q'!!0b>!PM)*]aOl@$31&,!!1G'!!/\lZN8,I2[,fS!ODgR#-S)`!O)UG!RLk7!!0b5T)nN`a8c2@*s&\K!QYK>V[ig7ZN8,cLBluCOo`W0ciKL7!Q&LNW#u:p!!0b=]`Hjf])Vg3(]g`>(b5S/BMG*A$a9Ub4kB_@%_r.,!!!&5-ia;%z/-#YM#64`5#ljr*S,`Nh'`\4<&c_n3R/d3e1]RL[1]RLb2?3^d2?3^d1&q:`1]RLb1]RLb1]RLb49,?j63$up7K<Dt7K<Dt.KBGX2uipf1&q:`!WW30.KBGK.KBGX.KBGX2uipf2uipf2uipf3WK-h3WK-hl2Uen=TAF%0E;(QScA`j@fQK52ZNgXR/d3e!WW3).KBGKFT;CN56(Z`!<<*"JH,ZM7K<DgScA`j1&q:Y1]RLb63$up63$up63$up)ZTjI\sk\\!!0b9TLBh#J/H?L!!m]J#Q_pF!PJI5!"o83!!!!%z!!!#c!!!B"!!!B"+W1Of&/l6']&OD)!!0b9]`Rg+g].<T!!m`M!!0nQ#V,l\!!LmZ".9;=!!#q7!!0b=!M9u)!O)P(!!0SdQN=DmYQk+0%fs!;!O)Ze#Nl,oZN7RKk;M2uYQ:s3\,h*\!PJI6!k\L5!!!%l!%e5U1]aNT!!!&0#1!=VZN7QXW#lNNk5hmi\-/uik5hmiYQFh.J,tf6a8rdOJ-!LhYRI`H!!0b91]ar`T)\k)?iU0-E#5EhY?Eub#5E-Z+THC:BE=-4ZNoZ4Y6:a(!O,r9]`<:2$31&,kR)i+FUP,`.f]PT",@-f!!!ib!!"-T)lE_C\0)!B#Ts*J!!iVg#RCV?(b#QB+D:`T]asT4_uKc<!!0b6!OG)m"ogKi!!1Fhpb)mq#Rd"-+>W[UW*obc\.@d)#`sK9"MbAK!!!&5!!0bW.fn&u",@-fJ,gEd+9BUc#/CG1kR*u3]aiBl9E5%n!!!&5!Osrh!M9>l!O)P(T+:t/ZN798T*PAsZN7Q@f*97rOo_cf\,h*\_@ELFp^E5b]ais/P5kR`!!0b7ZN5XX6&uNW!!0SP!O;tRfE'n9"/%"CILld`"3;#2!PK$5!NQ2#!!!r<zz!"P.l!"P.l!"P.l!"P4n!"P.l!"P.l!!!Z4!!!Q1z!!"5D!!!o;!!c!o!!"qX!!"5Dz!!!c7!!#Xl!!"JK!!bpm!!$(#!!"YP!!bsnz!"P"h!"P"h!!$X3!!"qX!!c'qz!!%'?!!#.^!!c!o!!%EI!!#Ig!!bpm!"P"h!"Oqf!"Oqf!"P"h!"P"h!"P"hR/e'(!PJWI_#s`<!!iQ*"L%p!(m#6C!!!'#z!!!'#!!NB']==]);break;elseif k>0X6c then for g=0B0,0XfF do(T[0b11101])[g]=T[0X2](g);end;T[37]=(function(g)local H,O={},0;g=T[0B100011](g,"z",'!\x21\x21!!');local m=(#g-0X4_);local b=T[0B100__]((m/0X5)*0X4);for I=0X05,m,0x5 do local m=T[0B10001__0](g,I,I+0X4);I=(H[m]);if not(not I)then else local g,A,S,G,F=T[1](m,0X1,0X5);local P=(F-33)+(G-33)*0x55+(S-0X21)*7225+(A-0X0021)*0X95EeD+(g-33)*0X31c84B_1;I=(P);H[m]=(I);end;T[18](b,O,I);O+=0X4;end;return b;end);if not(not u[13085])then k=u[0X331d];else k=q:_(u,k);end;else if k<0x45 then T[0B1_00000]=(2147483648);if not(not u[12900])then k=q:n(k,u);else k=-75138768+((q.zt((q.Qt((q.zt(u[13360])),u[0X6388],u[0X3DFA])),u[13360]))==q.e[0x1__]and u[0x4D6__b]or q.e[0B1001]);(u)[0x3264]=k;end;end;end;end;until false;T[0X27]=(nil);T[0B101000]=({});(T)[0x29]=q.Y.create;T[0X2a]=(nil);(T)[0X2B__]=nil;T[0X2C]=nil;return k;end,vG=function(q,q,u)u[0x1B]=u[0X1B]+q;end,Zt=bit32.bnot,BG=function(q)return 0B11000110;end,QF=function(q,q,u,k,T)q=(0B1001100);u=((T-k)/0X8);return q,u;end,_=function(q,u,k)u[6616]=(0XA7+((q.e[0X4]==q.e[0X00_6]and q.e[0X3]or u[23155])-u[0X3df_a]-u[0X3511]-u[0X5C12__]));k=-4294967118+(q.Zt((q.e[0x9]~=u[0X38d5]and u[0X3_8D5]or u[14041])-u[0X4d6b]<=u[0x4d6B]and u[12900]or u[0X6b3c]));u[0x331D]=(k);return k;end,VG=function(q,u)local k;k=(nil);local T,g,H,O=(0X23);repeat if not(T>0x26)then H,O,k,T,g=q:xG(H,O,u,T);if k==43537 then continue;else if k==-0x2 then return-0B10,g;end;end;else k,T,g=q:JG(T,u,H,O);if k==0x6A43 then continue;else if k==-0x2 then return-0x2,g;end;end;end;until false;return nil;end,SG=function(q,q)(q)[0B11101__1]=(q[0X2E]);return;end,DG=function(q,u,k,T)T[0B101010]=(type);if not k[0X5357]then u=(-128+((q.Zt((q.dt(k[15866],k[19529]))-k[23778]))+k[27452]));k[0X5_357]=u;else u=(k[0x5357]);end;return u;end,FG=function(q,q,u)u=(q[0X5E8C]);return u;end,yG=function(q,q)(q)[0B11101],q[0X3C]=q[0X35],-(0B1_0111000~=0B11110__100_);end,D=function(q)local u,k,T,g,H,O={};g,H,O=q:A(O,H,u,g);H,O=q:o(g,u,O,H);O=q:l(g,u,O,H);O=q:b(u,g,H,O);O=q:p(g,H,u,O);O=q:h(O,H,u,g);O=q:C(u,g,O);q:S(u);O=q:q(g,O,u);O=q:ZG(u,O,g);local H,m,b;m,O,H,b=q:fF(m,H,b,O,u,g);local I,A;k,I,A,O,b,T=q:Pt(A,O,u,b,H,I,g);if k==-0X02 then return T;end;A,k,O,b=q:Mt(I,O,g,H,u,m,b,A);if k==-0X1 then return;else if not(k)then else return q.H(k);end;end;end,hF=function(q,q)return-135==q[0B101__011];end,yF=function(q,q,u,k)(u[0X15])[k+0x2]=q;end,GG=function(q,u,k)k=(-4084513768+((q.Ft(q.e[0X9]+u[21335],(u[0x3__9Cf])))+q.e[0X9]<=u[23570]and k or q.e[0B10]));u[29089]=(k);return k;end,XF=function(q,q,u,k,T,g)(u[21])[q+0x01__]=T;g=0B100011;(u[0X15])[q+0X2]=k;return g;end,nF=function(q,u,k,T)k[11][12]=q.i;if not T[0X2428_]then T[0X3967]=(-4004920347+((q.Qt(T[23570]+T[19819],T[0X678D],T[29089]))-T[4020]+q.e[0b00111]));T[0x679A]=(0X2__A+((q.zt(T[23155]+T[8877]+T[0X3766],T[0X39cF],T[29089]))-T[0X5D36]));u=0X6a+(q.dt(((T[0x5__8ca]~=T[0x5C12]and T[8877]or T[0X3147])~=T[24204]and T[0X1DdF]or T[0x3511])+T[8877],T[0X71a_1],T[13585]));(T)[0x2428]=(u);else u=q:_F(u,T);end;return u;end,C=function(q,u,k,T)local g;u[29]=nil;(u)[0X1e]=(nil);T=0x5C;repeat g,T=q:W(u,k,T);if g==34262 then continue;else if g~=0x9d93 then else break;end;end;until false;(u)[0B11111]=(coroutine.yield);return T;end,B='readu32',ZF=function(q,q,u,k,T,g,H)q=(u%0X8);H=(nil);T=(nil);k=nil;g=0Xa;return g,q,k,H,T;end,dF=function(q,q,u,k,T)(T)[u]=(k);q=0X5e;return q;end,kG=function(q,u,k,T)(T)[45]=function()local g;for H=0x41,0X86__,6 do if H>0B1_000001 then q:eG(T);break;else if not(H<0X47)then else g=T[0B1001](T[0B100110],T[0X1B]);end;end;end;return g;end;if not(not u[22730])then k=q:sG(k,u);else k=(0b10000100+((q.Qt(u[23570]-u[0X5_ce2],u[0x5D36]))-u[27452]-u[13085]));u[22730]=k;end;return k;end,sG=function(q,q,u)q=u[0X58cA];return q;end,mF=function(q)end,xt=bit32.countrz,S=function(q,q)q[0B100000]=(nil);q[0x21]=nil;(q)[34]=nil;(q)[35]=nil;(q)[0X24]=(nil);q[37]=nil;end,ct=string.byte,M='\z  \119\z \u{72}\ite\x75\z\0512',W=function(q,u,k,T)if T~=0B101110_0 then q:I(u);return 0X9d93,T;else T=q:w(k,u,T);return 0X85d6,T;end;return nil,T;end,UF=function(q,q,u,k,T)local g=(u[0x27][q]);u=(nil);for q=0XC,0Xf2,0X73 do if q==0X00C then u=#g;continue;elseif q==0Xf2 then g[u+0x2]=k;else if q~=127 then else g[u+0B1]=T;continue;end;end;end;g[u+0B11]=(0X8);end,TG=function(q,u)u[0x18__]=(u[42]/0B11000001);while u[47]do return-0x2_,(q:BG());end;return nil;end,Y=table,t=setfenv,U=bit32.rrotate,et=function(q,u,k,T,g)u=T();if not g[0x1DDF]then k=q:Dt(k,g);else k=g[7647];end;return u,k;end,R=function(q,q,u)q=u[0x5d_36];return q;end,tF=function(q,u,k,T,g,H,O)u=g[52]();T=g[0X34]();local m;k=nil;H=nil;for b=107,269,0X18 do if b>0x6b then if b==0X9B then H=q:xF(H,m);break;else k=g[0X34]();end;else m=q:VF(m,g);continue;end;end;O=((m-H)/0b1000_);return H,T,k,u,O;end,JF=function(q,u,k,T,g,H)local O;k=nil;T=nil;for m=0B1101011,0XCb__,0B11_1010 do H,T,O,k=q:MF(g,H,m,k,T,u);if O==34847 then break;end;end;return H,k,T;end,HF=function(q,q,u,k,T)u[T]=q[0B100111][k];end,Z=string,N=true,CF=function(q,q,u)u=q[0X639e];return u;end,hG=function(q,u,k,T)local g,H,O=(0b1110110);repeat H,g,T,O=q:mG(u,T,k,g);if H==0x8Ea then break;elseif H==0x5BF7 then continue;else if H~=-0X2_ then else return-0x2,T,O;end;end;until false;return nil,T;end,iG=function(q,q,u,k)u=nil;q=nil;k=0B1000100;return k,u,q;end,MG=function(q,u,k,T)if k>0B11__01 then if not(k<=99)then(u)[0X2e]=9007199254740992;(u)[0b101111]=function()return(q:YG(u));end;if not T[29089]then k=q:GG(T,k);else k=(T[0X7__1A__1]);end;else k=q:kG(T,k,u);end;else(u)[0X30]=(function()local T,g,H,O=0B1100011;while true do if T==0x66 then if u[0b101100]==u[0X2_e]then g,H=q:TG(u);if g==-0X2 then return H;end;end;break;else O,T=q:rG(T,u,O);continue;end;end;u[0B11011]=(u[0x1b]+4);return O;end);return 54994,k;end;return nil,k;end,pF=function(q,u,k,T,g,H,O,m,b,I,A,S)local G;if u==239 then(S)[3]=m[51]();else if u==0Xc0 then for F=1,H,1 do local H,P,Y,N,p;N,P,Y,H,p=q:tF(H,Y,P,m,N,p);local l,E,B,D,X;X,l,D,E,B=q:ZF(l,P,D,B,X,E);repeat if X>0x3b then if X<=76 then D=(Y-E)/8;X=(59);else if X~=0X61 then(O)[F]=H;break;else X,B=q:QF(X,B,l,P);continue;end;end;else E,G,X=q:NF(B,X,b,E,Y,F);if G==0x9289_ then continue;end;end;until false;for H=0b111101_0,482,87 do G=q:lF(B,m,l,p,g,I,A,F,H,S,b,E,T,D);if G==0X4e05 then break;else if G==0XD1__bE then continue;end;end;end;if N==0B111__ then q:EF(k,S,m,p,F);else if N==2 then I[F]=(p);elseif N==0B100 then q:bF(p,I,F);else if N==0x3 then(I)[F]=(F-p);else if N~=0B01_ then else Y=nil;for g=2,0X9D,45 do if g==47 then q:yF(F,m,Y);break;else if g~=0B10 then else Y=#m[0X15];m[0X15][Y+0x1]=(k);continue;end;end;end;m[21][Y+0X3]=p;end;end;end;end;end;elseif u==0b1100010 then S[9]=(T);return 61954;else if u==0X91 then(S)[0B1000]=(A);return 0Xf202;end;end;end;return nil;end,qG=function(q,u,k,T,g)local H,O,m;for b=0B1111,0X5C,0X4D do O,m=q:AG(m,b,g);if O==20952 then continue;end;end;u=(g[0X2B]()~=0B0);k=(0b1111);while true do if k>0xF then for b=1,m do local I,A,S=(115);while true do if I<=0B110110__ then if I~=0X36 then A,O,I,H=q:fG(g,A,m,I,S);if O==0x2B31_ then continue;elseif O==-0X2 then return u,-0X002,k,T,H;elseif O~=-0X001__ then else return u,-0B1,k,T;end;else S=g[0X2b]();I=(0X1D);continue;end;else if I==88 then break;else I,A=q:_G(A,I);continue;end;end;end;if not(u)then q:nG(A,b,g);else(g[0X27])[b]={A,(g[0X2a](A))};end;end;break;else if not(k<34)then else k=(0b100010);(g)[20]=(u);end;end;end;T=g[0x33]()-15617;return u,nil,k,T;end,BF=function(q,u,k,T,g,H)local O;T=(nil);local m;g=(0X9);repeat if g>0X9 and g<84 then m=H[0X029__](O);break;else if g>0X23 then T=({q.c,nil,q.c,nil,nil,q.c,q.c,nil,q.c,q.c,nil});g=0x23;else if not(g<35)then else O=H[51]();g=(0X54);end;end;end;until false;T[6]=(m);u=({});k=(nil);g=(0X21);while true do if g==33 then for b=1,O do q:rF(m,b,H,u);end;g=(0XC);else k=(H[0B110011]()-0x11D16);break;end;end;return k,T,g,u;end,f=function(q,u,k,T)k[35]=q.Q;k[0X24]=q.zt;if not T[23862]then u=-75138657+((T[12900]-T[0X678d]-q.e[0x9]<=T[0x03766]and q.e[0X9]or T[0X6b3C])-T[0X00_3Ce]);(T)[0x5D36]=u;else u=q:R(u,T);end;return u;end,vF=function(q,u,k,T,g)local H=T[39][g];g=(#H);T=0B110011;repeat if not(T>=0B011__10110)then(H)[g+0B1]=u;T=0x7__6;else q:zF(g,k,H);break;end;until false;H[g+0B11]=0X9;end,eG=function(q,q)q[0B11011]=(q[0B11011]+0X2);end,v=string.unpack,wF=function(q,u,k,T,g,H,O,m,b,I,A,S,G)local F,P;G[0X5]=(O);G[0X04]=A;for Y=33,0B11100111,99 do q:cF(I,k,S,Y,G);end;for Y=98,0XeF,0B101111 do P=q:pF(Y,S,u,O,b,I,g,A,k,T,G);if P==61954 then continue;end;end;A=0B1;H=(46);repeat if H==0b101__110 then if g[0B10__11]~=g[0B111001]then else for u=121,0X135,0B1110111__ do P=q:OF(g,u,A);if P~=391 then else break;end;end;end;H=(0B1_10101);else if H==53 then H=(0X10);G[2]=m;else if H==0B10000 then for u=0x1,g[47](),0X1 do P,A,F=q:IF(A,g,m);if P==-0x2__ then return-0b10,H,F;end;end;break;end;end;end;until false;G[0B1_]=g[0X33]();return nil,H;end,WG=function(q,q,u)u=q[47]();return u;end,aF=function(q,u,k)(k)[30595]=(-4294967079+((q.Zt((q.dt(k[0X36d9],k[14799],k[0X1DDF]))+k[0X0019D8]))-k[0X38D5]));u=(0x78+(q.Nt((q.dt((q.xt(q.e[0B100]))))-k[0X5c12])));(k)[0XFb4]=(u);return u;end,o=function(q,u,k,T,g)repeat if T==57 then k[0B1]=q.ct;if not(not u[6591])then T=u[0X19Bf];else(u)[0x5c12]=0X7c+(q.xt((q.Vt((q.e[1]<q.e[0B101]and q.e[5]or q.e[0X6__])-q.e[3],(3)))));T=4084513848+((q.xt((q.tt(q.e[4],(30)))+q.e[0x4__]))-q.e[2]);(u)[0X19bf]=T;end;else if T==0X44 then g=q:j(k,g);break;end;end;until false;(k)[3]=q.P;(k)[0X4]=nil;k[0x0_05]=(nil);(k)[0X6]=(nil);return g,T;end,EG=function(q,u)u=q.N;return u;end,_G=function(q,q,u)u=(0X36);q=(nil);return u,q;end,L=function(q,q,u,k)u=(0X7b);k=q[0x7](q[0X26],q[0x1B]);return k,u;end,kt=function(q,q)return(0B10100011 and 0X8F)<q[0X25];end,T="re\x61\zd\1023\z\50",OF=function(q,q,u,k)if u>0X79 then q[0X31_]=q[0x3A];return 0x18__7;else if u<0B11110000_ then if q[24]then(q)[0X2f],q[0B110010]=k,(-q[0X2F]);end;end;end;return nil;end,IF=function(q,u,k,T)local g,H;for O=0B1_010001,0X0dD,70 do if O<=0X51 then q:mF();continue;elseif O>=221 then H=(g/2);if k[0B11_0100__]==k[0x1_d]then while k[1]%0B1_00100 do return-2,u,(q:hF(k));end;elseif g%0B10_~=0 then u=k[0X2F]();local q=k[0X2f]();for O=H-H%0X1,u,0X1 do T[O]=(q);end;else if k[0B111011]~=k[29]then(T)[u]=H-H%0X1;end;end;else g=k[47]();end;end;u+=0X1;return nil,u;end,FF=function(q,q,u,k)k[q]=q-u;end,gG=function(q,q,u)q[0B1011][0B10]=u;end,H=unpack,ut=function(q)return;end,Gt=function(q,u,k)k=(0B11010+(q.tt((q.dt((q.xt(u[0X6B3C]))))+u[0x6914],(u[0X3dfa]))));(u)[0x65dc]=(k);return k;end,tt=bit32.rshift,X=bit32.bxor,sF=function(q,q)q[0x1D]=0B100;end,pG=function(q,u,k)u=(0b0011001);if k[0Xd]~=k[0X37]then else while k[0X3c]do q:yG(k);end;return-0X2_,u,k[0xd];end;return nil,u;end,eF=function(q,q)return q;end,WF=function(q,u,k)u[0x76__65]=(41+(q.tt((q.dt((q.Vt(u[0X4d6b]+u[2171],(u[29089]))),u[0X6388])),(u[0X69__1__4]))));u[13440]=(-0B1100011+(q.vt((q.xt(u[6616]-u[15866]-u[0X3Ce])),(u[14799]))));k=(0b10010+((q.vt(u[974]<q.e[0B100]and q.e[7]or u[19819],(u[29089])))+q.e[0X5]~=u[26509]and u[24204]or q.e[0X8]));u[0X00639E]=k;return k;end,PG=function(q,q)q[0B10010_1]=-q[0B10000_0];end,K=function(q,u,k,T)(u)[5]=(getfenv);if not(not k[26900])then T=(k[0X6914]);else k[0X4163]=-1591827772+((q.Zt((q.Qt(q.e[0b11__1]+k[0X19Bf]))))+q.e[0X5]);T=(-4388376909+((q.Qt(q.e[0B101]+q.e[0X4]-T,q.e[0X4]))+q.e[0B101]));(k)[26900]=(T);end;return T;end,xG=function(q,u,k,T,g)if g~=0B100011 then g=0X4d;if k==0X0 then return u,k,-0X2,g,(q:cG(u));else if k>=T[32]then k-=T[0B1101];end;end;return u,k,0XAA11,g;else g=(0b100110);u,k=T[0b101111](),T[0B101__111]();return u,k,43537,g;end;return u,k,nil,g;end,Ft=bit32.rrotate,rt=function(q,u,k,T,g)if not(T<=0x1a)then if T==0X67 then u=({});if not(not g[0X65dC])then T=(g[0X65DC]);else T=q:Gt(g,T);end;else(k[0Xb])[0B1010]=q.z.countlz;if not(not g[4657])then T=(g[0X123__1]);else T=q:Yt(T,g);end;return 57282,T,u;end;else if k[0B111100]~=k[0XB]then else q:ut();return-0x1,T,u;end;return 0XF02f,T,u;end;return nil,T,u;end,YF=function(q,q,u)u=(32);(q)[0X2],q[44]=79,(0B1100111);return u;end,lF=function(q,u,k,T,g,H,O,m,b,I,A,S,G,F,P)if I<0x0017F and I>0XD1 then if G==7 then if k[0X14]then q:vF(A,b,k,P);else(F)[b]=k[0X27][P];end;else if G==0x2 then H[b]=(P);else if G==4 then H[b]=(b+P);elseif G==0X3 then q:FF(b,P,H);else if G==1 then q:iF(k,P,F,b);end;end;end;end;return 53694;else if I<209 then(O)[b]=(g);return 0xD1Be;elseif I>296 then q:oF(S,b,u,A,k,m,T);return 0X4_e05;else if I>0X7a and I<0X128 then q:KF(b,P,H);return 0XD1B__e;end;end;end;return nil;end,y=function(q,u,k)k[0x6B3C]=(-0X6_208612_A+((q.zt(q.e[0X006]-u,k[15866]))-q.e[0X7]+q.e[8]));u=-0XC_8B43ad+((q.Zt(u+k[0X41_63]~=k[0x19bf]and q.e[2]or q.e[0x3]))-k[0x6914]);k[13585]=(u);return u;end,J=coroutine.wrap,Tt=function(q,u,k,T,g,H,O,m,b)b=g[0X3B](b,k)(q,m,q.s,H,T,g[0X2B],g[45],g[48],g[0X35],g[0X36],q.e,g[0X3B]);if not O[18315]then u=0B01100110+((((q.Qt(O[0x3__9c_f],O[16739]))~=O[24204]and u or O[14799])==O[974]and O[0X07__7_83]or O[12615])-O[30309]);(O)[0X478b]=u;else u=q:Bt(u,O);end;return u,b;end,KG=function(q)return;end,iF=function(q,u,k,T,g)local H,O=#u[0B10101],0X54;while true do if O==0X23 then u[21][H+0X3]=(k);break;else if O==84 then O=q:XF(H,u,g,T,O);continue;end;end;end;end,dt=bit32.band,oF=function(q,u,k,T,g,H,O,m)local b;if m==0X7 then if H[0X14_]then q:UF(T,H,k,g);else q:HF(H,O,T,k);end;else if m==0X2 then(u)[k]=T;elseif m==0B100 then u[k]=k+T;else if m==0B011 then u[k]=(k-T);else if m~=1 then else local u,g=#H[0X15],(49);while true do b,g=q:jF(T,O,k,g,u,H);if b~=620 then else break;end;end;end;end;end;end;end,NF=function(q,u,k,T,g,H,O)if k~=0b111011 then g=(H%8);k=(97);else k=q:dF(k,O,u,T);return g,37513,k;end;return g,nil,k;end,KF=function(q,q,u,k)k[q]=(u);end,NG=function(q,q)local u;for k=0X6B,0X15b,0x6_4 do if k>0X6b and k<0X133 then if q[0x0028]==q[0X2E]then if q[0B10]then return-0x001;end;end;continue;elseif k>0xCf then q[0x1__b]=q[0x1B]+0B100;break;else if not(k<0Xc_f)then else u=q[0X10](q[38],q[27]);continue;end;end;end;return-2,u;end,fF=function(q,u,k,T,g,H,O)local m;H[0X34]=function()local b,I,A;for S=0X3__b,0B0010011000,33 do if S==0x7d__ then return A;elseif S==0B1011100 then b,I=q:dG(H,A);if b~=-2 then else return I;end;else if S~=0B111011 then else A=H[0X33]();end;end;end;end;H[0x35]=(function()local b,I;b,I=q:NG(H);if b==-0B1 then return;else if b~=-0X2 then else return I;end;end;end);(H)[0x36]=(function()local b;for I=0B00111010,0xC5,0X62 do if I>0B111010 then H[27]=(H[0X1_B]+0X8);return b;else if I<0X9c then b=q:zG(b,H);end;end;end;end);(H)[0B11011_1]=function()local b,I,A=77;while true do if b==0B111__ then q:vG(I,H);break;else if b==0x4D then I=H[51]();b=0X48;else if b==0X48 then b=(0x7);A=H[0x17](H[0B100110],H[0x1B],I);continue;end;end;end;end;return A;end;(H)[56]=(nil);(H)[0B111001]=(nil);g=(0b1100001);repeat if not(g>0B1001100)then H[0X39]=function()local b,I,A;A,b,I=q:iG(I,b,A);while true do if A<0X44 then q:UG(b,I,H);break;elseif A>22 and A<83 then b=H[0B110_011]();A=(0X53);else if A>0x44 then A=22;I=H[0B100](b);continue;end;end;end;(H)[0b11011__]=(H[0X1b]+b);return I;end;break;else g=q:XG(H,g,O);continue;end;until false;H[0x3A]=(function(...)local b=H[0X1c]('#',...);if b~=0x0 then else return b,H[40];end;return b,{...};end);(H)[59]=(nil);H[0b111_100]=nil;k=(nil);g=(0X4C_);while true do k,m,g=q:RF(k,O,g,H);if m==0X6c98 then continue;else if m==57565 then break;end;end;end;u=(function(...)return(...)();end);T=nil;return u,g,k,T;end,dG=function(q,u,k)if k>=u[0B110001]then return-0B10,(q:QG(k,u));end;return nil;end,Q=string.gsub,DF=function(q,u,k)local T=0x6A;while true do if T<106 then q:gG(u,k);break;else if not(T>65)then else T=q:aG(T,u);continue;end;end;end;end,UG=function(q,q,u,k)k[0X16](u,0x0,k[38],k[27],q);end,d=pcall,nG=function(q,q,u,k)(k[0X2_7])[u]=q;end,bF=function(q,q,u,k)(u)[k]=k+q;end,w=function(q,u,k,T)(k)[0X1c]=select;(k)[0X1d_]={};if not(not u[0x36D9])then T=u[0X36d9];else T=(-0x6E622dfe+(q.e[0X4]-u[0X39Cf]+u[0X4d6B]+q.e[0X4]-u[25480]));(u)[0X36d9]=T;end;return T;end,TF=function(q,q,u,k,T,g,H,O,m)T=q[41](u);O=nil;k=nil;m=(nil);H=(0B1110011);while true do if H<=0X36 then m=q[0B1__0_1001__](u);break;else O=q[0B101_00_1](u);H=0X36;k=q[0X29](u);end;end;g=nil;return T,k,g,H,m,O;end,O=function(q,q,u)q=u[0X4d6b];return q;end,RF=function(q,u,k,T,g)if T>0x4C then u=(function()local H,O,m,b,I;m,H,b,I,O=q:qG(m,b,I,g);if H==-0X2 then return O;else if H~=-1 then else return;end;end;H=g[41](I);for A=0X77,0X16D,0X07B do if not(A<=0X77)then if A>=0X16D then for A=1,#g[0x15],0x3 do q:LG(H,A,g);end;else for A=0X1,I,1 do H[A]=g[60]();end;end;else(g)[21]=g[0X29](I*0X3);end;end;if not(m)then else q:DF(g,H);end;O=(H[g[0X33]()]);b=(0b01_001000);repeat if b<0X3a then b=0B11101__0;g[25]=q.c;else if b>0b111 and b<0B1001000 then return(q:eF(O));else if not(b>0x3A)then else g[39]=q.c;(g)[0X15]=nil;b=(0x7);continue;end;end;end;until false;end);return u,57565,T;else if T<0X4c then T=q:SF(T,g,k);return u,27800,T;else if not(T>0X3B and T<0x5__e)then else(g)[0x3B]=(function(H,O,m)local b,I,A,S,G,F,P,Y=H[0X1],H[0X2],H[0B1000],H[9],H[11],H[0X005],H[0X7],(H[0b10_0]);local N=H[0xa];m=nil;m=function(...)local p,l,E,B,D,X,x=g[0B101_001](b),0x1,0B0,0x1;local b,W=g[0X3A](...);local J,U,i,t=0X1,(g[0x5]());local c,C,V,o=g[56](function()local f,s,K,R,d,w,M,_,v,z;repeat local Q=(N[J]);if not(Q>=0X67)then if not(Q<0X33)then if not(Q>=0x4D)then if not(Q<64)then if Q<0x46 then if not(Q<67)then if not(Q<0X44)then if Q==0X45 then p[P[J]]=(p[F[J]]<p[Y[J]]);else end;else(p)[F[J]]=(p[Y[J]]%G[J]);end;else if Q>=0x41 then if Q~=66 then if not(not(A[J]<=p[P[J]]))then else J=F[J];end;else v=(0b11);end;else(p)[F[J]]=(p[P[J]]-A[J]);end;end;else if not(Q>=73)then if not(Q<0B1000111)then if Q~=0X48 then D=({[0X3]=t,[0X5]=D,[0X4]=x,[1]=i});l=(Y[J]);v=g[0X13](function(...)g[0x1F]();for Z,L in...do(g[0X1f])(true,Z,L);end;end);(v)(p[l],p[l+0B1],p[l+2]);x=(v);J=P[J];else p[Y[J]]=(H);end;else _=_[w];w=A[J];end;elseif Q<0B10_01011 then if Q~=0B1001010 then p[P[J]]=(p[Y[J]]-p[F[J]]);else p[F[J]]=g[0Xb][P[J]];end;else if Q~=76 then p[F[J]]=O[P[J]][A[J]];else p[F[J]]=G[J]>=A[J];end;end;end;else if Q>=0x39_ then if Q>=60 then if not(Q>=0X3E)then if Q~=0X03D then _=(p);w=F[J];_=_[w];else v=Y[J];K=(0X0_);for H=v,v+(F[J]-1)do p[H]=W[B+K];K+=0X1;end;end;else if Q==63 then w=P[J];_=(_[w]);w=(A[J]);else w=(l);_=(_[w]);_=_();end;end;else if Q>=0b11_1010 then if Q==0X3B then _=G[J];(v)[K]=(_);else w=(w[M]);_*=w;v[K]=(_);end;else l=(v);v=(p);end;end;else if Q>=0B110110 then if Q>=0B00110111 then if Q~=0B111000 then if not(p[P[J]]<=p[Y[J]])then J=F[J];end;else p[Y[J]]=(p[P[J]][S[J]]);end;else v=(Y[J]);K,_,w=x();if K then(p)[v+0X1]=(_);(p)[v+2]=w;J=F[J];end;end;else if Q>=0X34 then if Q==0X35 then p[P[J]]=p[F[J]]>A[J];else p[Y[J]]=(N);end;else(p)[Y[J]]=p[F[J]]+G[J];end;end;end;end;else if Q>=0b1011_010 then if not(Q>=0B01100000)then if Q>=93 then if not(Q>=0X5e)then D=({[0B11]=t,[0X5]=D,[4]=x,[1]=i});v=F[J];t=(p[v+2]+0X0);i=(p[v+0x1]+0X0);x=p[v]-t;J=P[J];else if Q==95 then if p[F[J]]==G[J]then else J=(Y[J]);end;else(p)[F[J]]=(p[P[J]]>=A[J]);end;end;elseif not(Q>=0x5b)then p[F[J]]=(A[J]+p[P[J]]);else if Q~=0X5C then if not(p[F[J]])then else J=(Y[J]);end;else p[Y[J]]=(#p[F[J]]);end;end;else if Q<99 then if not(Q<97)then if Q~=0X62 then _=_[w];else _=A[J];end;else v=(F[J]);end;else if not(Q<101)then if Q~=0B1100110 then(p)[F[J]]=p[P[J]]/p[Y[J]];else w=(p);end;else if Q==0x64 then p[F[J]]=A[J]==G[J];else v=(v[K]);(v)();v=(l);end;end;end;end;else if Q>=0x53 then if not(Q<0x5_6)then if not(Q<0X58)then if Q~=0X59 then p[P[J]]=A[J]<=S[J];else(v)[K]=(_);end;else if Q==0X5_7 then _=A[J];(v)[K]=(_);else v=(v[K]);K=v;end;end;else if not(Q>=0B001010100)then v=(F[J]);(p)[v]=p[v](p[v+1],p[v+2]);l=(v);else if Q~=0X55 then v=(p);K=Y[J];_=p;else v[K]=(_);end;end;end;else if Q>=0x50 then if not(Q<0B010_10001__)then if Q==0X52 then K=(F[J]);else l=(F[J]);(p[l])();l-=1;end;else E=(P[J]);for H=1,E do p[H]=(W[H]);end;B=(E+0b1);end;else if not(Q>=78)then w=(A[J]);_+=w;else if Q~=0B10011_1_1 then p[Y[J]]=(p[P[J]]%p[F[J]]);else v=p;K=l;end;end;end;end;end;end;else if not(Q>=0B1_1001)then if not(Q>=0Xc)then if Q<0B110 then if not(Q<0X3)then if not(Q<0x4)then if Q~=0B101 then v=(p);K=Y[J];v=(v[K]);elseif p[Y[J]]~=G[J]then else J=(F[J]);end;else p[F[J]]=not p[Y[J]];end;else if Q>=0x1 then if Q~=2 then v=F[J];p[v](g[0X1A](l,v+0X1,p));l=(v-0b1);else v=F[J];K=b-E-1;if not(K<0)then else K=-1;end;_=(0B0);for H=v,v+K do(p)[H]=W[B+_];_+=0X1;end;l=v+K;end;else p[P[J]]=O[Y[J]][p[F[J]]];end;end;else if not(Q>=9)then if not(Q>=0X7)then _=_>=w;(v)[K]=_;else if Q~=0x8 then w=A[J];else w=(S[J]);_-=w;(v)[K]=(_);end;end;else if Q>=10 then if Q==0B1011 then v=(P[J]);(p[v])(p[v+0b1],p[v+0X2]);l=v-0x1;else K=(S[J]);_=p;w=(P[J]);end;else K=S[J];end;end;end;else if not(Q>=0b100__10)then if not(Q>=0XF)then if not(Q>=0B11__01)then(p)[Y[J]]=(-p[F[J]]);else if Q==14 then(p)[P[J]]=S[J]%A[J];else v=(Y[J]);(p)[v]=p[v](g[26](l,v+1,p));l=v;end;end;else if Q<0B10000 then v=(G[J]);K=v[6];_=#K;w=(_>0x0 and{});M=g[0X3B](v,w);g[0b010_00__01](M,U);(p)[F[J]]=M;if not(w)then else for H=0B0__1,_ do M=K[H];v=M[1];d=(M[0X3]);if v==0B0 then if not(not X)then else X=({});end;f=(X[d]);if not f then f=({[0B11]=d,[0X1]=p});X[d]=f;end;w[H-0B1]=(f);else if v==1 then w[H-0x1]=p[d];else(w)[H-0x1]=(O[d]);end;end;end;end;else if Q==0x11 then if X then for H,b in X do if not(H>=0B1)then else(b)[0X1]=b;(b)[0B0010]=p[H];b[0B11]=0B010;(X)[H]=(nil);end;end;end;v=Y[J];return false,v,v+F[J]-0B10;else _=(A[J]);w=S[J];_-=w;end;end;end;else if not(Q<0X15)then if Q>=0B10111 then if Q~=0b1_1000 then v=p;else w=(w[M]);_+=w;end;else if Q~=22 then v=p;K=F[J];_=G[J];else(U)[S[J]]=(p[Y[J]]);end;end;else if not(Q<0X13)then if Q==0B10100 then p[F[J]]=(G[J]);else(p)[P[J]]=(U[S[J]]);end;else v=p;end;end;end;end;else if Q>=0b00100110 then if not(Q>=0b101100)then if not(Q<41)then if Q<42 then p[Y[J]]=(nil);else if Q==43 then v=P[J];K=(p[Y[J]]);(p)[v+1]=(K);p[v]=(K[S[J]]);else p[P[J]]=(p[Y[J]]*p[F[J]]);end;end;else if Q>=0B100111 then if Q~=0b101000 then _=(O);w=(F[J]);_=_[w];else p[F[J]]=(p[P[J]]~=A[J]);end;else(p)[F[J]]=p[P[J]][p[Y[J]]];end;end;else if Q>=0X2f then if not(Q>=0B0110001)then if Q~=48 then v=p;K=F[J];_=O;elseif not(p[P[J]]<p[Y[J]])then J=F[J];end;else if Q~=50 then M=(F[J]);else(p[P[J]])[p[F[J]]]=p[Y[J]];end;end;else if Q<0X2D then v=Y[J];p[v](p[v+0X1]);l=v-0B1;else if Q==0X2__e then v=(P[J]);K=(F[J]);_=p[v];g[0XA](p,v+1,l,K+0B1__,_);else(p)[F[J]]=(Y);end;end;end;end;else if Q>=0B11111__ then if not(Q<0b100010)then if not(Q<36)then if Q==0x2__5 then p[Y[J]]=g[0X29](F[J]);else w=(P[J]);_=_[w];w=S[J];end;else if Q==0x2__3 then v=nil;K=nil;_=nil;w=nil;M=(85);repeat if M>79 then if M<=0B10_10101 then v=-8805;K=(0X0_);M=(-0X3A+((g[0B1011][0B1001](Q,M,M))+Q+Q+Q));continue;else if M>=0X62 then _=g[11];M=(0X41+(g[11][0b1010]((g[11][0X9](Q~=Q and M or Q))+M)));continue;else w=0X5;break;end;end;else if M~=0x30 then K*=_;M=(-4294938860+((g[0XB][0xb]((g[0xb][8]((g[0Xb][0Xc_](M,Q,Q)))),(g[0b1011][13]('<\1058','\b\0\0\u{00}\z\u{00}\x00\0\0'))))+M));continue;else _=4503599627370495;M=(-0B110__111+(g[0XB][14]((g[11][0xe](M+Q,M))+Q,M,M)));continue;end;end;until false;d=nil;M=(0X79__);repeat if M>0b1001__1 then _=(_[w]);M=-0X14+((g[0XB][0B1100]((g[0XB][0Xa](M+M)),Q,Q))-Q);continue;else if M>0X004__ and M<121 then d=0X006;break;else if M<19 then w=(g[0XB]);M=(-0B100_00+((g[11][0b11_1](Q+Q,(M)))-M>=M and Q or Q));end;end;end;until false;w=(w[d]);f=nil;M=0X9;while true do if M<=0X9 then d=(g[0b1011]);M=-2359212+(g[11][0xb]((g[0B1011][0B1__01](M,(M)))+M-M,(M)));else f=(0B111);break;end;end;d=(d[f]);z=nil;M=(75);while true do if M>0X02E then f=g[0XB];M=0x60+((g[0xb][0XA]((Q>=Q and Q or Q)+M))-M);else if not(M<75)then else z=(0x8);break;end;end;end;f=(f[z]);R=nil;M=(0B111010);repeat if M==0X51 then R=(N[J]);z-=R;break;else z=N[J];M=(-0X7Ae_+(g[0Xb][7]((g[0B101_1][0X7](Q<=M and M or Q,(0X1d)))-Q,(0X15))));end;until false;M=0X8;repeat if M>0b11_1100 then if not(M<=78)then if M<=0X6b then z=(7);M=(0X52+((g[0Xb][0XA]((g[0xb][0B1111](M+M))))-Q));continue;else f+=z;M=-0X1a3+(Q+M+M+Q+M);end;elseif M~=0X47 then d=d(f,z);break;else z=(N[J]);M=-174587782+(g[11][0x6]((g[11][0b1011](Q,(4)))+Q+M,(0b1110)));end;else if M>8 then if M==0B111100 then f+=z;M=22+(Q+M+M-Q-Q);continue;else z=(Q);M=9+(g[11][0B110__0]((g[0B1011][0X7](M<Q and Q or M,(M)))+M,Q));end;else f=f(z);M=0b1_0_0100+((g[0XB][0Xb](M,(M)))+Q+Q~=Q and Q or M);continue;end;end;until false;M=0b1100;repeat if M~=123 then f=N[J];d=(d>=f);M=(88+((g[0XB][0Xa](M+M))+Q<=M and Q or Q));continue;else if d then d=Q;end;if not d then d=(Q);end;f=(27);break;end;until false;w=w(d,f);M=50;while true do if M<105 then d=(0x3);M=(-4294967164+(g[0XB][8]((g[0X0B__][0b10_10](M-M+M)))));continue;else _=_(w,d);break;end;end;K+=_;v+=K;M=0b11011;while true do if M==0B001010010_ then w=(w[d]);M=0XD0+(M-M-M-Q-M);elseif M==0x9 then _=_..w;break;elseif M==0X5 then K=F[J];_=G[J];w=p;M=-4294967188+((g[0xB][8]((g[0B1011][0XE](M))+Q))-Q);continue;else if M==32 then d=(Y[J]);M=79+(g[11][0X0e]((g[0B1011][0X6]((M>Q and M or Q)-M,(M)))));continue;elseif M==0X1b then(N)[J]=v;M=(0B110__1__1+((g[11][0Xf]((g[0Xb][0XF](Q))))+Q>=Q and Q or Q));continue;else if M~=0X3e then else v=p;M=-0B11110+((g[11][0X6]((g[11][7](Q-Q,(g[0Xb][0Xd_](">\1058","\x00\0\0\0\0\0\z  \0\13")))),(0Xf)))+Q);end;end;end;end;(v)[K]=(_);else p[P[J]]=(p[F[J]]);end;end;else if Q<0x020 then v=p;K=(P[J]);else if Q~=0B1000__01 then(p)[F[J]]=(G[J]+A[J]);else(p)[P[J]]=(p);end;end;end;else if Q<0X01c then if not(Q>=0x1a)then _=0B1;K=(K[_]);_=(v);else if Q==0x1b then l=F[J];p[l]=p[l]();else v=p;K=Y[J];end;end;else if Q<0b11101 then v=(p);K=P[J];_=(A[J]);else if Q~=0X1E then(p)[P[J]]=p[Y[J]]..S[J];else _=p;w=P[J];_=(_[w]);end;end;end;end;end;end;end;else if not(Q>=0B10011011)then if Q<0X81 then if Q>=0x74 then if Q<0B111101_0 then if Q>=0X77 then if Q>=0B1111000 then if Q~=0X79 then v=nil;K=(nil);_=(nil);w=0X00_6f_;while true do if w<=0B10 then K=(0X0);w=0X4+((g[0B1011][8](Q-Q-Q))-w);continue;elseif w<=0X6_f then v=(-0B10111101_);w=0X2+(g[0xb][0X7]((Q<=w and Q or w)+w-w,(0X1A)));continue;else _=4503599627370495;K*=_;break;end;end;_=g[0xb];M=nil;w=(0b1110000);repeat if w<=0B1111 then _=_[M];w=0B100010+((g[11][0XF]((g[0b1__011__][0XB](Q+w,(w)))))-w);continue;else if not(w>0B100010)then M=Q;break;else M=0XC;w=-0X60+(g[0x00B][0x8]((g[0XB][0Xa](w-Q))-w));continue;end;end;until false;d=nil;w=(0X29);repeat if w<116 then d=N[J];w=-4294966977+(g[0X00b][0b1000]((Q<=w and w or w)+w+Q));continue;else if w>41 then M+=d;break;end;end;until false;d=Q;w=0B1_101111;while true do if w==86 then d=N[J];w=(0b111101+(g[0Xb][0b111](Q+Q-w<=Q and Q or w,(0XA))));continue;else if w==0X2 then d=Q;w=(121+(g[0Xb][0B1001]((g[11][0X9](Q<=w and Q or Q,Q))-Q)));continue;elseif w==0X78 then _=_(M);break;elseif w==0b100 then d=(N[J]);w=(-4294967252+(g[0Xb][8]((g[0Xb][0xa]((Q>=w and Q or Q)+Q)))));elseif w==0X13 then M-=d;w=(0x1D+(w+w+w-w+w));continue;elseif w==0x0079 then M+=d;w=-4294967051+(g[0B1011][0X8]((w+Q<w and Q or Q)+Q));continue;else if w==0b1101111 then M-=d;w=-132+((g[0Xb][0Xa](w+w+Q))+w);else if w~=61 then else M+=d;w=(0x7_8+(g[11][0B1111]((g[11][0B001010](w))+w<=Q and w or w)));continue;end;end;end;end;end;M=Q;_=(_<=M);if _ then _=(N[J]);end;if not(not _)then else _=(Q);end;w=(0X23);repeat if w==0X23_ then M=N[J];w=(0x6_+(g[0XB][0X9]((g[11][11]((g[0B1011][0XC](Q)),(0xB__)))+w,w,Q)));elseif w==0X4D then K+=_;v+=K;w=(-0B101+((g[11][10]((g[0xB][8](w))-Q))~=Q and w or w));elseif w==38 then _+=M;w=(0B1001101+(g[11][0B111](w-w-w+w,(7))));continue;else if w==0b100_1000 then(N)[J]=v;break;end;end;until false;v=(p);K=(Y[J]);_=(p);M=(F[J]);w=0B110011;while true do if w==0X18 then v[K]=_;break;elseif w==0X5D then _+=M;w=144+((w+w~=Q and w or Q)-Q-w);continue;elseif w==0X33 then _=(_[M]);w=(0X121+((g[0b1011][0B001010]((g[0xB][0x8](Q))))-Q-w));else if w==0X76 then M=(G[J]);w=(-31457307+(g[0XB][0xc]((g[11][0x5]((g[0B1011][6](Q~=Q and w or Q,(18))),(g[11][0b1101](">i8",'\z  \0\0\0\z  \0\z  \0\0\0\4')))),Q,Q)));end;end;end;else _=p;w=F[J];end;else _=(p);w=(F[J]);end;else if Q>=0X75 then if Q==118 then v=(O[F[J]]);(v[0X1])[v[0X3]]=(p[Y[J]]);else(p)[Y[J]]=(O[F[J]]);end;else v=p;K=F[J];end;end;else if not(Q<0B11111_01)then if not(Q<127)then if Q==0X8__0 then _=_[v];else p[Y[J]]=p[P[J]]+p[F[J]];end;else if Q~=0B1111__110 then l=v;else(v)[K]=(_);end;end;elseif Q>=0x7B_ then if Q==0X07C then p[P[J]]=p[Y[J]]//p[F[J]];else(p)[Y[J]]=(p[F[J]]>=p[P[J]]);end;else p[F[J]]=(p[P[J]]<=A[J]);end;end;else if Q<109 then if Q<0b1101010 then if Q<0x68 then v=(p);K=(P[J]);_=p;else if Q~=0b1101001 then p[Y[J]]=({});else _=(-_);v[K]=_;end;end;else if not(Q>=0x6b)then w=(F[J]);_=(_[w]);else if Q~=0B1101100 then(p)[F[J]]=(G[J]-p[Y[J]]);else w=F[J];end;end;end;else if not(Q<112)then if Q<114 then if Q~=0b1110001_ then w=A[J];_=(_>=w);else v=(p);K=F[J];_=(G[J]);end;else if Q==0X073 then v=(v[K]);K=G[J];else v=(O[P[J]]);(v[1])[v[0X3]]=S[J];end;end;else if not(Q>=110)then p[P[J]]=(A[J]-S[J]);else if Q==111 then(p)[F[J]]=p[P[J]]==A[J];else _=(p);end;end;end;end;end;else if not(Q<0X8e)then if Q<148 then if Q>=0X91 then if Q>=146 then if Q==147 then if p[F[J]]==p[P[J]]then else J=(Y[J]);end;else v=(Y[J]);K=(P[J]);end;else v=(false);x+=t;if t<=0X0 then v=x>=i;else v=(x<=i);end;if not(v)then else p[Y[J]+0X3]=x;J=(F[J]);end;end;else if Q>=143 then if Q~=144 then w=P[J];else if X then for H,b in X do if H>=0X1 then(b)[0B1]=(b);b[0B10]=(p[H]);(b)[3]=(0X2__);X[H]=(nil);end;end;end;return false,P[J],l;end;else(p[Y[J]])[S[J]]=(p[P[J]]);end;end;else if Q>=151 then if Q>=153 then if Q==154 then(p)[Y[J]]=G[J]^p[F[J]];else v=(O[Y[J]]);(v[0X1][v[0B11]])[p[F[J]]]=p[P[J]];end;else if Q~=152 then v=(p);K=F[J];_=(A[J]);else v=p;K=F[J];end;end;else if Q>=149 then if Q==0X96 then _=(p);w=(Y[J]);_=_[w];else if not(p[P[J]]<A[J])then J=(F[J]);end;end;else local H=(Y[J]);if X then for b,E in X do if b>=H then(E)[0B1]=(E);E[0X2]=p[b];E[3]=2;X[b]=(nil);end;end;end;end;end;end;else if Q>=0X87 then if not(Q<138)then if not(Q<0x8C)then if Q~=0X8D then x=D[4];i=(D[1]);t=(D[3]);D=(D[5]);else w=(p);M=(P[J]);end;else if Q==0X8B then v=(P[J]);K=(F[J]);_=Y[J];if K==0x0 then else l=(v+K-0x1);end;w,M=(nil);if K~=0B1 then w,M=g[0X3A](p[v](g[26](l,v+1,p)));else w,M=g[58](p[v]());end;if _==0B1 then l=(v-0X1);else if _~=0b0 then w=v+_-2;l=(w+1);else w=w+v-1;l=(w);end;K=(0);for H=v,w do K+=0X1;p[H]=(M[K]);end;end;else v=F[J];l=(v);end;end;else if not(Q>=136)then K=P[J];else if Q==137 then v-=K;elseif not(not(p[F[J]]<=A[J]))then else J=(P[J]);end;end;end;else if Q<0x84 then if Q>=130 then if Q==0B10_000011__ then v=(g[0XB]);K=P[J];_=p;else v=nil;K=nil;_=(nil);w=nil;M=(0b111111);while true do if M==0X14 then K*=_;M=-85937+((g[11][0B11_0]((g[0Xb][0b1111]((g[11][0B101](Q,(M))))),(M)))+M);continue;elseif M==73 then _=(4503599627370495);M=-0X7E+((g[0XB][0X9](M,M))+Q-Q+M);elseif M==0B1100110 then w=(0X8);break;else if M==0X1_2__ then K=0B0;M=(-4294967352+((g[0x00b][0B1000]((g[0xb][0x9](M+M,Q))))+Q));else if M==63 then v=-4294967129;M=-45+((g[11][0X8]((g[0XB][0X5](M,(19)))))+Q>M and M or Q);else if M==0X63_ then _=g[11];M=(-0X1C_+((g[0Xb][0xa](M<=Q and M or Q))-Q>Q and M or Q));continue;end;end;end;end;end;d=(nil);M=(0X54);while true do if M<0x4__8 and M>0B100011 then d=15;M=(-4159700914+(g[11][0Xe]((g[11][11](Q-Q-Q,(20))))));elseif M<38 then w=(g[0XB]);M=0B011+((g[11][0B1110](M<=Q and Q or M,M))+M<Q and Q or M);elseif M>0b1001101 then _=(_[w]);M=(-4294574174+((g[0XB][11]((g[0B1011][0X8]((g[0B01011][0b1010](Q)))),(0XE)))+Q));continue;else if M>0B1001__000 and M<0X5__4 then w=w[d];M=19+((((g[0Xb][0X9](M,M,Q))>Q and Q or M)>=Q and Q or Q)-M);else if M>0X26__ and M<0X4d then d=g[11];break;end;end;end;end;f=(0B001010);z=(nil);M=(0X61);repeat if M==0X61 then d=(d[f]);M=-0b10101+(((g[0B1011][0XE]((g[0Xb][0X7](M,(5)))))>Q and Q or Q)==Q and M or Q);continue;elseif M==0X3b_ then f=f[z];M=(0x5e+(g[0XB][0B111]((g[11][12]((g[11][0XC](M,M))+Q,Q,Q)),(0X8))));continue;else if M==0X4c then f=(g[0XB]);z=(0x6);M=(44+(g[0xb][0X7]((g[0XB][0B11__00]((g[0X00b][0B1000](Q))+Q)),(0X001c))));continue;else if M~=0B1011110 then else z=(g[0B1011]);break;end;end;end;until false;R=nil;s=nil;M=(98);while true do if not(M<=0b1100010__)then if not(M>=0B1110011)then R=(R[s]);M=(0X37+((M<Q and Q or Q)-M+Q-M));continue;else s=Q;break;end;else if M==89 then R=g[0xB];s=(0X8);M=(-0X1FFFf4__3+((g[0B1011][12]((g[0XB][0X0__0b]((g[0XB][0xf](Q)),(0X019)))))-M));else R=(0B1100);z=(z[R]);M=-0B10__1110+((g[0Xb][0XA]((g[11][0XB]((g[0XB][0X5](Q,(g[11][13]("<\u{69}8","\17\0\0\0\u{0}\0\0\0")))),(2)))))+Q);end;end;end;R=R(s);M=(0X1);repeat if not(M>0B1)then s=Q;M=43+(g[0XB][0X6]((g[0Xb][0B111_0]((g[11][0Xf](Q)),M,M))>=Q and M or Q,(M)));else if M~=91 then R+=s;M=-0X7d+((M<M and Q or M)+Q-Q+M);continue;else z=z(R);break;end;end;until false;R=(0x3);M=0B11;repeat if M>0X001A then if not(M<=0X28)then if M==0X67 then w=w(d);M=(-4294967066+((g[0B0__101_1][0xC](Q-M-Q,Q))-M));else if not(not f)then else f=(N[J]);end;M=(40+((g[0B1011][0X9](Q-Q,Q,M))-M+M));continue;end;else d=d(f);M=(0B111111+((g[0B1011][0b1010]((g[0XB][0X9_](Q,M,Q))-M))==M and Q or M));continue;end;else if not(M<=0X3)then if M==0b11010 then _=_(w);break;else z=Q;f=f<z;if f then f=(N[J]);end;M=(43+(g[0Xb__][7](((g[0XB][0b1011](Q,(M)))<=Q and M or Q)==M and M or Q,(M))));continue;end;else f=f(z,R);M=(0X6+(((g[0x0_0b][15](M+M))==M and Q or M)-M));continue;end;end;until false;M=70;while true do if M~=0X46 then v+=K;break;else K+=_;M=-0X1__5+((g[0XB][0XA]((g[0xb][0X6]((g[0xB][0X5](Q,(0x9))),(g[0X00b][0X00D](">\z  i\56","\z \0\x00\0\u{00}\0\0\0\u{016}"))))))~=Q and Q or M);end;end;N[J]=v;M=0B1010_100;while true do if M<=0X2_6 then if M>0X7 then if M~=0X26 then K=(P[J]);M=(-2147483610+(g[0XB][5]((g[0Xb][0B1111](Q+M+M)),(0B1_1111))));continue;else _=(p);M=(-2751463347+(g[0b10_11][0X8]((g[11][0X8__]((g[0XB][5](M-Q,(g[0Xb_][13]('<i8',"\24\0\0\0\0\0\0\z\x00")))))))));end;else w=(S[J]);break;end;elseif M>0x48 then if M~=0X4d then v=(p);M=-0X8d+(Q+Q-Q+Q-M);continue;else w=Y[J];M=-3317+((g[0xb][0Xb_]((M>=Q and M or M)+Q,(0x4)))+M);continue;end;else _=_[w];M=(-195+((M>=M and Q or Q)-M+M+M));continue;end;end;_/=w;v[K]=(_);end;else _=_<=w;(v)[K]=_;end;else if not(Q<0X8__5)then if Q==0B1_0__000110 then if p[Y[J]]~=p[F[J]]then else J=(P[J]);end;else K=0X1;end;else(K)[_]=v;end;end;end;end;end;else if Q>=0XB5 then if Q>=0xC2 then if not(Q>=200)then if not(Q>=0Xc5)then if not(Q<0Xc3)then if Q~=0xc4 then v=P[J];K=(F[J]);l=(v+K-1);if X then for H,b in X do if H>=0B1 then b[1]=(b);(b)[0x2]=p[H];(b)[0B11]=(2);(X)[H]=(nil);end;end;end;return true,v,K;else v=F[J];p[v]=p[v](p[v+0B001]);l=(v);end;else for H=v,K do _=p;w=H;H=nil;(_)[w]=H;end;end;elseif not(Q<0XC6)then if Q==0X00C7 then(p)[F[J]]=G[J]~=A[J];else if X then for H,b in X do if H>=1 then b[0B1]=(b);(b)[0B1_0__]=(p[H]);b[3]=0X2_;X[H]=(nil);end;end;end;v=(Y[J]);return false,v,v;end;else if not(X)then else for H,b in X do if H>=0X1 then b[0X1]=(b);b[0X2]=p[H];(b)[0B11]=0B10;(X)[H]=nil;end;end;end;v=F[J];l=(v+0X1);return true,v,2;end;else if not(Q<0XcB)then if not(Q>=0B11001101)then if Q==0xCC then(O[Y[J]])[S[J]]=p[P[J]];else(p)[Y[J]]=(p[F[J]]*G[J]);end;else if Q==0b11001110 then p[P[J]]=(p[Y[J]]==p[F[J]]);else v=(O[P[J]]);(p)[F[J]]=v[1][v[0B11]];end;end;else if not(Q>=201)then K=(F[J]);v=v[K];K=(G[J]);else if Q~=202 then v=p;K=(Y[J]);v=(v[K]);else v=(p);K=Y[J];_=({});end;end;end;end;else if Q>=0XBb then if not(Q>=0XBE)then if not(Q<0XBc)then if Q~=189 then if not(not p[P[J]])then else J=Y[J];end;else J=(F[J]);end;else if not(G[J]<p[F[J]])then J=Y[J];end;end;else if not(Q<0b11000000)then if Q~=0XC1 then K=(P[J]);_=(U);w=S[J];else if not(X)then else for H,b in X do if H>=0B1 then(b)[0x1]=(b);b[0X2_]=(p[H]);(b)[0b1_1]=0X2;(X)[H]=(nil);end;end;end;return;end;else if Q~=191 then(p)[P[J]]=(P);else w=(P[J]);_=(_[w]);w=(S[J]);end;end;end;else if Q<0B10111000 then if Q<0B10110110 then _=(_[w]);v[K]=_;else if Q==0xb7 then _=_[w];_=(#_);v[K]=_;else p[P[J]]=(A[J]<S[J]);end;end;else if Q>=0Xb9 then if Q==186 then v=Y[J];K=(P[J]);_=(p[v]);g[10](p,v+0X1,v+F[J],K+1,_);else v=Y[J];l=v+P[J]-0x1;p[v]=p[v](g[0X1a](l,v+1,p));l=(v);end;else v=F[J];l=v+P[J]-1;p[v](g[0B11010](l,v+1,p));l=v-0X001;end;end;end;end;else if Q>=0xA8 then if not(Q>=174)then if not(Q<171)then if not(Q>=0XAc)then v=-0X1E0;K=0b0;_=nil;w=(0X0016);while true do if not(w>0X1_6)then _=(4503599627370495);w=(-1249902467+(g[0Xb][0xb__](Q-w+Q-w,(w))));continue;else if w<125 then _=(g[0Xb]);break;else K*=_;w=-0X45+(g[11][0x8]((g[0B1011][8]((g[11][0B1000](Q))~=w and w or w))));end;end;end;M=0B1111;_=(_[M]);M=(g[0B1011]);d=0XC;f=nil;w=(0X001E);while true do if w>95 then d=g[0B1011];w=-0B11001010+(((w>=Q and Q or w)+w<=w and w or w)+w);continue;elseif w<0B1100101 and w>0X1E then d=(d[f]);break;else if w>0X0 and w<0X5F_ then M=(M[d]);w=(-4294966852+((g[0XB][0x8](Q+w))+w-Q));continue;else if not(w<30)then else f=(10);w=437+(w-Q-w-w-Q);end;end;end;end;f=(Q);z=nil;w=0B1011001;while true do if not(w>0B1101_10)then if not(w<=0B0_011101)then d=d(f);w=0B10000+(g[11][10]((g[0x0b][6](Q+w<=w and w or w,(19)))));else f=(N[J]);break;end;else if not(w>0X59)then z=(N[J]);w=(-4294966854+((g[0B1011_][0XC](w-w-Q))-Q));continue;else if w~=0B11100__11 then f=(f>z);if not(f)then else f=Q;end;w=(-54+(g[11][0B1001]((g[0B101_1][0X7](Q,(0B1000)))-Q+w,Q)));else if not(not f)then else f=N[J];end;w=373+((g[0XB][0b1__010](w+Q))-Q-Q);continue;end;end;end;end;w=0X77;repeat if w==119 then M=M(d,f);w=(0x105+((g[11][0X8]((g[0XB][0xC](w-Q,Q))))-Q));else if w~=106 then else _=_(M);break;end;end;until false;M=Q;w=(37);while true do if w==0B1000000 then if not(_)then else _=N[J];end;break;else if w==37 then _=_==M;w=-4294967093+(g[11][0Xc]((g[0XB][0xC](Q-Q-Q,w,w)),w));continue;end;end;end;if not _ then _=Q;end;w=0B10;repeat if w==0b100 then _+=M;break;elseif w==0B10 then M=(Q);_+=M;w=(-0X2_35__+((g[0XB][0x5](Q-Q+Q,(w)))+w));continue;else if w~=0X79 then else M=(N[J]);w=(-0X75+((g[0B1011][11](w==Q and w or w,(0X01_7)))+Q<=Q and w or w));continue;end;end;until false;M=(Q);w=(103);repeat if w<0B110001 then K+=_;w=-2885681105+(g[11][0XB]((g[0XB][0B1100_]((g[11][0x0E]((g[0Xb][0X00A](Q)),w)),Q)),(w)));continue;else if w>0B1011100 then _+=M;w=-180+(((g[0B1__011][14](w,w,Q))-Q==Q and Q or w)+w);else if w>0b11010 and w<0X5c then v+=K;(N)[J]=v;w=(0x181+(w+w-Q-w-Q));else if not(w>0x3_1 and w<0X67)then else v=O;break;end;end;end;end;until false;w=0X0019;repeat if w==36 then v=(v[K]);w=-4294967280+((g[0XB][0xC]((g[11][8](Q-Q))))+w);elseif w==0X19 then K=Y[J];w=-4294967038+(g[0Xb][0B1000_]((Q>=w and w or w)+Q+w));else if w~=0B110011 then else K=(S[J]);break;end;end;until false;w=0x78;repeat if w>119 then _=p;w=0B1110111__+(((g[0Xb][11](w,(0X1B)))-w~=Q and Q or Q)-Q);else if not(w<0B1111000)then else M=(P[J]);_=_[M];break;end;end;until false;(v)[K]=_;else if Q~=173 then p[Y[J]]=p[F[J]]~=p[P[J]];else(p)[P[J]]=(g[0X24](p[F[J]],p[Y[J]]));end;end;else if Q<0xA9 then(p)[P[J]]=(S[J]>A[J]);elseif Q~=0x00aa then K=(l);_=(p);else if not(X)then else for H,b in X do if not(H>=0B1)then else(b)[0B1]=b;b[0B10]=(p[H]);(b)[0B11]=(0X2);(X)[H]=nil;end;end;end;return true,F[J],0x0;end;end;else if Q<177 then if not(Q<0B10101111)then if Q~=0B101__1000_0 then v=O[Y[J]];(p)[P[J]]=v[0B1][v[3]][S[J]];else for H=Y[J],P[J]do p[H]=nil;end;end;else v=O[P[J]];p[F[J]]=v[0X1][v[0B11]][p[Y[J]]];end;else if Q<0XB3 then if Q~=0XB2 then v=O;else v=p;K=(Y[J]);end;elseif Q~=0b10110_100 then(p[F[J]])[G[J]]=A[J];else p[F[J]]=p[Y[J]]..p[P[J]];end;end;end;else if Q<0XA1 then if Q<0X9e then if not(Q<0B100_11100)then if Q==0X9d then p[P[J]]=(g[36](p[Y[J]],S[J]));else(g[0B1011])[P[J]]=p[F[J]];end;else p[F[J]]=(G[J]..p[Y[J]]);end;else if not(Q<0x9_F)then if Q~=0B10100000 then p[F[J]]=(F);else v=Y[J];K=P[J];for H=v,K do _=p;w=(H);H=nil;(_)[w]=(H);end;end;else v=p;w=Y[J];v=(v[w]);end;end;else if not(Q>=0XA4__)then if not(Q<0B10100010)then if Q~=0x00a3 then for H=0b1,Y[J]do p[H]=W[H];end;else(p)[P[J]]=p[Y[J]]/S[J];end;else _=(_[w]);v[K]=_;end;else if not(Q<0b10_100110)then if Q==0b10100_111 then _=_[w];else O[F[J]][p[Y[J]]]=p[P[J]];end;else if Q==165 then v=p;K=(P[J]);else p[F[J]]=(G[J]*p[Y[J]]);end;end;end;end;end;end;end;end;J+=1;until false;end);if not(c)then if X then for H,O in X do if not(H>=0b1)then else(O)[0X1]=O;O[0X2]=(p[H]);(O)[3]=(0x2);(X)[H]=(nil);end;end;end;if g[42](C)~="\u{0073}\z  \x74\x72\105ng"then g[0B110](C,0X0);else if g[30](C,':(\z \37d+)[\z  :\r\x0A\93')then(g[0X6])('Lu\114\97p\x68 S\99r\105\x70t\x3A'..(I[J]or'(i\110te\114\110a\108\41')..':\ '..g[0B11](C),0B0);else(g[0X6])(C,0B0);end;end;else if C then if o==0X1 then return p[V]();else return p[V](g[0X1a](l,V+0B1,p));end;else if not(V)then else return g[0x1a](o,V,p);end;end;end;end;return m;end);if not k[2171]then T=925964068+((q.Nt(q.e[0B101]+q.e[0X9]<k[12900]and k[0X6914]or T))-q.e[4]);(k)[2171]=(T);else T=k[0x87B];end;end;end;end;return u,nil,T;end,oG=function(q)if 0b11101000 then return-2,(q:jG());end;return nil;end,IG=function(q)return;end,LG=function(q,q,u,k)k[0B10101][u][k[0X15][u+0X001__]]=(q[k[21][u+0X2]]);end,k=buffer,m=function(q,u,k)(u)[23778]=-0X3731b971+(q.vt((q.Vt((q.Qt(q.e[4]))+q.e[0X1__],(u[0X3430]))),(u[0X3430])));k=-4004920440+(q.Qt((q.zt((q.vt(u[0x38d5],(u[0x3DFA]))),q.e[5],k))>=q.e[0X7]and u[0x6b3C]or u[0x3147],k,q.e[7]));u[14799]=(k);return k;end,_F=function(q,q,u)q=u[0X2428];return q;end,G='re\u{61}\x64u1\54',F=bit32.lrotate}):D()(...);
+local LoadingTick = os.clock()
+
+if getgenv().Library then
+    getgenv().Library:Unload()
+end
+
+local ESPFonts = {
+    ProggyClean = Font.fromEnum(Enum.Font.Code)
+}
+local SelectedESPFont
+
+local Options, MiscOptions do
+    if getgenv().Esp then 
+        getgenv().Esp.Unload()
+    end 
+
+    local CloneRef = cloneref or function(value) return value end
+    local Workspace = CloneRef(game:GetService("Workspace"))
+    local RunService = CloneRef(game:GetService("RunService"))
+    local HttpService = CloneRef(game:GetService("HttpService"))
+    local Players = CloneRef(game:GetService("Players"))
+    local TweenService = CloneRef(game:GetService("TweenService"))
+    local CoreGui = CloneRef(game:GetService("CoreGui"))
+
+    local vec2 = Vector2.new
+    local vec3 = Vector3.new
+    local dim2 = UDim2.new
+    local dim = UDim.new 
+    local rect = Rect.new
+    local cfr = CFrame.new
+    local empty_cfr = cfr()
+    local angle = CFrame.Angles
+    local dim_offset = UDim2.fromOffset
+
+    local rgb = Color3.fromRGB
+    local hex = Color3.fromHex
+    local hsv = Color3.fromHSV
+    local rgbseq = ColorSequence.new
+    local rgbkey = ColorSequenceKeypoint.new
+    local numseq = NumberSequence.new
+    local numkey = NumberSequenceKeypoint.new
+    local camera = Workspace.CurrentCamera
+
+    local Bones = {
+        {"Head", "UpperTorso"},
+        {"UpperTorso", "LowerTorso"},
+        {"UpperTorso", "LeftUpperArm"},
+        {"UpperTorso", "RightUpperArm"},
+        {"LeftUpperArm", "LeftLowerArm"},
+        {"RightUpperArm", "RightLowerArm"},
+        {"LowerTorso", "LeftUpperLeg"},
+        {"LowerTorso", "RightUpperLeg"},
+        {"LeftUpperLeg", "LeftLowerLeg"},
+        {"RightUpperLeg", "RightLowerLeg"},
+    }
+
+    -- Esp is mainly hardcoded because having to make a library for everything is very useless considering we're working with not more than 10 elements at once. 
+    --[[
+        PlayersTab.AddBar({Name = "Healthbar"})
+        PlayersTab.AddText({Name = "Name"})
+        PlayersTab.AddText({Name = "Distance"})
+        PlayersTab.AddText({Name = "Weapon"})
+        PlayersTab.AddText({Name = "Flags", Color1 = rgb(225, 255, 0)})
+        PlayersTab.AddBox({Name = "Box"})
+
+        Each element will have its own concat for their flag <-- this means that if you make a text called name itll make the flags
+        ["Name"] = true; 
+        ["Name_Color"] = { Color = rgb(255, 255, 255) };
+        ["Name_Position"] = "Left";
+        which will be overwritten in the table down below. 
+
+        All elements will be updated with a metatable, look for the new index and there will be a refresh function.
+
+        I labelled the main code with important tags because some people dont know how to find my code...
+    ]]
+
+    MiscOptions = {
+        ["Enabled"] = false;
+
+        -- Boxes
+        ["Boxes"] = false;
+        ["BoxType"] = "Corner";
+        ["Box Gradient 1"] = { Color = rgb(0, 255, 255), Transparency = 0.9 };
+        ["Box Gradient 2"] = { Color = rgb(255, 0, 0), Transparency = 0.4 };
+        ["Box Gradient Rotation"] = 90;
+        ["Box Fill"] = false; 
+        ["Box Fill 1"] = { Color = rgb(0, 255, 255), Transparency = 0.9 };
+        ["Box Fill 2"] = { Color = rgb(0, 255, 255), Transparency = 0.9 };
+        ["Box Fill Rotation"] = 0;
+
+        ["Healthbar"] = false;
+        ["Healthbar_Position"] = "Left";
+        ["Healthbar_Number"] = false;
+        ["Healthbar_Low"] = { Color = rgb(255, 0, 0), Transparency = 1};
+        ["Healthbar_Medium"] = { Color = rgb(255, 255, 0), Transparency = 1};
+        ["Healthbar_Animations"] = false; 
+        ["Healthbar_High"] = { Color = rgb(0, 255, 0), Transparency = 1};
+        ["Healthbar_Font"] = "Verdana";
+        ["Healthbar_Text_Size"] = 11;
+        ["Healthbar_Thickness"] = 1;
+        ["Healthbar_Tween"] = false;
+        ["Healthbar_EasingStyle"] = "Circular";
+        ["Healthbar_EasingDirection"] = "InOut";
+        ["Healthbar_Easing_Speed"] = 1;
+
+        -- Text Based Elements
+        ["Name_Text"] = false; 
+        ["Name_Text_Color"] = { Color = rgb(255, 255, 255) };
+        ["Name_Text_Position"] = "Top";
+        ["Name_Text_Font"] = "Verdana";
+        ["Name_Text_Size"] = 11;
+        
+        ["Distance_Text"] = false; 
+        ["Distance_Text_Color"] = { Color = rgb(255, 255, 255) };
+        ["Distance_Text_Position"] = "Bottom";
+        ["Distance_Text_Font"] = "Verdana";
+        ["Distance_Text_Size"] = 11;
+    };  
+
+    Options = setmetatable({}, {__index = MiscOptions, __newindex = function(self, key, value) Esp.RefreshElements(key, value) end});
+
+    local Fonts = {}; do
+        local FontNames = {
+            ["ProggyClean"] = Enum.Font.Code,
+            ["Tahoma"] = Enum.Font.BuilderSans,
+            ["Verdana"] = Enum.Font.BuilderSans,
+            ["SmallestPixel"] = Enum.Font.Code,
+            ["ProggyTiny"] = Enum.Font.Code,
+            ["Minecraftia"] = Enum.Font.Arcade,
+            ["Tahoma Bold"] = Enum.Font.BuilderSansBold
+        }
+
+        setmetatable(Fonts, {
+            __index = function(self, name)
+                local fontEnum = FontNames[name]
+                if not fontEnum then
+                    return nil
+                end
+
+                local NewFont = Font.fromEnum(fontEnum)
+                rawset(self, name, NewFont)
+                return NewFont
+            end
+        })
+    end
+
+    local espParentGui = CoreGui
+    if gethui then
+        local ok, hiddenGui = pcall(gethui)
+        if ok and hiddenGui then espParentGui = hiddenGui end
+    end
+    getgenv().Esp = { 
+        Players = {}, 
+        ScreenGui = Instance.new("ScreenGui", espParentGui), 
+        Cache = Instance.new("ScreenGui", espParentGui), 
+        Connections = {}, 
+    }; do 
+        Esp.ScreenGui.IgnoreGuiInset = true
+        Esp.ScreenGui.Name = "EspObject"
+
+        Esp.Cache.Enabled = false   
+
+        function Esp:Create(instance, options)
+            local Ins = Instance.new(instance) 
+            
+            for prop, value in options do 
+                Ins[prop] = value
+            end
+            
+            return Ins 
+        end
+
+        function Esp:ConvertScreenPoint(world_position)
+            local ViewportSize = camera.ViewportSize
+            local LocalPos = camera.CFrame:pointToObjectSpace(world_position) 
+
+            local AspectRatio = ViewportSize.X / ViewportSize.Y
+            local HalfY = -LocalPos.Z * math.tan(math.rad(camera.FieldOfView / 2))
+            local HalfX = AspectRatio * HalfY
+            
+            local FarPlaneCorner = Vector3.new(-HalfX, HalfY, LocalPos.Z)
+            local RelativePos = LocalPos - FarPlaneCorner
+        
+            local ScreenX = RelativePos.X / (HalfX * 2)
+            local ScreenY = -RelativePos.Y / (HalfY * 2)
+            
+            local OnScreen = -LocalPos.Z > 0 and ScreenX >= 0 and ScreenX <= 1 and ScreenY >= 0 and ScreenY <= 1
+            
+            -- returns in pixels as opposed to scale
+            return Vector3.new(ScreenX * ViewportSize.X, ScreenY * ViewportSize.Y, -LocalPos.Z), OnScreen
+        end
+
+        function Esp:Connection(signal, callback)
+            local Connection = signal:Connect(callback)
+            Esp.Connections[#Esp.Connections + 1] = Connection
+            
+            return Connection 
+        end
+
+        function Esp:BoxSolve(torso)
+            if not torso then
+                return nil, nil, nil
+            end 
+
+            local ViewportTop = torso.Position + (torso.CFrame.UpVector * 1.8) + camera.CFrame.UpVector
+            local ViewportBottom = torso.Position - (torso.CFrame.UpVector * 2.5) - camera.CFrame.UpVector
+            local Distance = (torso.Position - camera.CFrame.p).Magnitude
+
+            local NewDistance = math.floor(Distance * 0.333)
+
+            local Top, TopIsRendered = Esp:ConvertScreenPoint(ViewportTop)
+            local Bottom, BottomIsRendered = Esp:ConvertScreenPoint(ViewportBottom)
+
+            local Width = math.max(math.floor(math.abs(Top.X - Bottom.X)), 3)
+            local Height = math.max(math.floor(math.max(math.abs(Bottom.Y - Top.Y), Width / 2)), 3)
+            local BoxSize = Vector2.new(math.floor(math.max(Height / 1.5, Width)), Height)
+            local BoxPosition = Vector2.new(math.floor(Top.X * 0.5 + Bottom.X * 0.5 - BoxSize.X * 0.5), math.floor(math.min(Top.Y, Bottom.Y)))
+            
+            return BoxSize, BoxPosition, TopIsRendered, NewDistance 
+        end
+
+        function Esp:Lerp(start, finish, t)
+            t = t or 1 / 8
+
+            return start * (1 - t) + finish * t
+        end
+
+        function Esp:Tween(Object, Properties, Info)
+            local tween = TweenService:Create(Object, Info, Properties)
+            tween:Play()
+            
+            return tween
+        end
+
+        function Esp.CreateObject( player, typechar ) -- IMPORTANT!
+            local Data = { 
+                Items = { }, 
+                Info = {Character; Humanoid; Health = 0}; 
+                Drawings = { }, 
+                Type = typechar or "player",
+                CharacterConnections = {},
+                RefreshGeneration = 0,
+                HealthTweenGeneration = 0,
+                DisplayHealth = 0,
+            } 
+
+            local Items = Data.Items; do
+                -- Holder
+                    Items.Holder = Esp:Create( "Frame" , {
+                        Parent = Esp.ScreenGui;
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        Position = dim2(0.4332570433616638, 0, 0.3255814015865326, 0);
+                        BorderColor3 = rgb(0, 0, 0);
+                        Size = dim2(0, 211, 0, 240);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Items.HolderGradient = Esp:Create( "UIGradient" , {
+                        Rotation = 0;
+                        Name = "\0";
+                        Color = rgbseq{rgbkey(0, rgb(255, 255, 255)), rgbkey(1, rgb(255, 255, 255))};
+                        Parent = Items.Holder;
+                        Enabled = true
+                    });
+
+                    -- All directions have a set default parent of Items.Holder 
+
+                    -- Directions 
+                        Items.Left = Esp:Create( "Frame" , {
+                            Parent = Items.Holder;
+                            Size = dim2(0, 0, 1, 0);
+                            Name = "\0";
+                            BackgroundTransparency = 1;
+                            Position = dim2(0, -1, 0, 0);
+                            BorderColor3 = rgb(0, 0, 0);
+                            ZIndex = 2;
+                            BorderSizePixel = 0;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+
+                        Items.HealthbarTextsLeft = Esp:Create( "Frame", {
+                            Visible = true;
+                            BorderColor3 = rgb(0, 0, 0);
+                            Parent = Esp.Cache;
+                            Name = "\0";
+                            BackgroundTransparency = 1;
+                            LayoutOrder = -100;
+                            BorderSizePixel = 0;
+                            ZIndex = 0;
+                            AutomaticSize = Enum.AutomaticSize.X;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+
+                        Esp:Create( "UIListLayout" , {
+                            FillDirection = Enum.FillDirection.Horizontal;
+                            HorizontalAlignment = Enum.HorizontalAlignment.Right;
+                            VerticalFlex = Enum.UIFlexAlignment.Fill;
+                            Parent = Items.Left;
+                            Padding = dim(0, 1);
+                            SortOrder = Enum.SortOrder.LayoutOrder
+                        });
+
+                        Items.LeftTexts = Esp:Create( "Frame" , {
+                            LayoutOrder = -100;
+                            Parent = Items.Left;
+                            BackgroundTransparency = 1;
+                            Name = "\0";
+                            BorderColor3 = rgb(0, 0, 0);
+                            BorderSizePixel = 0;
+                            AutomaticSize = Enum.AutomaticSize.X;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+
+                        Esp:Create( "UIListLayout" , {
+                            Parent = Items.LeftTexts;
+                            Padding = dim(0, 1);
+                            SortOrder = Enum.SortOrder.LayoutOrder
+                        });
+
+                        Items.Bottom = Esp:Create( "Frame" , {
+                            Parent = Items.Holder;
+                            Size = dim2(1, 0, 0, 0);
+                            Name = "\0";
+                            BackgroundTransparency = 1;
+                            Position = dim2(0, 0, 1, 1);
+                            BorderColor3 = rgb(0, 0, 0);
+                            ZIndex = 2;
+                            BorderSizePixel = 0;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+
+                        Esp:Create( "UIListLayout" , {
+                            SortOrder = Enum.SortOrder.LayoutOrder;
+                            HorizontalAlignment = Enum.HorizontalAlignment.Center;
+                            HorizontalFlex = Enum.UIFlexAlignment.Fill;
+                            Parent = Items.Bottom;
+                            Padding = dim(0, 1)
+                        });
+
+                        Items.BottomTexts = Esp:Create( "Frame", {
+                            LayoutOrder = 1;
+                            Parent = Items.Bottom;
+                            BackgroundTransparency = 1;
+                            Name = "\0";
+                            BorderColor3 = rgb(0, 0, 0);
+                            BorderSizePixel = 0;
+                            AutomaticSize = Enum.AutomaticSize.XY;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+
+                        Esp:Create( "UIListLayout", {
+                            Parent = Items.BottomTexts;
+                            Padding = dim(0, 1);
+                            SortOrder = Enum.SortOrder.LayoutOrder
+                        });
+
+                        Items.Top = Esp:Create( "Frame" , {
+                            Parent = Items.Holder;
+                            Size = dim2(1, 0, 0, 0);
+                            Name = "\0";
+                            BackgroundTransparency = 1;
+                            Position = dim2(0, 0, 0, -1);
+                            BorderColor3 = rgb(0, 0, 0);
+                            ZIndex = 2;
+                            BorderSizePixel = 0;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+
+                        Esp:Create( "UIListLayout" , {
+                            VerticalAlignment = Enum.VerticalAlignment.Bottom;
+                            SortOrder = Enum.SortOrder.LayoutOrder;
+                            HorizontalAlignment = Enum.HorizontalAlignment.Center;
+                            HorizontalFlex = Enum.UIFlexAlignment.Fill;
+                            Parent = Items.Top;
+                            Padding = dim(0, 1)
+                        });
+
+                        Items.TopTexts = Esp:Create( "Frame", {
+                            LayoutOrder = -100;
+                            Parent = Items.Top;
+                            BackgroundTransparency = 1;
+                            Name = "\0";
+                            BorderColor3 = rgb(0, 0, 0);
+                            BorderSizePixel = 0;
+                            AutomaticSize = Enum.AutomaticSize.XY;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+
+                        Esp:Create( "UIListLayout", {
+                            Parent = Items.TopTexts;
+                            Padding = dim(0, 1);
+                            SortOrder = Enum.SortOrder.LayoutOrder
+                        });
+
+                        Items.Right = Esp:Create( "Frame" , {
+                            Parent = Esp.Cache;
+                            Size = dim2(0, 0, 1, 0);
+                            Name = "\0";
+                            BackgroundTransparency = 1;
+                            Position = dim2(1, 1, 0, 0);
+                            BorderColor3 = rgb(0, 0, 0);
+                            ZIndex = 2;
+                            BorderSizePixel = 0;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+
+                        Esp:Create( "UIListLayout" , {
+                            FillDirection = Enum.FillDirection.Horizontal;
+                            VerticalFlex = Enum.UIFlexAlignment.Fill;
+                            Parent = Items.Right;
+                            Padding = dim(0, 1);
+                            SortOrder = Enum.SortOrder.LayoutOrder
+                        });
+                        
+                        Items.RightTexts = Esp:Create( "Frame" , {
+                            LayoutOrder = 100;
+                            Parent = Items.Right;
+                            BackgroundTransparency = 1;
+                            Name = "\0";
+                            BorderColor3 = rgb(0, 0, 0);
+                            BorderSizePixel = 0;
+                            AutomaticSize = Enum.AutomaticSize.X;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+                        
+                        Esp:Create( "UIListLayout" , {
+                            Parent = Items.RightTexts;
+                            Padding = dim(0, 1);
+                            SortOrder = Enum.SortOrder.LayoutOrder
+                        });
+
+                        Items.HealthbarTextsRight = Esp:Create( "Frame", {
+                            Visible = true;
+                            BorderColor3 = rgb(0, 0, 0);
+                            Parent = Esp.Cache;
+                            Name = "\0";
+                            BackgroundTransparency = 1;
+                            LayoutOrder = 99;
+                            BorderSizePixel = 0;
+                            ZIndex = 0;
+                            AutomaticSize = Enum.AutomaticSize.X;
+                            BackgroundColor3 = rgb(255, 255, 255)
+                        });
+                    --
+                -- 
+
+                -- Corner Boxes
+                    Items.Corners = Esp:Create( "Frame", {
+                        Parent = Esp.Cache; -- Items.Holder
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Size = dim2(1, 0, 1, 0);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Items.BottomLeftX = Esp:Create( "ImageLabel", {
+                        ScaleType = Enum.ScaleType.Slice;
+                        Parent = Items.Corners;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Name = "\0";
+                        BackgroundColor3 = rgb(255, 255, 255);
+                        Size = dim2(0.4, 0, 0, 3);
+                        AnchorPoint = vec2(0, 1);
+                        Image = "rbxassetid://83548615999411";
+                        BackgroundTransparency = 1;
+                        Position = dim2(0, 0, 1, 0);
+                        ZIndex = 2;
+                        BorderSizePixel = 0;
+                        SliceCenter = rect(vec2(1, 1), vec2(99, 2))
+                    });
+
+                    Esp:Create( "UIGradient", {
+                        Parent = Items.BottomLeftX
+                    });
+
+                    Items.BottomLeftY = Esp:Create( "ImageLabel", {
+                        ScaleType = Enum.ScaleType.Slice;
+                        Parent = Items.Corners;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Name = "\0";
+                        BackgroundColor3 = rgb(255, 255, 255);
+                        Size = dim2(0, 3, 0.25, 0);
+                        AnchorPoint = vec2(0, 1);
+                        Image = "rbxassetid://101715268403902";
+                        BackgroundTransparency = 1;
+                        Position = dim2(0, 0, 1, -2);
+                        ZIndex = 500;
+                        BorderSizePixel = 0;
+                        SliceCenter = rect(vec2(1, 0), vec2(2, 96))
+                    });
+
+                    Esp:Create( "UIGradient", {
+                        Rotation = -90;
+                        Parent = Items.BottomLeftY
+                    });
+
+                    Items.BottomRighX = Esp:Create( "ImageLabel", {
+                        ScaleType = Enum.ScaleType.Slice;
+                        Parent = Items.Corners;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Name = "\0";
+                        BackgroundColor3 = rgb(255, 255, 255);
+                        Size = dim2(0.4, 0, 0, 3);
+                        AnchorPoint = vec2(1, 1);
+                        Image = "rbxassetid://83548615999411";
+                        BackgroundTransparency = 1;
+                        Position = dim2(1, 0, 1, 0);
+                        ZIndex = 2;
+                        BorderSizePixel = 0;
+                        SliceCenter = rect(vec2(1, 1), vec2(99, 2))
+                    });
+
+                    Esp:Create( "UIGradient", {
+                        Parent = Items.BottomRighX
+                    });
+
+                    Items.BottomLeftY = Esp:Create( "ImageLabel", {
+                        ScaleType = Enum.ScaleType.Slice;
+                        Parent = Items.Corners;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Name = "\0";
+                        BackgroundColor3 = rgb(255, 255, 255);
+                        Size = dim2(0, 3, 0.25, 0);
+                        AnchorPoint = vec2(1, 1);
+                        Image = "rbxassetid://101715268403902";
+                        BackgroundTransparency = 1;
+                        Position = dim2(1, 0, 1, -2);
+                        ZIndex = 500;
+                        BorderSizePixel = 0;
+                        SliceCenter = rect(vec2(1, 0), vec2(2, 96))
+                    });
+
+                    Esp:Create( "UIGradient", {
+                        Rotation = 90;
+                        Parent = Items.BottomLeftY
+                    });
+
+                    Items.TopLeftY = Esp:Create( "ImageLabel", {
+                        ScaleType = Enum.ScaleType.Slice;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Parent = Items.Corners;
+                        Name = "\0";
+                        BackgroundColor3 = rgb(255, 255, 255);
+                        Size = dim2(0, 3, 0.25, 0);
+                        Image = "rbxassetid://102467475629368";
+                        BackgroundTransparency = 1;
+                        Position = dim2(0, 0, 0, 2);
+                        ZIndex = 500;
+                        BorderSizePixel = 0;
+                        SliceCenter = rect(vec2(1, 0), vec2(2, 98))
+                    });
+
+                    Esp:Create( "UIGradient", {
+                        Rotation = 90;
+                        Parent = Items.TopLeftY
+                    });
+
+                    Items.TopRightY = Esp:Create( "ImageLabel", {
+                        ScaleType = Enum.ScaleType.Slice;
+                        Parent = Items.Corners;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Name = "\0";
+                        BackgroundColor3 = rgb(255, 255, 255);
+                        Size = dim2(0, 3, 0.25, 0);
+                        AnchorPoint = vec2(1, 0);
+                        Image = "rbxassetid://102467475629368";
+                        BackgroundTransparency = 1;
+                        Position = dim2(1, 0, 0, 2);
+                        ZIndex = 500;
+                        BorderSizePixel = 0;
+                        SliceCenter = rect(vec2(1, 0), vec2(2, 98))
+                    });
+
+                    Esp:Create( "UIGradient", {
+                        Rotation = -90;
+                        Parent = Items.TopRightY
+                    });
+
+                    Items.TopRightX = Esp:Create( "ImageLabel", {
+                        ScaleType = Enum.ScaleType.Slice;
+                        Parent = Items.Corners;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Name = "\0";
+                        BackgroundColor3 = rgb(255, 255, 255);
+                        Size = dim2(0.4, 0, 0, 3);
+                        AnchorPoint = vec2(1, 0);
+                        Image = "rbxassetid://83548615999411";
+                        BackgroundTransparency = 1;
+                        Position = dim2(1, 0, 0, 0);
+                        ZIndex = 2;
+                        BorderSizePixel = 0;
+                        SliceCenter = rect(vec2(1, 1), vec2(99, 2))
+                    });
+
+                    Esp:Create( "UIGradient", {
+                        Parent = Items.TopRightX
+                    });
+
+                    Items.TopLeftX = Esp:Create( "ImageLabel", {
+                        ScaleType = Enum.ScaleType.Slice;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Parent = Items.Corners;
+                        Name = "\0";
+                        BackgroundColor3 = rgb(255, 255, 255);
+                        Image = "rbxassetid://83548615999411";
+                        BackgroundTransparency = 1;
+                        Size = dim2(0.4, 0, 0, 3);
+                        ZIndex = 2;
+                        BorderSizePixel = 0;
+                        SliceCenter = rect(vec2(1, 1), vec2(99, 2))
+                    });
+
+                    Esp:Create( "UIGradient", {
+                        Parent = Items.TopLeftX
+                    });
+                -- 
+
+                -- Normal Box 
+                    Items.Box = Esp:Create( "Frame" , {
+                        Parent = Esp.Cache; -- Items.Holder
+                        Name = "\0";
+                        BackgroundTransparency = 0.8500000238418579;
+                        Position = dim2(0, 1, 0, 1);
+                        BorderColor3 = rgb(0, 0, 0);
+                        Size = dim2(1, -2, 1, -2);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Esp:Create( "UIStroke" , {  
+                        Parent = Items.Box;
+                        LineJoinMode = Enum.LineJoinMode.Miter
+                    });
+
+                    Items.Inner = Esp:Create( "Frame" , {
+                        Parent = Items.Box;
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        Position = dim2(0, 1, 0, 1);
+                        BorderColor3 = rgb(0, 0, 0);
+                        Size = dim2(1, -2, 1, -2);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Items.UIStroke = Esp:Create( "UIStroke" , {
+                        Color = rgb(255, 255, 255);
+                        LineJoinMode = Enum.LineJoinMode.Miter;
+                        Parent = Items.Inner
+                    });
+
+                    Items.BoxGradient = Esp:Create( "UIGradient" , {
+                        Parent = Items.UIStroke
+                    });
+
+                    Items.Inner2 = Esp:Create( "Frame" , {
+                        Parent = Items.Inner;
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        Position = dim2(0, 1, 0, 1);
+                        BorderColor3 = rgb(0, 0, 0);
+                        Size = dim2(1, -2, 1, -2);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Esp:Create( "UIStroke" , {
+                        Parent = Items.Inner2;
+                        LineJoinMode = Enum.LineJoinMode.Miter
+                    });
+                -- 
+                
+                -- Healthbar
+                    Items.Healthbar = Esp:Create( "Frame" , {
+                        Name = "Left";
+                        Parent = Esp.Cache;
+                        BorderColor3 = rgb(0, 0, 0);
+                        Size = dim2(0, 3, 0, 3);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = rgb(0, 0, 0)
+                    });
+
+                    Items.HealthbarAccent = Esp:Create( "Frame" , {
+                        Parent = Items.Healthbar;
+                        Name = "\0";
+                        Position = dim2(0, 1, 0, 1);
+                        BorderColor3 = rgb(0, 0, 0);
+                        Size = dim2(1, -2, 1, -2);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Items.HealthbarGradient = Esp:Create( "UIGradient" , {
+                        Enabled = true;
+                        Parent = Items.HealthbarAccent;
+                        Rotation = 90;
+                        Color = rgbseq{rgbkey(0, rgb(0, 255, 0)), rgbkey(0.5, rgb(255, 125, 0)), rgbkey(1, rgb(255, 0, 0))}
+                    });
+
+                    Items.HealthbarText = Esp:Create( "TextLabel", {
+                        FontFace = Fonts.ProggyClean;
+                        TextColor3 = rgb(255, 255, 255);
+                        BorderColor3 = rgb(0, 0, 0);
+                        Parent = Esp.Cache; -- Items.HealthbarTextsLeft
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        Size = dim2(0, 0, 0, 0);
+                        BorderSizePixel = 0;
+                        AutomaticSize = Enum.AutomaticSize.XY;
+                        TextSize = 12;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Esp:Create( "UIStroke", {
+                        Parent = Items.HealthbarText;
+                        LineJoinMode = Enum.LineJoinMode.Miter
+                    });
+                -- 
+
+                -- Texts
+                    Items.Text = Esp:Create( "TextLabel", {
+                        FontFace = Fonts.ProggyClean;
+                        TextColor3 = rgb(255, 255, 255);
+                        BorderColor3 = rgb(0, 0, 0);
+                        Parent = Esp.Cache;
+                        Name = "Left";
+                        Text = player.Name;
+                        BackgroundTransparency = 1;
+                        Size = dim2(1, 0, 0, 0);
+                        BorderSizePixel = 0;
+                        AutomaticSize = Enum.AutomaticSize.XY;
+                        TextSize = 9;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Esp:Create( "UIStroke", {
+                        Parent = Items.Text;
+                        LineJoinMode = Enum.LineJoinMode.Miter
+                    });
+
+                    Items.Distance = Esp:Create( "TextLabel", {
+                        FontFace = Fonts.ProggyClean;
+                        TextColor3 = rgb(255, 255, 255);
+                        BorderColor3 = rgb(0, 0, 0);
+                        Parent = Esp.Cache;
+                        Name = "Left";
+                        BackgroundTransparency = 1;
+                        Size = dim2(1, 0, 0, 0);
+                        BorderSizePixel = 0;
+                        AutomaticSize = Enum.AutomaticSize.XY;
+                        TextSize = 9;
+                        BackgroundColor3 = rgb(255, 255, 255)
+                    });
+
+                    Esp:Create( "UIStroke", {
+                        Parent = Items.Distance;
+                        LineJoinMode = Enum.LineJoinMode.Miter
+                    });
+                -- 
+            end
+        
+            Data.ToolAdded = function(item)
+                if not item:FindFirstChild("ItemRoot") then 
+                    return 
+                end 
+
+                local exists = Data.Info.Character:FindFirstChild(item.Name) 
+                Items["weapon"].Text = "[" .. item.Name .. "]"
+
+                pcall(function()
+                    Items["weapon"].Parent = exists and Items["Holder"] or Esp.Cache
+                end)
+
+                -- Refresh
+            end
+
+            Data.HealthChanged = function(Value)
+                if not MiscOptions.Healthbar then 
+                    Data.Info.Health = Value
+                    Data.DisplayHealth = Value
+                    return 
+                end 
+
+                local Humanoid = Data.Info.Humanoid
+                local MaxHealth = Humanoid and math.max(Humanoid.MaxHealth, 1) or 100
+                local Multiplier = math.clamp(Value / MaxHealth, 0, 1)
+                local isHorizontal = MiscOptions.Healthbar_Position == "Top" or MiscOptions.Healthbar_Position == "Bottom"
+
+                local Color = MiscOptions.Healthbar_Low.Color:Lerp(MiscOptions.Healthbar_Medium.Color, Multiplier)
+                local Color_2 = Color:Lerp(MiscOptions.Healthbar_High.Color, Multiplier)
+
+                if MiscOptions.Healthbar_Tween then  
+                    Data.HealthTweenGeneration = Data.HealthTweenGeneration + 1
+                    local TweenGeneration = Data.HealthTweenGeneration
+                    local StartHealth = Data.DisplayHealth
+                    local TargetHealth = Value
+                    local Duration = math.max(MiscOptions.Healthbar_Easing_Speed, 0.001)
+
+                    Esp:Tween(Items.HealthbarAccent, {
+                        Size = dim2(isHorizontal and Multiplier or 1, -2, isHorizontal and 1 or Multiplier, -2), 
+                        Position = dim2(0, 1, isHorizontal and 0 or 1 - Multiplier, 1)
+                    }, TweenInfo.new(Duration, Enum.EasingStyle[MiscOptions.Healthbar_EasingStyle], Enum.EasingDirection[MiscOptions.Healthbar_EasingDirection], 0, false, 0))
+                    Esp:Tween(Items.HealthbarText, {Position = dim2(0, 0, isHorizontal and 0 or 1 - Multiplier, 0), TextColor3 = Color_2}, TweenInfo.new(Duration, Enum.EasingStyle[MiscOptions.Healthbar_EasingStyle], Enum.EasingDirection[MiscOptions.Healthbar_EasingDirection], 0, false, 0))
+                    
+                    task.spawn(function()
+                        local Start = tick()
+                        
+                        while getgenv().Esp and Data.HealthTweenGeneration == TweenGeneration do
+                            if not Items.HealthbarText.Parent then
+                                break 
+                            end 
+
+                            local Elapsed = tick() - Start
+                            local Alpha = math.clamp(Elapsed / Duration, 0, 1)
+
+                            local DisplayHealth = Esp:Lerp(
+                                StartHealth,
+                                TargetHealth,
+                                TweenService:GetValue(
+                                    Alpha, 
+                                    Enum.EasingStyle[MiscOptions.Healthbar_EasingStyle], 
+                                    Enum.EasingDirection[MiscOptions.Healthbar_EasingDirection]
+                                )
+                            )   
+
+                            Items.HealthbarText.Text = math.floor(DisplayHealth)
+                            Data.DisplayHealth = DisplayHealth
+
+                            if Alpha >= 1 then 
+                                Data.Info.Health = TargetHealth
+                                Data.DisplayHealth = TargetHealth
+                                break
+                            end
+
+                            task.wait()
+                        end                            
+                    end)
+                else 
+                    Items.HealthbarAccent.Size = dim2(isHorizontal and Multiplier or 1, -2, isHorizontal and 1 or Multiplier, -2)
+                    Items.HealthbarAccent.Position = dim2(0, 1, isHorizontal and 0 or 1 - Multiplier, 1)
+                    Items.HealthbarText.Text = math.floor(Value)
+                    Items.HealthbarText.Position = dim2(0, 0, isHorizontal and 0 or 1 - Multiplier, 0)
+                    Items.HealthbarText.TextColor3 = Color_2
+                    Data.Info.Health = Value
+                    Data.DisplayHealth = Value
+                end 
+            end
+
+            Data.RefreshDescendants = function()
+                if not getgenv().Esp then return end -- torn down / stale callback after unload
+                Data.RefreshGeneration = Data.RefreshGeneration + 1
+                local RefreshGeneration = Data.RefreshGeneration
+                local Character = (typechar and player) or player.Character
+                if not Character then return end -- no character yet; re-fires via CharacterAdded connection below
+                local Humanoid = Character:FindFirstChild("Humanoid") or Character:WaitForChild("Humanoid", 10)
+                if not Humanoid then return end -- humanoid never arrived (spectator/broken rig); re-armed on next spawn
+                if Data.RefreshGeneration ~= RefreshGeneration then return end
+                if not typechar and player.Character ~= Character then return end
+
+                for _, connection in Data.CharacterConnections do
+                    pcall(function() connection:Disconnect() end)
+                end
+                table.clear(Data.CharacterConnections)
+
+                Data.Info.Character = typechar and player or Character
+                Data.Info.Humanoid = Humanoid
+                Data.Info.rootpart = Humanoid.RootPart or Character:FindFirstChild("HumanoidRootPart")
+
+                table.insert(Data.CharacterConnections, Esp:Connection(Humanoid.HealthChanged, Data.HealthChanged))
+                table.insert(Data.CharacterConnections, Esp:Connection(Character.ChildAdded, Data.ToolAdded))
+                table.insert(Data.CharacterConnections, Esp:Connection(Character.ChildRemoved, Data.ToolAdded))
+
+                Data.HealthChanged(Data.Info.Humanoid.Health)
+            end 
+
+            Data.Destroy = function()
+                Data.RefreshGeneration = Data.RefreshGeneration + 1
+                Data.HealthTweenGeneration = Data.HealthTweenGeneration + 1
+                for _, connection in Data.CharacterConnections do
+                    pcall(function() connection:Disconnect() end)
+                end
+                table.clear(Data.CharacterConnections)
+
+                if Items["Holder"] then 
+                    Items["Holder"].Parent = nil
+                    Items["Holder"]:Destroy()
+                end 
+
+                if Esp.Players[index] then 
+                    Esp.Players[index] = nil
+                end 
+            end 
+
+            task.spawn(Data.RefreshDescendants) -- spawned so the WaitForChild timeout can never block library load
+            Esp:Connection(player.CharacterAdded, Data.RefreshDescendants)
+            
+            -- Recaching element holders that arent neccessary <- roblox calculates math for them even if they have no objects in them or invisible ;(
+            for _,ItemParentor in {Items.Left, Items.Right, Items.Top, Items.Bottom} do  
+                Esp:Connection(ItemParentor.ChildAdded, function()
+                    task.wait(.1)
+
+                    if ItemParentor.Parent == nil then 
+                        return 
+                    end
+                    
+                    ItemParentor.Parent = Items.Holder
+                end)    
+
+                Esp:Connection(ItemParentor.ChildRemoved, function()
+                    task.wait(.1)
+                    if #ItemParentor:GetChildren() == 0 then
+                        if ItemParentor.Parent == nil then 
+                            return 
+                        end 
+
+                        ItemParentor.Parent = Esp.Cache
+                    end 
+                end)
+            end     
+
+            for _,HealthHolder in {"Right", "Left"} do
+                local Parent = Items["HealthbarTexts" .. HealthHolder]
+
+                Esp:Connection(Parent.ChildAdded, function()
+                    task.wait(.1)
+
+                    if Parent.Parent == nil then 
+                        return 
+                    end
+
+                    Parent.Parent = Items[HealthHolder]
+                end)    
+
+                Esp:Connection(Parent.ChildRemoved, function()
+                    task.wait(.1)
+                    if #Parent:GetChildren() == 0 then
+                        if Parent.Parent == nil then 
+                            return 
+                        end 
+
+                        Parent.Parent = Esp.Cache
+                    end 
+                end)
+            end 
+
+            Esp.Players[ player.Name ] = Data
+
+            return Data
+        end
+
+        function Esp.Update() -- IMPORTANT! 
+            if not Esp then 
+                return 
+            end 
+
+            if Options.Enabled == false then
+                return 
+            end 
+
+            for _,Data in Esp.Players do
+                if not Data.Info then
+                    continue 
+                end 
+            
+                local Character = Data.Info.Character
+
+                if not Character then 
+                    continue 
+                end 
+
+                local Humanoid = Data.Info.Humanoid 
+
+                if not Humanoid then
+                    continue 
+                end 
+
+                if not (Character or Humanoid) then 
+                    continue 
+                end 
+                
+                local Items = Data and Data.Items 
+
+                if not Items then 
+                    continue 
+                end 
+
+                local Holder = Items["Holder"]
+                local RootPart = Humanoid.RootPart or Character:FindFirstChild("HumanoidRootPart")
+                if not RootPart then
+                    Holder.Visible = false
+                    continue
+                end
+
+                local BoxSize, BoxPos, OnScreen, Distance = Esp:BoxSolve(RootPart)
+
+                if Holder.Visible ~= OnScreen then 
+                    Holder.Visible = OnScreen
+                end 
+
+                if not OnScreen then
+                    continue
+                end 
+
+                local Pos = dim_offset(BoxPos.X, BoxPos.Y)
+                if Pos ~= Holder.Position then 
+                    Holder.Position = Pos
+                end 
+                
+                local Size = dim2(0, BoxSize.X, 0, BoxSize.Y)
+                if Size ~= Holder.Size then 
+                    Holder.Size = Size
+                end 
+
+                local DistanceLabel = Items.Distance
+                local roundedDist = math.round(Distance)
+                if Data.lastDist ~= roundedDist then
+                    Data.lastDist = roundedDist
+                    DistanceLabel.Text = tostring(roundedDist) .. "m"
+                end
+                
+                -- if Options["Box Fill"] and Options["Box Spin"] then 
+                --     Items["Holder_gradient"].Rotation += Options["Box Spin Speed"] / 100
+                -- end
+
+                -- if Options["Box Gradient"] and Options["Box Gradient Spin"] then 
+                --     Items["box_outline_gradient"].Rotation += Options["Box Gradient Spin Speed"] / 100
+                -- end
+            end
+        end 
+        
+        function Esp.RefreshElements(key, value) -- IMPORTANT!
+            for _,Data in Esp.Players do
+                local Items = Data and Data.Items 
+
+                -- These checks are so annoying
+                if not Items then 
+                    continue  
+                end 
+
+                if not Items.Holder then 
+                    continue 
+                end 
+
+                if Items.Holder.Parent == nil then 
+                    continue 
+                end 
+
+                if key == "Enabled" then
+                    Items.Holder.Visible = value
+                end 
+
+                -- Boxes
+                    if key == "BoxType" then
+                        if not (Items.Box.Parent == Items.Holder or Items.Corners.Parent == Items.Holder) then 
+                            continue
+                        end 
+
+                        local isCorner = value == "Corner"
+                        Items.Box.Parent = isCorner and Esp.Cache or Items.Holder
+                        Items.Corners.Parent = isCorner and Items.Holder or Esp.Cache
+                    end 
+
+                    if key == "Boxes" then 
+                        local isCorner = Items.Corners.Parent == Items.Holder and true or false
+                        local Enabled = value and Items.Holder or Esp.Cache
+
+                        if isCorner then 
+                            Items.Corners.Parent = Enabled
+                        else 
+                            Items.Box.Parent = Enabled
+                        end
+                    end 
+
+                    if key == "Box Gradient 1" then 
+                        local Color = rgbseq{
+                            Items.BoxGradient.Color.Keypoints[1], 
+                            rgbkey(1, value.Color)
+                        }
+
+                        for _,corner in Items.Corners:GetChildren() do 
+                            corner:FindFirstChildOfClass("UIGradient").Color = Color
+                        end     
+
+                        Items.BoxGradient.Color = Color
+                    end 
+                    
+                    if key == "Box Gradient 2" then 
+                        local Color = rgbseq{
+                            rgbkey(0, value.Color), 
+                            Items.BoxGradient.Color.Keypoints[2]
+                        }
+                        
+                        for _,corner in Items.Corners:GetChildren() do 
+                            corner:FindFirstChildOfClass("UIGradient").Color = Color
+                        end
+
+                        Items.BoxGradient.Color = Color
+                    end 
+
+                    if key == "Box Gradient Rotation" then 
+                        Items.BoxGradient.Rotation = value
+                    end 
+
+                    if key == "Box Fill" then 
+                        Items.Holder.BackgroundTransparency = value and 0 or 1
+                    end
+
+                    if key == "Box Fill 1" then 
+                        local Path = Items.HolderGradient
+                        Path.Transparency = numseq{
+                            numkey(0, 1 - value.Transparency), 
+                            Path.Transparency.Keypoints[2]
+                        };
+
+                        Path.Color = rgbseq{
+                            rgbkey(0, value.Color), 
+                            Path.Color.Keypoints[2]
+                        }
+                    end 
+
+                    if key == "Box Fill 2" then 
+                        local Path = Items.HolderGradient
+                        Path.Transparency = numseq{
+                            Path.Transparency.Keypoints[1],
+                            numkey(1, 1 - value.Transparency)
+                        };
+
+                        Path.Color = rgbseq{
+                            Path.Color.Keypoints[1],
+                            rgbkey(1, value.Color)
+                        };
+                    end 
+
+                    if key == "Box Fill Rotation" then 
+                        Items.HolderGradient.Rotation = value
+                    end 
+                -- 
+
+                -- Bars 
+                    if key == "Healthbar" then 
+                        if Items.Healthbar.Parent == nil then 
+                            continue
+                        end 
+
+                        Items.Healthbar.Parent = value and Items[Items.Healthbar.Name] or Esp.Cache  
+                        Items.HealthbarText.Parent = (Items.HealthbarText.Parent ~= Esp.Cache and value) and Items["HealthbarTexts" .. Items.Healthbar.Name] or Esp.Cache  
+                    end 
+
+                    if key == "Healthbar_Position" then 
+                        local isEnabled = not (Items.Healthbar.Parent == Esp.Cache)
+
+                        if Items.Healthbar.Parent == nil then 
+                            return 
+                        end 
+
+                        Items.Healthbar.Parent = isEnabled and Items[value] or Esp.Cache
+                        Items.Healthbar.Name = value -- This is super gay
+                        Items.HealthbarText.Parent = isEnabled and value and Items.HealthbarText.Parent ~= Esp.Cache and Items["HealthbarTexts" .. Items.Healthbar.Name] or Esp.Cache
+
+                        if value == "Bottom" or value == "Top" then
+                            Items.HealthbarGradient.Rotation = 0
+                        else
+                            Items.HealthbarGradient.Rotation = 90
+                        end
+
+                        if Data.Info.Humanoid then -- humanoid may not be populated yet (RefreshDescendants runs deferred)
+                            Data.HealthChanged(Data.Info.Humanoid.Health)
+                        end
+                    end
+                    
+                    if key == "Healthbar_Number" then  
+                        if Items.Healthbar.Parent == Esp.Cache then 
+                            continue
+                        end 
+
+                        local Parent = Items["HealthbarTexts" .. Items.Healthbar.Name]
+                        
+                        Items.HealthbarText.Parent = value and Parent or Esp.Cache
+                    end
+
+                    if key == "Healthbar_Low" then 
+                        local Color = rgbseq{
+                            Items.HealthbarGradient.Color.Keypoints[1], 
+                            Items.HealthbarGradient.Color.Keypoints[2], 
+                            rgbkey(1, value.Color)
+                        }
+
+                        Items.HealthbarGradient.Color = Color
+                    end 
+
+                    if key == "Healthbar_Medium" then 
+                        local Color = rgbseq{
+                            Items.HealthbarGradient.Color.Keypoints[1], 
+                            rgbkey(0.5, value.Color), 
+                            Items.HealthbarGradient.Color.Keypoints[3]
+                        }
+
+                        Items.HealthbarGradient.Color = Color
+                    end
+
+                    if key == "Healthbar_High" then 
+                        local Color = rgbseq{
+                            rgbkey(0, value.Color), 
+                            Items.HealthbarGradient.Color.Keypoints[2], 
+                            Items.HealthbarGradient.Color.Keypoints[3]
+                        }
+
+                        Items.HealthbarGradient.Color = Color
+                    end
+
+                    if key == "Healthbar_Thickness" then 
+                        local Bar = Items.Healthbar
+                        local isHorizontal = Bar.Parent == Items.Bottom or Bar.Parent == Items.Top
+
+                        Bar.Size = dim2(0, value + 2, 0, value + 2)
+                    end
+
+                    if key == "Healthbar_Text_Size" then 
+                        Items.HealthbarText.TextSize = value
+                    end
+
+                    if key == "Healthbar_Font" then 
+                        Items.HealthbarText.FontFace = Fonts[value]
+                    end
+                -- 
+                
+                -- Texts
+                    local Text;
+                    local Match;
+                    if string.match(key, "Name") then 
+                        Text = Items.Text
+                        Match = "Name"
+                    elseif string.match(key, "Distance") then 
+                        Text = Items.Distance
+                        Match = "Distance"
+                    end 
+
+                    if Text then 
+                        if key == Match .. "_Text" then  
+                            if Text.Parent == nil then 
+                                continue
+                            end
+
+                            Text.Parent = value and Items[Text.Name .. "Texts"] or Esp.Cache
+                        end 
+
+                        if key == Match .. "_Text_Position" then 
+                            local isEnabled = not (Text.Parent == Esp.Cache)
+
+                            if Text.Parent == nil then 
+                                return 
+                            end 
+
+                            Text.Parent = isEnabled and Items[value .. "Texts"] or Esp.Cache
+                            Text.Name = tostring(value) -- This is super gay
+
+                            if value == "Top" or value == "Bottom" then 
+                                Text.AutomaticSize = Enum.AutomaticSize.Y 
+                                Text.TextXAlignment = Enum.TextXAlignment.Center
+                            else 
+                                Text.AutomaticSize = Enum.AutomaticSize.XY 
+                                Text.TextXAlignment = Enum.TextXAlignment[value == "Right" and "Left" or "Right"]
+                            end     
+                        end 
+
+                        if key == Match .. "_Text_Color" then 
+                            Text.TextColor3 = value.Color
+                        end 
+
+                        if key == Match .. "_Text_Font" then 
+                            Text.FontFace = Fonts[value]
+                        end 
+
+                        if key == Match .. "_Text_Size" then 
+                            Text.TextSize = value
+                        end
+                    end 
+                -- 
+            end 
+        end; 
+        
+        function Esp.Unload() 
+            for _,player in Players:GetPlayers() do 
+                Esp.RemovePlayer(player)
+            end
+
+            for _,connection in Esp.Connections do 
+                pcall(function() connection:Disconnect() end)
+                connection = nil
+            end 
+            
+            if Esp.Loop then 
+                RunService:UnbindFromRenderStep("Run Loop")
+                Esp.Loop = nil
+            end 
+
+            pcall(function() Esp.Cache:Destroy() end)
+            pcall(function() Esp.ScreenGui:Destroy() end)
+
+            getgenv().Esp = nil
+        end 
+
+        function Esp.RemovePlayer(player)
+            local Path = Esp.Players[player.Name]
+            
+            if Path then
+                Path.Destroy()
+            end
+        end 
+    end
+
+    for _,player in Players:GetPlayers() do 
+        if player == Players.LocalPlayer then continue end
+        Esp.CreateObject(player)
+    end 
+
+    Esp:Connection(Players.PlayerRemoving, Esp.RemovePlayer)
+    Esp:Connection(Players.PlayerAdded, function(player)
+        Esp.CreateObject(player)
+        for index,value in MiscOptions do 
+            Options[index] = value -- gotta trigger that new index
+        end 
+    end)
+
+    Esp.Loop = RunService:BindToRenderStep("Run Loop", Enum.RenderPriority.Camera.Value + 1, Esp.Update)
+
+    for index,value in MiscOptions do 
+        Options[index] = value -- gotta trigger that new index
+    end
+end
+
+-- beware of somewhat horrible code
+local Library do
+    -- Services
+    local Players = game:GetService("Players")
+    local UserInputService = game:GetService("UserInputService")
+    local HttpService = game:GetService("HttpService")
+    local TweenService = game:GetService("TweenService")
+    local RunService = game:GetService("RunService")
+    local Workspace = game:GetService("Workspace")
+    local SoundService = cloneref and cloneref(game:GetService("SoundService")) or game:GetService("SoundService")
+    local CoreGui = cloneref and cloneref(game:GetService("CoreGui")) or game:GetService("CoreGui")
+
+    -- Variables
+    local LocalPlayer = Players.LocalPlayer
+    local Camera = Workspace.CurrentCamera
+    local function GetMousePos()
+        return UserInputService:GetMouseLocation()
+    end
+
+    -- Globals
+    local FromRGB = Color3.fromRGB
+    local FromHSV = Color3.fromHSV
+    local FromHex = Color3.fromHex
+
+    local RGBSequence = ColorSequence.new
+    local RGBSequenceKeypoint = ColorSequenceKeypoint.new
+
+    local NumSequence = NumberSequence.new
+    local NumSequenceKeypoint = NumberSequenceKeypoint.new
+
+    local UDim2New = UDim2.new
+    local UDimNew = UDim.new
+    local UDim2FromScale = UDim2.fromScale
+    local Vector2New = Vector2.new
+
+    local InstanceNew = Instance.new
+
+    local MathClamp = math.clamp
+    local MathFloor = math.floor
+    local MathAbs = math.abs
+    local MathSin = math.sin
+    local MathRad = math.rad
+    local MathMax = math.max
+    local MathMin = math.min
+
+    local TableInsert = table.insert
+    local TableFind = table.find
+    local TableUnpack = table.unpack
+    local TableRemove = table.remove
+    local TableConcat = table.concat
+    local TableClone = table.clone
+
+    local StringFormat = string.format
+    local StringFind = string.find
+    local StringGSub = string.gsub
+    local StringLower = string.lower
+
+    local CFrameNew = CFrame.new
+    local CFrameAngles = CFrame.Angles
+    local Vector3New = Vector3.new
+
+    local RectNew = Rect.new
+
+    local IsMobile = UserInputService.TouchEnabled or false
+
+    gethui = gethui or function()
+        return CoreGui
+    end
+
+    local GuiParent = CoreGui
+    local guiOk, hiddenGui = pcall(gethui)
+    if guiOk and hiddenGui then GuiParent = hiddenGui end
+
+    getgenv().Options = { }
+
+    -- Library
+    Library = {
+        Theme = nil,
+
+        MenuKeybind = tostring(Enum.KeyCode.Z), 
+        Flags = { },
+
+        Tween = {
+            Time = 0.3,
+            Style = Enum.EasingStyle.Cubic,
+            Direction = Enum.EasingDirection.Out
+        },
+
+        Folders = {
+            Directory = "NiloHook",
+            Configs = "NiloHook/Configs",
+            Assets = "NiloHook/Assets",
+            Themes = "NiloHook/Themes"
+        },
+
+        Images = { -- you're welcome to reupload the images and replace it with your own links
+            ["Saturation"] = {"Saturation.png", "https://github.com/sametexe001/images/blob/main/saturation.png?raw=true" },
+            ["Value"] = { "Value.png", "https://github.com/sametexe001/images/blob/main/value.png?raw=true" },
+            ["Hue"] = { "Hue.png", "https://github.com/sametexe001/images/blob/main/horizontalhue.png?raw=true" },
+            ["Checkers"] = { "Checkers.png", "https://github.com/sametexe001/images/blob/main/checkers.png?raw=true" },
+        },
+
+        -- Ignore below
+        Pages = { },
+        Sections = { },
+
+        Connections = { },
+        Threads = { },
+
+        Themes = { },
+        ThemeMap = { },
+        ThemeItems = { },
+        ThemeColorpickers = { },
+
+        OpenFrames = { },
+
+        CurrentPage = nil,
+
+        SearchItems = { },
+
+        SetFlags = { },
+
+        UnnamedConnections = 0,
+        UnnamedFlags = 0,
+
+        Holder = nil,
+        NotifHolder = nil,
+        UnusedHolder = nil,
+        MainFrame = nil,
+        Font = nil,
+        KeyList = nil,
+    }
+
+    local Keys = {
+        ["Unknown"]           = "Unknown",
+        ["Backspace"]         = "Back",
+        ["Tab"]               = "Tab",
+        ["Clear"]             = "Clear",
+        ["Return"]            = "Return",
+        ["Pause"]             = "Pause",
+        ["Escape"]            = "Escape",
+        ["Space"]             = "Space",
+        ["QuotedDouble"]      = '"',
+        ["Hash"]              = "#",
+        ["Dollar"]            = "$",
+        ["Percent"]           = "%",
+        ["Ampersand"]         = "&",
+        ["Quote"]             = "'",
+        ["LeftParenthesis"]   = "(",
+        ["RightParenthesis"]  = " )",
+        ["Asterisk"]          = "*",
+        ["Plus"]              = "+",
+        ["Comma"]             = ",",
+        ["Minus"]             = "-",
+        ["Period"]            = ".",
+        ["Slash"]             = "`",
+        ["Three"]             = "3",
+        ["Seven"]             = "7",
+        ["Eight"]             = "8",
+        ["Colon"]             = ":",
+        ["Semicolon"]         = ";",
+        ["LessThan"]          = "<",
+        ["GreaterThan"]       = ">",
+        ["Question"]          = "?",
+        ["Equals"]            = "=",
+        ["At"]                = "@",
+        ["LeftBracket"]       = "LeftBracket",
+        ["RightBracket"]      = "RightBracked",
+        ["BackSlash"]         = "BackSlash",
+        ["Caret"]             = "^",
+        ["Underscore"]        = "_",
+        ["Backquote"]         = "`",
+        ["LeftCurly"]         = "{",
+        ["Pipe"]              = "|",
+        ["RightCurly"]        = "}",
+        ["Tilde"]             = "~",
+        ["Delete"]            = "Delete",
+        ["End"]               = "End",
+        ["KeypadZero"]        = "Keypad0",
+        ["KeypadOne"]         = "Keypad1",
+        ["KeypadTwo"]         = "Keypad2",
+        ["KeypadThree"]       = "Keypad3",
+        ["KeypadFour"]        = "Keypad4",
+        ["KeypadFive"]        = "Keypad5",
+        ["KeypadSix"]         = "Keypad6",
+        ["KeypadSeven"]       = "Keypad7",
+        ["KeypadEight"]       = "Keypad8",
+        ["KeypadNine"]        = "Keypad9",
+        ["KeypadPeriod"]      = "KeypadP",
+        ["KeypadDivide"]      = "KeypadD",
+        ["KeypadMultiply"]    = "KeypadM",
+        ["KeypadMinus"]       = "KeypadM",
+        ["KeypadPlus"]        = "KeypadP",
+        ["KeypadEnter"]       = "KeypadE",
+        ["KeypadEquals"]      = "KeypadE",
+        ["Insert"]            = "Insert",
+        ["Home"]              = "Home",
+        ["PageUp"]            = "PageUp",
+        ["PageDown"]          = "PageDown",
+        ["RightShift"]        = "RightShift",
+        ["LeftShift"]         = "LeftShift",
+        ["RightControl"]      = "RightControl",
+        ["LeftControl"]       = "LeftControl",
+        ["LeftAlt"]           = "LeftAlt",
+        ["RightAlt"]          = "RightAlt"
+    }
+
+    Library.__index = Library
+
+    Library.Sections.__index = Library.Sections
+    Library.Pages.__index = Library.Pages
+
+    for Index, Value in Library.Folders do 
+        if not isfolder(Value) then
+            makefolder(Value)
+        end
+    end
+
+    local Tween = { } do
+        Tween.__index = Tween
+
+        Tween.Create = function(self, Item, Info, Goal, IsRawItem)
+            Item = IsRawItem and Item or Item.Instance
+            
+            if not Library then
+                -- Library was unloaded, return a safe dummy tween object
+                local Dummy = {
+                    Tween = { Play = function() end, Pause = function() end, Cancel = function() end, Completed = { Connect = function() end, Once = function() end, Wait = function() end } },
+                    Info = Info,
+                    Goal = Goal,
+                    Item = Item
+                }
+                setmetatable(Dummy, Tween)
+                return Dummy
+            end
+
+            Info = Info or TweenInfo.new(Library.Tween.Time, Library.Tween.Style, Library.Tween.Direction)
+
+            local NewTween = {
+                Tween = TweenService:Create(Item, Info, Goal),
+                Info = Info,
+                Goal = Goal,
+                Item = Item
+            }
+
+            NewTween.Tween:Play()
+
+            setmetatable(NewTween, Tween)
+
+            return NewTween
+        end
+
+        Tween.GetProperty = function(self, Item)
+            Item = Item or self.Item 
+
+            if Item:IsA("Frame") then
+                return { "BackgroundTransparency" }
+            elseif Item:IsA("TextLabel") or Item:IsA("TextButton") then
+                return { "TextTransparency", "BackgroundTransparency" }
+            elseif Item:IsA("ImageLabel") or Item:IsA("ImageButton") then
+                return { "BackgroundTransparency", "ImageTransparency" }
+            elseif Item:IsA("ScrollingFrame") then
+                return { "BackgroundTransparency", "ScrollBarImageTransparency" }
+            elseif Item:IsA("TextBox") then
+                return { "TextTransparency", "BackgroundTransparency" }
+            elseif Item:IsA("UIStroke") then 
+                return { "Transparency" }
+            end
+        end
+
+        Tween.FadeItem = function(self, Item, Property, Visibility, Speed)
+            local Item = Item or self.Item
+
+            local OldTransparency = Item[Property]
+            Item[Property] = Visibility and 1 or OldTransparency
+
+            local NewTween = Tween:Create(Item, TweenInfo.new(Speed or Library.Tween.Time, Library.Tween.Style, Library.Tween.Direction), {
+                [Property] = Visibility and OldTransparency or 1
+            }, true)
+
+            -- Use a one-shot connection instead of Library:Connect. Fades fire
+            -- thousands of times (page switches, toggles, ...) and Library's
+            -- connection registry is append-only -- routing them through it
+            -- leaked an entry per fade and made every UI action slower over time.
+            NewTween.Tween.Completed:Once(function()
+                if not Visibility then
+                    task.wait()
+                    Item[Property] = OldTransparency
+                end
+            end)
+
+            return NewTween
+        end
+
+        Tween.Get = function(self)
+            if not self.Tween then 
+                return
+            end
+
+            return self.Tween, self.Info, self.Goal
+        end
+
+        Tween.Pause = function(self)
+            if not self.Tween then 
+                return
+            end
+
+            self.Tween:Pause()
+        end
+
+        Tween.Play = function(self)
+            if not self.Tween then 
+                return
+            end
+
+            self.Tween:Play()
+        end
+
+        Tween.Clean = function(self)
+            if not self.Tween then 
+                return
+            end
+
+            Tween:Pause()
+            self = nil
+        end
+    end
+
+    local Instances = { } do
+        Instances.__index = Instances
+
+        Instances.Create = function(self, Class, Properties)
+            local NewItem = {
+                Instance = InstanceNew(Class),
+                Properties = Properties,
+                Class = Class
+            }
+
+            setmetatable(NewItem, Instances)
+
+            for Property, Value in NewItem.Properties do
+                NewItem.Instance[Property] = Value
+            end
+
+            return NewItem
+        end
+
+        Instances.Border = function(self)
+            if not self.Instance then 
+                return
+            end
+
+            local Item = self.Instance
+            local UIStroke = Instances:Create("UIStroke", {
+                Parent = Item,
+                Color = Library.Theme.Border,
+                Thickness = 1,
+                LineJoinMode = Enum.LineJoinMode.Miter
+            })
+
+            UIStroke:AddToTheme({Color = "Border"})
+
+            return UIStroke
+        end
+
+        Instances.FadeItem = function(self, Visibility, Speed)
+            local Item = self.Instance
+
+            if Visibility == true then 
+                Item.Visible = true
+            end
+
+            local Descendants = Item:GetDescendants()
+            TableInsert(Descendants, Item)
+
+            local NewTween
+
+            for Index, Value in Descendants do 
+                local TransparencyProperty = Tween:GetProperty(Value)
+
+                if not TransparencyProperty then 
+                    continue
+                end
+
+                if type(TransparencyProperty) == "table" then 
+                    for _, Property in TransparencyProperty do 
+                        NewTween = Tween:FadeItem(Value, Property, not Visibility, Speed)
+                    end
+                else
+                    NewTween = Tween:FadeItem(Value, TransparencyProperty, not Visibility, Speed)
+                end
+            end
+        end
+
+        Instances.AddToTheme = function(self, Properties)
+            if not self.Instance then 
+                return
+            end
+
+            Library:AddToTheme(self, Properties)
+        end
+
+        Instances.ChangeItemTheme = function(self, Properties)
+            if not self.Instance then 
+                return
+            end
+
+            Library:ChangeItemTheme(self, Properties)
+        end
+
+        Instances.Connect = function(self, Event, Callback, Name)
+            if not self.Instance then 
+                return
+            end
+
+            if not self.Instance[Event] then 
+                return
+            end
+
+            if Event == "MouseButton1Down" or Event == "MouseButton1Click" then 
+                if IsMobile then 
+                    Event = "TouchTap"
+                end
+            elseif Event == "MouseButton2Down" or Event == "MouseButton2Click" then 
+                if IsMobile then
+                    Event = "TouchLongPress"
+                end
+            end
+
+            return Library:Connect(self.Instance[Event], Callback, Name)
+        end
+
+        Instances.Tween = function(self, Info, Goal)
+            if not self.Instance then 
+                return
+            end
+
+            return Tween:Create(self, Info, Goal)
+        end
+
+        Instances.Disconnect = function(self, Name)
+            if not self.Instance then 
+                return
+            end
+
+            return Library:Disconnect(Name)
+        end
+
+        Instances.Clean = function(self)
+            if not self.Instance then 
+                return
+            end
+
+            self.Instance:Destroy()
+            self = nil
+        end
+
+        Instances.Tooltip = function(self, Text)
+            if Text == nil or type(Text) ~= "string" then
+                return
+            end
+
+            if not self.Instance then 
+                return
+            end
+
+            local Gui = self.Instance
+
+            local MouseLocation = UserInputService:GetMouseLocation()
+            local RenderStepped
+
+            local Newtooltip = Instances:Create("Frame", {
+                Parent = Library.Holder.Instance,
+                Name = "\0",
+                BorderColor3 = FromRGB(0, 0, 0),
+                BackgroundTransparency = 1,
+                Position = UDim2New(0, MouseLocation.X, 0, MouseLocation.Y - 38),
+                BorderSizePixel = 0,
+                ZIndex = 2,
+                AutomaticSize = Enum.AutomaticSize.XY,
+                BackgroundColor3 = FromRGB(16, 18, 21)
+            })  Newtooltip:AddToTheme({BackgroundColor3 = "Background"})
+
+            local UIStroke = Instances:Create("UIStroke", {
+                Parent = Newtooltip.Instance,
+                Name = "\0",
+                Color = FromRGB(32, 36, 42),
+                Transparency = 1,
+                ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+            })  UIStroke:AddToTheme({Color = "Border"})
+
+            Instances:Create("UIPadding", {
+                Parent = Newtooltip.Instance,
+                Name = "\0",
+                PaddingTop = UDimNew(0, 5),
+                PaddingBottom = UDimNew(0, 5),
+                PaddingRight = UDimNew(0, 5),
+                PaddingLeft = UDimNew(0, 5)
+            })
+
+            local TooltipText = Instances:Create("TextLabel", {
+                Parent = Newtooltip.Instance,
+                Name = "\0",
+                FontFace = Library.Font,
+                TextColor3 = FromRGB(255, 255, 255),
+                BorderColor3 = FromRGB(0, 0, 0),
+                Text = Text,
+                AutomaticSize = Enum.AutomaticSize.XY,
+                BackgroundTransparency = 1,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                BorderSizePixel = 0,
+                ZIndex = 2,
+                TextTransparency = 1,
+                TextSize = 14,
+                BackgroundColor3 = FromRGB(255, 255, 255)
+            })
+
+            Instances:Create("UICorner", {
+                Parent = Newtooltip.Instance,
+                Name = "\0",
+                CornerRadius = UDimNew(0, 5)
+            })
+
+            Library:Connect(Gui.MouseEnter, function()
+                Newtooltip:Tween(nil, {BackgroundTransparency = 0.15})
+                TooltipText:Tween(nil, {TextTransparency = 0})
+                UIStroke:Tween(nil, {Transparency = 0.4})
+
+                RenderStepped = RunService.RenderStepped:Connect(function()
+                    MouseLocation = UserInputService:GetMouseLocation()
+                    Newtooltip:Tween(nil, {Position = UDim2New(0, MouseLocation.X, 0, MouseLocation.Y - 38)})
+                end)
+            end)
+
+            Library:Connect(Gui.MouseLeave, function()
+                Newtooltip:Tween(nil, {BackgroundTransparency = 1})
+                TooltipText:Tween(nil, {TextTransparency = 1})
+                UIStroke:Tween(nil, {Transparency = 1})
+
+                if RenderStepped then 
+                    RenderStepped:Disconnect()
+                    RenderStepped = nil
+                end
+            end)
+        end
+
+        Instances.MakeDraggable = function(self)
+            if not self.Instance then 
+                return
+            end
+
+            local Gui = self.Instance
+
+            local Dragging = false 
+            local DragStart
+            local StartPosition 
+
+            local InputChanged
+
+            local Set = function(Input)
+                local DragDelta = Input.Position - DragStart
+                self:Tween(TweenInfo.new(0.16, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Position = UDim2New(StartPosition.X.Scale, StartPosition.X.Offset + DragDelta.X, StartPosition.Y.Scale, StartPosition.Y.Offset + DragDelta.Y)})
+            end
+
+            self:Connect("InputBegan", function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+                    Dragging = true
+
+                    DragStart = Input.Position
+                    StartPosition = Gui.Position
+
+                    if InputChanged then
+                        return
+                    end
+
+                    InputChanged = Input.Changed:Connect(function()
+                        if Input.UserInputState == Enum.UserInputState.End then
+                            Dragging = false
+
+                            InputChanged:Disconnect()
+                            InputChanged = nil
+                        end
+                    end)
+                end
+            end)
+
+            Library:Connect(UserInputService.InputChanged, function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch then
+                    if Dragging then
+                        Set(Input)
+                    end
+                end
+            end)
+
+            return Dragging
+        end
+
+        Instances.MakeResizeable = function(self, Minimum, Maximum)
+            if not self.Instance then 
+                return
+            end
+
+            local Gui = self.Instance
+
+            local Resizing = false 
+            local Start = UDim2New()
+            local Delta = UDim2New()
+            local ResizeMax = Gui.Parent.AbsoluteSize - Gui.AbsoluteSize
+
+            local ResizeButton = Instances:Create("ImageButton", {
+				Parent = Gui,
+                Image = "rbxassetid://7368471234",
+				AnchorPoint = Vector2New(1, 1),
+				BorderColor3 = FromRGB(0, 0, 0),
+				Size = UDim2New(0, 9, 0, 9),
+				Position = UDim2New(1, -4, 1, -4),
+                Name = "\0",
+				BorderSizePixel = 0,
+				BackgroundTransparency = 1,
+                ZIndex = 5,
+				AutoButtonColor = false,
+                Visible = true,
+			})  ResizeButton:AddToTheme({ImageColor3 = "Accent"})
+
+            local InputChanged
+
+            ResizeButton:Connect("InputBegan", function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+
+                    Resizing = true
+
+                    Start = Gui.Size - UDim2New(0, Input.Position.X, 0, Input.Position.Y)
+
+                    if InputChanged then
+                        return
+                    end
+
+                    InputChanged = Input.Changed:Connect(function()
+                        if Input.UserInputState == Enum.UserInputState.End then
+                            Resizing = false
+
+                            InputChanged:Disconnect()
+                            InputChanged = nil
+                        end
+                    end)
+                end
+            end)
+
+            Library:Connect(UserInputService.InputChanged, function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch then
+                    if Resizing then
+                        ResizeMax = Maximum or Gui.Parent.AbsoluteSize - Gui.AbsoluteSize
+
+                        Delta = Start + UDim2New(0, Input.Position.X, 0, Input.Position.Y)
+                        Delta = UDim2New(0, math.clamp(Delta.X.Offset, Minimum.X, ResizeMax.X), 0, math.clamp(Delta.Y.Offset, Minimum.Y, ResizeMax.Y))
+
+                        Tween:Create(Gui, TweenInfo.new(0.17, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Size = Delta}, true)
+                    end
+                end
+            end)
+
+            return Resizing
+        end
+
+        Instances.OnHover = function(self, Function)
+            if not self.Instance then 
+                return
+            end
+            
+            return Library:Connect(self.Instance.MouseEnter, Function)
+        end
+
+        Instances.OnHoverLeave = function(self, Function)
+            if not self.Instance then 
+                return
+            end
+            
+            return Library:Connect(self.Instance.MouseLeave, Function)
+        end
+    end
+
+    Library.Font = Font.fromEnum(Enum.Font.BuilderSans)
+
+    local Themes = {
+        ["Preset"] = {
+            ["Background"] = FromRGB(16, 18, 21),
+            ["Inline"] = FromRGB(22, 25, 29),
+            ["Shadow"] = FromRGB(0, 0, 0),
+            ["Text"] = FromRGB(255, 255, 255),
+            ["Image"] = FromRGB(255, 255, 255),
+            ["Dark Gradient"] = FromRGB(211, 211, 211),
+            ["Inactive Text"] = FromRGB(185, 185, 185),
+            ["Element"] = FromRGB(34, 39, 45),
+            ["Accent"] = FromRGB(196, 231, 255),
+            ["Border"] = FromRGB(32, 36, 42)
+        },
+
+        ["Halloween"] = {
+            ["Background"] = FromRGB(11, 10, 9),
+            ["Inline"] = FromRGB(23, 18, 16),
+            ["Shadow"] = FromRGB(253, 133, 21),
+            ["Text"] = FromRGB(198, 198, 198),
+            ["Image"] = FromRGB(201, 201, 201),
+            ["Dark Gradient"] = FromRGB(211, 202, 195),
+            ["Inactive Text"] = FromRGB(179, 179, 179),
+            ["Element"] = FromRGB(42, 32, 26),
+            ["Accent"] = FromRGB(253, 133, 21),
+            ["Border"] = FromRGB(42, 35, 32)
+        },
+
+        ["Aqua"] = {
+            ["Background"] = FromRGB(19, 21, 23),
+            ["Inline"] = FromRGB(31, 35, 39),
+            ["Shadow"] = FromRGB(0, 0, 0),
+            ["Text"] = FromRGB(245, 245, 245),
+            ["Image"] = FromRGB(255, 255, 255),
+            ["Dark Gradient"] = FromRGB(211, 211, 211),
+            ["Inactive Text"] = FromRGB(185, 185, 185),
+            ["Element"] = FromRGB(58, 66, 77),
+            ["Accent"] = FromRGB(31, 106, 181),
+            ["Border"] = FromRGB(48, 56, 63)
+        },
+
+        ["One Tap"] = {
+            ["Background"] = FromRGB(51, 51, 51),
+            ["Inline"] = FromRGB(30, 30, 30),
+            ["Shadow"] = FromRGB(0, 0, 0),
+            ["Text"] = FromRGB(245, 245, 245),
+            ["Image"] = FromRGB(255, 255, 255),
+            ["Dark Gradient"] = FromRGB(211, 211, 211),
+            ["Inactive Text"] = FromRGB(185, 185, 185),
+            ["Element"] = FromRGB(45, 45, 45),
+            ["Accent"] = FromRGB(237, 170, 0),
+            ["Border"] = FromRGB(0, 0, 0)
+        },
+    }
+
+    Library.Theme = TableClone(Themes["Preset"])
+    Library.Themes = Themes
+
+    if not isfile(Library.Folders.Directory .. "/AutoLoadConfig (do not modify this).json") then
+        writefile(Library.Folders.Directory .. "/AutoLoadConfig (do not modify this).json", "")
+    end
+
+    if not isfile(Library.Folders.Directory .. "/AutoLoadTheme (do not modify this).json") then
+        writefile(Library.Folders.Directory .. "/AutoLoadTheme (do not modify this).json", "")
+    end
+
+    pcall(function()
+        local coreGui = game:GetService("CoreGui")
+        for _, v in ipairs(coreGui:GetChildren()) do
+            if v.Name == "Nilohook" or v.Name == "nilohook" or v.Name == "Opiumware" or (v:IsA("ScreenGui") and v:FindFirstChild("MainFrame")) then
+                pcall(function() v:Destroy() end)
+            end
+        end
+        if gethui then
+            for _, v in ipairs(gethui():GetChildren()) do
+                if v.Name == "Nilohook" or v.Name == "nilohook" or v.Name == "Opiumware" or (v:IsA("ScreenGui") and v:FindFirstChild("MainFrame")) then
+                    pcall(function() v:Destroy() end)
+                end
+            end
+        end
+    end)
+
+    Library.Holder = Instances:Create("ScreenGui", {
+        Parent = GuiParent,
+        ResetOnSpawn = false
+    })
+
+    Library.UnusedHolder = Instances:Create("ScreenGui", {
+        Parent = GuiParent,
+        Name = "\0",
+        ZIndexBehavior = Enum.ZIndexBehavior.Global,
+        Enabled = false,
+        ResetOnSpawn = false
+    })
+
+    Library.NotifHolder = Instances:Create("Frame", {
+        Parent = Library.Holder.Instance,
+        Name = "\0",
+        BorderColor3 = FromRGB(0, 0, 0),
+        AnchorPoint = Vector2New(1, 0),
+        BackgroundTransparency = 1,
+        Position = UDim2New(1, 0, 0, 0),
+        Size = UDim2New(0, 0, 1, 0),
+        BorderSizePixel = 0,
+        AutomaticSize = Enum.AutomaticSize.X,
+        BackgroundColor3 = FromRGB(255, 255, 255)
+    })
+
+    Instances:Create("UIPadding", {
+        Parent = Library.NotifHolder.Instance,
+        Name = "\0",
+        PaddingBottom = UDimNew(0, 15),
+        PaddingTop = UDimNew(0, 15),
+        PaddingRight = UDimNew(0, 15)
+    })
+
+    Instances:Create("UIListLayout", {
+        Parent = Library.NotifHolder.Instance,
+        Name = "\0",
+        SortOrder = Enum.SortOrder.LayoutOrder,
+        HorizontalAlignment = Enum.HorizontalAlignment.Right,
+        Padding = UDimNew(0, 10)
+    })
+
+    Library.Unload = function(self)
+        for Index, Value in self.Connections do
+            pcall(function() Value.Connection:Disconnect() end)
+        end
+
+        -- Tear down the built-in ESP nametag system (getgenv().Esp) too. Without
+        -- this its RenderStep loop + player connections keep running after unload,
+        -- and on re-execution they fire against stale state ("index nil with
+        -- 'Connection'"). Cleaning it here makes re-running the script safe.
+        if getgenv().Esp then
+            local E = getgenv().Esp
+            pcall(function() game:GetService("RunService"):UnbindFromRenderStep("Run Loop") end)
+            for _, Conn in (E.Connections or { }) do
+                pcall(function() Conn:Disconnect() end)
+            end
+            pcall(function() if E.ScreenGui then E.ScreenGui:Destroy() end end)
+            pcall(function() if E.Cache then E.Cache:Destroy() end end)
+            getgenv().Esp = nil
+        end
+
+        for Index, Value in self.Threads do
+            pcall(coroutine.close, Value)
+        end
+
+        if self.Holder then 
+            self.Holder:Clean()
+        end
+
+        if self.UnusedHolder then
+            self.UnusedHolder:Clean()
+        end
+
+        Library = nil 
+        getgenv().Library = nil
+
+        UserInputService.MouseIconEnabled = true
+    end
+
+    Library.GetImage = function(self, Image)
+        local ImageData = self.Images[Image]
+
+        if not ImageData then 
+            return
+        end
+
+        local ImagePath = self.Folders.Assets .. "/" .. ImageData[1]
+        if not isfile(ImagePath) then
+            writefile(ImagePath, game:HttpGet(ImageData[2]))
+        end
+
+        return getcustomasset(ImagePath)
+    end
+
+    Library.Round = function(self, Number, Float)
+        local Multiplier = 1 / (Float or 1)
+        return MathFloor(Number * Multiplier) / Multiplier
+    end
+
+    Library.Thread = function(self, Function)
+        local NewThread = coroutine.create(Function)
+
+        coroutine.wrap(function()
+            coroutine.resume(NewThread)
+        end)()
+
+        TableInsert(self.Threads, NewThread)
+
+        return NewThread
+    end
+
+    -- Warm the colorpicker's custom-asset textures once, up front. The picker
+    -- window is built inside a disabled ScreenGui (UnusedHolder), so these
+    -- images would otherwise only begin decoding on first open, leaving the
+    -- saturation/value square and checkers blank the first time it is shown.
+    Library:Thread(function()
+        pcall(function()
+            game:GetService("ContentProvider"):PreloadAsync({
+                Library:GetImage("Saturation"),
+                Library:GetImage("Value"),
+                Library:GetImage("Hue"),
+                Library:GetImage("Checkers"),
+            })
+        end)
+    end)
+
+    Library.SafeCall = function(self, Function, ...)
+        local Arguements = { ... }
+        local Success, Result = pcall(Function, TableUnpack(Arguements))
+
+        if not Success then
+            --Library:Notification("Error caught in function, report this to the devs:\n"..Result, 5, FromRGB(255, 0, 0))
+            warn(Result)
+            return false
+        end
+
+        return Success
+    end
+
+    Library.Connect = function(self, Event, Callback, Name)
+        self.UnnamedConnections = self.UnnamedConnections + 1
+        Name = Name or StringFormat("Connection%s", self.UnnamedConnections)
+
+        local NewConnection = {
+            Event = Event,
+            Callback = Callback,
+            Name = Name,
+            Connection = nil
+        }
+
+        Library:Thread(function()
+            NewConnection.Connection = Event:Connect(Callback)
+        end)
+
+        TableInsert(self.Connections, NewConnection)
+        return NewConnection
+    end
+
+    Library.Disconnect = function(self, Name)
+        for _, Connection in self.Connections do 
+            if Connection.Name == Name then
+                Connection.Connection:Disconnect()
+                break
+            end
+        end
+    end
+
+    Library.NextFlag = function(self)
+        local FlagNumber = self.UnnamedFlags + 1
+        return StringFormat("Flag Number %s %s", FlagNumber, HttpService:GenerateGUID(false))
+    end
+
+    Library.AddToTheme = function(self, Item, Properties)
+        Item = Item.Instance or Item 
+
+        local ThemeData = {
+            Item = Item,
+            Properties = Properties,
+        }
+
+        for Property, Value in ThemeData.Properties do
+            if type(Value) == "string" then
+                Item[Property] = self.Theme[Value]
+            else
+                Item[Property] = Value()
+            end
+        end
+
+        TableInsert(self.ThemeItems, ThemeData)
+        self.ThemeMap[Item] = ThemeData
+    end
+
+    Library.GetConfig = function(self)
+        local Config = { } 
+
+        local Success, Result = Library:SafeCall(function()
+            for Index, Value in Library.Flags do 
+                if type(Value) == "table" and Value.Key then
+                    Config[Index] = {Key = tostring(Value.Key), Mode = Value.Mode}
+                elseif type(Value) == "table" and Value.Color then
+                    Config[Index] = {Color = "#" .. Value.Color, Alpha = Value.Alpha}
+                else
+                    Config[Index] = Value
+                end
+            end
+        end)
+
+        return HttpService:JSONEncode(Config)
+    end
+
+    Library.LoadConfig = function(self, Config)
+        local Decoded = HttpService:JSONDecode(Config)
+
+        local Success, Result = Library:SafeCall(function()
+            for Index, Value in Decoded do 
+                local SetFunction = Library.SetFlags[Index]
+
+                if not SetFunction then
+                    continue
+                end
+
+                if type(Value) == "table" and Value.Key then 
+                    SetFunction(Value)
+                elseif type(Value) == "table" and Value.Color then
+                    SetFunction(Value.Color, Value.Alpha)
+                else
+                    SetFunction(Value)
+                end
+            end
+        end)
+
+        return Success, Result
+    end
+
+    Library.GetDarkerColor = function(self, Color)
+        local Hue, Saturation, Value = Color:ToHSV()
+        return FromHSV(Hue, Saturation, Value / 1.35)
+    end
+
+    Library.DeleteConfig = function(self, Config)
+        if isfile(Library.Folders.Configs .. "/" .. Config) then 
+            delfile(Library.Folders.Configs .. "/" .. Config)
+            Library:Notification({
+                Name = "Success",
+                Description = "Succesfully deleted config: ".. Config .. ".json",
+                Duration = 5,
+                Icon = "116339777575852",
+                IconColor = FromRGB(52, 255, 164)
+            })
+        end
+    end
+
+    Library.SaveConfig = function(self, Config)
+        if isfile(Library.Folders.Configs .. "/" .. Config .. ".json") then
+            writefile(Library.Folders.Configs .. "/" .. Config .. ".json", Library:GetConfig())
+            Library:Notification({
+                Name = "Success",
+                Description = "Succesfully saved config: ".. Config .. ".json",
+                Duration = 5,
+                Icon = "116339777575852",
+                IconColor = FromRGB(52, 255, 164)
+            })
+        end
+    end
+
+    Library.RefreshConfigsList = function(self, Element)
+        local CurrentList = { }
+        local List = { }
+
+        local ConfigFolderName = StringGSub(Library.Folders.Configs, Library.Folders.Directory .. "/", "")
+
+        for Index, Value in listfiles(Library.Folders.Configs) do
+            local FileName = StringGSub(Value, Library.Folders.Directory .. "\\" .. ConfigFolderName .. "\\", "")
+            List[Index] = FileName
+        end
+
+        local IsNew = #List ~= CurrentList
+
+        if not IsNew then
+            for Index = 1, #List do
+                if List[Index] ~= CurrentList[Index] then
+                    IsNew = true
+                    break
+                end
+            end
+        else
+            CurrentList = List
+            Element:Refresh(CurrentList)
+        end
+    end
+
+    Library.ChangeItemTheme = function(self, Item, Properties)
+        Item = Item.Instance or Item
+
+        if not self.ThemeMap[Item] then 
+            return
+        end
+
+        self.ThemeMap[Item].Properties = Properties
+        self.ThemeMap[Item] = self.ThemeMap[Item]
+    end
+
+    Library.ChangeTheme = function(self, Theme, Color)
+        self.Theme[Theme] = Color
+
+        for _, Item in self.ThemeItems do
+            for Property, Value in Item.Properties do
+                if type(Value) == "string" and Value == Theme then
+                    Item.Item[Property] = Color
+                elseif type(Value) == "function" then
+                    Item.Item[Property] = Value()
+                end
+            end
+        end
+    end
+
+    Library.IsMouseOverFrame = function(self, Frame, XOffset, YOffset, CustomPos)
+        if not Frame then return false end
+        Frame = Frame.Instance or Frame
+        XOffset = XOffset or 0 
+        YOffset = YOffset or 0
+
+        local _mp = CustomPos or GetMousePos()
+        local MousePosition = Vector2New(_mp.X + XOffset, _mp.Y + YOffset)
+
+        return MousePosition.X >= Frame.AbsolutePosition.X and MousePosition.X <= Frame.AbsolutePosition.X + Frame.AbsoluteSize.X 
+        and MousePosition.Y >= Frame.AbsolutePosition.Y and MousePosition.Y <= Frame.AbsolutePosition.Y + Frame.AbsoluteSize.Y
+    end
+
+    Library.GetTheme = function(self)
+        local Config = { } 
+
+        local Success, Result = Library:SafeCall(function()
+            for Index, Value in Library.Flags do 
+                if type(Value) == "table" and Value.Color and StringFind(Index, "Theme") then
+                    Config[Index] = {Color = "#" .. Value.Color, Alpha = Value.Alpha}
+                end
+            end
+        end)
+
+        return HttpService:JSONEncode(Config)
+    end
+
+    Library.LoadTheme = function(self, Config)
+        local Decoded = HttpService:JSONDecode(Config)
+
+        local Success, Result = Library:SafeCall(function()
+            for Index, Value in Decoded do 
+                local SetFunction = Library.SetFlags[Index]
+
+                if not SetFunction then
+                    continue
+                end
+
+                if type(Value) == "table" and Value.Color and StringFind(Index, "Theme") then
+                    SetFunction(Value.Color, Value.Alpha)
+                end
+            end
+        end)
+
+        return Success, Result
+    end
+
+    Library.DeleteTheme = function(self, Config)
+        if isfile(Library.Folders.Themes .. "/" .. Config) then 
+            delfile(Library.Folders.Themes .. "/" .. Config)
+            Library:Notification({
+                Name = "Success",
+                Description = "Succesfully deleted config: ".. Config .. ".json",
+                Duration = 5,
+                Icon = "116339777575852",
+                IconColor = FromRGB(52, 255, 164)
+            })
+        end
+    end
+
+    Library.SaveTheme = function(self, Config)
+        if isfile(Library.Folders.Themes .. "/" .. Config .. ".json") then
+            writefile(Library.Folders.Themes .. "/" .. Config .. ".json", Library:GetTheme())
+            Library:Notification({
+                Name = "Success",
+                Description = "Succesfully saved config: ".. Config .. ".json",
+                Duration = 5,
+                Icon = "116339777575852",
+                IconColor = FromRGB(52, 255, 164)
+            })
+        end
+    end
+
+    Library.RefreshThemesList = function(self, Element)
+        local CurrentList = { }
+        local List = { }
+
+        local ConfigFolderName = StringGSub(Library.Folders.Themes, Library.Folders.Directory .. "/", "")
+
+        for Index, Value in listfiles(Library.Folders.Themes) do
+            local FileName = StringGSub(Value, Library.Folders.Directory .. "\\" .. ConfigFolderName .. "\\", "")
+            List[Index] = FileName
+        end
+
+        local IsNew = #List ~= CurrentList
+
+        if not IsNew then
+            for Index = 1, #List do
+                if List[Index] ~= CurrentList[Index] then
+                    IsNew = true
+                    break
+                end
+            end
+        else
+            CurrentList = List
+            Element:Refresh(CurrentList)
+        end
+    end
+
+    Library.GetLighterColor = function(self, Color, Increment)
+        local Hue, Saturation, Value = Color:ToHSV()
+        return FromHSV(Hue, Saturation, Value * Increment)
+    end
+
+    local Components = { } do
+        Components.Toggle = function(Data)
+            local Toggle = { 
+                Value = false,
+                Flag = Data.Flag
+            }
+
+            local Items = { } do
+                Items["Toggle"] = Instances:Create("TextButton", {
+                    Parent = Data.Parent.Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    BackgroundTransparency = 1,
+                    BorderSizePixel = 0,
+                    Size = UDim2New(1, 0, 0, 20),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Toggle"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = Data.Name,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Size = UDim2New(0, 0, 0, 15),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0.5, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["Indicator"] = Instances:Create("Frame", {
+                    Parent = Items["Toggle"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Position = UDim2New(1, 0, 0.5, 0),
+                    Size = UDim2New(0, 20, 0, 20),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(34, 39, 45)
+                })  Items["Indicator"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Indicator"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Items["Inline"] = Instances:Create("Frame", {
+                    Parent = Items["Indicator"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, -4, 1, -4),
+                    Position = UDim2New(0, 2, 0, 2),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(34, 39, 45)
+                })  Items["Inline"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Inline"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Inline"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Items["Check"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Inline"].Instance,
+                    Name = "\0",
+                    Visible = true,
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, -2, 1, -2),
+                    AnchorPoint = Vector2New(0.5, 0.5),
+                    Image = "rbxassetid://116339777575852",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0.5, 0, 0.5, 0),
+                    ImageTransparency = 1,
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255),
+                    ImageColor3 = FromRGB(0, 0, 0)
+                })
+
+                Items["SubElements"] = Instances:Create("Frame", {
+                    Parent = Items["Toggle"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(1, 0),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, -24, 0, 0),
+                    Size = UDim2New(0, 0, 1, 0),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["SubElements"].Instance,
+                    Name = "\0",
+                    VerticalAlignment = Enum.VerticalAlignment.Center,
+                    FillDirection = Enum.FillDirection.Horizontal,
+                    HorizontalAlignment = Enum.HorizontalAlignment.Right,
+                    Padding = UDimNew(0, 6),
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+
+            function Toggle:Get()
+                return Toggle.Value
+            end
+
+            function Toggle:Set(Bool)
+                Toggle.Value = Bool 
+                Library.Flags[Toggle.Flag] = Bool
+
+                if Bool then
+                    Items["Indicator"]:ChangeItemTheme({BackgroundColor3 = "Accent"})
+                    Items["Inline"]:ChangeItemTheme({BackgroundColor3 = "Accent"})
+
+                    Items["Indicator"]:Tween(nil, {BackgroundColor3 = Library.Theme.Accent})
+                    Items["Inline"]:Tween(nil, {BackgroundColor3 = Library.Theme.Accent})
+
+                    Items["Check"]:Tween(nil, {ImageTransparency = 0})
+                    Items["Text"]:Tween(nil, {TextTransparency = 0})
+                else
+                    Items["Indicator"]:ChangeItemTheme({BackgroundColor3 = "Element"})
+                    Items["Inline"]:ChangeItemTheme({BackgroundColor3 = "Element"})
+
+                    Items["Indicator"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                    Items["Inline"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+
+                    Items["Check"]:Tween(nil, {ImageTransparency = 1})
+                    Items["Text"]:Tween(nil, {TextTransparency = 0.5})
+                end
+
+                if Data.Callback then 
+                    Library:SafeCall(Data.Callback, Bool)
+                end
+            end
+
+            function Toggle:SetVisibility(Bool)
+                Items["Toggle"].Instance.Visible = Bool
+            end
+
+            Items["Toggle"]:OnHover(function()
+                if Toggle.Value then return end
+                Items["Indicator"]:Tween(nil, {BackgroundColor3 = Library:GetLighterColor(Library.Theme.Element, 1.45)})
+                Items["Inline"]:Tween(nil, {BackgroundColor3 = Library:GetLighterColor(Library.Theme.Element, 1.45)})
+            end)
+
+            Items["Toggle"]:OnHoverLeave(function()
+                if Toggle.Value then return end
+                Items["Indicator"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                Items["Inline"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+            end)
+
+            getgenv().Options[Toggle.Flag] = Toggle
+
+            local SearchData = {
+                Name = Data.Name,
+                Item = Items["Toggle"]
+            }
+
+            local PageSearchData = Library.SearchItems[Data.Page]
+
+            if not PageSearchData then 
+                return 
+            end
+
+            TableInsert(PageSearchData, SearchData)
+
+            Items["Toggle"]:Connect("MouseButton1Down", function()
+                Toggle:Set(not Toggle.Value)
+            end)
+
+            if Data.Default then 
+                Toggle:Set(Data.Default)
+            end
+
+            Library.SetFlags[Toggle.Flag] = function(Value)
+                Toggle:Set(Value)
+            end
+
+            return Toggle, Items 
+        end
+
+        Components.Dropdown = function(Data)
+            local Dropdown = {
+                Value = { },
+                Flag = Data.Flag,
+                Type = "Dropdown",
+                Name = Data.Name,
+                IsOpen = false,
+                Options = { }
+            }
+
+            local Items = { } do
+                Items["Dropdown"] = Instances:Create("Frame", {
+                    Parent = Data.Parent.Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(1, 0, 0, 47),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Dropdown"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Data.Name,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(0, 0, 0, 15),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["RealDropdown"] = Instances:Create("TextButton", {
+                    Parent = Items["Dropdown"].Instance,
+                    Text = "", 
+                    AutoButtonColor = false,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 25),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(34, 39, 45)
+                })  Items["RealDropdown"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["RealDropdown"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["RealDropdown"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Items["Value"] = Instances:Create("TextLabel", {
+                    Parent = Items["RealDropdown"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "--",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Size = UDim2New(0, 0, 0, 15),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Position = UDim2New(0, 8, 0.5, 0),
+                    BackgroundTransparency = 1,
+                    TextTruncate = Enum.TextTruncate.AtEnd,
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Value"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["OpenIcon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["RealDropdown"].Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(196, 231, 255),
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 20, 0, 20),
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Image = "rbxassetid://114252321536924",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, -3, 0.5, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["OpenIcon"]:AddToTheme({ImageColor3 = "Accent"})
+
+                Items["OptionHolder"] = Instances:Create("TextButton", {
+                    Parent = Library.UnusedHolder.Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    Size = UDim2New(1, 0, 0, 125),
+                    AutomaticSize = Enum.AutomaticSize.None,
+                    Position = UDim2New(0, 0, 0, 0),
+                    Visible = false,
+                    BorderSizePixel = 0,
+                    ZIndex = 5,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                })  Items["OptionHolder"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["OptionHolder"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["OptionHolder"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["OptionHolder"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["Holder"] = Instances:Create("ScrollingFrame", {
+                    Parent = Items["OptionHolder"].Instance,
+                    Name = "\0",
+                    Active = true,
+                    AutomaticCanvasSize = Enum.AutomaticSize.Y,
+                    ScrollBarThickness = 2,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, -8, 1, -46),
+                    CanvasSize = UDim2New(0, 0, 0, 0),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0, 38),
+                    BorderSizePixel = 0,
+                    ScrollBarImageColor3 = Library.Theme.Border,
+                    BottomImage = "rbxassetid://123813291349824",
+                    TopImage = "rbxassetid://123813291349824",
+                    MidImage = "rbxassetid://123813291349824",
+                    ZIndex = 5,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Holder"]:AddToTheme({ScrollBarImageColor3 = "Border"})
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["Holder"].Instance,
+                    Name = "\0",
+                    Padding = UDimNew(0, 2),
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Holder"].Instance,
+                    Name = "\0",
+                    PaddingTop = UDimNew(0, 8),
+                    PaddingBottom = UDimNew(0, 8),
+                    PaddingRight = UDimNew(0, 8),
+                    PaddingLeft = UDimNew(0, 8)
+                })
+
+                Items["Search"] = Instances:Create("Frame", {
+                    Parent = Items["OptionHolder"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, -16, 0, 25),
+                    Position = UDim2New(0, 8, 0, 8),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 5,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                })  Items["Search"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Items["SearchIcon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    ScaleType = Enum.ScaleType.Fit,
+                    ImageTransparency = 0.5,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 20, 0, 20),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Image = "rbxassetid://71924825350727",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 8, 0.5, 0),
+                    ZIndex = 5,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["SearchIcon"]:AddToTheme({ImageColor3 = "Image"})
+
+                Items["Input"] = Instances:Create("TextBox", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    PlaceholderColor3 = FromRGB(185, 185, 185),
+                    PlaceholderText = "search",
+                    TextSize = 14,
+                    Size = UDim2New(1, -45, 0, 15),
+                    ClipsDescendants = true,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    ZIndex = 5,
+                    Position = UDim2New(0, 35, 0.5, 0),
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    ClearTextOnFocus = false,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+            end
+
+            Items["RealDropdown"]:OnHover(function()
+                Items["RealDropdown"]:Tween(nil, {BackgroundColor3 = Library:GetLighterColor(Library.Theme.Element, 1.45)})
+            end)
+
+            Items["RealDropdown"]:OnHoverLeave(function()
+                Items["RealDropdown"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+            end)
+
+            function Dropdown:Get()
+                return Dropdown.Value
+            end
+
+            function Dropdown:Set(Option)
+                if Data.Multi then
+                    if type(Option) ~= "table" then
+                        return
+                    end
+
+                    Dropdown.Value = Option
+                    Library.Flags[Dropdown.Flag] = Option
+
+                    for Index, Value in Option do 
+                        local OptionData = Dropdown.Options[Value]
+                        
+                        if not OptionData then 
+                            return
+                        end
+
+                        OptionData.Selected = true
+                        OptionData:Toggle("Active")
+                    end
+
+                    Items["Value"].Instance.Text = TableConcat(Option, ", ")
+                else
+                    if not Dropdown.Options[Option] then 
+                        return
+                    end
+
+                    local OptionData = Dropdown.Options[Option]
+
+                    Dropdown.Value = OptionData.Name
+                    Library.Flags[Dropdown.Flag] = OptionData.Name
+
+                    for Index, Value in Dropdown.Options do 
+                        if Value ~= OptionData then
+                            Value.Selected = false 
+                            Value:Toggle("Inactive")
+                        else
+                            Value.Selected = true 
+                            Value:Toggle("Active")
+                        end
+                    end
+
+                    Items["Value"].Instance.Text = OptionData.Name
+                end
+
+                if Data.Callback then 
+                    Library:SafeCall(Data.Callback, Dropdown.Value)
+                end
+            end
+
+            function Dropdown:AddOption(Option)
+                local OptionButton = Instances:Create("TextButton", {
+                    Parent = Items["Holder"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    BackgroundTransparency = 1,
+                    BorderSizePixel = 0,
+                    Size = UDim2New(1, -5, 0, 25),
+                    ZIndex = 5,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  OptionButton:AddToTheme({BackgroundColor3 = "Background"})
+
+                local CheckImage = Instances:Create("ImageLabel", {
+                    Parent = OptionButton.Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(196, 231, 255),
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 18, 0, 18),
+                    Visible = true,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Image = "rbxassetid://116339777575852",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 3, 0.5, 0),
+                    ImageTransparency = 1,
+                    ZIndex = 5,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  CheckImage:AddToTheme({ImageColor3 = "Accent"})
+
+                Instances:Create("UICorner", {
+                    Parent = OptionButton.Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                local OptionText = Instances:Create("TextLabel", {
+                    Parent = OptionButton.Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextTransparency = 0.5,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    ZIndex = 5,
+                    TextSize = 14,
+                    Size = UDim2New(0, 0, 0, 15),
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Option,
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Position = UDim2New(0, 7, 0.5, 0),
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  OptionText:AddToTheme({TextColor3 = "Text"})
+
+                local OptionData = {
+                    Selected = false,
+                    Name = Option,
+                    Text = OptionText,
+                    RealName = Option,
+                    Button = OptionButton,
+                    Check = CheckImage
+                }
+
+                local DoesItAlreadyExists
+
+                local ChildrenCount = 0
+                
+                for Index, Value in Items["Holder"].Instance:GetChildren() do
+                    if Value:IsA("TextButton") then
+                        ChildrenCount = ChildrenCount + 1
+                    end
+                end
+
+                if Dropdown.Options[Option] then 
+                    DoesItAlreadyExists = true
+                    local NewName = Option .. " " .. ChildrenCount
+                    OptionData.Name = NewName
+                    --OptionText.Instance.Text = NewName
+                end
+
+                function OptionData:Toggle(Status)
+                    if Status == "Active" then 
+                        OptionData.Button:Tween(nil, {BackgroundTransparency = 0})
+                        OptionData.Text:Tween(nil, {TextTransparency = 0, Position = UDim2New(0, 27, 0.5, 0)})
+                        OptionData.Check:Tween(nil, {ImageTransparency = 0})
+                    elseif Status == "Inactive" then
+                        OptionData.Button:Tween(nil, {BackgroundTransparency = 1})
+                        OptionData.Text:Tween(nil, {TextTransparency = 0.5, Position = UDim2New(0, 7, 0.5, 0)})
+                        OptionData.Check:Tween(nil, {ImageTransparency = 1})
+                    end
+                end
+
+                function OptionData:Set()
+                    OptionData.Selected = not OptionData.Selected
+
+                    if Data.Multi then 
+                        local Index = TableFind(Dropdown.Value, OptionData.RealName)
+
+                        if Index then 
+                            TableRemove(Dropdown.Value, Index)
+                        else
+                            TableInsert(Dropdown.Value, OptionData.RealName)
+                        end
+
+                        Library.Flags[Dropdown.Flag] = Dropdown.Value
+
+                        OptionData:Toggle(Index and "Inactive" or "Active")
+
+                        local TextFormat = #Dropdown.Value > 0 and TableConcat(Dropdown.Value, ", ") or "--"
+
+                        Items["Value"].Instance.Text = TextFormat
+                    else
+                        if OptionData.Selected then 
+                            Dropdown.Value = OptionData.RealName
+                            Library.Flags[Dropdown.Flag] = OptionData.RealName
+
+                            OptionData:Toggle("Active")
+
+                            for Index, Value in Dropdown.Options do 
+                                if Value ~= OptionData then
+                                    Value.Selected = false 
+                                    Value:Toggle("Inactive")
+                                end
+                            end
+
+                            Items["Value"].Instance.Text = OptionData.RealName 
+                        else
+                            Dropdown.Value = nil
+                            Library.Flags[Dropdown.Flag] = nil
+
+                            OptionData:Toggle("Inactive")
+                            Items["Value"].Instance.Text = "--"
+                        end
+                    end
+
+                    if Data.Callback then 
+                        Library:SafeCall(Data.Callback, Dropdown.Value)
+                    end
+                end
+
+                OptionData.Button:Connect("MouseButton1Down", function()
+                    OptionData:Set()
+                end)
+
+                Dropdown.Options[OptionData.Name] = OptionData
+                return OptionData
+            end
+
+            function Dropdown:RemoveOption(Name)
+                if Dropdown.Options[Name] then
+                    Dropdown.Options[Name].Button:Clean()
+                    Dropdown.Options[Name] = nil
+                end
+            end
+
+            function Dropdown:Refresh(List)
+                for Index, Value in Dropdown.Options do 
+                    Dropdown:RemoveOption(Value.Name)
+                end
+
+                for Index, Value in List do 
+                    Dropdown:AddOption(Value)
+                end
+            end
+
+            local Debounce = false 
+            local RenderStepped 
+
+            function Dropdown:SetOpen(Bool)
+                if Debounce then 
+                    return 
+                end
+
+                Dropdown.IsOpen = Bool
+                Items["OptionHolder"].Instance.Parent = Bool and Library.Holder.Instance or Library.UnusedHolder.Instance
+
+                Debounce = true
+
+                if Bool then 
+                    Items["OptionHolder"].Instance.Visible = true
+                    Items["Holder"].Instance.ZIndex = 11
+
+                    RenderStepped = RunService.RenderStepped:Connect(function()
+                        Items["OptionHolder"].Instance.Position = UDim2New(0, Items["RealDropdown"].Instance.AbsolutePosition.X, 0, Items["RealDropdown"].Instance.AbsolutePosition.Y + 30)
+                        Items["OptionHolder"].Instance.Size = UDim2New(0, Items["RealDropdown"].Instance.AbsoluteSize.X, 0, Data.MaxSize or 165)
+                    end)
+
+                    for Index, Value in Library.OpenFrames do 
+                        if Value.Name ~= Data.Name and Value.Type ~= "Colorpicker" then 
+                            Value:SetOpen(false)
+                        end
+                    end
+
+                    Library.OpenFrames[Data.Name] = Dropdown
+                else
+                    if Library.OpenFrames[Data.Name] then 
+                        Library.OpenFrames[Data.Name] = nil
+                    end
+
+                    if RenderStepped then
+                        RenderStepped:Disconnect()
+                        RenderStepped = nil
+                    end
+                end
+
+                local Descendants = Items["OptionHolder"].Instance:GetDescendants()
+                TableInsert(Descendants, Items["OptionHolder"].Instance)
+
+                local NewTween
+
+                for Index, Value in Descendants do 
+                    local TransparencyProperty = Tween:GetProperty(Value)
+
+                    if not TransparencyProperty then 
+                        continue
+                    end
+
+                    if StringFind(Value.ClassName, "UI") then
+                        continue
+                    end
+
+                    Value.ZIndex = Bool and 10 or 0
+
+                    if type(TransparencyProperty) == "table" then 
+                        for _, Property in TransparencyProperty do 
+                            NewTween = Tween:FadeItem(Value, Property, Bool, Data.Window.FadeSpeed)
+                        end
+                    else
+                        NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Data.Window.FadeSpeed)
+                    end
+                end
+
+                NewTween.Tween.Completed:Once(function()
+                    Debounce = false
+                    Items["OptionHolder"].Instance.Visible = Bool
+                end)
+            end
+
+            function Dropdown:SetVisibility(Bool)
+                Items["Dropdown"].Instance.Visible = Bool
+            end
+
+            getgenv().Options[Dropdown.Flag] = Dropdown
+
+            Library:Connect(UserInputService.InputBegan, function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+                    if Library:IsMouseOverFrame(Items["OptionHolder"], 0, 0, Input.Position) then
+                        return
+                    end
+
+                    if Debounce then 
+                        return 
+                    end
+
+                    if not Dropdown.IsOpen then
+                        return
+                    end
+
+                    Dropdown:SetOpen(false)
+                end
+            end)
+
+            local SearchStepped
+
+            Items["Input"]:Connect("Focused", function()
+                if SearchStepped then
+                    return
+                end
+
+                SearchStepped = RunService.RenderStepped:Connect(function()
+                    for Index, Value in Dropdown.Options do 
+                        if StringFind(Value.Name:lower(), Items["Input"].Instance.Text:lower()) then 
+                            Value.Button.Instance.Visible = true
+                        else
+                            Value.Button.Instance.Visible = false
+                        end
+                    end
+                end)
+            end)
+
+            Items["Input"]:Connect("FocusLost", function()
+                if SearchStepped then
+                    SearchStepped:Disconnect()
+                    SearchStepped = nil
+                end
+            end)
+
+            local SearchData = {
+                Name = Data.Name,
+                Item = Items["Dropdown"]
+            }
+
+            local PageSearchData = Library.SearchItems[Data.Page]
+
+            if not PageSearchData then 
+                return 
+            end
+
+            TableInsert(PageSearchData, SearchData)
+
+            Items["RealDropdown"]:Connect("MouseButton1Down", function()
+                Dropdown:SetOpen(not Dropdown.IsOpen)
+            end)
+
+            for Index, Value in Data.Items do 
+                Dropdown:AddOption(Value)
+            end
+
+            if Data.Default then 
+                Dropdown:Set(Data.Default)
+            end
+
+            Library.SetFlags[Dropdown.Flag] = function(Value)
+                Dropdown:Set(Value)
+            end
+
+            return Dropdown, Items
+        end
+
+        Components.Colorpicker = function(Data)
+            local Colorpicker = {
+                IsOpen = false,
+                
+                Color = FromRGB(0, 0, 0),
+                HexValue = "000000",
+                Alpha = 0,
+
+                Name = Data.Name,
+                Type = "Colorpicker",
+
+                Hue = 0,
+                Saturation = 0,
+                Value = 0,
+            }
+
+            local AnimationsDropdown 
+            local AnimationsDropdownItems
+
+            Library.Flags[Data.Flag] = { }
+
+            local Items = { } do
+                Items["ColorpickerButton"] = Instances:Create("TextButton", {
+                    Parent = Data.Parent.Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    AnchorPoint = Vector2New(1, 0.5),
+                    BorderSizePixel = 0,
+                    Position = UDim2New(1, -25, 0, 0),
+                    Size = UDim2New(0, 20, 0, 20),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 125, 32)
+                })
+
+                local CalculateCount = function(Index)
+                    local MaxButtonsAdded = 5
+
+                    local Column = Index % MaxButtonsAdded
+                
+                    local ButtonSize = Items["ColorpickerButton"].Instance.AbsoluteSize
+                    local Spacing = 4
+                
+                    local XPosition = (ButtonSize.X + Spacing) * Column - Spacing - ButtonSize.X
+                
+                    Items["ColorpickerButton"].Instance.Position = UDim2New(1, Data.IsToggle and XPosition - 24 or -XPosition, 0.5, 0)
+                end
+
+                CalculateCount(Data.Count)
+
+                Instances:Create("UICorner", {
+                    Parent = Items["ColorpickerButton"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Items["Inline"] = Instances:Create("Frame", {
+                    Parent = Items["ColorpickerButton"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, -4, 1, -4),
+                    Position = UDim2New(0, 2, 0, 2),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 125, 32)
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Inline"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Inline"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Items["ColorpickerWindow"] = Instances:Create("TextButton", {
+                    Parent = Library.UnusedHolder.Instance,
+                    Text = "",
+                    AutoButtonColor = false,
+                    Name = "\0",
+                    Active = false,
+                    Selectable = false,
+                    Size = UDim2New(0, 219, 0, 282),
+                    Position = UDim2New(0, Items["ColorpickerButton"].Instance.AbsolutePosition.X, 0, Items["ColorpickerButton"].Instance.AbsolutePosition.Y + 25),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    Visible = false,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["ColorpickerWindow"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Items["ColorpickerWindow"]:MakeDraggable()
+                Items["ColorpickerWindow"]:MakeResizeable(Vector2New(219, 282), Vector2New(9999, 9999))
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["ColorpickerWindow"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["ColorpickerWindow"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["Shadow"] = Instances:Create("ImageLabel", {
+                    Parent = Items["ColorpickerWindow"].Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(0, 0, 0),
+                    ScaleType = Enum.ScaleType.Slice,
+                    ImageTransparency = 0.8999999761581421,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, 25, 1, 25),
+                    AnchorPoint = Vector2New(0.5, 0.5),
+                    Image = "http://www.roblox.com/asset/?id=18245826428",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0.5, 0, 0.5, 0),
+                    BackgroundColor3 = FromRGB(255, 255, 255),
+                    BorderSizePixel = 0,
+                    SliceCenter = RectNew(Vector2New(21, 21), Vector2New(79, 79))
+                })  Items["Shadow"]:AddToTheme({ImageColor3 = "Shadow"})
+
+                Items["Palette"] = Instances:Create("TextButton", {
+                    Parent = Items["ColorpickerWindow"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    BorderSizePixel = 0,
+                    Position = UDim2New(0, 8, 0, 8),
+                    Size = UDim2New(1, -16, 1, -125),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 125, 32)
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Palette"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["Saturation"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Palette"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Image = Library:GetImage("Saturation"),
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(1, 0, 1, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Saturation"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["Value"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Palette"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, 2, 1, 0),
+                    Image = Library:GetImage("Value"),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, -1, 0, 0),
+                    ZIndex = 3,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Value"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["PaletteDragger"] = Instances:Create("Frame", {
+                    Parent = Items["Palette"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(0, 4, 0, 4),
+                    Position = UDim2New(0, 5, 0, 5),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 3,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["PaletteDragger"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(1, 0)
+                })
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["PaletteDragger"].Instance,
+                    Name = "\0",
+                    Thickness = 1.2000000476837158,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                })
+
+                Items["Hue"] = Instances:Create("TextButton", {
+                    Parent = Items["ColorpickerWindow"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, -16, 0, 18),
+                    AutoButtonColor = false,
+                    AnchorPoint = Vector2New(0, 1),
+                    Position = UDim2New(0, 8, 1, -90),
+                    Text = "",
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Hue"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Hue"].Instance,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 0, 0)), RGBSequenceKeypoint(0.17, FromRGB(255, 255, 0)), RGBSequenceKeypoint(0.33, FromRGB(0, 255, 0)), RGBSequenceKeypoint(0.5, FromRGB(0, 255, 255)), RGBSequenceKeypoint(0.67, FromRGB(0, 0, 255)), RGBSequenceKeypoint(0.83, FromRGB(255, 0, 255)), RGBSequenceKeypoint(1, FromRGB(255, 0, 0))}
+                }) 
+
+                Items["HueDragger"] = Instances:Create("Frame", {
+                    Parent = Items["Hue"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Position = UDim2New(0, 12, 0.5, 0),
+                    Size = UDim2New(0, 3, 1, -8),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["HueDragger"].Instance,
+                    Name = "\0",
+                    Thickness = 1.2000000476837158,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["HueDragger"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(1, 0)
+                })
+
+                Items["Alpha"] = Instances:Create("TextButton", {
+                    Parent = Items["ColorpickerWindow"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    AutoButtonColor = false,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AnchorPoint = Vector2New(0, 1),
+                    BorderSizePixel = 0,
+                    Position = UDim2New(0, 8, 1, -63),
+                    Size = UDim2New(1, -16, 0, 18),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 125, 32)
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Alpha"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["AlphaDragger"] = Instances:Create("Frame", {
+                    Parent = Items["Alpha"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Position = UDim2New(0, 3, 0.5, 0),
+                    Size = UDim2New(0, 3, 1, -8),
+                    ZIndex = 3,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["AlphaDragger"].Instance,
+                    Name = "\0",
+                    Thickness = 1.2000000476837158,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["AlphaDragger"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(1, 0)
+                })
+
+                Items["Checkers"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Alpha"].Instance,
+                    Name = "\0",
+                    ScaleType = Enum.ScaleType.Tile,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    TileSize = UDim2New(0, 6, 0, 6),
+                    Image = Library:GetImage("Checkers"),
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(1, 0, 1, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Checkers"].Instance,
+                    Name = "\0",
+                    Transparency = NumSequence{NumSequenceKeypoint(0, 1), NumSequenceKeypoint(0.37, 0.5), NumSequenceKeypoint(1, 0)}
+                })
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Checkers"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                local DropdownItems = { } do
+                    DropdownItems["Dropdown"] = Instances:Create("Frame", {
+                        Parent = Items["ColorpickerWindow"].Instance,
+                        Name = "\0",
+                        BackgroundTransparency = 1,
+                        AnchorPoint = Vector2New(0, 1),
+                        Size = UDim2New(1, -16, 0, 47),
+                        Position = UDim2New(0, 8, 1, -8),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })
+
+                    DropdownItems["Text"] = Instances:Create("TextLabel", {
+                        Parent = DropdownItems["Dropdown"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "animations",
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        BackgroundTransparency = 1,
+                        Size = UDim2New(0, 0, 0, 15),
+                        BorderSizePixel = 0,
+                        ZIndex = 2,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                    DropdownItems["RealDropdown"] = Instances:Create("TextButton", {
+                        Parent = DropdownItems["Dropdown"].Instance,
+                        Text = "", 
+                        AutoButtonColor = false,
+                        Name = "\0",
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        AnchorPoint = Vector2New(0, 1),
+                        Position = UDim2New(0, 0, 1, 0),
+                        Size = UDim2New(1, 0, 0, 25),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(34, 39, 45)
+                    })  DropdownItems["RealDropdown"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                    Instances:Create("UIGradient", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        Rotation = 84,
+                        Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                    }):AddToTheme({Color = function()
+                        return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                    end})
+
+                    Instances:Create("UICorner", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 4)
+                    })
+
+                    DropdownItems["Value"] = Instances:Create("TextLabel", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "--",
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        Size = UDim2New(0, 0, 0, 15),
+                        AnchorPoint = Vector2New(0, 0.5),
+                        Position = UDim2New(0, 8, 0.5, 0),
+                        BackgroundTransparency = 1,
+                        TextTruncate = Enum.TextTruncate.AtEnd,
+                        BorderSizePixel = 0,
+                        ZIndex = 2,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["Value"]:AddToTheme({TextColor3 = "Text"})
+
+                    DropdownItems["OpenIcon"] = Instances:Create("ImageLabel", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        ImageColor3 = FromRGB(196, 231, 255),
+                        ScaleType = Enum.ScaleType.Fit,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Size = UDim2New(0, 20, 0, 20),
+                        AnchorPoint = Vector2New(1, 0.5),
+                        Image = "rbxassetid://114252321536924",
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(1, -3, 0.5, 0),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["OpenIcon"]:AddToTheme({ImageColor3 = "Accent"})
+
+                    DropdownItems["OptionHolder"] = Instances:Create("TextButton", {
+                        Parent = DropdownItems["Dropdown"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(0, 0, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "",
+                        Visible = false,
+                        AutoButtonColor = false,
+                        Size = UDim2New(1, 0, 0, 50),
+                        AutomaticSize = Enum.AutomaticSize.Y,
+                        Position = UDim2New(0, 0, 1, 5),
+                        BorderSizePixel = 0,
+                        ZIndex = 5,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(22, 25, 29)
+                    })  DropdownItems["OptionHolder"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                    Instances:Create("UIGradient", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Rotation = 84,
+                        Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                    }):AddToTheme({Color = function()
+                        return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                    end})
+
+                    Instances:Create("UIStroke", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Color = FromRGB(32, 36, 42),
+                        Transparency = 0.4000000059604645,
+                        ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                    }):AddToTheme({Color = "Border"})
+
+                    Instances:Create("UICorner", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 5)
+                    })
+
+                    Instances:Create("UIListLayout", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Padding = UDimNew(0, 2),
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    })
+
+                    Instances:Create("UIPadding", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        PaddingTop = UDimNew(0, 8),
+                        PaddingBottom = UDimNew(0, 8),
+                        PaddingRight = UDimNew(0, 8),
+                        PaddingLeft = UDimNew(0, 8)
+                    })
+                end
+
+                local Dropdown = { 
+                    IsOpen = false,
+                    Value = { },
+                    Options = { },
+                    Flag = Data.Flag .. "AnimationDropdown",
+                    Multi = true
+                }
+
+                function Dropdown:AddOption(Option)
+                    local OptionButton = Instances:Create("TextButton", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(0, 0, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "",
+                        AutoButtonColor = false,
+                        BackgroundTransparency = 1,
+                        BorderSizePixel = 0,
+                        Size = UDim2New(1, 0, 0, 25),
+                        ZIndex = 5,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(16, 18, 21)
+                    })  OptionButton:AddToTheme({BackgroundColor3 = "Background"})
+
+                    local CheckImage = Instances:Create("ImageLabel", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        ImageColor3 = FromRGB(196, 231, 255),
+                        ScaleType = Enum.ScaleType.Fit,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Size = UDim2New(0, 18, 0, 18),
+                        Visible = true,
+                        AnchorPoint = Vector2New(0, 0.5),
+                        Image = "rbxassetid://116339777575852",
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(0, 3, 0.5, 0),
+                        ImageTransparency = 1,
+                        ZIndex = 5,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  CheckImage:AddToTheme({ImageColor3 = "Accent"})
+
+                    Instances:Create("UICorner", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 5)
+                    })
+
+                    local OptionText = Instances:Create("TextLabel", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextTransparency = 0.5,
+                        AnchorPoint = Vector2New(0, 0.5),
+                        ZIndex = 5,
+                        TextSize = 14,
+                        Size = UDim2New(0, 0, 0, 15),
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = Option,
+                        BackgroundTransparency = 1,
+                        TextXAlignment = Enum.TextXAlignment.Left,
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        Position = UDim2New(0, 7, 0.5, 0),
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  OptionText:AddToTheme({TextColor3 = "Text"})
+
+                    local OptionData = {
+                        Selected = false,
+                        Name = Option,
+                        Text = OptionText,
+                        Button = OptionButton,
+                        Check = CheckImage
+                    }
+
+                    function OptionData:Toggle(Status)
+                        if Status == "Active" then 
+                            OptionData.Button:Tween(nil, {BackgroundTransparency = 0})
+                            OptionData.Text:Tween(nil, {TextTransparency = 0, Position = UDim2New(0, 27, 0.5, 0)})
+                            OptionData.Check:Tween(nil, {ImageTransparency = 0})
+                        elseif Status == "Inactive" then
+                            OptionData.Button:Tween(nil, {BackgroundTransparency = 1})
+                            OptionData.Text:Tween(nil, {TextTransparency = 0.5, Position = UDim2New(0, 7, 0.5, 0)})
+                            OptionData.Check:Tween(nil, {ImageTransparency = 1})
+                        end
+                    end
+
+                    function OptionData:Set()
+                        OptionData.Selected = not OptionData.Selected
+
+                        if Dropdown.Multi then 
+                            local Index = TableFind(Dropdown.Value, OptionData.Name)
+
+                            if Index then 
+                                TableRemove(Dropdown.Value, Index)
+                            else
+                                TableInsert(Dropdown.Value, OptionData.Name)
+                            end
+
+                            Library.Flags[Dropdown.Flag] = Dropdown.Value
+
+                            OptionData:Toggle(Index and "Inactive" or "Active")
+
+                            local TextFormat = #Dropdown.Value > 0 and TableConcat(Dropdown.Value, ", ") or "--"
+
+                            DropdownItems["Value"].Instance.Text = TextFormat
+                        else
+                            if OptionData.Selected then 
+                                Dropdown.Value = OptionData.Name
+                                Library.Flags[Dropdown.Flag] = OptionData.Name
+
+                                OptionData:Toggle("Active")
+
+                                for Index, Value in Dropdown.Options do 
+                                    if Value ~= OptionData then
+                                        Value.Selected = false 
+                                        Value:Toggle("Inactive")
+                                    end
+                                end
+
+                                DropdownItems["Value"].Instance.Text = OptionData.Name 
+                            else
+                                Dropdown.Value = nil
+                                Library.Flags[Dropdown.Flag] = nil
+
+                                OptionData:Toggle("Inactive")
+                                DropdownItems["Value"].Instance.Text = "--"
+                            end
+                        end
+
+                        if Dropdown.Callback then 
+                            Library:SafeCall(Dropdown.Callback, Dropdown.Value)
+                        end
+                    end
+
+                    OptionData.Button:Connect("MouseButton1Down", function()
+                        OptionData:Set()
+                    end)
+
+                    Dropdown.Options[Option] = OptionData
+                    return OptionData
+                end
+
+                local Debounce = false 
+
+                function Dropdown:SetOpen(Bool)
+                    if Debounce then 
+                        return 
+                    end
+
+                    Dropdown.IsOpen = Bool
+                    DropdownItems["OptionHolder"].Instance.Parent = Bool and Library.Holder.Instance or Library.UnusedHolder.Instance
+
+                    Debounce = true
+
+                    if Bool then 
+                        DropdownItems["OptionHolder"].Instance.Visible = true
+
+                        RenderStepped = RunService.RenderStepped:Connect(function()
+                            DropdownItems["OptionHolder"].Instance.Position = UDim2New(0, DropdownItems["RealDropdown"].Instance.AbsolutePosition.X, 0,  DropdownItems["RealDropdown"].Instance.AbsolutePosition.Y + DropdownItems["RealDropdown"].Instance.AbsoluteSize.Y + 5)
+                            DropdownItems["OptionHolder"].Instance.Size = UDim2New(0, DropdownItems["RealDropdown"].Instance.AbsoluteSize.X, 0, 85)
+                        end)
+                    else
+                        if RenderStepped then
+                            RenderStepped:Disconnect()
+                            RenderStepped = nil
+                        end
+                    end
+
+                    local Descendants = DropdownItems["OptionHolder"].Instance:GetDescendants()
+                    TableInsert(Descendants, DropdownItems["OptionHolder"].Instance)
+
+                    local NewTween
+
+                    for Index, Value in Descendants do 
+                        local TransparencyProperty = Tween:GetProperty(Value)
+
+                        if not TransparencyProperty then 
+                            continue
+                        end
+
+                        if StringFind(Value.ClassName, "UI") then
+                            continue
+                        end
+
+                        Value.ZIndex = Bool and 10 or 0
+
+                        if type(TransparencyProperty) == "table" then 
+                            for _, Property in TransparencyProperty do 
+                                NewTween = Tween:FadeItem(Value, Property, Bool, Data.Window.FadeSpeed)
+                            end
+                        else
+                            NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Data.Window.FadeSpeed)
+                        end
+                    end
+
+                    NewTween.Tween.Completed:Once(function()
+                        Debounce = false
+                        DropdownItems["OptionHolder"].Instance.Visible = Bool
+                    end)
+                end
+
+                function Dropdown:Set(Option)
+                    if Dropdown.Multi then
+                        if type(Option) ~= "table" then
+                            return
+                        end
+
+                        Dropdown.Value = Option
+                        Library.Flags[Dropdown.Flag] = Option
+
+                        for Index, Value in Option do 
+                            local OptionData = Dropdown.Options[Value]
+                                
+                            if not OptionData then 
+                                return
+                            end
+
+                            OptionData.Selected = true
+                            OptionData:Toggle("Active")
+                        end
+
+                        DropdownItems["Value"].Instance.Text = TableConcat(Option, ", ")
+                    else
+                        if not Dropdown.Options[Option] then 
+                            return
+                        end
+
+                        local OptionData = Dropdown.Options[Option]
+
+                        Dropdown.Value = OptionData.Name
+                        Library.Flags[Dropdown.Flag] = OptionData.Name
+
+                        for Index, Value in Dropdown.Options do 
+                            if Value ~= OptionData then
+                                Value.Selected = false 
+                                Value:Toggle("Inactive")
+                            else
+                                Value.Selected = true 
+                                Value:Toggle("Active")
+                            end
+                        end
+
+                        DropdownItems["Value"].Instance.Text = OptionData.Name
+                    end
+
+                    if Dropdown.Callback then 
+                        Library:SafeCall(Dropdown.Callback, Dropdown.Value)
+                    end
+                end
+
+                Library.SetFlags[Dropdown.Flag] = function(Value)
+                    Dropdown:Set(Value)
+                end
+
+                DropdownItems["RealDropdown"]:Connect("MouseButton1Down", function()
+                    Dropdown:SetOpen(not Dropdown.IsOpen)
+                end)
+
+                Dropdown:AddOption("rainbow")
+                Dropdown:AddOption("breathing")
+
+                local OldColor = Colorpicker.Color
+                local OldAlpha = Colorpicker.Alpha
+                
+                Dropdown.Callback = function(Value)
+                    if TableFind(Value, "rainbow") then 
+                        OldColor = Colorpicker.Color
+
+                        Library:Thread(function()
+                            while task.wait() do 
+                                local RainbowHue = MathAbs(MathSin(tick() * 0.32))
+                                local Color = FromHSV(RainbowHue, 1, 1)
+
+                                Colorpicker:Set(Color, Colorpicker.Alpha)
+
+                                if not TableFind(Value, "rainbow") then
+                                    Colorpicker:Set(OldColor, Colorpicker.Alpha)
+                                    break
+                                end
+                            end
+                        end)
+                    end
+
+                    if TableFind(Value, "breathing") then 
+                        Library:Thread(function()
+                            OldAlpha = Colorpicker.Alpha
+                            while task.wait() do 
+                                local AlphaValue = MathAbs(MathSin(tick() * 0.8))
+
+                                Colorpicker:Set(Colorpicker.Color, AlphaValue)
+
+                                if not TableFind(Value, "breathing") then
+                                    Colorpicker:Set(Colorpicker.Color, OldAlpha)
+                                    break
+                                end
+                            end
+                        end)
+                    end
+                end
+
+                getgenv().Options[Dropdown.Flag] = Dropdown
+
+                AnimationsDropdown = Dropdown 
+                AnimationsDropdownItems = DropdownItems
+            end
+
+            local Debounce = false 
+
+            local SlidingPalette = false 
+            local SlidingHue = false 
+            local SlidingAlpha = false
+
+            function Colorpicker:SetOpen(Bool)
+                if Debounce then 
+                    return 
+                end
+
+                Colorpicker.IsOpen = Bool
+
+                Debounce = true
+                Items["ColorpickerWindow"].Instance.Parent = Bool and Library.Holder.Instance or Library.UnusedHolder.Instance
+
+                if Bool then 
+                    Items["ColorpickerWindow"].Instance.Visible = true
+                    Items["ColorpickerWindow"].Instance.Position = UDim2New(0, Items["ColorpickerButton"].Instance.AbsolutePosition.X, 0, Items["ColorpickerButton"].Instance.AbsolutePosition.Y + 25)
+                    
+                    for Index, Value in Library.OpenFrames do 
+                        if Value.Type == "Colorpicker" then 
+                            Value:SetOpen(false)
+                        end
+                    end
+
+                    Library.OpenFrames[Data.Name] = Colorpicker
+                else
+                    if Library.OpenFrames[Data.Name] then
+                        Library.OpenFrames[Data.Name] = nil
+                    end
+
+                    -- The rainbow/breathing dropdown lives in its own OptionHolder
+                    -- (reparented to Library.Holder when open), so it is NOT a child of
+                    -- ColorpickerWindow and won't be hidden by the fade below. Close it too.
+                    if AnimationsDropdown and AnimationsDropdown.IsOpen then
+                        pcall(function()
+                            AnimationsDropdown:SetOpen(false)
+                        end)
+                    end
+                end
+
+                local Descendants = Items["ColorpickerWindow"].Instance:GetDescendants()
+                TableInsert(Descendants, Items["ColorpickerWindow"].Instance)
+
+                local NewTween
+
+                for Index, Value in Descendants do 
+                    local TransparencyProperty = Tween:GetProperty(Value)
+
+                    if not TransparencyProperty then 
+                        continue
+                    end
+
+                    if type(TransparencyProperty) == "table" then 
+                        for _, Property in TransparencyProperty do 
+                            NewTween = Tween:FadeItem(Value, Property, Bool, Data.Window.FadeSpeed)
+                        end
+                    else
+                        NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Data.Window.FadeSpeed)
+                    end
+                end
+
+                NewTween.Tween.Completed:Once(function()
+                    Debounce = false
+                    Items["ColorpickerWindow"].Instance.Visible = Bool
+                end)                
+            end
+
+            function Colorpicker:Get()
+                return Colorpicker.Color, Colorpicker.Alpha
+            end
+
+            function Colorpicker:Update(IsFromAlpha)
+                local Hue, Saturation, Value = Colorpicker.Hue, Colorpicker.Saturation, Colorpicker.Value
+                local Color = FromHSV(Hue, Saturation, Value)
+
+                Colorpicker.Color = Color
+                Colorpicker.HexValue = Color:ToHex()
+
+                Library.Flags[Data.Flag] = {
+                    Alpha = Colorpicker.Alpha,
+                    Color = Colorpicker.HexValue
+                }
+
+                Items["ColorpickerButton"]:Tween(nil, {BackgroundColor3 = Color})
+                Items["Inline"]:Tween(nil, {BackgroundColor3 = Color})
+                Items["Palette"]:Tween(nil, {BackgroundColor3 = FromHSV(Hue, 1, 1)})
+
+                if not IsFromAlpha then 
+                    Items["Alpha"]:Tween(nil, {BackgroundColor3 = Color})
+                end
+
+                if Data.Callback then 
+                    Library:SafeCall(Data.Callback, Color, Colorpicker.Alpha)
+                end
+            end
+
+            function Colorpicker:SlidePalette(Input)
+                if not SlidingPalette then 
+                    return
+                end
+
+                if not Input then
+                    return
+                end
+
+                local ValueX = MathClamp(1 - (Input.Position.X - Items["Palette"].Instance.AbsolutePosition.X) / Items["Palette"].Instance.AbsoluteSize.X, 0, 1)
+                local ValueY = MathClamp(1 - (Input.Position.Y - Items["Palette"].Instance.AbsolutePosition.Y) / Items["Palette"].Instance.AbsoluteSize.Y, 0, 1)
+
+                Colorpicker.Saturation = ValueX
+                Colorpicker.Value = ValueY
+
+                local SlideX = MathClamp((Input.Position.X - Items["Palette"].Instance.AbsolutePosition.X) / Items["Palette"].Instance.AbsoluteSize.X, 0, 0.98)
+                local SlideY = MathClamp((Input.Position.Y - Items["Palette"].Instance.AbsolutePosition.Y) / Items["Palette"].Instance.AbsoluteSize.Y, 0, 0.97)
+
+                Items["PaletteDragger"]:Tween(TweenInfo.new(0.2, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Position = UDim2New(SlideX, 0, SlideY, 0)})
+                Colorpicker:Update()
+            end
+
+            function Colorpicker:SlideHue(Input)
+                if not SlidingHue then 
+                    return
+                end
+
+                if not Input then
+                    return
+                end
+                
+                local ValueX = MathClamp((Input.Position.X - Items["Hue"].Instance.AbsolutePosition.X) / Items["Hue"].Instance.AbsoluteSize.X, 0, 1)
+                
+                Colorpicker.Hue = ValueX
+
+                local SlideX = MathClamp((Input.Position.X - Items["Hue"].Instance.AbsolutePosition.X) / Items["Hue"].Instance.AbsoluteSize.X, 0, 0.98)
+
+                Items["HueDragger"]:Tween(TweenInfo.new(0.2, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Position = UDim2New(SlideX, 0, 0.5, 0)})
+                Colorpicker:Update()
+            end
+
+            function Colorpicker:SlideAlpha(Input)
+                if not SlidingAlpha then 
+                    return
+                end
+
+                if not Input then
+                    return
+                end
+                
+                local ValueX = MathClamp((Input.Position.X - Items["Alpha"].Instance.AbsolutePosition.X) / Items["Alpha"].Instance.AbsoluteSize.X, 0, 1)
+                
+                Colorpicker.Alpha = ValueX
+
+                local SlideX = MathClamp((Input.Position.X - Items["Alpha"].Instance.AbsolutePosition.X) / Items["Alpha"].Instance.AbsoluteSize.X, 0, 0.98)
+
+                Items["AlphaDragger"]:Tween(TweenInfo.new(0.2, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Position = UDim2New(SlideX, 0, 0.5, 0)})
+                Colorpicker:Update(true)
+            end
+
+            function Colorpicker:Set(Color, Alpha)
+                if type(Color) == "table" then
+                    Color = FromRGB(Color[1], Color[2], Color[3])
+                    Alpha = Color[4]
+                elseif type(Color) == "string" then
+                    Color = FromHex(Color)
+                end 
+
+                Colorpicker.Hue, Colorpicker.Saturation, Colorpicker.Value = Color:ToHSV()
+                Colorpicker.Alpha = Alpha or 0
+
+                local ColorPositionX = MathClamp(1 - Colorpicker.Saturation, 0, 0.98)
+                local ColorPositionY = MathClamp(1 - Colorpicker.Value, 0, 0.97)
+
+                local AlphaPositionX = MathClamp(Colorpicker.Alpha, 0, 0.98)
+
+                local HuePositionX = MathClamp(Colorpicker.Hue, 0, 0.98)
+
+                Items["PaletteDragger"]:Tween(TweenInfo.new(0.2, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Position = UDim2New(ColorPositionX, 0, ColorPositionY, 0)})
+                Items["HueDragger"]:Tween(TweenInfo.new(0.2, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Position = UDim2New(HuePositionX, 0, 0.5, 0)})
+                Items["AlphaDragger"]:Tween(TweenInfo.new(0.2, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Position = UDim2New(AlphaPositionX, 0, 0.5, 0)})
+                Colorpicker:Update()
+            end
+
+            getgenv().Options[Data.Flag] = Colorpicker
+
+            Items["ColorpickerButton"]:Connect("MouseButton1Down", function()
+                Colorpicker:SetOpen(not Colorpicker.IsOpen)
+            end)
+
+            local InputChanged1
+
+            Items["Palette"]:Connect("InputBegan", function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then 
+                    SlidingPalette = true
+                    Colorpicker:SlidePalette(Input)
+
+                    if InputChanged1 then
+                        return
+                    end
+
+                    InputChanged1 = Input.Changed:Connect(function()
+                        if Input.UserInputState == Enum.UserInputState.End then 
+                            SlidingPalette = false
+
+                            InputChanged1:Disconnect()
+                            InputChanged1 = nil
+                        end
+                    end)
+                end
+            end)
+
+            local InputChanged2
+
+            Items["Hue"]:Connect("InputBegan", function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then 
+                    SlidingHue = true
+                    Colorpicker:SlideHue(Input)
+                    
+                    if InputChanged2 then
+                        return
+                    end
+
+                    InputChanged2 = Input.Changed:Connect(function()
+                        if Input.UserInputState == Enum.UserInputState.End then
+                            SlidingHue = false
+
+                            InputChanged2:Disconnect()
+                            InputChanged2 = nil
+                        end
+                    end)
+                end
+            end)
+
+            local InputChanged3
+
+            Items["Alpha"]:Connect("InputBegan", function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then 
+                    SlidingAlpha = true
+                    Colorpicker:SlideAlpha(Input)
+
+                    if InputChanged3 then
+                        return
+                    end
+
+                    InputChanged3 = Input.Changed:Connect(function()
+                        if Input.UserInputState == Enum.UserInputState.End then
+                            SlidingAlpha = false
+
+                            InputChanged3:Disconnect()
+                            InputChanged3 = nil
+                        end
+                    end)
+                end
+            end)
+
+            Library:Connect(UserInputService.InputChanged, function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch then
+                    if SlidingPalette then
+                        Colorpicker:SlidePalette(Input)
+                    end
+
+                    if SlidingHue then
+                        Colorpicker:SlideHue(Input)
+                    end
+
+                    if SlidingAlpha then
+                        Colorpicker:SlideAlpha(Input)
+                    end
+                end
+            end)
+
+            Library:Connect(UserInputService.InputBegan, function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+                    if not Colorpicker.IsOpen then
+                        return
+                    end
+
+                    if Library:IsMouseOverFrame(Items["ColorpickerWindow"], 0, 0, Input.Position) or Library:IsMouseOverFrame(AnimationsDropdownItems["OptionHolder"], 0, 0, Input.Position) then
+                        return 
+                    end
+
+                    if Debounce then 
+                        return 
+                    end
+
+                    Colorpicker:SetOpen(false)
+                end
+            end)
+
+            if Data.Default then
+                Colorpicker:Set(Data.Default, Data.Alpha)
+            end
+
+            Library.SetFlags[Data.Flag] = function(Color, Alpha)
+                Colorpicker:Set(Color, Alpha)
+            end
+
+            return Colorpicker, Items 
+        end
+
+        Components.Keybind = function(Data)
+            local Keybind = {
+                Type = "Keybind",
+                IsOpen = false,
+
+                Key = nil,
+                Value = "",
+                Mode = "",
+
+                Enabled = true,
+
+                Toggled = false
+            }
+
+            local Modes = { }
+            Library.Flags[Data.Flag] = { }
+            local ModesDropdown
+            local ModesDropdownItems 
+            local KeylistItem 
+
+            if Library.KeyList then 
+                KeylistItem = Library.KeyList:Add("", "")
+            end
+
+            local Items = { } do
+                Items["KeyButton"] = Instances:Create("TextButton", {
+                    Parent = Data.Parent.Instance,
+                    Name = "\0",
+                    Visible = false,
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = "None",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    AutoButtonColor = false,
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Size = UDim2New(0, 0, 0, 15),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, Data.IsToggle and -25 or 0, 0.5, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["KeyButton"]:AddToTheme({TextColor3 = "Text"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["KeyButton"].Instance,
+                    Name = "\0",
+                    PaddingRight = UDimNew(0, 2),
+                    PaddingLeft = UDimNew(0, 2)
+                })
+
+                Items["KeybindWindow"] = Instances:Create("Frame", {
+                    Parent = Library.Holder.Instance,
+                    Name = "\0",
+                    Position = UDim2New(0, Items["KeyButton"].Instance.AbsolutePosition.X, 0, Items["KeyButton"].Instance.AbsolutePosition.Y + 25),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Visible = false,
+                    Size = UDim2New(0, 195, 0, 93),
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["KeybindWindow"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["KeybindWindow"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["KeybindWindow"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["KeybindWindow"]:MakeDraggable()
+                Items["KeybindWindow"]:MakeResizeable(Vector2New(155, 93), Vector2New(9999, 9999))
+
+                local DropdownItems = { } do
+                    DropdownItems["Dropdown"] = Instances:Create("Frame", {
+                        Parent = Items["KeybindWindow"].Instance,
+                        Name = "\0",
+                        BackgroundTransparency = 1,
+                        AnchorPoint = Vector2New(0, 0),
+                        Size = UDim2New(1, -16, 0, 47),
+                        Position = UDim2New(0, 8, 0, 8),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })
+
+                    DropdownItems["Text"] = Instances:Create("TextLabel", {
+                        Parent = DropdownItems["Dropdown"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "mode",
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        BackgroundTransparency = 1,
+                        Size = UDim2New(0, 0, 0, 15),
+                        BorderSizePixel = 0,
+                        ZIndex = 2,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                    DropdownItems["RealDropdown"] = Instances:Create("TextButton", {
+                        Parent = DropdownItems["Dropdown"].Instance,
+                        Text = "", 
+                        AutoButtonColor = false,
+                        Name = "\0",
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        AnchorPoint = Vector2New(0, 1),
+                        Position = UDim2New(0, 0, 1, 0),
+                        Size = UDim2New(1, 0, 0, 25),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(34, 39, 45)
+                    })  DropdownItems["RealDropdown"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                    Instances:Create("UIGradient", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        Rotation = 84,
+                        Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                    }):AddToTheme({Color = function()
+                        return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                    end})
+
+                    Instances:Create("UICorner", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 4)
+                    })
+
+                    DropdownItems["Value"] = Instances:Create("TextLabel", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "--",
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        Size = UDim2New(0, 0, 0, 15),
+                        AnchorPoint = Vector2New(0, 0.5),
+                        Position = UDim2New(0, 8, 0.5, 0),
+                        BackgroundTransparency = 1,
+                        TextTruncate = Enum.TextTruncate.AtEnd,
+                        BorderSizePixel = 0,
+                        ZIndex = 2,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["Value"]:AddToTheme({TextColor3 = "Text"})
+
+                    DropdownItems["OpenIcon"] = Instances:Create("ImageLabel", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        ImageColor3 = FromRGB(196, 231, 255),
+                        ScaleType = Enum.ScaleType.Fit,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Size = UDim2New(0, 20, 0, 20),
+                        AnchorPoint = Vector2New(1, 0.5),
+                        Image = "rbxassetid://114252321536924",
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(1, -3, 0.5, 0),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["OpenIcon"]:AddToTheme({ImageColor3 = "Accent"})
+
+                    DropdownItems["OptionHolder"] = Instances:Create("TextButton", {
+                        Parent = DropdownItems["Dropdown"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(0, 0, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "",
+                        Visible = false,
+                        AutoButtonColor = false,
+                        Size = UDim2New(1, 0, 0, 50),
+                        AutomaticSize = Enum.AutomaticSize.Y,
+                        Position = UDim2New(0, 0, 1, 5),
+                        BorderSizePixel = 0,
+                        ZIndex = 5,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(22, 25, 29)
+                    })  DropdownItems["OptionHolder"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                    Instances:Create("UIGradient", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Rotation = 84,
+                        Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                    }):AddToTheme({Color = function()
+                        return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                    end})
+
+                    Instances:Create("UIStroke", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Color = FromRGB(32, 36, 42),
+                        Transparency = 0.4000000059604645,
+                        ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                    }):AddToTheme({Color = "Border"})
+
+                    Instances:Create("UICorner", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 5)
+                    })
+
+                    Instances:Create("UIListLayout", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Padding = UDimNew(0, 2),
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    })
+
+                    Instances:Create("UIPadding", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        PaddingTop = UDimNew(0, 8),
+                        PaddingBottom = UDimNew(0, 8),
+                        PaddingRight = UDimNew(0, 8),
+                        PaddingLeft = UDimNew(0, 8)
+                    })
+                end
+
+                local Dropdown = { 
+                    IsOpen = false,
+                    Value = { },
+                    Options = { },
+                    Flag = Data.Flag .. "ModeDropdown",
+                    Multi = false
+                }
+
+                function Dropdown:AddOption(Option)
+                    local OptionButton = Instances:Create("TextButton", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(0, 0, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "",
+                        AutoButtonColor = false,
+                        BackgroundTransparency = 1,
+                        BorderSizePixel = 0,
+                        Size = UDim2New(1, 0, 0, 25),
+                        ZIndex = 5,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(16, 18, 21)
+                    })  OptionButton:AddToTheme({BackgroundColor3 = "Background"})
+
+                    local CheckImage = Instances:Create("ImageLabel", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        ImageColor3 = FromRGB(196, 231, 255),
+                        ScaleType = Enum.ScaleType.Fit,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Size = UDim2New(0, 18, 0, 18),
+                        Visible = true,
+                        AnchorPoint = Vector2New(0, 0.5),
+                        Image = "rbxassetid://116339777575852",
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(0, 3, 0.5, 0),
+                        ImageTransparency = 1,
+                        ZIndex = 5,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  CheckImage:AddToTheme({ImageColor3 = "Accent"})
+
+                    Instances:Create("UICorner", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 5)
+                    })
+
+                    local OptionText = Instances:Create("TextLabel", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextTransparency = 0.5,
+                        AnchorPoint = Vector2New(0, 0.5),
+                        ZIndex = 5,
+                        TextSize = 14,
+                        Size = UDim2New(0, 0, 0, 15),
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = Option,
+                        BackgroundTransparency = 1,
+                        TextXAlignment = Enum.TextXAlignment.Left,
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        Position = UDim2New(0, 7, 0.5, 0),
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  OptionText:AddToTheme({TextColor3 = "Text"})
+
+                    local OptionData = {
+                        Selected = false,
+                        Name = Option,
+                        Text = OptionText,
+                        Button = OptionButton,
+                        Check = CheckImage
+                    }
+
+                    function OptionData:Toggle(Status)
+                        if Status == "Active" then 
+                            OptionData.Button:Tween(nil, {BackgroundTransparency = 0})
+                            OptionData.Text:Tween(nil, {TextTransparency = 0, Position = UDim2New(0, 27, 0.5, 0)})
+                            OptionData.Check:Tween(nil, {ImageTransparency = 0})
+                        elseif Status == "Inactive" then
+                            OptionData.Button:Tween(nil, {BackgroundTransparency = 1})
+                            OptionData.Text:Tween(nil, {TextTransparency = 0.5, Position = UDim2New(0, 7, 0.5, 0)})
+                            OptionData.Check:Tween(nil, {ImageTransparency = 1})
+                        end
+                    end
+
+                    function OptionData:Set()
+                        OptionData.Selected = not OptionData.Selected
+
+                        if Dropdown.Multi then 
+                            local Index = TableFind(Dropdown.Value, OptionData.Name)
+
+                            if Index then 
+                                TableRemove(Dropdown.Value, Index)
+                            else
+                                TableInsert(Dropdown.Value, OptionData.Name)
+                            end
+
+                            Library.Flags[Dropdown.Flag] = Dropdown.Value
+
+                            OptionData:Toggle(Index and "Inactive" or "Active")
+
+                            local TextFormat = #Dropdown.Value > 0 and TableConcat(Dropdown.Value, ", ") or "--"
+
+                            DropdownItems["Value"].Instance.Text = TextFormat
+                        else
+                            if OptionData.Selected then 
+                                Dropdown.Value = OptionData.Name
+                                Library.Flags[Dropdown.Flag] = OptionData.Name
+
+                                OptionData:Toggle("Active")
+
+                                for Index, Value in Dropdown.Options do 
+                                    if Value ~= OptionData then
+                                        Value.Selected = false 
+                                        Value:Toggle("Inactive")
+                                    end
+                                end
+
+                                DropdownItems["Value"].Instance.Text = OptionData.Name 
+                            else
+                                Dropdown.Value = nil
+                                Library.Flags[Dropdown.Flag] = nil
+
+                                OptionData:Toggle("Inactive")
+                                DropdownItems["Value"].Instance.Text = "--"
+                            end
+                        end
+
+                        if Dropdown.Callback then 
+                            Library:SafeCall(Dropdown.Callback, Dropdown.Value)
+                        end
+                    end
+
+                    OptionData.Button:Connect("MouseButton1Down", function()
+                        OptionData:Set()
+                    end)
+
+                    Dropdown.Options[Option] = OptionData
+                    return OptionData
+                end
+
+                function Dropdown:Set(Option)
+                    if Dropdown.Multi then
+                        if type(Option) ~= "table" then
+                            return
+                        end
+
+                        Dropdown.Value = Option
+                        Library.Flags[Dropdown.Flag] = Option
+
+                        for Index, Value in Option do 
+                            local OptionData = Dropdown.Options[Value]
+                            
+                            if not OptionData then 
+                                return
+                            end
+
+                            OptionData.Selected = true
+                            OptionData:Toggle("Active")
+                        end
+
+                        DropdownItems["Value"].Instance.Text = TableConcat(Option, ", ")
+                    else
+                        if not Dropdown.Options[Option] then 
+                            return
+                        end
+
+                        local OptionData = Dropdown.Options[Option]
+
+                        Dropdown.Value = OptionData.Name
+                        Library.Flags[Dropdown.Flag] = OptionData.Name
+
+                        for Index, Value in Dropdown.Options do 
+                            if Value ~= OptionData then
+                                Value.Selected = false 
+                                Value:Toggle("Inactive")
+                            else
+                                Value.Selected = true 
+                                Value:Toggle("Active")
+                            end
+                        end
+
+                        DropdownItems["Value"].Instance.Text = OptionData.Name
+                    end
+
+                    if Dropdown.Callback then 
+                        Library:SafeCall(Dropdown.Callback, Dropdown.Value)
+                    end
+
+                    Library.SetFlags[Dropdown.Flag] = function(Value)
+                        Dropdown:Set(Value)
+                    end
+                end
+
+                local _1 = Dropdown:AddOption("toggle")
+                local _2 = Dropdown:AddOption("hold")
+                local _3 = Dropdown:AddOption("always")
+
+                Modes = {
+                    ["toggle"] = _1,
+                    ["hold"] = _2,
+                    ["always"] = _3
+                }
+
+                local Debounce = false 
+                local RenderStepped
+
+                function Dropdown:SetOpen(Bool)
+                    if Debounce then 
+                        return 
+                    end
+
+                    Dropdown.IsOpen = Bool
+                    DropdownItems["OptionHolder"].Instance.Parent = Bool and Library.Holder.Instance or Library.UnusedHolder.Instance
+
+                    Debounce = true
+
+                    if Bool then 
+                        DropdownItems["OptionHolder"].Instance.Visible = true
+
+                        RenderStepped = RunService.RenderStepped:Connect(function()
+                            DropdownItems["OptionHolder"].Instance.Position = UDim2New(0, DropdownItems["RealDropdown"].Instance.AbsolutePosition.X, 0,  DropdownItems["RealDropdown"].Instance.AbsolutePosition.Y + DropdownItems["RealDropdown"].Instance.AbsoluteSize.Y + 5)
+                            DropdownItems["OptionHolder"].Instance.Size = UDim2New(0, DropdownItems["RealDropdown"].Instance.AbsoluteSize.X, 0, 85)
+                        end)
+                    else
+                        if RenderStepped then
+                            RenderStepped:Disconnect()
+                            RenderStepped = nil
+                        end
+                    end
+
+                    local Descendants = DropdownItems["OptionHolder"].Instance:GetDescendants()
+                    TableInsert(Descendants, DropdownItems["OptionHolder"].Instance)
+
+                    local NewTween
+
+                    for Index, Value in Descendants do 
+                        local TransparencyProperty = Tween:GetProperty(Value)
+
+                        if not TransparencyProperty then 
+                            continue
+                        end
+
+                        if StringFind(Value.ClassName, "UI") then
+                            continue
+                        end
+
+                        Value.ZIndex = Bool and 10 or 0
+
+                        if type(TransparencyProperty) == "table" then 
+                            for _, Property in TransparencyProperty do 
+                                NewTween = Tween:FadeItem(Value, Property, Bool, Data.Window.FadeSpeed)
+                            end
+                        else
+                            NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Data.Window.FadeSpeed)
+                        end
+                    end
+
+                    NewTween.Tween.Completed:Once(function()
+                        Debounce = false
+                        DropdownItems["OptionHolder"].Instance.Visible = Bool
+                    end)
+                end
+
+                DropdownItems["RealDropdown"]:Connect("MouseButton1Down", function()
+                    Dropdown:SetOpen(not Dropdown.IsOpen)
+                end)
+
+                ModesDropdown = Dropdown
+                ModesDropdownItems = DropdownItems
+
+                local ToggleItems = { } do
+                    ToggleItems["Toggle"] = Instances:Create("TextButton", {
+                        Parent = Items["KeybindWindow"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(0, 0, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "",
+                        AutoButtonColor = false,
+                        BackgroundTransparency = 1,
+                        BorderSizePixel = 0,
+                        Position = UDim2New(0, 8, 0, 65),
+                        Size = UDim2New(1, -16, 0, 20),
+                        ZIndex = 2,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })
+
+                    ToggleItems["Text"] = Instances:Create("TextLabel", {
+                        Parent = ToggleItems["Toggle"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(255, 255, 255),
+                        TextTransparency = 0.5,
+                        Text = "show in keybind list",
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        Size = UDim2New(0, 0, 0, 15),
+                        AnchorPoint = Vector2New(0, 0.5),
+                        BorderSizePixel = 0,
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(0, 0, 0.5, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        ZIndex = 2,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  ToggleItems["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                    ToggleItems["Indicator"] = Instances:Create("Frame", {
+                        Parent = ToggleItems["Toggle"].Instance,
+                        Name = "\0",
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        AnchorPoint = Vector2New(1, 0.5),
+                        Position = UDim2New(1, 0, 0.5, 0),
+                        Size = UDim2New(0, 20, 0, 20),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(34, 39, 45)
+                    })  ToggleItems["Indicator"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                    Instances:Create("UICorner", {
+                        Parent = ToggleItems["Indicator"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 4)
+                    })
+
+                    ToggleItems["Inline"] = Instances:Create("Frame", {
+                        Parent = ToggleItems["Indicator"].Instance,
+                        Name = "\0",
+                        Size = UDim2New(1, -4, 1, -4),
+                        Position = UDim2New(0, 2, 0, 2),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(34, 39, 45)
+                    })  ToggleItems["Inline"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                    Instances:Create("UICorner", {
+                        Parent = ToggleItems["Inline"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 4)
+                    })
+
+                    Instances:Create("UIGradient", {
+                        Parent = ToggleItems["Inline"].Instance,
+                        Name = "\0",
+                        Rotation = 84,
+                        Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                    }):AddToTheme({Color = function()
+                        return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                    end})
+
+                    ToggleItems["Check"] = Instances:Create("ImageLabel", {
+                        Parent = ToggleItems["Inline"].Instance,
+                        Name = "\0",
+                        Visible = true,
+                        ScaleType = Enum.ScaleType.Fit,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Size = UDim2New(1, -2, 1, -2),
+                        AnchorPoint = Vector2New(0.5, 0.5),
+                        Image = "rbxassetid://116339777575852",
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(0.5, 0, 0.5, 0),
+                        ImageTransparency = 1,
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255),
+                        ImageColor3 = FromRGB(0, 0, 0)
+                    })
+                end
+
+                getgenv().Options[Dropdown.Flag] = Dropdown
+
+                local Toggle = { 
+                    Value = false,
+                    Flag = Data.Flag .. "keybindToggle",
+                    Callback = nil,
+                }
+
+                function Toggle:Set(Bool)
+                    Toggle.Value = Bool 
+                    Library.Flags[Toggle.Flag] = Bool
+
+                    if Bool then
+                        ToggleItems["Indicator"]:ChangeItemTheme({BackgroundColor3 = "Accent"})
+                        ToggleItems["Inline"]:ChangeItemTheme({BackgroundColor3 = "Accent"})
+
+                        ToggleItems["Indicator"]:Tween(nil, {BackgroundColor3 = Library.Theme.Accent})
+                        ToggleItems["Inline"]:Tween(nil, {BackgroundColor3 = Library.Theme.Accent})
+
+                        ToggleItems["Check"]:Tween(nil, {ImageTransparency = 0})
+                        ToggleItems["Text"]:Tween(nil, {TextTransparency = 0})
+                    else
+                        ToggleItems["Indicator"]:ChangeItemTheme({BackgroundColor3 = "Element"})
+                        ToggleItems["Inline"]:ChangeItemTheme({BackgroundColor3 = "Element"})
+
+                        ToggleItems["Indicator"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                        ToggleItems["Inline"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+
+                        ToggleItems["Check"]:Tween(nil, {ImageTransparency = 1})
+                        ToggleItems["Text"]:Tween(nil, {TextTransparency = 0.5})
+                    end
+
+                    if Toggle.Callback then 
+                        Library:SafeCall(Toggle.Callback, Bool)
+                    end
+                end
+
+                Toggle.Callback = function(Value)
+                    if KeylistItem then 
+                        KeylistItem:SetVisibility(Value)
+                    end
+                end
+
+                ToggleItems["Toggle"]:Connect("MouseButton1Down", function()
+                    Toggle:Set(not Toggle.Value)
+                end)
+
+                Toggle:Set(true)
+
+                Dropdown.Callback = function(Value)
+                    Keybind.Mode = Value
+
+                    Library.Flags[Data.Flag] = {
+                        Mode = Keybind.Mode,
+                        Key = Keybind.Key,
+                        Toggled = Keybind.Toggled
+                    }
+                end 
+
+                getgenv().Options[Toggle.Flag] = Toggle
+            end
+
+            local Update = function()
+                if not KeylistItem then 
+                    return 
+                end
+
+                KeylistItem:SetText(Keybind.Value, Data.Name)
+                
+                if Keybind.Mode == "hold" then 
+                    KeylistItem:SetStatus(Keybind.Toggled and "holding" or "off")
+                else
+                    KeylistItem:SetStatus(Keybind.Toggled and "on" or "off")
+                end
+
+                KeylistItem:Set(Keybind.Toggled)
+                if KeylistItem.Instance then
+                    KeylistItem.Instance.Visible = Keybind.Enabled
+                end
+            end
+
+            local Debounce = false
+
+            function Keybind:SetOpen(Bool)
+                if Debounce then 
+                    return 
+                end
+
+                Keybind.IsOpen = Bool
+
+                Debounce = true
+                Items["KeybindWindow"].Instance.Parent = Bool and Library.Holder.Instance or Library.UnusedHolder.Instance
+
+                if Bool then 
+                    Items["KeybindWindow"].Instance.Visible = true
+                    Items["KeybindWindow"].Instance.Position = UDim2New(0, Items["KeyButton"].Instance.AbsolutePosition.X, 0, Items["KeyButton"].Instance.AbsolutePosition.Y + 25)
+
+                    for Index, Value in Library.OpenFrames do 
+                        if Value.Type == "Keybind" then 
+                            Value:SetOpen(false)
+                        end
+                    end
+
+                    Library.OpenFrames[Data.Name] = Keybind
+                else
+                    ModesDropdown:SetOpen(false)
+
+                    if Library.OpenFrames[Data.Name] then 
+                        Library.OpenFrames[Data.Name] = nil
+                    end
+                end
+
+                local Descendants = Items["KeybindWindow"].Instance:GetDescendants()
+                TableInsert(Descendants, Items["KeybindWindow"].Instance)
+
+                local NewTween
+
+                for Index, Value in Descendants do 
+                    local TransparencyProperty = Tween:GetProperty(Value)
+
+                    if not TransparencyProperty then 
+                        continue
+                    end
+
+                    if StringFind(Value.ClassName, "UI") then
+                        continue
+                    end
+
+                    Value.ZIndex = Bool and 15 or 0
+
+                    if type(TransparencyProperty) == "table" then 
+                        for _, Property in TransparencyProperty do 
+                            NewTween = Tween:FadeItem(Value, Property, Bool, Data.Window.FadeSpeed)
+                        end
+                    else
+                        NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Data.Window.FadeSpeed)
+                    end
+                end
+
+                NewTween.Tween.Completed:Once(function()
+                    Debounce = false
+                    Items["KeybindWindow"].Instance.Visible = Bool
+                end)
+            end
+
+            function Keybind:SetMode(Mode)
+                ModesDropdown:Set(Mode)
+                
+                Library.Flags[Data.Flag] = {
+                    Mode = Keybind.Mode,
+                    Key = Keybind.Key,
+                    Toggled = Keybind.Toggled
+                }
+
+                Update()
+            end
+
+            function Keybind:Get()
+                return Keybind.Toggled, Keybind.Key
+            end
+
+            -- Whether the hotkey is currently allowed to fire. Wired to the per-toggle
+            -- "Use Keybind" setting in the cog popup. Disabling forces the bind OFF.
+            function Keybind:SetEnabled(Bool)
+                Keybind.Enabled = Bool
+
+                if not Bool then
+                    Keybind.Toggled = false
+                end
+                Update()
+            end
+
+            -- Force the toggled state (and its keybind-list visual/status) to a value
+            -- without depending on mode/press semantics. Used by callers that disable a
+            -- feature programmatically and need the keybind UI to sync to OFF.
+            function Keybind:SetToggled(Bool)
+                Keybind.Toggled = Bool
+
+                Library.Flags[Data.Flag] = {
+                    Mode = Keybind.Mode,
+                    Key = Keybind.Key,
+                    Toggled = Keybind.Toggled
+                }
+
+                if Data.Callback then
+                    Library:SafeCall(Data.Callback, Keybind.Toggled)
+                end
+
+                Update()
+            end
+
+            function Keybind:Set(Key)
+                if StringFind(tostring(Key), "Enum") then 
+                    Keybind.Key = tostring(Key)
+
+                    Key = Key.Name == "Backspace" and "None" or Key.Name
+
+                    local KeyString = Keys[Keybind.Key] or StringGSub(Key, "Enum.", "") or "None"
+                    local TextToDisplay = StringGSub(StringGSub(KeyString, "KeyCode.", ""), "UserInputType.", "") or "None"
+
+                    Keybind.Value = TextToDisplay
+                    Items["KeyButton"].Instance.Text = TextToDisplay
+
+                    Library.Flags[Data.Flag] = {
+                        Mode = Keybind.Mode,
+                        Key = Keybind.Key,
+                        Toggled = Keybind.Toggled
+                    }
+
+                    if Data.Callback then 
+                        Library:SafeCall(Data.Callback, Keybind.Toggled)
+                    end
+
+                    Update()
+                elseif type(Key) == "table" then
+                    local RealKey = Key.Key == "Backspace" and "None" or Key.Key
+                    Keybind.Key = tostring(Key.Key)
+
+                    if Key.Mode then
+                        Keybind.Mode = Key.Mode
+                        Keybind:SetMode(Key.Mode)
+                    else
+                        Keybind.Mode = "toggle"
+                        Keybind:SetMode("toggle")
+                    end
+
+                    local KeyString = Keys[Keybind.Key] or StringGSub(tostring(RealKey), "Enum.", "") or RealKey
+                    local TextToDisplay = KeyString and StringGSub(StringGSub(KeyString, "KeyCode.", ""), "UserInputType.", "") or "None"
+
+                    TextToDisplay = StringGSub(StringGSub(KeyString, "KeyCode.", ""), "UserInputType.", "")
+
+                    Keybind.Value = TextToDisplay
+                    Items["KeyButton"].Instance.Text = TextToDisplay
+
+                    if Data.Callback then 
+                        Library:SafeCall(Data.Callback, Keybind.Toggled)
+                    end
+
+                    Update()
+                elseif TableFind({"toggle", "hold", "always"}, Key) then
+                    Keybind.Mode = Key
+                    Keybind:SetMode(Keybind.Mode)
+
+                    if Data.Callback then 
+                        Library:SafeCall(Data.Callback, Keybind.Toggled)
+                    end
+
+                    Update()
+                end
+
+                Items["KeyButton"]:Tween(nil, {TextTransparency = 0.5})
+                Keybind.Picking = false
+            end
+
+            function Keybind:Press(Bool)
+                if Keybind.Mode == "toggle" then 
+                    Keybind.Toggled = not Keybind.Toggled
+                elseif Keybind.Mode == "hold" then 
+                    Keybind.Toggled = Bool
+                elseif Keybind.Mode == "always" then 
+                    Keybind.Toggled = true
+                end
+
+                Library.Flags[Data.Flag] = {
+                    Mode = Keybind.Mode,
+                    Key = Keybind.Key,
+                    Toggled = Keybind.Toggled
+                }
+
+                if Data.Callback then 
+                    Library:SafeCall(Data.Callback, Keybind.Toggled)
+                end
+
+                Update()
+            end
+
+            getgenv().Options[Data.Flag] = Keybind
+
+            Items["KeyButton"]:Connect("MouseButton1Click", function()
+                if Keybind.Picking then 
+                    return
+                end
+
+                Keybind.Picking = true
+
+                Items["KeyButton"]:Tween(nil, {TextTransparency = 0})
+
+                local InputBegan 
+                InputBegan = UserInputService.InputBegan:Connect(function(Input)
+                    if Input.UserInputType == Enum.UserInputType.Keyboard then 
+                        Keybind:Set(Input.KeyCode)
+                    else
+                        Keybind:Set(Input.UserInputType)
+                    end
+
+                    InputBegan:Disconnect()
+                    InputBegan = nil
+                end)
+            end)
+
+            Library:Connect(UserInputService.InputBegan, function(Input, Processed) if Processed then 
+                    return 
+                end
+                if tostring(Input.KeyCode) == Keybind.Key or tostring(Input.UserInputType) == Keybind.Key and not Keybind.Value == "None" then
+                    if Keybind.Enabled then
+                        if Keybind.Mode == "toggle" then
+                            Keybind:Press()
+                        elseif Keybind.Mode == "hold" then
+                            Keybind:Press(true)
+                        end
+                    end
+                end
+
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then 
+                    if Library:IsMouseOverFrame(Items["KeybindWindow"], 0, 0, Input.Position) or Library:IsMouseOverFrame(ModesDropdownItems["OptionHolder"], 0, 0, Input.Position) then 
+                        return
+                    end
+
+                    if Debounce then 
+                        return 
+                    end
+
+                    Keybind:SetOpen(false)
+                end
+            end)
+
+            Library:Connect(UserInputService.InputEnded, function(Input)
+                if tostring(Input.KeyCode) == Keybind.Key or tostring(Input.UserInputType) == Keybind.Key and not Keybind.Value == "None"  then
+                    if Keybind.Enabled and Keybind.Mode == "hold" then
+                        Keybind:Press(false)
+                    end
+                end
+            end)
+
+            -- Old keybind window (right-click on the key label) is disabled when
+            -- this keybind has the new settings cog (Toggle:Keybind provides one).
+            -- Keybinds are rebound through the cog popup instead. For keybinds
+            -- without a cog, right-click still opens the legacy picker as a
+            -- fallback so they remain rebindable.
+            Items["KeyButton"]:Connect("MouseButton2Down", function()
+                if Keybind.HasCog then return end
+                Keybind:SetOpen(not Keybind.IsOpen)
+            end)
+
+            if Data.Default then
+               Keybind.Mode = Data.Mode or "toggle"
+               Modes[Keybind.Mode]:Set()
+               Keybind:Set({Key = Data.Default, Mode = Data.Mode})
+            end
+
+            Library.SetFlags[Data.Flag] = function(Value)
+                Keybind:Set(Value)
+            end
+
+            return Keybind, Items 
+        end
+    end
+
+    do -- Element functions
+        Library.ESPPreview = function(self, Data)
+            local ESPPreview = { 
+                Player = nil,
+                Items = { },
+            }
+
+            local Items = { } do
+                Items["EspPreview"] = Instances:Create("TextButton", {
+                    Parent = Data.MainFrame.Instance,
+                    Name = "\0",
+                    Position = UDim2New(1, 10, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    Size = UDim2New(0, 265, 0, 355),
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["EspPreview"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Items["EspPreview"]:MakeDraggable()
+
+                Items["Topbar"] = Instances:Create("Frame", {
+                    Parent = Items["EspPreview"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, 0, 0, 35),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                })  Items["Topbar"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["EspPreview"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("Frame", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 3),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                }):AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("Frame", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    BackgroundTransparency = 0.4000000059604645,
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 1),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(32, 36, 42)
+                }):AddToTheme({BackgroundColor3 = "Border"})
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Items["Title"] = Instances:Create("TextLabel", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    Size = UDim2New(0, 0, 0, 15),
+                    RichText = true,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "ESP Preview",
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    Position = UDim2New(0, 8, 0.5, 0),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Title"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["CloseButton"] = Instances:Create("ImageButton", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 17, 0, 17),
+                    AutoButtonColor = false,
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Image = "rbxassetid://76001605964586",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, -7, 0.5, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["CloseButton"]:AddToTheme({ImageColor3 = "Image"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["EspPreview"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["CharacterViewportBackground"] = Instances:Create("TextButton", {
+                    Parent = Items["EspPreview"].Instance,
+                    Text = "",
+                    AutoButtonColor = false,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 8, 0, 45),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, -14, 1, -50),
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Items["CharacterViewport"] = Instances:Create("ViewportFrame", {
+                    Parent = Items["EspPreview"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 8, 0, 45),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, -16, 1, -53),
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255),
+                    Ambient = FromRGB(255, 255, 255),
+                    LightColor = FromRGB(255, 255, 255)
+                })
+
+                -- Box
+                    Items.Box = Instances:Create( "Frame" , {
+                        BackgroundTransparency = 1;
+                        Parent = Items.CharacterViewport.Instance;
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        Name = "\0";
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Items.Left = Instances:Create( "Frame" , {
+                        Parent = Items.Box.Instance;
+                        Size = UDim2New(0, 100, 1, 0);
+                        BackgroundTransparency = 1;
+                        Name = "\0";
+                        AnchorPoint = Vector2New(1, 0);
+                        Position = UDim2New(0, -5, 0, 0);
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        ZIndex = 2;
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Instances:Create( "UIListLayout" , {
+                        FillDirection = Enum.FillDirection.Horizontal;
+                        HorizontalAlignment = Enum.HorizontalAlignment.Right;
+                        VerticalFlex = Enum.UIFlexAlignment.Fill;
+                        Parent = Items.Left.Instance;
+                        Padding = UDimNew(0, 1);
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    });
+                    
+                    Items.LeftTexts = Instances:Create( "Frame" , {
+                        Parent = Items.Left.Instance;
+                        Size = UDim2New(0, 0, 1, 0);
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        Position = UDim2New(1, 1, 0, 0);
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        LayoutOrder = 9999;
+                        ZIndex = 2;
+                        AutomaticSize = Enum.AutomaticSize.X;
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Instances:Create( "UIListLayout" , {
+                        FillDirection = Enum.FillDirection.Vertical;
+                        Parent = Items.LeftTexts.Instance;
+                        Padding = UDimNew(0, 1);
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    });
+
+                    Items.Top = Instances:Create( "Frame" , {
+                        Parent = Items.Box.Instance;
+                        Size = UDim2New(1, 0, 0, 100);
+                        BackgroundTransparency = 1;
+                        Name = "\0";
+                        AnchorPoint = Vector2New(0, 1);
+                        Position = UDim2New(0, 0, 0, -5);
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        ZIndex = 2;
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Items.TopTexts = Instances:Create( "Frame", {
+                        LayoutOrder = -1;
+                        Parent = Items.Top.Instance;
+                        BackgroundTransparency = 1;
+                        Name = "\0";
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        BorderSizePixel = 0;
+                        AutomaticSize = Enum.AutomaticSize.XY;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Instances:Create( "UIListLayout" , {
+                        VerticalAlignment = Enum.VerticalAlignment.Bottom;
+                        SortOrder = Enum.SortOrder.LayoutOrder;
+                        HorizontalAlignment = Enum.HorizontalAlignment.Center;
+                        HorizontalFlex = Enum.UIFlexAlignment.Fill;
+                        Parent = Items.Top.Instance;
+                        Padding = UDimNew(0, 1)
+                    });
+
+                    Items.Right = Instances:Create( "Frame" , {
+                        Parent = Items.Box.Instance;
+                        Size = UDim2New(0, 100, 1, 0);
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        Position = UDim2New(1, 5, 0, 0);
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        ZIndex = 2;
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Items.RightTexts = Instances:Create( "Frame" , {
+                        Parent = Items.Right.Instance;
+                        Size = UDim2New(0, 0, 1, 0);
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        Position = UDim2New(0, 0, 0, 0);
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        LayoutOrder = 9999;
+                        ZIndex = 2;
+                        AutomaticSize = Enum.AutomaticSize.X;
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Instances:Create( "UIListLayout" , {
+                        Parent = Items.RightTexts.Instance;
+                        Padding = UDimNew(0, 1);
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    });
+                    
+                    Instances:Create( "UIListLayout" , {
+                        FillDirection = Enum.FillDirection.Horizontal;
+                        VerticalFlex = Enum.UIFlexAlignment.Fill;
+                        Parent = Items.Right.Instance;
+                        Padding = UDimNew(0, 1);
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    });
+
+                    Items.Bottom = Instances:Create( "Frame" , {
+                        Parent = Items.Box.Instance;
+                        Size = UDim2New(1, 0, 0, 100);
+                        Name = "\0";
+                        BackgroundTransparency = 1;
+                        Position = UDim2New(0, 0, 1, 5);
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        AutomaticSize = Enum.AutomaticSize.Y;
+                        ZIndex = 2;
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+                    
+                    Items.BottomTexts = Instances:Create( "Frame", {
+                        LayoutOrder = 1;
+                        Parent = Items.Bottom.Instance;
+                        BackgroundTransparency = 1;
+                        Name = "\0";
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        Size = UDim2New(1, 0, 0, 0);
+                        BorderSizePixel = 0;
+                        AutomaticSize = Enum.AutomaticSize.XY;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Instances:Create( "UIListLayout", {
+                        Parent = Items.BottomTexts.Instance;
+                        Padding = UDimNew(0, 1);
+                        SortOrder = Enum.SortOrder.LayoutOrder,
+                        HorizontalAlignment = Enum.HorizontalAlignment.Center
+                    });
+
+                    Instances:Create( "UIListLayout" , {
+                        SortOrder = Enum.SortOrder.LayoutOrder;
+                        HorizontalAlignment = Enum.HorizontalAlignment.Center;
+                        HorizontalFlex = Enum.UIFlexAlignment.Fill;
+                        Parent = Items.Bottom.Instance;
+                        Padding = UDimNew(0, 1)
+                    });
+
+                        Items.BoxHolder = Instances:Create( "Frame" , {
+                            Visible = true;
+                            Size = UDim2New(1, -2, 1, -2);
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Parent = Items.Box.Instance;
+                            BackgroundTransparency = 0.8500000238418579;
+                            Position = UDim2New(0, 1, 0, 1);
+                            Name = "\0";
+                            BorderSizePixel = 0;
+                            BackgroundColor3 = FromRGB(255, 255, 255)
+                        });
+
+                        Items.BoxHolderGradient = Instances:Create( "UIGradient" , {
+                            Rotation = 0;
+                            Name = "\0";
+                            Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(255, 255, 255))};
+                            Parent = Items.BoxHolder.Instance;
+                            Enabled = true
+                        }); 
+
+                        Instances:Create( "UIStroke" , {
+                            Parent = Items.BoxHolder.Instance;
+                            LineJoinMode = Enum.LineJoinMode.Miter
+                        });
+                        
+                        Items.Inner = Instances:Create( "Frame" , {
+                            Parent = Items.BoxHolder.Instance;
+                            Name = "\0";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(0, 1, 0, 1);
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Size = UDim2New(1, -2, 1, -2);
+                            BorderSizePixel = 0;
+                            BackgroundColor3 = FromRGB(255, 255, 255)
+                        });
+
+                        Items.UIStroke = Instances:Create( "UIStroke" , {
+                            Color = FromRGB(255, 255, 255);
+                            LineJoinMode = Enum.LineJoinMode.Miter;
+                            Parent = Items.Inner.Instance
+                        });
+                        
+                        Items.BoxGradient = Instances:Create( "UIGradient" , {
+                            Rotation = 0;
+                            Name = "\0";
+                            Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(255, 255, 255))};
+                            Parent = Items.UIStroke.Instance;
+                            Enabled = true
+                        });
+                        
+                        Items.Inner2 = Instances:Create( "Frame" , {
+                            Parent = Items.BoxHolder.Instance;
+                            Name = "\0";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(0, 2, 0, 2);
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Size = UDim2New(1, -4, 1, -4);
+                            BorderSizePixel = 0;
+                            BackgroundColor3 = FromRGB(255, 255, 255)
+                        });
+
+                        Instances:Create( "UIStroke" , {
+                            Parent = Items.Inner2.Instance;
+                            LineJoinMode = Enum.LineJoinMode.Miter
+                        });
+                -- Healthbar
+                    Items.HealthBar = Instances:Create( "Frame" , {
+                        Name = "\0";
+                        Parent = Items.Left.Instance;
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        Size = UDim2New(0, 3, 0, 0);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(0, 0, 0)
+                    });
+
+                    Items.Bar = Instances:Create( "Frame" , {
+                        Parent = Items.HealthBar.Instance;
+                        Name = "\0";
+                        Position = UDim2New(0, 1, 0, 1);
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        Size = UDim2New(1, -2, 1, -2);
+                        BorderSizePixel = 0;
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    });
+
+                    Items.BarGradient = Instances:Create( "UIGradient" , {
+                        Rotation = 90;
+                        Parent = Items.Bar.Instance;
+                        Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(0, 255, 0)), RGBSequenceKeypoint(0.5, FromRGB(255, 125, 0)), RGBSequenceKeypoint(1, FromRGB(255, 0, 0))}
+                    });
+
+                    Items.HealthBarText = Instances:Create( "TextLabel" , {
+                        FontFace = ESPFonts["ProggyClean"];
+                        Parent = Items.HealthBar.Instance;
+                        TextColor3 = FromRGB(0, 255, 0);
+                        Text = "100";
+                        Name = "\0";
+                        AutomaticSize = Enum.AutomaticSize.XY;
+                        Position = UDim2New(0, 1, 0, 0);
+                        BorderSizePixel = 0;
+                        BackgroundTransparency = 1;
+                        AnchorPoint = Vector2New(1, 0),
+                        TextXAlignment = Enum.TextXAlignment.Left;
+                        BorderColor3 = FromRGB(0, 0, 0);
+                        ZIndex = 2;
+                        TextSize = 12;
+                    })
+                -- Name
+                        Items.Name = Instances:Create( "TextLabel" , {
+                            FontFace = ESPFonts["ProggyClean"];
+                            Parent = Items.TopTexts.Instance;
+                            TextColor3 = FromRGB(255, 255, 255);
+                            TextStrokeColor3 = FromRGB(255, 255, 255);
+                            Text = LocalPlayer.Name;
+                            Name = "\0";
+                            AutomaticSize = Enum.AutomaticSize.XY;
+                            Position = UDim2New(0.5, 1, 0, 0);
+                            BorderSizePixel = 0;
+                            AnchorPoint = Vector2New(0.5, 0);
+                            BackgroundTransparency = 1;
+                            TextXAlignment = Enum.TextXAlignment.Center;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            ZIndex = 2;
+                            TextSize = 12;
+                        });
+
+                        Items.WeaponText = Instances:Create( "TextLabel" , {
+                            FontFace = ESPFonts["ProggyClean"];
+                            Parent = Items.RightTexts.Instance;
+                            TextColor3 = FromRGB(255, 255, 255);
+                            TextStrokeColor3 = FromRGB(255, 255, 255);
+                            Text = "Weapon";
+                            Name = "\0";
+                            AutomaticSize = Enum.AutomaticSize.XY;
+                            Position = UDim2New(0, 1, 0, 0);
+                            BorderSizePixel = 0;
+                            BackgroundTransparency = 1;
+                            TextXAlignment = Enum.TextXAlignment.Left;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            ZIndex = 2;
+                            TextSize = 12;
+                        });
+
+                        Items.Distance = Instances:Create( "TextLabel" , {
+                            FontFace = ESPFonts["ProggyClean"];
+                            Parent = Items.BottomTexts.Instance;
+                            TextColor3 = FromRGB(255, 255, 255);
+                            TextStrokeColor3 = FromRGB(255, 255, 255);
+                            Text = "Distance";
+                            Name = "\0";
+                            AutomaticSize = Enum.AutomaticSize.XY;
+                            Position = UDim2New(0, 1, 0, 0);
+                            BorderSizePixel = 0;
+                            BackgroundTransparency = 1;
+                            TextXAlignment = Enum.TextXAlignment.Center;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            ZIndex = 2;
+                            TextSize = 12;
+                        });
+
+                -- Corner boxes
+                        Items.Corners = Instances:Create( "Frame" , {
+                            Parent = Items.Box.Instance;
+                            Name = "\0";
+                            ClipsDescendants = true;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Size = UDim2New(1, 0, 1, 0);
+                            BackgroundTransparency = 1,
+                            BorderSizePixel = 0;
+                            BackgroundColor3 = FromRGB(255, 255, 255)
+                        });
+
+                        Items.CornersGradient = Instances:Create( "UIGradient" , {
+                            Parent = Items.Corners.Instance;
+                        });
+
+                        Items.BottomLeftX = Instances:Create( "ImageLabel" , {
+                            ScaleType = Enum.ScaleType.Slice;
+                            Parent = Items.Corners.Instance;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Name = "\0";
+                            BackgroundColor3 = FromRGB(255, 255, 255);
+                            Size = UDim2New(0.25, 0, 0, 3);
+                            AnchorPoint = Vector2New(0, 1);
+                            Image = "rbxassetid://83548615999411";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(0, 0, 1, 0);
+                            ZIndex = 2;
+                            BorderSizePixel = 0;
+                            SliceCenter = RectNew(Vector2New(1, 1), Vector2New(99, 2))
+                        });
+
+                        Instances:Create( "UIGradient" , {
+                            Parent = Items.BottomLeftX.Instance
+                        });
+
+                        Items.BottomLeftY = Instances:Create( "ImageLabel" , {
+                            ScaleType = Enum.ScaleType.Slice;
+                            Parent = Items.Corners.Instance;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Name = "\0";
+                            BackgroundColor3 = FromRGB(255, 255, 255);
+                            Size = UDim2New(0, 3, 0.25, -9);
+                            AnchorPoint = Vector2New(0, 1);
+                            Image = "rbxassetid://101715268403902";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(0, 0, 1, -2);
+                            ZIndex = 500;
+                            BorderSizePixel = 0;
+                            SliceCenter = RectNew(Vector2New(1, 0), Vector2New(2, 96))
+                        });
+
+                        Instances:Create( "UIGradient" , {
+                            Rotation = -90;
+                            Parent = Items.BottomLeftY.Instance
+                        });
+
+                        Items.BottomLeftX = Instances:Create( "ImageLabel" , {
+                            ScaleType = Enum.ScaleType.Slice;
+                            Parent = Items.Corners.Instance;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Name = "\0";
+                            BackgroundColor3 = FromRGB(255, 255, 255);
+                            Size = UDim2New(0.25, 0, 0, 3);
+                            AnchorPoint = Vector2New(1, 1);
+                            Image = "rbxassetid://83548615999411";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(1, 0, 1, 0);
+                            ZIndex = 2;
+                            BorderSizePixel = 0;
+                            SliceCenter = RectNew(Vector2New(1, 1), Vector2New(99, 2))
+                        });
+
+                        Instances:Create( "UIGradient" , {
+                            Parent = Items.BottomLeftX.Instance
+                        });
+
+                        Items.BottomLeftY = Instances:Create( "ImageLabel" , {
+                            ScaleType = Enum.ScaleType.Slice;
+                            Parent = Items.Corners.Instance;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Name = "\0";
+                            BackgroundColor3 = FromRGB(255, 255, 255);
+                            Size = UDim2New(0, 3, 0.25, -9);
+                            AnchorPoint = Vector2New(1, 1);
+                            Image = "rbxassetid://101715268403902";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(1, 0, 1, -2);
+                            ZIndex = 500;
+                            BorderSizePixel = 0;
+                            SliceCenter = RectNew(Vector2New(1, 0), Vector2New(2, 96))
+                        });
+
+                        Instances:Create( "UIGradient" , {
+                            Rotation = 90;
+                            Parent = Items.BottomLeftY.Instance
+                        });
+
+                        Items.TopLeftY = Instances:Create( "ImageLabel" , {
+                            ScaleType = Enum.ScaleType.Slice;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Parent = Items.Corners.Instance;
+                            Name = "\0";
+                            BackgroundColor3 = FromRGB(255, 255, 255);
+                            Size = UDim2New(0, 3, 0.25, -9);
+                            Image = "rbxassetid://102467475629368";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(0, 0, 0, 2);
+                            ZIndex = 500;
+                            BorderSizePixel = 0;
+                            SliceCenter = RectNew(Vector2New(1, 0), Vector2New(2, 98))
+                        });
+
+                        Instances:Create( "UIGradient" , {
+                            Rotation = 90;
+                            Parent = Items.TopLeftY.Instance
+                        });
+
+                        Items.TopRightY = Instances:Create( "ImageLabel" , {
+                            ScaleType = Enum.ScaleType.Slice;
+                            Parent = Items.Corners.Instance;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Name = "\0";
+                            BackgroundColor3 = FromRGB(255, 255, 255);
+                            Size = UDim2New(0, 3, 0.25, -9);
+                            AnchorPoint = Vector2New(1, 0);
+                            Image = "rbxassetid://102467475629368";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(1, 0, 0, 2);
+                            ZIndex = 500;
+                            BorderSizePixel = 0;
+                            SliceCenter = RectNew(Vector2New(1, 0), Vector2New(2, 98))
+                        });
+
+                        Instances:Create( "UIGradient" , {
+                            Rotation = -90;
+                            Parent = Items.TopRightY.Instance
+                        });
+
+                        Items.TopRightX = Instances:Create( "ImageLabel" , {
+                            ScaleType = Enum.ScaleType.Slice;
+                            Parent = Items.Corners.Instance;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Name = "\0";
+                            BackgroundColor3 = FromRGB(255, 255, 255);
+                            Size = UDim2New(0.25, 0, 0, 3);
+                            AnchorPoint = Vector2New(1, 0);
+                            Image = "rbxassetid://83548615999411";
+                            BackgroundTransparency = 1;
+                            Position = UDim2New(1, 0, 0, 0);
+                            ZIndex = 2;
+                            BorderSizePixel = 0;
+                            SliceCenter = RectNew(Vector2New(1, 1), Vector2New(99, 2))
+                        });
+
+                        Instances:Create( "UIGradient" , {
+                            Parent = Items.TopRightX.Instance
+                        });
+
+                        Items.TopLeftX = Instances:Create( "ImageLabel" , {
+                            ScaleType = Enum.ScaleType.Slice;
+                            BorderColor3 = FromRGB(0, 0, 0);
+                            Parent = Items.Corners.Instance;
+                            Name = "\0";
+                            BackgroundColor3 = FromRGB(255, 255, 255);
+                            Image = "rbxassetid://83548615999411";
+                            BackgroundTransparency = 1;
+                            Size = UDim2New(0.25, 0, 0, 3);
+                            ZIndex = 2;
+                            BorderSizePixel = 0;
+                            SliceCenter = RectNew(Vector2New(1, 1), Vector2New(99, 2))
+                        });
+
+                        Instances:Create( "UIGradient" , {
+                            Parent = Items.TopLeftX.Instance
+                        });
+
+                ESPPreview.Items = Items
+            end
+
+            function ESPPreview:Set(Item, Property, Value)
+                Items[Item].Instance[Property] = Value
+            end
+
+            local Math = {} do
+                local inf = math.huge
+                local negative_inf = -math.huge
+
+                function Math:GetBoundingBox(model, camera, ViewportFrame)
+                    model = type(model) ~= 'table' and model:GetDescendants() or model
+                    local Min, Max = Vector2New(inf, inf), Vector2New(negative_inf, negative_inf)
+                    
+                    for _,v in model do
+                        if not v:IsA("BasePart") then
+                            continue
+                        end
+
+                        local Size, cFrame = v.Size, v.CFrame
+
+                        local Corners = {
+                            Vector3New( 0.5,  0.5,  0.5),
+                            Vector3New(-0.5,  0.5,  0.5),
+                            Vector3New( 0.5, -0.5,  0.5),
+                            Vector3New(-0.5, -0.5,  0.5),
+                            Vector3New( 0.5,  0.5, -0.5),
+                            Vector3New(-0.5,  0.5, -0.5),
+                            Vector3New( 0.5, -0.5, -0.5),
+                            Vector3New(-0.5, -0.5, -0.5),
+                        }
+
+                        for _,corner in Corners do
+                            local Point = cFrame:PointToWorldSpace(Vector3New(
+                                corner.X * Size.X,
+                                corner.Y * Size.Y,
+                                corner.Z * Size.Z
+                            ))
+
+                            local Viewport, Visible = camera:WorldToViewportPoint(Point)
+
+                            if Visible then
+                                Min = Vector2New(MathMin(Min.X, Viewport.X), MathMin(Min.Y, Viewport.Y))
+                                Max = Vector2New(MathMax(Max.X, Viewport.X), MathMax(Max.Y, Viewport.Y))
+                            end
+                        end
+                    end
+
+                    local AbsoluteSize = ViewportFrame.AbsoluteSize
+
+                    local Size2D = Max - Min
+
+                    local Position = Vector2New(Min.X - 0.05, Min.Y)
+                    local Size = Vector2New(Size2D.X + 0.1, Size2D.Y)
+
+                    return UDim2FromScale(Position.X, Position.Y), UDim2FromScale(Size.X, Size.Y)
+                end
+            end 
+
+            function ESPPreview:SetVisibility(Bool)
+                Items["EspPreview"].Instance.Visible = Bool
+            end
+            
+            Items["CloseButton"]:Connect("MouseButton1Down", function()
+                ESPPreview:SetVisibility(false)
+            end)
+
+            local LocalCharacter = LocalPlayer.Character
+
+            local ViewportCamera = InstanceNew("Camera")
+            Items["CharacterViewport"].Instance.CurrentCamera = ViewportCamera
+            ViewportCamera.CameraType = Enum.CameraType.Track
+            ViewportCamera.Focus = CFrameNew(0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+            ViewportCamera.CFrame = CFrameNew(0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+            Library:Connect(RunService.RenderStepped, function()	
+                local Pos, Size = Math:GetBoundingBox(ESPPreview.Player, ViewportCamera, Items.CharacterViewport.Instance)
+                Items.Box.Instance.Position = Pos
+                Items.Box.Instance.Size = Size
+            end)
+
+            local ViewportModel
+            local function loadCharacterPreview(character)
+                if ViewportModel then
+                    ViewportModel:Destroy()
+                    ViewportModel = nil
+                end
+                if character then
+                    character.Archivable = true
+                    ViewportModel = character:Clone()
+
+                    local WorldModel = Items["CharacterViewport"].Instance:FindFirstChildOfClass("WorldModel")
+                    if not WorldModel then
+                        WorldModel = Instance.new("WorldModel")
+                        WorldModel.Parent = Items["CharacterViewport"].Instance
+                    end
+
+                    if ViewportModel then
+                        local PrimaryPart = ViewportModel.PrimaryPart or ViewportModel:FindFirstChild("HumanoidRootPart")
+                        
+                        if PrimaryPart then
+                            PrimaryPart.Anchored = true
+                        else
+                        end
+
+                        ViewportModel.Parent = WorldModel
+
+                        for Index, Value in ViewportModel:GetDescendants() do
+                            if Value:IsA("LocalScript") or Value:IsA("Script") or Value.Name == "Animate" then
+                                Value:Destroy()
+                            elseif Value:IsA("BasePart") then
+                                if Value.Name == "HumanoidRootPart" then
+                                    Value.Transparency = 1
+                                else
+                                    Value.LocalTransparencyModifier = 0
+                                end
+                                Value.Anchored = true
+                            end
+                        end
+
+                        local HumanoidRootPart = ViewportModel:FindFirstChild("HumanoidRootPart")
+
+                        if HumanoidRootPart then
+                            if not ViewportModel.PrimaryPart then
+                                ViewportModel.PrimaryPart = HumanoidRootPart
+                            end
+
+                            ViewportModel:SetPrimaryPartCFrame(CFrameAngles(0, MathRad(180), 0) + Vector3New(0, 1.5, 0))
+                            ViewportCamera.CFrame = CFrameNew(Vector3New(0, 2, 6), Vector3New(0, 1, 0))
+                        end
+
+                        ESPPreview.Player = ViewportModel
+                        ViewportCamera.CameraSubject = ViewportModel
+                    end
+                else
+                end
+            end
+
+            -- Init
+            loadCharacterPreview(LocalPlayer.Character)
+            
+            -- Auto-update on respawn
+            Library:Connect(LocalPlayer.CharacterAdded, function(newChar)
+                task.wait(0.3) -- wait for character to stream in
+                loadCharacterPreview(newChar)
+            end)
+
+            local LastPosition 
+            local IsRotating = false
+
+            local Sensitivity = 0.7
+
+            local Yaw = MathRad(180)
+            local Roll = 0
+            local Pitch = 0
+
+            local ClampPitch = function(PitchValue)
+                return MathClamp(PitchValue, MathRad(-80), MathRad(80))
+            end
+
+            local ViewportInputChanged
+            Items["CharacterViewport"]:Connect("InputBegan", function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+                    IsRotating = true
+                    LastPosition = Input.Position
+
+                    if ViewportInputChanged then 
+                        return
+                    end
+                    
+                    ViewportInputChanged = Input.Changed:Connect(function()
+                        if Input.UserInputState == Enum.UserInputState.End then
+                            IsRotating = false
+
+                            ViewportInputChanged:Disconnect()
+                            ViewportInputChanged = nil
+                        end
+                    end)
+                end
+            end)
+
+            Items["CharacterViewport"]:Connect("InputChanged", function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch then
+                    if not LastPosition then 
+                        return
+                    end
+
+                    if not IsRotating then
+                        return
+                    end
+                    
+                    local RotationDelta = Input.Position - LastPosition
+
+                    Yaw = Yaw - MathRad(RotationDelta.X * Sensitivity)
+                    Pitch = ClampPitch(Pitch - MathRad(RotationDelta.Y * Sensitivity))
+
+                    LastPosition = Input.Position
+
+                    if ViewportModel and ViewportModel.PrimaryPart then
+                        local Rotation = CFrameAngles(Pitch, Yaw, Roll)
+                        ViewportModel:SetPrimaryPartCFrame(Rotation + Vector3.new(0, 1.5, 0))
+                    end
+                end
+            end)
+
+            return ESPPreview
+        end
+
+        -- Shared render driver for all GunPreviews.
+        --
+        -- Before: every preview opened its own RenderStepped connection and kept
+        -- spinning its camera even while scrolled far off-screen. With hundreds of
+        -- wrap/charm previews that meant hundreds of ViewportFrames rendering every
+        -- frame on tab switch -> the lag spikes (measured ~74ms/frame with ~690
+        -- viewports all visible).
+        --
+        -- Now: one RenderStepped loop. Each frame it only spins the handful of
+        -- previews currently on-screen; the expensive "which previews are visible"
+        -- scan runs on a throttle (~10x/sec) and hides the ViewportFrame of every
+        -- off-screen preview so Roblox skips rendering it. A per-node liveness memo
+        -- makes previews sharing a hidden ancestor (whole off-screen tab) cost O(1).
+        Library.GunPreviewManager = Library.GunPreviewManager or (function()
+            local Manager = {
+                Previews = {},   -- set of all registered entries
+                Visible = {},    -- set of entries currently on-screen (spun each frame)
+                Connection = nil,
+                Accum = 0,
+            }
+            local RESCAN_INTERVAL = 0.1
+
+            -- Walk up to the nearest ScrollingFrame (the clip window a preview
+            -- scrolls inside). Cached per preview since the hierarchy is static.
+            local function NearestScroll(inst)
+                local node = inst.Parent
+                while node do
+                    if node:IsA("ScrollingFrame") then return node end
+                    node = node.Parent
+                end
+                return nil
+            end
+
+            function Manager:Add(entry)
+                self.Previews[entry] = true
+                if not self.Connection then
+                    self.Connection = Library:Connect(RunService.RenderStepped, function(dt)
+                        self:Step(dt)
+                    end, "GunPreviewManager")
+                end
+            end
+
+            function Manager:Remove(entry)
+                self.Previews[entry] = nil
+                self.Visible[entry] = nil
+            end
+
+            -- Full pass: recompute on-screen state, cull off-screen ViewportFrames,
+            -- refresh the Visible set. Throttled, not run every frame.
+            function Manager:Rescan()
+                -- Per-rescan liveness memo. Unselected/closed tabs get reparented
+                -- into a disabled ScreenGui (UnusedHolder), so "is this actually
+                -- shown" means walking to the top ScreenGui. Previews in the same
+                -- tab share ancestors, so memoizing each node makes the whole pass
+                -- roughly O(unique nodes) instead of O(entries * depth).
+                local liveCache = {}
+                local function IsLive(node)
+                    if node == nil then return true end
+                    local cached = liveCache[node]
+                    if cached ~= nil then return cached end
+                    local result
+                    if node:IsA("ScreenGui") then
+                        result = node.Enabled
+                    elseif node:IsA("GuiObject") then
+                        result = node.Visible and IsLive(node.Parent)
+                    else
+                        result = IsLive(node.Parent)
+                    end
+                    liveCache[node] = result
+                    return result
+                end
+
+                for entry in pairs(self.Previews) do
+                    local frame = entry.Frame
+                    local viewport = entry.Viewport
+                    if not frame or not frame.Parent or not viewport or not viewport.Parent then
+                        self.Previews[entry] = nil
+                        self.Visible[entry] = nil
+                    else
+                        if entry.Scroll == nil then
+                            entry.Scroll = NearestScroll(frame) or false
+                        end
+
+                        local onScreen = false
+                        if entry.Wanted ~= false and IsLive(frame) then
+                            local s = frame.AbsoluteSize
+                            if s.X > 0 and s.Y > 0 then
+                                local clip = entry.Scroll
+                                if not clip then
+                                    onScreen = true
+                                else
+                                    local p = frame.AbsolutePosition
+                                    local cp, cs = clip.AbsolutePosition, clip.AbsoluteSize
+                                    onScreen = not (p.X + s.X < cp.X or p.X > cp.X + cs.X
+                                        or p.Y + s.Y < cp.Y or p.Y > cp.Y + cs.Y)
+                                end
+                            end
+                        end
+
+                        if viewport.Visible ~= onScreen then
+                            viewport.Visible = onScreen
+                        end
+                        self.Visible[entry] = onScreen or nil
+
+                        -- Deferred content: previews can postpone building their
+                        -- heavy 3D model until they first scroll into view. Fired
+                        -- once, then cleared.
+                        if onScreen and entry.OnFirstVisible then
+                            local cb = entry.OnFirstVisible
+                            entry.OnFirstVisible = nil
+                            task.spawn(cb)
+                        end
+                    end
+                end
+            end
+
+            function Manager:Step(dt)
+                -- Cheap every frame: spin only the previews that are on-screen.
+                for entry in pairs(self.Visible) do
+                    if entry.Spin then entry.Spin(dt) end
+                end
+
+                -- Expensive visibility scan runs at a throttled cadence.
+                self.Accum = self.Accum + dt
+                if self.Accum >= RESCAN_INTERVAL then
+                    self.Accum = 0
+                    self:Rescan()
+                end
+            end
+
+            return Manager
+        end)()
+
+        Library.GunPreview = function(self, Data)
+            local GunPreview = { 
+                Model = nil,
+            }
+
+            local Items = { } do
+                Items["GunPreview"] = Instances:Create("TextButton", {
+                    Parent = Data.Parent,
+                    Text = "",
+                    AutoButtonColor = false,
+                    Name = "\0",
+                    Position = UDim2New(0, 0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, 0, 0, 150),
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["GunPreview"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["GunPreview"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(25, 27, 30)
+                }):AddToTheme({Color = "Border"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["GunPreview"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Items["CharacterViewportBackground"] = Instances:Create("TextButton", {
+                    Parent = Items["GunPreview"].Instance,
+                    Text = "",
+                    AutoButtonColor = false,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, 0, 1, 0),
+                    BorderSizePixel = 0,
+                    ZIndex = 1,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Items["CharacterViewport"] = Instances:Create("ViewportFrame", {
+                    Parent = Items["GunPreview"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, 0, 1, 0),
+                    BorderSizePixel = 0,
+                    ZIndex = 500,
+                    -- Start hidden. The GunPreviewManager turns this on only for
+                    -- previews actually on-screen. Without this, switching to a tab
+                    -- with hundreds of previews would render all of them for the few
+                    -- frames before the first cull pass -> the tab-switch spike.
+                    Visible = false,
+                    BackgroundColor3 = FromRGB(255, 255, 255),
+                    Ambient = FromRGB(255, 255, 255),
+                    LightColor = FromRGB(255, 255, 255)
+                })
+
+                -- Centered "ban" placeholder icon (lucide). Shown while the preview
+                -- has no model (blank state); hidden once a real model is loaded.
+                Items["BlankIcon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["GunPreview"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    AnchorPoint = Vector2New(0.5, 0.5),
+                    Position = UDim2New(0.5, 0, 0.5, 0),
+                    Size = UDim2New(0, 42, 0, 42),
+                    ZIndex = 600,
+                    Image = "rbxassetid://90767043015246",
+                    ImageColor3 = FromRGB(110, 114, 120),
+                    ImageTransparency = 0.15,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                -- Selection gradient: a THICK bright accent stroke around the
+                -- box (accent -> white -> accent so it pops on any background),
+                -- plus a soft accent glow inside the box. Both only visible
+                -- while this preview is the equipped one of its tab.
+                Items["SelectStroke"] = Instances:Create("UIStroke", {
+                    Parent = Items["GunPreview"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(255, 255, 255),
+                    Thickness = 3,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+                    Enabled = false
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["SelectStroke"].Instance,
+                    Name = "\0",
+                    Rotation = 45,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{
+                        RGBSequenceKeypoint(0, Library.Theme.Accent),
+                        RGBSequenceKeypoint(0.5, FromRGB(255, 255, 255)),
+                        RGBSequenceKeypoint(1, Library.Theme.Accent)
+                    }
+                end})
+
+                -- Inner glow: accent-tinted gradient overlay fading downwards,
+                -- so the selected box is unmistakable even from the corner of
+                -- the eye (same trick as ref.luau's rarity aura).
+                Items["SelectGlow"] = Instances:Create("Frame", {
+                    Parent = Items["GunPreview"].Instance,
+                    Name = "\0",
+                    BackgroundColor3 = FromRGB(196, 231, 255),
+                    BackgroundTransparency = 0.72,
+                    BorderSizePixel = 0,
+                    Size = UDim2New(1, 0, 1, 0),
+                    ZIndex = 620,
+                    Visible = false
+                })  Items["SelectGlow"]:AddToTheme({BackgroundColor3 = "Accent"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["SelectGlow"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["SelectGlow"].Instance,
+                    Name = "\0",
+                    Rotation = 90,
+                    Transparency = NumberSequence.new({
+                        NumberSequenceKeypoint.new(0, 0.35),
+                        NumberSequenceKeypoint.new(0.55, 0.85),
+                        NumberSequenceKeypoint.new(1, 1)
+                    })
+                })
+
+                -- Equipped badge (lucide badge-check "verified star"), top-right.
+                Items["EquippedIcon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["GunPreview"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    AnchorPoint = Vector2New(1, 0),
+                    Position = UDim2New(1, -4, 0, 4),
+                    Size = UDim2New(0, 24, 0, 24),
+                    ZIndex = 650,
+                    Image = "rbxassetid://76078495178149",
+                    ImageColor3 = FromRGB(196, 231, 255),
+                    Visible = false,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["EquippedIcon"]:AddToTheme({ImageColor3 = "Accent"})
+
+                -- Static item image (cheap path). SetImage shows this flat
+                -- ImageLabel instead of a live ViewportFrame -- zero 3D cost.
+                Items["StaticImage"] = Instances:Create("ImageLabel", {
+                    Parent = Items["GunPreview"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    AnchorPoint = Vector2New(0.5, 0.5),
+                    Position = UDim2New(0.5, 0, 0.5, 0),
+                    Size = UDim2New(1, -10, 1, -10),
+                    ScaleType = Enum.ScaleType.Fit,
+                    ZIndex = 550,
+                    Image = "",
+                    Visible = false,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                GunPreview.Items = Items
+            end
+
+            function GunPreview:SetVisibility(Bool)
+                Items["GunPreview"].Instance.Visible = Bool
+                if GunPreview._ManagerEntry then
+                    GunPreview._ManagerEntry.Wanted = Bool
+                end
+            end
+
+            -- Toggle the centered ban placeholder icon on/off. Optional second
+            -- arg swaps the icon image (e.g. lucide "shuffle" for Random boxes).
+            function GunPreview:SetBlank(Bool, Icon)
+                if Items["BlankIcon"] then
+                    if Icon then
+                        if type(Icon) == "number" then Icon = "rbxassetid://" .. Icon end
+                        Items["BlankIcon"].Instance.Image = Icon
+                    end
+                    Items["BlankIcon"].Instance.Visible = Bool ~= false
+                end
+            end
+
+            -- Equipped/selected state: accent gradient stroke around the box
+            -- plus the badge-check icon in the top-right corner.
+            function GunPreview:SetSelected(Bool)
+                Bool = Bool == true
+                if Items["SelectStroke"] then
+                    Items["SelectStroke"].Instance.Enabled = Bool
+                end
+                if Items["SelectGlow"] then
+                    Items["SelectGlow"].Instance.Visible = Bool
+                end
+                if Items["EquippedIcon"] then
+                    Items["EquippedIcon"].Instance.Visible = Bool
+                end
+            end
+
+            -- Click handler for the whole preview box.
+            function GunPreview:OnClick(Callback)
+                Library:Connect(Items["GunPreview"].Instance.MouseButton1Click, Callback)
+                Library:Connect(Items["CharacterViewportBackground"].Instance.MouseButton1Click, Callback)
+            end
+
+            -- Cheap path: show a flat item image instead of a 3D viewport model.
+            -- Passing nil/"" clears it and brings the blank placeholder back.
+            function GunPreview:SetImage(image)
+                if not Items["StaticImage"] then return end
+                if image and image ~= "" then
+                    if type(image) == "number" then image = "rbxassetid://" .. image end
+                    Items["StaticImage"].Instance.Image = image
+                    Items["StaticImage"].Instance.Visible = true
+                    if Items["BlankIcon"] then
+                        Items["BlankIcon"].Instance.Visible = false
+                    end
+                    -- An image replaces any 3D model: stop rendering/spinning it.
+                    if GunPreview._ManagerEntry then
+                        GunPreview._ManagerEntry.Spin = nil
+                        GunPreview._ManagerEntry.Wanted = false
+                    end
+                    Items["CharacterViewport"].Instance.Visible = false
+                else
+                    Items["StaticImage"].Instance.Image = ""
+                    Items["StaticImage"].Instance.Visible = false
+                    if Items["BlankIcon"] then
+                        Items["BlankIcon"].Instance.Visible = true
+                    end
+                end
+            end
+
+            local ViewportCamera = InstanceNew("Camera")
+            Items["CharacterViewport"].Instance.CurrentCamera = ViewportCamera
+            ViewportCamera.CameraType = Enum.CameraType.Scriptable
+
+            -- Register with the shared render driver. The manager culls this
+            -- preview's ViewportFrame when it scrolls off-screen and only spins
+            -- the camera (entry.Spin) while it's actually visible.
+            GunPreview._ManagerEntry = {
+                Frame = Items["GunPreview"].Instance,
+                Viewport = Items["CharacterViewport"].Instance,
+                Wanted = true,
+                Spin = nil,
+            }
+            Library.GunPreviewManager:Add(GunPreview._ManagerEntry)
+
+            local ViewportModel = nil
+            local rsConnection = nil
+
+            function GunPreview:SetModel(model, Options)
+                if ViewportModel then
+                    ViewportModel:Destroy()
+                    ViewportModel = nil
+                end
+                if rsConnection then
+                    rsConnection:Disconnect()
+                    rsConnection = nil
+                end
+                -- Clear any previous spin; the manager stops driving this preview
+                -- until a new model installs a fresh Spin callback below.
+                if GunPreview._ManagerEntry then
+                    GunPreview._ManagerEntry.Spin = nil
+                end
+
+                -- No model given: fall back to the blank placeholder icon.
+                if not model and Items["BlankIcon"] then
+                    Items["BlankIcon"].Instance.Visible = true
+                end
+
+                if model then
+                    ViewportModel = model:Clone()
+
+                    -- A real model is loading: hide the blank placeholder icon.
+                    if Items["BlankIcon"] then
+                        Items["BlankIcon"].Instance.Visible = false
+                    end
+
+                    -- Remove character arms and unrelated parts for a clean gun preview
+                    for _, v in pairs(ViewportModel:GetDescendants()) do
+                        if v:IsA("BasePart") then
+                            local n = string.lower(v.Name)
+                            if string.find(n, "arm") or string.find(n, "hand") or n == "humanoidrootpart" or n == "humanoid" then
+                                v:Destroy()
+                            else
+                                -- Identify hitboxes or root blocks that are naturally transparent and have no textures
+                                local isHitbox = false
+                                if v.Transparency == 1 then
+                                    if v:IsA("Part") and not v:FindFirstChildOfClass("SpecialMesh") then
+                                        isHitbox = true
+                                    elseif v:IsA("MeshPart") and v.TextureID == "" and not v:FindFirstChildOfClass("SurfaceAppearance") then
+                                        isHitbox = true
+                                    end
+                                end
+                                
+                                if isHitbox or string.find(n, "hitbox") then
+                                    v:Destroy()
+                                else
+                                    -- Force visibility on visual meshes
+                                    v.Transparency = 0
+                                    if v:IsA("BasePart") then
+                                        v.LocalTransparencyModifier = 0
+                                    end
+                                end
+                            end
+                        end
+                    end
+                    
+                    local WorldModel = Items["CharacterViewport"].Instance:FindFirstChildOfClass("WorldModel")
+                    if not WorldModel then
+                        WorldModel = Instance.new("WorldModel")
+                        WorldModel.Parent = Items["CharacterViewport"].Instance
+                    end
+                    ViewportModel.Parent = WorldModel
+                    
+                    -- Debug print to ensure parts exist
+                    local partCount = 0
+                    for _, v in pairs(ViewportModel:GetDescendants()) do
+                        if v:IsA("BasePart") then partCount = partCount + 1 end
+                    end
+                    -- print("[Nilohook] GunPreview loaded", model.Name, "with", partCount, "parts.")
+
+                    -- Force the model to the origin
+                    ViewportModel:PivotTo(CFrame.new(0, 0, 0))
+
+                    -- Anchor everything: WorldModels don't simulate welds, so
+                    -- unanchored multi-part models can drift/tumble and undo
+                    -- any rotation we apply (ref.luau anchors charms for the
+                    -- same reason).
+                    for _, v in pairs(ViewportModel:GetDescendants()) do
+                        if v:IsA("BasePart") then
+                            v.Anchored = true
+                        end
+                    end
+
+                    local cframe, size = ViewportModel:GetBoundingBox()
+                    local maxDim = math.max(size.X, size.Y, size.Z)
+                    if maxDim < 0.1 then maxDim = 5 end
+                    if maxDim > 50 then maxDim = 10 end
+
+                    -- Static angled camera -- no spin. Spinning meant writing a
+                    -- new camera CFrame (and re-rendering the viewport) every
+                    -- frame for every visible preview; a fixed shot renders the
+                    -- viewport once and then it's free.
+                    --
+                    -- Options.Rotation (degrees) is the ABSOLUTE horizontal
+                    -- angle of the camera around the model: 0 = straight ahead,
+                    -- 90 = right side, 180 = behind, 270/-90 = left side. Every
+                    -- degree moves the camera; nothing else influences the yaw,
+                    -- so tuning the value in Main.luau always has an effect.
+                    local yaw = Options and (Options.Rotation or Options.rotation)
+                    if type(yaw) ~= "number" then yaw = 30 end -- default diagonal
+
+                    local center = cframe.Position
+                    local dist = maxDim * 1.9
+                    local offset = CFrame.Angles(0, math.rad(yaw), 0) * Vector3.new(0, maxDim * 0.3, dist)
+                    ViewportCamera.CFrame = CFrame.lookAt(center + offset, center)
+                    ViewportCamera.Focus = CFrame.new(center)
+                end
+            end
+
+            -- SetModel replaces any static image with the live viewport.
+            do
+                local OriginalSetModel = GunPreview.SetModel
+                function GunPreview:SetModel(model, Options)
+                    if model and Items["StaticImage"] then
+                        Items["StaticImage"].Instance.Image = ""
+                        Items["StaticImage"].Instance.Visible = false
+                        -- Re-enable viewport rendering in case SetImage turned it off.
+                        if GunPreview._ManagerEntry then
+                            GunPreview._ManagerEntry.Wanted = Items["GunPreview"].Instance.Visible
+                        end
+                    end
+                    return OriginalSetModel(self, model, Options)
+                end
+            end
+
+            return GunPreview
+        end
+        
+        -- Library.ChatSystem = function(self, Data)
+        --     local GlobalChat = { }
+
+        --     local Items = { } do 
+        --         Items["Chat_System"] = Instances:Create("Frame", {
+        --             Parent = Data.MainFrame.Instance,
+        --             Name = "\0",
+        --             AnchorPoint = Vector2New(1, 0),
+        --             Position = UDim2New(0, -15, 0, 0),
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             Size = UDim2New(0, 378, 0, 511),
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(16, 18, 21)
+        --         })  Items["Chat_System"]:AddToTheme({BackgroundColor3 = "Background"})
+
+        --         Items["Chat_System"]:MakeDraggable()
+
+        --         Instances:Create("UICorner", {
+        --             Parent = Items["Chat_System"].Instance,
+        --             Name = "\0",
+        --             CornerRadius = UDimNew(0, 5)
+        --         })
+
+        --         Instances:Create("UIStroke", {
+        --             Parent = Items["Chat_System"].Instance,
+        --             Name = "\0",
+        --             Color = FromRGB(32, 36, 42),
+        --             Transparency = 0.4000000059604645,
+        --             ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+        --         }):AddToTheme({Color = "Border"})
+
+        --         Items["Topbar"] = Instances:Create("Frame", {
+        --             Parent = Items["Chat_System"].Instance,
+        --             Name = "\0",
+        --             Size = UDim2New(1, 0, 0, 35),
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             ZIndex = 2,
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(22, 25, 29)
+        --         })  Items["Topbar"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+        --         Instances:Create("UICorner", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             CornerRadius = UDimNew(0, 5)
+        --         })
+
+        --         Instances:Create("Frame", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             AnchorPoint = Vector2New(0, 1),
+        --             Position = UDim2New(0, 0, 1, 0),
+        --             Size = UDim2New(1, 0, 0, 3),
+        --             ZIndex = 2,
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(22, 25, 29)
+        --         }):AddToTheme({BackgroundColor3 = "Inline"})
+
+        --         Instances:Create("Frame", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             AnchorPoint = Vector2New(0, 1),
+        --             BackgroundTransparency = 0.4000000059604645,
+        --             Position = UDim2New(0, 0, 1, 0),
+        --             Size = UDim2New(1, 0, 0, 1),
+        --             ZIndex = 2,
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(32, 36, 42)
+        --         }):AddToTheme({BackgroundColor3 = "Border"})
+
+        --         Instances:Create("UIGradient", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             Rotation = 84,
+        --             Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+        --         }):AddToTheme({Color = function()
+        --             return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+        --         end})
+
+        --         Items["Logo"] = Instances:Create("ImageLabel", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             ImageColor3 = FromRGB(196, 231, 255),
+        --             ScaleType = Enum.ScaleType.Fit,
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             Size = UDim2New(0, 16, 0, 16),
+        --             AnchorPoint = Vector2New(0, 0.5),
+        --             Image = "rbxassetid://103982381939732",
+        --             BackgroundTransparency = 1,
+        --             Position = UDim2New(0, 10, 0.5, 0),
+        --             ZIndex = 2,
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(255, 255, 255)
+        --         })  Items["Logo"]:AddToTheme({ImageColor3 = "Accent"})
+
+        --         Items["Title"] = Instances:Create("TextLabel", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             FontFace = Library.Font,
+        --             AnchorPoint = Vector2New(0, 0.5),
+        --             ZIndex = 2,
+        --             TextSize = 14,
+        --             Size = UDim2New(0, 0, 0, 15),
+        --             RichText = true,
+        --             TextColor3 = FromRGB(255, 255, 255),
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             Text = "Global chat",
+        --             BackgroundTransparency = 1,
+        --             TextXAlignment = Enum.TextXAlignment.Left,
+        --             Position = UDim2New(0, 37, 0.5, 0),
+        --             BorderSizePixel = 0,
+        --             AutomaticSize = Enum.AutomaticSize.X,
+        --             BackgroundColor3 = FromRGB(255, 255, 255)
+        --         })  Items["Title"]:AddToTheme({TextColor3 = "Text"})
+
+        --         Items["CloseButton"] = Instances:Create("ImageButton", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             ScaleType = Enum.ScaleType.Fit,
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             Size = UDim2New(0, 17, 0, 17),
+        --             AutoButtonColor = false,
+        --             AnchorPoint = Vector2New(1, 0.5),
+        --             Image = "rbxassetid://76001605964586",
+        --             BackgroundTransparency = 1,
+        --             Position = UDim2New(1, -7, 0.5, 0),
+        --             ZIndex = 2,
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(255, 255, 255)
+        --         })  Items["CloseButton"]:AddToTheme({ImageColor3 = "Image"})
+
+        --         Items["StatusCircle"] = Instances:Create("Frame", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             AnchorPoint = Vector2New(1, 0.5),
+        --             Position = UDim2New(1, -33, 0.5, 0),
+        --             Size = UDim2New(0, 12, 0, 12),
+        --             ZIndex = 3,
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(62, 255, 91)
+        --         })
+
+        --         Instances:Create("UICorner", {
+        --             Parent = Items["StatusCircle"].Instance,
+        --             Name = "\0",
+        --             CornerRadius = UDimNew(1, 0)
+        --         })
+
+        --         Instances:Create("UIGradient", {
+        --             Parent = Items["StatusCircle"].Instance,
+        --             Name = "\0",
+        --             Rotation = 90,
+        --             Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+        --         }):AddToTheme({Color = function()
+        --             return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+        --         end})
+
+        --         Items["StatusText"] = Instances:Create("TextLabel", {
+        --             Parent = Items["Topbar"].Instance,
+        --             Name = "\0",
+        --             FontFace = Library.Font,
+        --             TextColor3 = FromRGB(62, 255, 91),
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             Text = "Connected",
+        --             AutomaticSize = Enum.AutomaticSize.X,
+        --             Size = UDim2New(0, 0, 0, 15),
+        --             AnchorPoint = Vector2New(1, 0.5),
+        --             Position = UDim2New(1, -50, 0.5, 0),
+        --             BackgroundTransparency = 1,
+        --             TextXAlignment = Enum.TextXAlignment.Right,
+        --             BorderSizePixel = 0,
+        --             ZIndex = 2,
+        --             TextSize = 14,
+        --             BackgroundColor3 = FromRGB(255, 255, 255)
+        --         })
+
+        --         Items["Glow"] = Instances:Create("ImageLabel", {
+        --             Parent = Items["StatusCircle"].Instance,
+        --             Name = "\0",
+        --             ImageColor3 = FromRGB(62, 255, 91),
+        --             ScaleType = Enum.ScaleType.Slice,
+        --             ImageTransparency = 0.30000001192092896,
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             BackgroundColor3 = FromRGB(255, 255, 255),
+        --             Size = UDim2New(1, 8, 1, 8),
+        --             AnchorPoint = Vector2New(0.5, 0.5),
+        --             Image = "http://www.roblox.com/asset/?id=18245826428",
+        --             BackgroundTransparency = 1,
+        --             Position = UDim2New(0.5, 0, 0.5, 0),
+        --             ZIndex = 2,
+        --             BorderSizePixel = 0,
+        --             SliceCenter = RectNew(Vector2New(21, 21), Vector2New(79, 79))
+        --         })
+
+        --         Items["SendMessage"] = Instances:Create("Frame", {
+        --             Parent = Items["Chat_System"].Instance,
+        --             Name = "\0",
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             AnchorPoint = Vector2New(0, 1),
+        --             BackgroundTransparency = 1,
+        --             Position = UDim2New(0, 8, 1, -8),
+        --             Size = UDim2New(1, -16, 0, 35),
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(255, 255, 255)
+        --         })  
+
+        --         Items["Input"] = Instances:Create("TextBox", {
+        --             Parent = Items["SendMessage"].Instance,
+        --             Name = "\0",
+        --             FontFace = Library.Font,
+        --             MultiLine = true,
+        --             CursorPosition = -1,
+        --             PlaceholderColor3 = FromRGB(185, 185, 185),
+        --             PlaceholderText = "Send message",
+        --             TextSize = 14,
+        --             Size = UDim2New(1, -45, 1, 0),
+        --             TextColor3 = FromRGB(255, 255, 255),
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             Text = "",
+        --             TextXAlignment = Enum.TextXAlignment.Left,
+        --             TextWrapped = true,
+        --             ClearTextOnFocus = false,
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(34, 39, 45)
+        --         })  Items["Input"]:AddToTheme({BackgroundColor3 = "Element"})
+
+        --         Instances:Create("UICorner", {
+        --             Parent = Items["Input"].Instance,
+        --             Name = "\0",
+        --             CornerRadius = UDimNew(0, 4)
+        --         })
+
+        --         Instances:Create("UIPadding", {
+        --             Parent = Items["Input"].Instance,
+        --             Name = "\0",
+        --             PaddingLeft = UDimNew(0, 8)
+        --         })
+
+        --         Items["SendMessageButton"] = Instances:Create("TextButton", {
+        --             Parent = Items["SendMessage"].Instance,
+        --             Name = "\0",
+        --             FontFace = Library.Font,
+        --             TextColor3 = FromRGB(0, 0, 0),
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             Text = "",
+        --             AutoButtonColor = false,
+        --             AnchorPoint = Vector2New(1, 0),
+        --             Position = UDim2New(1, 0, 0, 0),
+        --             Size = UDim2New(0, 35, 1, 0),
+        --             BorderSizePixel = 0,
+        --             TextSize = 14,
+        --             BackgroundColor3 = FromRGB(34, 39, 45)
+        --         })  Items["SendMessageButton"]:AddToTheme({BackgroundColor3 = "Element"})
+
+        --         Instances:Create("UICorner", {
+        --             Parent = Items["SendMessageButton"].Instance,
+        --             Name = "\0",
+        --             CornerRadius = UDimNew(0, 4)
+        --         })
+
+        --         Items["SendImageLabel"] = Instances:Create("ImageLabel", {
+        --             Parent = Items["SendMessageButton"].Instance,
+        --             Name = "\0",
+        --             ImageColor3 = FromRGB(196, 231, 255),
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             AnchorPoint = Vector2New(0.5, 0.5),
+        --             Image = "rbxassetid://93681479181206",
+        --             BackgroundTransparency = 1,
+        --             Position = UDim2New(0.5, 0, 0.5, 0),
+        --             Size = UDim2New(0, 16, 0, 16),
+        --             BorderSizePixel = 0,
+        --             BackgroundColor3 = FromRGB(255, 255, 255)
+        --         })  Items["SendImageLabel"]:AddToTheme({ImageColor3 = "Accent"})
+
+        --         Items["Messages"] = Instances:Create("ScrollingFrame", {
+        --             Parent = Items["Chat_System"].Instance,
+        --             Name = "\0",
+        --             AutomaticCanvasSize = Enum.AutomaticSize.Y,
+        --             BorderSizePixel = 0,
+        --             CanvasSize = UDim2New(0, 0, 0, 0),
+        --             ScrollBarImageColor3 = FromRGB(196, 231, 255),
+        --             MidImage = "rbxassetid://76010408336709",
+        --             BorderColor3 = FromRGB(0, 0, 0),
+        --             ScrollBarThickness = 2,
+        --             Size = UDim2New(1, 0, 1, -80),
+        --             Selectable = false,
+        --             BackgroundTransparency = 1,
+        --             Position = UDim2New(0, 0, 0, 35),
+        --             BottomImage = "rbxassetid://76010408336709",
+        --             TopImage = "rbxassetid://76010408336709",
+        --             BackgroundColor3 = FromRGB(255, 255, 255)
+        --         })
+
+        --         Instances:Create("UIListLayout", {
+        --             Parent = Items["Messages"].Instance,
+        --             Name = "\0",
+        --             SortOrder = Enum.SortOrder.LayoutOrder,
+        --             Archivable = false,
+        --             Padding = UDimNew(0, 8)
+        --         })
+
+        --         Instances:Create("UIPadding", {
+        --             Parent = Items["Messages"].Instance,
+        --             Name = "\0",
+        --             PaddingTop = UDimNew(0, 8),
+        --             PaddingBottom = UDimNew(0, 8),
+        --             PaddingRight = UDimNew(0, 12),
+        --             PaddingLeft = UDimNew(0, 8)
+        --         })
+        --     end
+
+        --     function GlobalChat:SetVisibility(Bool)
+        --         Items["Chat_System"].Instance.Visible = Bool
+        --         Items["Chat_System"].Instance.Parent = Bool and Data.MainFrame.Instance or Library.UnusedHolder
+        --     end
+
+        --     function GlobalChat:SetStatusText(Text)
+        --         Items["StatusText"].Instance.Text = Text
+        --     end
+
+        --     local OnMessagePressed            
+
+        --     function GlobalChat:OnMessageSendPressed(Func)
+        --         OnMessagePressed = Func
+        --     end
+
+        --     function GlobalChat:GetTypedMessage()
+        --         return Items["Input"].Instance.Text
+        --     end
+
+        --     function GlobalChat:SendMessage(Avatar, Username, Message, IsLocalPlayer)
+        --         local SubItems = { } do
+        --             if not IsLocalPlayer then
+        --                 SubItems["Message1"] = Instances:Create("Frame", {
+        --                     Parent = Items["Messages"].Instance,
+        --                     Name = "\0",
+        --                     BackgroundTransparency = 1,
+        --                     Size = UDim2New(1, 0, 0, 45),
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     BorderSizePixel = 0,
+        --                     AutomaticSize = Enum.AutomaticSize.Y,
+        --                     BackgroundColor3 = FromRGB(255, 255, 255)
+        --                 })
+
+        --                 SubItems["PlayerName"] = Instances:Create("TextLabel", {
+        --                     Parent = SubItems["Message1"].Instance,
+        --                     Name = "\0",
+        --                     FontFace = Library.Font,
+        --                     TextColor3 = FromRGB(255, 255, 255),
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     Text = Username,
+        --                     Size = UDim2New(0, 0, 0, 15),
+        --                     BackgroundTransparency = 1,
+        --                     Position = UDim2New(0, 38, 0, 0),
+        --                     BorderSizePixel = 0,
+        --                     AutomaticSize = Enum.AutomaticSize.X,
+        --                     TextSize = 14,
+        --                     BackgroundColor3 = FromRGB(255, 255, 255)
+        --                 })  SubItems["PlayerName"]:AddToTheme({TextColor3 = "Text"})
+
+        --                 SubItems["RealMessage"] = Instances:Create("Frame", {
+        --                     Parent = SubItems["Message1"].Instance,
+        --                     Name = "\0",
+        --                     Position = UDim2New(0, 38, 0, 20),
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     BorderSizePixel = 0,
+        --                     AutomaticSize = Enum.AutomaticSize.XY,
+        --                     BackgroundColor3 = FromRGB(22, 25, 29)
+        --                 })  SubItems["RealMessage"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+        --                 Instances:Create("UISizeConstraint", {
+        --                     Parent = SubItems["RealMessage"].Instance,
+        --                     Name = "\0",
+        --                     MaxSize = Vector2New(370, 75)
+        --                 })
+
+        --                 Instances:Create("UICorner", {
+        --                     Parent = SubItems["RealMessage"].Instance,
+        --                     Name = "\0",
+        --                     CornerRadius = UDimNew(0, 4)
+        --                 })
+
+        --                 SubItems["MessageText"] = Instances:Create("TextLabel", {
+        --                     Parent = SubItems["RealMessage"].Instance,
+        --                     Name = "\0",
+        --                     FontFace = Library.Font,
+        --                     TextColor3 = FromRGB(255, 255, 255),
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     Text = Message,
+        --                     BackgroundTransparency = 1,
+        --                     TextWrapped = true,
+        --                     TextXAlignment = Enum.TextXAlignment.Left,
+        --                     BorderSizePixel = 0,
+        --                     AutomaticSize = Enum.AutomaticSize.XY,
+        --                     TextSize = 14,
+        --                     BackgroundColor3 = FromRGB(255, 255, 255)
+        --                 })  SubItems["MessageText"]:AddToTheme({TextColor3 = "Text"})
+
+        --                 Instances:Create("UIPadding", {
+        --                     Parent = SubItems["RealMessage"].Instance,
+        --                     Name = "\0",
+        --                     PaddingTop = UDimNew(0, 8),
+        --                     PaddingBottom = UDimNew(0, 8),
+        --                     PaddingRight = UDimNew(0, 8),
+        --                     PaddingLeft = UDimNew(0, 8)
+        --                 })
+
+        --                 SubItems["Avatar"] = Instances:Create("ImageLabel", {
+        --                     Parent = SubItems["Message1"].Instance,
+        --                     Name = "\0",
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     AnchorPoint = Vector2New(0, 0.5),
+        --                     Image = Avatar,
+        --                     BackgroundTransparency = 1,
+        --                     Position = UDim2New(0, 0, 0.5, 0),
+        --                     Size = UDim2New(0, 30, 0, 30),
+        --                     BorderSizePixel = 0,
+        --                     BackgroundColor3 = FromRGB(255, 255, 255)
+        --                 })
+
+        --                 Instances:Create("UICorner", {
+        --                     Parent = SubItems["Avatar"].Instance,
+        --                     Name = "\0",
+        --                     CornerRadius = UDimNew(0, 4)
+        --                 })
+        --             else
+        --                 SubItems["Message1"] = Instances:Create("Frame", {
+        --                     Parent = Items["Messages"].Instance,
+        --                     Name = "\0",
+        --                     BackgroundTransparency = 1,
+        --                     Size = UDim2New(1, 0, 0, 45),
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     BorderSizePixel = 0,
+        --                     AutomaticSize = Enum.AutomaticSize.Y,
+        --                     BackgroundColor3 = FromRGB(255, 255, 255)
+        --                 })
+
+        --                 SubItems["PlayerName"] = Instances:Create("TextLabel", {
+        --                     Parent = SubItems["Message1"].Instance,
+        --                     Name = "\0",
+        --                     FontFace = Library.Font,
+        --                     TextColor3 = FromRGB(255, 255, 255),
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     Text = Username,
+        --                     AnchorPoint = Vector2New(1, 0),
+        --                     Size = UDim2New(0, 0, 0, 15),
+        --                     BackgroundTransparency = 1,
+        --                     Position = UDim2New(1, -38, 0, 0),
+        --                     BorderSizePixel = 0,
+        --                     AutomaticSize = Enum.AutomaticSize.X,
+        --                     TextSize = 14,
+        --                     BackgroundColor3 = FromRGB(255, 255, 255)
+        --                 })  SubItems["PlayerName"]:AddToTheme({TextColor3 = "Text"})
+
+        --                 SubItems["RealMessage"] = Instances:Create("Frame", {
+        --                     Parent = SubItems["Message1"].Instance,
+        --                     Name = "\0",
+        --                     AnchorPoint = Vector2New(1, 0),
+        --                     Position = UDim2New(1, -38, 0, 20),
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     BorderSizePixel = 0,
+        --                     AutomaticSize = Enum.AutomaticSize.XY,
+        --                     BackgroundColor3 = FromRGB(22, 25, 29)
+        --                 })  SubItems["RealMessage"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+        --                 Instances:Create("UISizeConstraint", {
+        --                     Parent = SubItems["RealMessage"].Instance,
+        --                     Name = "\0",
+        --                     MaxSize = Vector2New(370, 75)
+        --                 })
+
+        --                 Instances:Create("UICorner", {
+        --                     Parent = SubItems["RealMessage"].Instance,
+        --                     Name = "\0",
+        --                     CornerRadius = UDimNew(0, 4)
+        --                 })
+
+        --                 SubItems["MessageText"] = Instances:Create("TextLabel", {
+        --                     Parent = SubItems["RealMessage"].Instance,
+        --                     Name = "\0",
+        --                     FontFace = Library.Font,
+        --                     TextColor3 = FromRGB(255, 255, 255),
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     Text = Message,
+        --                     BackgroundTransparency = 1,
+        --                     TextXAlignment = Enum.TextXAlignment.Left,
+        --                     BorderSizePixel = 0,
+        --                     AutomaticSize = Enum.AutomaticSize.XY,
+        --                     TextWrapped = true,
+        --                     TextSize = 14,
+        --                     BackgroundColor3 = FromRGB(255, 255, 255)
+        --                 })  SubItems["MessageText"]:AddToTheme({TextColor3 = "Text"})
+
+        --                 Instances:Create("UIPadding", {
+        --                     Parent = SubItems["RealMessage"].Instance,
+        --                     Name = "\0",
+        --                     PaddingTop = UDimNew(0, 8),
+        --                     PaddingBottom = UDimNew(0, 8),
+        --                     PaddingRight = UDimNew(0, 8),
+        --                     PaddingLeft = UDimNew(0, 8)
+        --                 })
+
+        --                 SubItems["Avatar"] = Instances:Create("ImageLabel", {
+        --                     Parent = SubItems["Message1"].Instance,
+        --                     Name = "\0",
+        --                     BorderColor3 = FromRGB(0, 0, 0),
+        --                     AnchorPoint = Vector2New(1, 0.5),
+        --                     Image = Avatar,
+        --                     BackgroundTransparency = 1,
+        --                     Position = UDim2New(1, 0, 0.5, 0),
+        --                     Size = UDim2New(0, 30, 0, 30),
+        --                     BorderSizePixel = 0,
+        --                     BackgroundColor3 = FromRGB(255, 255, 255)
+        --                 })
+
+        --                 Instances:Create("UICorner", {
+        --                     Parent = SubItems["Avatar"].Instance,
+        --                     Name = "\0",
+        --                     CornerRadius = UDimNew(0, 4)
+        --                 })
+        --             end
+        --         end
+        --     end
+
+        --     Items["SendMessageButton"]:Connect("MouseButton1Down", function()
+        --         if GlobalChat:GetTypedMessage() == "" then
+        --             return
+        --         end
+                
+        --         OnMessagePressed()
+        --         Items["SendMessageButton"]:Tween(nil, {BackgroundColor3 = Library:GetDarkerColor(Library.Theme.Accent)})
+        --         task.wait(0.1)
+        --         Items["SendMessageButton"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+        --     end)
+
+        --     Items["SendMessageButton"]:Connect("MouseEnter", function()
+        --         Items["SendMessageButton"]:Tween(nil, {BackgroundColor3 = Library:GetDarkerColor(Library.Theme.Element)})
+        --     end)
+
+        --     Items["SendMessageButton"]:Connect("MouseLeave", function()
+        --         Items["SendMessageButton"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+        --     end)
+
+        --     Items["Input"]:Connect("MouseEnter", function()
+        --         Items["Input"]:Tween(nil, {BackgroundColor3 = Library:GetDarkerColor(Library.Theme.Element)})
+        --     end)
+
+        --     Items["Input"]:Connect("MouseLeave", function()
+        --         Items["Input"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+        --     end)
+
+        --     Items["Messages"]:Connect("ChildAdded", function()
+        --         wait() -- wait so we ensure the child is added
+        --         Items["Messages"]:Tween(nil, {CanvasPosition = Vector2New(0, Items["Messages"].Instance.AbsoluteCanvasSize.Y - Items["Messages"].Instance.AbsoluteSize.Y)})
+        --     end)
+
+        --     return GlobalChat 
+        -- end
+        
+        Library.Notification = function(self, Data)
+            Data = Data or { }
+
+            local Notification = {
+                Name = Data.Name or Data.name or "Title",
+                Description = Data.Description or Data.description or "Description",
+                Duration = Data.Duration or Data.duration or 5,
+                Icon = Data.Icon or Data.icon or "9080568477801",
+                IconColor = Data.IconColor or Data.iconcolor or FromRGB(255, 255, 255),
+            }
+
+            local Items = { } do
+                Items["Notification"] = Instances:Create("Frame", {
+                    Parent = Library.NotifHolder.Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.XY,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["Notification"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["Notification"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Notification"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Notification"].Instance,
+                    Name = "\0",
+                    PaddingTop = UDimNew(0, 8),
+                    PaddingBottom = UDimNew(0, 8),
+                    PaddingRight = UDimNew(0, 8),
+                    PaddingLeft = UDimNew(0, 8)
+                })
+
+                if Notification.Icon then 
+                    Items["Icon"] = Instances:Create("ImageLabel", {
+                        Parent = Items["Notification"].Instance,
+                        Name = "\0",
+                        ImageColor3 = Notification.IconColor,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        AnchorPoint = Vector2New(1, 0),
+                        Image = "rbxassetid://"..Notification.Icon,
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(1, 5, 0, 0),
+                        Size = UDim2New(0, 22, 0, 22),
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })
+                end
+
+                Items["Title"] = Instances:Create("TextLabel", {
+                    Parent = Items["Notification"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Notification.Name,
+                    Size = UDim2New(0, 0, 0, 15),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0, 2),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Title"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["Description"] = Instances:Create("TextLabel", {
+                    Parent = Items["Notification"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = Notification.Description,
+                    Size = UDim2New(0, 0, 0, 15),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0, 24),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Description"]:AddToTheme({TextColor3 = "Inactive Text"})
+            end
+
+            local OldSize = Items["Notification"].Instance.AbsoluteSize
+            Items["Notification"].Instance.BackgroundTransparency = 1
+            Items["Notification"].Instance.Size = UDim2New(0, 0, 0, 0)
+
+            for Index, Value in Items["Notification"].Instance:GetDescendants() do
+                if Value:IsA("UIStroke") then 
+                    Value.Transparency = 1
+                elseif Value:IsA("TextLabel") then 
+                    Value.TextTransparency = 1
+                elseif Value:IsA("ImageLabel") then 
+                    Value.ImageTransparency = 1
+                elseif Value:IsA("Frame") then 
+                    Value.BackgroundTransparency = 1
+                end
+            end
+            
+            task.wait(0.2)
+
+            Items["Notification"].Instance.AutomaticSize = Enum.AutomaticSize.None
+
+            Library:Thread(function()
+                Items["Notification"]:Tween(nil, {BackgroundTransparency = 0, Size = UDim2New(0,  OldSize.X, 0, OldSize.Y)})
+                
+                task.wait(0.06)
+
+                for Index, Value in Items["Notification"].Instance:GetDescendants() do
+                    if Value:IsA("UIStroke") then
+                        Tween:Create(Value, nil, {Transparency = 0}, true)
+                    elseif Value:IsA("TextLabel") then
+                        Tween:Create(Value, nil, {TextTransparency = 0}, true)
+                    elseif Value:IsA("ImageLabel") then
+                        Tween:Create(Value, nil, {ImageTransparency = 0}, true)
+                    elseif Value:IsA("Frame") then
+                        Tween:Create(Value, nil, {BackgroundTransparency = 0}, true)
+                    end
+                end
+
+                task.delay(Data.Duration, function()
+                    for Index, Value in Items["Notification"].Instance:GetDescendants() do
+                        if Value:IsA("UIStroke") then
+                            Tween:Create(Value, nil, {Transparency = 1}, true)
+                        elseif Value:IsA("TextLabel") then
+                            Tween:Create(Value, nil, {TextTransparency = 1}, true)
+                        elseif Value:IsA("ImageLabel") then
+                            Tween:Create(Value, nil, {ImageTransparency = 1}, true)
+                        elseif Value:IsA("Frame") then
+                            Tween:Create(Value, nil, {BackgroundTransparency = 1}, true)
+                        end
+                    end
+
+                    task.wait(0.06)
+
+                    Items["Notification"]:Tween(nil, {BackgroundTransparency = 1, Size = UDim2New(0, 0, 0, 0)})
+
+                    task.wait(0.5)
+                    Items["Notification"]:Clean()
+                end)
+            end)
+
+            return Notification
+        end
+
+        Library.Watermark = function(self, Text, Logo)
+            local Watermark = { }
+
+            local Items = { } do
+                Items["Watermark"] = Instances:Create("Frame", {
+                    Parent = Library.Holder.Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 0),
+                    Position = UDim2New(0, 15, 0, 55),
+                    Size = UDim2New(0, 100, 0, 35),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["Watermark"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Items["Watermark"]:MakeDraggable()
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Watermark"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Watermark"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["Logo"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Watermark"].Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(196, 231, 255),
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 22, 0, 22),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Image = "rbxassetid://"..Logo,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 7, 0.5, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Logo"]:AddToTheme({ImageColor3 = "Accent"})
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Watermark"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Text,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Size = UDim2New(0, 0, 0, 15),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 35, 0.5, 0),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Watermark"].Instance,
+                    Name = "\0",
+                    PaddingRight = UDimNew(0, 7)
+                })
+            end
+
+            function Watermark:SetVisibility(Bool)
+                Items["Watermark"].Instance.Visible = Bool
+            end
+
+            local BaseText = Text
+            function Watermark:SetText(NewText)
+                BaseText = NewText
+            end
+
+            local fpsSamples, pingSamples, lastTick = 60, 50, os.clock()
+            local RunService = cloneref(game:GetService("RunService"))
+            local StatsService = game:GetService("Stats")
+            local lastPingQuery = 0
+            local cachedPingRaw = 50
+            
+            Library:Connect(RunService.RenderStepped, function()
+                if not Items["Watermark"].Instance.Visible then return end
+
+                local now = os.clock()
+                local dt = now - lastTick
+                lastTick = now
+
+                if dt > 0 then 
+                    fpsSamples = fpsSamples + (1 / dt - fpsSamples) * 0.05 
+                end
+
+                -- Only query ping every 0.5s instead of every frame
+                if now - lastPingQuery >= 0.5 then
+                    lastPingQuery = now
+                    pcall(function()
+                        cachedPingRaw = StatsService.Network.ServerStatsItem["Data Ping"]:GetValue()
+                    end)
+                end
+                pingSamples = pingSamples + (cachedPingRaw - pingSamples) * 0.05
+
+                Items["Text"].Instance.Text = string.format("%s | Ping : %d | FPS : %d", BaseText, math.floor(pingSamples + 0.5), math.floor(fpsSamples + 0.5))
+            end)
+
+            return Watermark 
+        end
+
+        Library.KeybindsList = function(self)
+            local KeybindList = { }
+            self.KeyList = KeybindList
+
+            local Items = { } do
+                Items["KeybindsList"] = Instances:Create("Frame", {
+                    Parent = Library.Holder.Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 0),
+                    Position = UDim2New(0, 15, 0, 100),
+                    Size = UDim2New(0, 100, 0, 100),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.XY,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["KeybindsList"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Items["KeybindsList"]:MakeDraggable()
+
+                Instances:Create("UICorner", {
+                    Parent = Items["KeybindsList"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["KeybindsList"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Items["Icon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["KeybindsList"].Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(196, 231, 255),
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Image = "rbxassetid://89224403789635",
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(0, 22, 0, 22),
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Icon"]:AddToTheme({ImageColor3 = "Accent"})  
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["KeybindsList"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "keybinds",
+                    Size = UDim2New(0, 0, 0, 15),
+                    Position = UDim2New(0, 28, 0, 3),
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["KeybindsList"].Instance,
+                    Name = "\0",
+                    PaddingTop = UDimNew(0, 8),
+                    PaddingBottom = UDimNew(0, 8),
+                    PaddingRight = UDimNew(0, 8),
+                    PaddingLeft = UDimNew(0, 8)
+                })
+
+                Items["Content"] = Instances:Create("Frame", {
+                    Parent = Items["KeybindsList"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0, 28),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.XY,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["Content"].Instance,
+                    Name = "\0",
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+
+            function KeybindList:Add(Key, Name)
+                local NewKey = Instances:Create("TextLabel", {
+                    Parent = Items["Content"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = "(" .. Key .. ") - ".. Name .. "",
+                    Size = UDim2New(1, 0, 0, 20),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  NewKey:AddToTheme({TextColor3 = "Text"})
+
+                local NewKeyStatus = Instances:Create("TextLabel", {
+                    Parent = NewKey.Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = "off",
+                    Size = UDim2New(0, 0, 0, 20),
+                    AnchorPoint = Vector2New(1, 0),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, 50, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  NewKeyStatus:AddToTheme({TextColor3 = "Text"})
+
+                Instances:Create("UIPadding", {
+                    Parent = NewKey.Instance,
+                    Name = "\0",
+                    PaddingRight = UDimNew(0, 50)
+                })
+
+                function NewKey:SetText(Key, Name)
+                    NewKey.Instance.Text =  "(" .. Key .. ") - ".. Name .. ""
+                end
+
+                function NewKey:SetStatus(Status)
+                    NewKeyStatus.Instance.Text = Status
+                end
+
+                function NewKey:Remove()
+                    NewKey:Clean()
+                end
+
+                function NewKey:SetVisibility(Bool)
+                    NewKey.Instance.Visible = Bool
+                end
+
+                function NewKey:Set(Bool)
+                    if Bool then 
+                        NewKey:Tween(nil, {TextTransparency = 0})
+                        NewKeyStatus:Tween(nil, {TextTransparency = 0})
+                    else 
+                        NewKey:Tween(nil, {TextTransparency = 0.5})
+                        NewKeyStatus:Tween(nil, {TextTransparency = 0.5})
+                    end
+                end
+
+                return NewKey
+            end
+
+            function KeybindList:SetVisibility(Bool)
+                Items["KeybindsList"].Instance.Visible = Bool
+            end
+
+            return KeybindList
+        end 
+
+        Library.Window = function(self, Data)
+            Data = Data or { }
+
+            local Window = {
+                Name = Data.Name or Data.name or "kiwisense",
+                Logo = Data.Logo or Data.logo or "135215559087473",
+                FadeSpeed = Data.FadeSpeed or Data.fadespeed or 0.2,
+                Version = Data.Version or Data.version or "v1.0.0 alpha",
+                Size = not IsMobile and UDim2New(0, 659, 0, 511) or UDim2New(0, 511, 0, 459),
+
+                Pages = { },
+                SubPages = { },
+
+                Items = { },
+                IsOpen = false
+            }
+
+            local Items = { } do
+                Items["MainFrame"] = Instances:Create("Frame", {
+                    Parent = Library.Holder.Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0.5, 0.5),
+                    Position = UDim2New(0.5, 0, 0.5, 0),
+                    Size = Window.Size,
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    Visible = false,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["MainFrame"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                if IsMobile then
+                    local UiScale = InstanceNew("UIScale")
+                    UiScale.Parent = Items["MainFrame"].Instance
+
+                    local function UpdateScale()
+                        local Viewport = Camera.ViewportSize
+                        local ScaleX = Viewport.X < DefaultSize.X.Offset and (Viewport.X - 20) / DefaultSize.X.Offset or 1
+                        local ScaleY = Viewport.Y < (DefaultSize.Y.Offset + 50) and (Viewport.Y - 60) / DefaultSize.Y.Offset or 1
+                        UiScale.Scale = MathClamp(MathMin(ScaleX, ScaleY), 0.5, 1)
+                    end
+
+                    UpdateScale()
+                    Library:Connect(Camera:GetPropertyChangedSignal("ViewportSize"), UpdateScale)
+                end
+
+                Items["MainFrame"]:MakeDraggable()
+                Items["MainFrame"]:MakeResizeable(Vector2New(Window.Size.X.Offset, Window.Size.Y.Offset), Vector2New(9999, 9999))
+
+                Instances:Create("UICorner", {
+                    Parent = Items["MainFrame"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["Pages"] = Instances:Create("Frame", {
+                    Parent = Items["MainFrame"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0.5, 0),
+                    BorderSizePixel = 0,
+                    Position = UDim2New(0.5, 0, 1, 8),
+                    Size = UDim2New(0, 0, 0, 45),
+                    ZIndex = 2,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["Pages"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Pages"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(1, 0)
+                })
+
+                Items["Holder"] = Instances:Create("Frame", {
+                    Parent = Items["Pages"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(0, 0, 1, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Holder"].Instance,
+                    Name = "\0",
+                    PaddingRight = UDimNew(0, 8),
+                    PaddingLeft = UDimNew(0, 8)
+                })
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["Holder"].Instance,
+                    Name = "\0",
+                    VerticalAlignment = Enum.VerticalAlignment.Center,
+                    FillDirection = Enum.FillDirection.Horizontal,
+                    Padding = UDimNew(0, 5),
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+
+                Items["Shadow"] = Instances:Create("ImageLabel", {
+                    Parent = Items["MainFrame"].Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(0, 0, 0),
+                    ScaleType = Enum.ScaleType.Slice,
+                    ImageTransparency = 0.8999999761581421,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, 25, 1, 25),
+                    AnchorPoint = Vector2New(0.5, 0.5),
+                    Image = "http://www.roblox.com/asset/?id=18245826428",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0.5, 0, 0.5, 0),
+                    BackgroundColor3 = FromRGB(255, 255, 255),
+                    BorderSizePixel = 0,
+                    SliceCenter = RectNew(Vector2New(21, 21), Vector2New(79, 79))
+                })  Items["Shadow"]:AddToTheme({ImageColor3 = "Shadow"})
+
+                Items["Topbar"] = Instances:Create("Frame", {
+                    Parent = Items["MainFrame"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, 0, 0, 35),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                })  Items["Topbar"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("Frame", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 3),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                }):AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("Frame", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    BackgroundTransparency = 0.4,
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 1),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(32, 36, 42)
+                }):AddToTheme({BackgroundColor3 = "Border"})
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Items["Logo"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(196, 231, 255),
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 22, 0, 22),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Image = "rbxassetid://"..Window.Logo,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 7, 0.5, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Logo"]:AddToTheme({ImageColor3 = "Accent"})
+
+                Items["Title"] = Instances:Create("TextLabel", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    Size = UDim2New(0, 0, 0, 15),
+                    RichText = true,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Window.Name,
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    Position = UDim2New(0, 37, 0.5, 0),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Title"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["Version"] = Instances:Create("Frame", {
+                    Parent = Items["Title"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 0, 0, 15),
+                    Position = UDim2New(1, 5, 0, 1),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["Version"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Version"].Instance,
+                    Name = "\0",
+                    PaddingRight = UDimNew(0, 5),
+                    PaddingLeft = UDimNew(0, 6)
+                })
+
+                Items["VersionText"] = Instances:Create("TextLabel", {
+                    Parent = Items["Version"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = Window.Version,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Size = UDim2New(0, 0, 0, 15),
+                    Position = UDim2New(0, -2, 0, 0),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    TextSize = 12,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["VersionText"]:AddToTheme({TextColor3 = "Text"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Version"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["Version"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Title"].Instance,
+                    Name = "\0",
+                    PaddingRight = UDimNew(0, 0)
+                })
+
+                Items["CloseButton"] = Instances:Create("ImageButton", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 17, 0, 17),
+                    AutoButtonColor = false,
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Image = "rbxassetid://76001605964586",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, -7, 0.5, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["CloseButton"]:AddToTheme({ImageColor3 = "Image"})
+
+                Items["MinimizeButton"] = Instances:Create("ImageButton", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 17, 0, 17),
+                    AutoButtonColor = false,
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Image = "rbxassetid://94817928404736",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, -27, 0.5, -5),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["MinimizeButton"]:AddToTheme({ImageColor3 = "Image"})
+
+                Items["UnMinimizeButton"] = Instances:Create("ImageButton", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 17, 0, 17),
+                    ImageTransparency = 1,
+                    AutoButtonColor = false,
+                    Active = false,
+                    Visible = false,
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Image = "",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, -27, 0.5, -5),
+                    ZIndex = 3,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["UnMinimizeButton"]:AddToTheme({ImageColor3 = "Image"})
+
+                Items["UnMinimizeIcon"] = Instances:Create("TextLabel", {
+                    Parent = Items["UnMinimizeButton"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    BorderSizePixel = 0,
+                    Size = UDim2New(0, 17, 0, 17),
+                    Position = UDim2New(0.5, 0, 0.5, 0),
+                    AnchorPoint = Vector2New(0.5, 0.5),
+                    ZIndex = 4,
+                    Text = "+",
+                    TextTransparency = 1,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextSize = 17,
+                    Font = Enum.Font.GothamBold,
+                    TextXAlignment = Enum.TextXAlignment.Center,
+                    TextYAlignment = Enum.TextYAlignment.Center
+                })  Items["UnMinimizeIcon"]:AddToTheme({TextColor3 = "Image"})
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["MainFrame"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Items["Content"] = Instances:Create("Frame", {
+                    Parent = Items["MainFrame"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0, 35),
+                    Size = UDim2New(1, 0, 1, -35),
+                    ClipsDescendants = true,
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Items["Search"] = Instances:Create("Frame", {
+                    Parent = Items["Content"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(0, 250, 0, 32),
+                    Position = UDim2New(0, 8, 0, 8),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                })  Items["Search"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("UIStroke", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Items["SearchIcon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    ScaleType = Enum.ScaleType.Fit,
+                    ImageTransparency = 0.5,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 20, 0, 20),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Image = "rbxassetid://71924825350727",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 8, 0.5, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["SearchIcon"]:AddToTheme({ImageColor3 = "Image"})
+
+                Items["Input"] = Instances:Create("TextBox", {
+                    Parent = Items["Search"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    PlaceholderColor3 = FromRGB(185, 185, 185),
+                    PlaceholderText = "search",
+                    TextSize = 14,
+                    Size = UDim2New(1, -45, 0, 15),
+                    ClipsDescendants = true,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    ZIndex = 2,
+                    Position = UDim2New(0, 35, 0.5, -2),
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    ClearTextOnFocus = false,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Input"]:AddToTheme({TextColor3 = "Text", PlaceholderColor3 = "Inactive Text"})
+
+                if IsMobile then 
+                    Items["FloatingButton"] = Instances:Create("TextButton", {
+                        Parent = Library.Holder.Instance,
+                        Text = "",
+                        AutoButtonColor = false,
+                        Name = "\0",
+                        Position = UDim2New(0, 125, 0, 125),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Size = UDim2New(0, 50, 0, 50),
+                        BorderSizePixel = 0,
+                        ZIndex = 127,
+                        BackgroundColor3 = Library.Theme.Background
+                    })  Items["FloatingButton"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                    Items["FloatingButton"]:MakeDraggable()
+
+                    Instances:Create("ImageLabel", {
+                        Parent = Items["FloatingButton"].Instance,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Name = "\0",
+                        Image = "rbxassetid://" .. Window.Logo,
+                        BackgroundTransparency = 1,
+                        AnchorPoint = Vector2New(0.5, 0.5),
+                        Position = UDim2New(0.5, 0, 0.5, 0),
+                        ZIndex = 127,
+                        Size = UDim2New(1, -25, 1, -25),
+                        Size = UDim2New(1, -20, 1, -20),
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })
+
+                    Instances:Create("UICorner", {
+                        Parent = Items["FloatingButton"].Instance,
+                        CornerRadius = UDimNew(1, 0)
+                    })
+
+                    Instances:Create("UIStroke", {
+                        Parent = Items["FloatingButton"].Instance,
+                        Color = Library.Theme and Library.Theme.Accent or FromRGB(80, 120, 255),
+                        Thickness = 1.5
+                    }):AddToTheme({Color = "Accent"})
+
+                    local TouchStartPos = nil
+                    local TouchStartTime = 0
+
+                    Items["FloatingButton"]:Connect("InputBegan", function(Input)
+                        if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+                            TouchStartPos = Input.Position
+                            TouchStartTime = os.clock()
+                        end
+                    end)
+
+                    Library:Connect(UserInputService.InputEnded, function(Input)
+                        if (Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch) and TouchStartPos then
+                            local DragDistance = (Input.Position - TouchStartPos).Magnitude
+                            local DragTime = os.clock() - TouchStartTime
+                            TouchStartPos = nil
+                            if DragDistance < 12 and DragTime < 0.5 then
+                                Window:SetOpen(not Window.IsOpen)
+                            end
+                        end
+                    end)
+                end
+
+                UserInputService.MouseIconEnabled = true
+            end
+
+            local Debounce = false 
+            local OldSizes = { }
+
+            function Window:AddToOldSizes(Item, Size)
+                if not OldSizes[Item] then
+                    OldSizes[Item] = Size
+                end
+            end
+
+            function Window:GetOldSize(Item)
+                if OldSizes[Item] then
+                    return OldSizes[Item]
+                end
+            end
+
+            function Window:SetOpen(Bool)
+                if Debounce then 
+                    return 
+                end
+
+                Window.IsOpen = Bool
+
+                -- Closing the window must also close any open popups (colorpickers,
+                -- dropdowns and their rainbow/breathing sub-settings). These live in
+                -- Library.Holder, not under MainFrame, so the fade below never touches
+                -- them. Run this before the descendant handling so it fires on BOTH the
+                -- fast (>600 descendants) path and the normal fade path.
+                if not Bool then
+                    for Index, Value in Library.OpenFrames do
+                        pcall(function()
+                            Value:SetOpen(false)
+                        end)
+                    end
+                end
+
+                if Bool then
+                    Items["MainFrame"].Instance.Visible = true
+                end
+
+                local Descendants = Items["MainFrame"].Instance:GetDescendants()
+                TableInsert(Descendants, Items["MainFrame"].Instance)
+
+                -- Big menus (the cosmetics tab alone adds hundreds of preview
+                -- frames + viewports) would spawn thousands of fade tweens in a
+                -- single frame -> the lag spike on the minimize/menu keybind.
+                -- Past the cap, just flip visibility instantly (no fade).
+                if #Descendants > 600 then
+                    Items["MainFrame"].Instance.Visible = Bool
+                    UserInputService.MouseIconEnabled = true
+                    return
+                end
+
+                Debounce = true
+
+                local NewTween
+
+                for Index, Value in Descendants do 
+                    local TransparencyProperty = Tween:GetProperty(Value)
+
+                    if not TransparencyProperty then 
+                        continue
+                    end
+
+                    if type(TransparencyProperty) == "table" then 
+                        for _, Property in TransparencyProperty do 
+                            NewTween = Tween:FadeItem(Value, Property, Bool, Window.FadeSpeed)
+                        end
+                    else
+                        NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Window.FadeSpeed)
+                    end
+                end
+
+                if NewTween then
+                    NewTween.Tween.Completed:Once(function()
+                        Debounce = false
+                        Items["MainFrame"].Instance.Visible = Bool
+
+                        UserInputService.MouseIconEnabled = true
+                    end)
+                else
+                    Debounce = false
+                    Items["MainFrame"].Instance.Visible = Bool
+                    UserInputService.MouseIconEnabled = true
+                end
+            end
+
+            function Window:SetText(Text)
+                Items["Title"].Instance.Text = Text
+            end
+
+            Library:Connect(UserInputService.InputBegan, function(Input, GameProcessedEvent)
+                if GameProcessedEvent then 
+                    return 
+                end
+
+                if tostring(Input.KeyCode) == Library.MenuKeybind
+                or tostring(Input.UserInputType) == Library.MenuKeybind then
+                    -- Respect the menu keybind's "use keybind" cog toggle: if that
+                    -- keybind has been disabled, the hotkey must not open/close the
+                    -- menu. This handler matches Library.MenuKeybind directly rather
+                    -- than going through Keybind:Press, so it has to check Enabled itself.
+                    local MenuKey = getgenv().Options and getgenv().Options.MenuKeybind
+                    if MenuKey and MenuKey.Enabled == false then
+                        return
+                    end
+                    Window:SetOpen(not Window.IsOpen)
+                end
+            end)
+
+            local RenderStepped
+
+            Items["Input"]:Connect("Focused", function()
+                local PageSearchData = Library.SearchItems[Library.CurrentPage]
+
+                if not PageSearchData then
+                    return 
+                end
+
+                RenderStepped = RunService.RenderStepped:Connect(function()
+                    for Index, Value in PageSearchData do 
+                        local Name = Value.Name
+                        local Element = Value.Item
+
+                        if StringFind(StringLower(Name), StringLower(Items["Input"].Instance.Text)) then
+                            if Items["Input"].Instance.Text ~= "" then 
+                                Element.Instance.Visible  = true 
+                                Element:Tween(nil, {Size = Window:GetOldSize(Element)})
+                            else
+                                Element.Instance.Visible  = true 
+                                Element:Tween(nil, {Size = Window:GetOldSize(Element)})
+                            end
+                        else
+                            Window:AddToOldSizes(Element, Element.Instance.Size)
+                            Element:Tween(nil, {Size = UDim2New(Window:GetOldSize(Element).X.Scale, Window:GetOldSize(Element).X.Offset, 0, 0)})
+                            task.wait(0.1)
+                            Element.Instance.Visible = false
+                        end
+                    end
+                end)
+            end)
+
+            Items["Input"]:Connect("FocusLost", function()
+                if RenderStepped then 
+                    RenderStepped:Disconnect()
+                    RenderStepped = nil
+                end
+            end)
+            
+            local IsMinimized = false
+            local OldSize = Items["MainFrame"].Instance.AbsoluteSize
+
+            local function ToggleMinimized()
+                IsMinimized = not IsMinimized
+
+                if IsMinimized then
+                    OldSize = Items["MainFrame"].Instance.AbsoluteSize
+                    Items["MainFrame"]:Tween(nil, {Size = UDim2New(0, Items["MainFrame"].Instance.Size.X.Offset, 0, 35)})
+                    Items["MinimizeButton"].Instance.Active = false
+                    Items["UnMinimizeButton"].Instance.Active = true
+                    Items["UnMinimizeButton"].Instance.Visible = true
+                    Items["MinimizeButton"]:Tween(nil, {ImageTransparency = 1})
+                    Items["UnMinimizeButton"]:Tween(nil, {ImageTransparency = 0})
+                    Items["UnMinimizeIcon"]:Tween(nil, {TextTransparency = 0})
+                else
+                    Items["MainFrame"]:Tween(nil, {Size = UDim2New(0, Items["MainFrame"].Instance.Size.X.Offset, 0, OldSize.Y)})
+                    Items["MinimizeButton"].Instance.Active = true
+                    Items["UnMinimizeButton"].Instance.Active = false
+                    Items["MinimizeButton"]:Tween(nil, {ImageTransparency = 0})
+                    Items["UnMinimizeButton"]:Tween(nil, {ImageTransparency = 1})
+                    Items["UnMinimizeIcon"]:Tween(nil, {TextTransparency = 1})
+                    task.delay(Window.FadeSpeed, function()
+                        if not IsMinimized then
+                            Items["UnMinimizeButton"].Instance.Visible = false
+                        end
+                    end)
+                end
+            end
+
+            Items["MinimizeButton"]:Connect("MouseButton1Down", ToggleMinimized)
+            Items["UnMinimizeButton"]:Connect("MouseButton1Down", ToggleMinimized)
+
+            Items["CloseButton"]:Connect("MouseButton1Down", function()
+                Window:SetOpen(false)
+                task.wait(0.1)
+                Library:Unload()
+            end)
+
+            Window.Items = Items
+
+            Window:SetOpen(true)
+            return setmetatable(Window, self)
+        end
+
+        Library.Page = function(self, Data)
+            Data = Data or { }
+
+            local Page = {
+                Window = self,
+
+                Name = Data.Name or Data.name or "combat",
+                Icon = Data.Icon or Data.icon or "111178525804834",
+                Columns = Data.Columns or Data.columns or 2,
+                SubPages = Data.SubPages or Data.subpages or false,
+
+                Active = false,
+
+                Items = { },
+                ColumnsData =  { },
+
+                SubPagesStack = { }
+            }
+
+            Library.SearchItems[Page] = { }
+
+            local Items = { } do
+                Items["PageContent"] = Instances:Create("Frame", {
+                    Parent = Page.Window.Items["Content"].Instance,
+                    Name = "\0",
+                    Visible = false,
+                    BackgroundTransparency = 1,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, 0, 1, 0),
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Items["Columns"] = Instances:Create("Frame", {
+                    Parent = Items["PageContent"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 7, 0, 48),
+                    Size = UDim2New(1, -14, 1, -55),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["Columns"].Instance,
+                    Name = "\0",
+                    FillDirection = Enum.FillDirection.Horizontal,
+                    HorizontalFlex = Enum.UIFlexAlignment.Fill,
+                    Padding = UDimNew(0, 14),
+                    SortOrder = Enum.SortOrder.LayoutOrder,
+                    VerticalFlex = Enum.UIFlexAlignment.Fill
+                })
+
+                Items["Inactive"] = Instances:Create("TextButton", {
+                    Parent = Page.Window.Items["Holder"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(0, 0, 0, 32),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(23, 26, 30)
+                })  Items["Inactive"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Inactive"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(1, 0)
+                })
+
+                Items["Icon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Inactive"].Instance,
+                    Name = "\0",
+                    ImageTransparency = 0.5,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 22, 0, 22),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Image = "rbxassetid://"..Page.Icon,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 5, 0.5, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Icon"]:AddToTheme({ImageColor3 = "Image"})
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Inactive"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    Visible = false,
+                    Active = true,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    Size = UDim2New(0, 0, 0, 15),
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Page.Name,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 32, 0.5, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Inactive"].Instance,
+                    Name = "\0",
+                    PaddingRight = UDimNew(0, 7)
+                })
+
+                if not Page.SubPages then
+                    for Index = 1, Page.Columns do 
+                        local NewColumn = Instances:Create("ScrollingFrame", {
+                            Parent = Items["Columns"].Instance,
+                            Name = "\0",
+                            ScrollBarImageColor3 = FromRGB(0, 0, 0),
+                            Active = true,
+                            AutomaticCanvasSize = Enum.AutomaticSize.Y,
+                            ScrollBarThickness = 0,
+                            BorderColor3 = FromRGB(0, 0, 0),
+                            BackgroundTransparency = 1,
+                            Size = UDim2New(0, 100, 0, 100),
+                            BackgroundColor3 = FromRGB(255, 255, 255),
+                            ZIndex = 2,
+                            BorderSizePixel = 0,
+                            CanvasSize = UDim2New(0, 0, 0, 0)
+                        })
+
+                        Instances:Create("UIPadding", {
+                            Parent = NewColumn.Instance,
+                            Name = "\0",
+                            PaddingBottom = UDimNew(0, 8)
+                        })
+
+                        Instances:Create("UIListLayout", {
+                            Parent = NewColumn.Instance,
+                            Name = "\0",
+                            Padding = UDimNew(0, 14),
+                            SortOrder = Enum.SortOrder.LayoutOrder
+                        })
+                        
+                        Page.ColumnsData[Index] = NewColumn
+                    end
+                end
+
+                if Page.SubPages then 
+                    Items["Columns"].Instance.Size = UDim2New(1, -14, 1, -108)
+
+                    Items["SubPages"] = Instances:Create("Frame", {
+                        Parent = Items["PageContent"].Instance,
+                        Name = "\0",
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        AnchorPoint = Vector2New(0.5, 1),
+                        BorderSizePixel = 0,
+                        Position = UDim2New(0.5, 0, 1, -8),
+                        Size = UDim2New(0, 0, 0, 45),
+                        ZIndex = 2,
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        BackgroundColor3 = FromRGB(22, 25, 29)
+                    })  Items["SubPages"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                    Instances:Create("UICorner", {
+                        Parent = Items["SubPages"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(1, 0)
+                    })
+
+                    Items["Holder"] = Instances:Create("Frame", {
+                        Parent = Items["SubPages"].Instance,
+                        Name = "\0",
+                        BackgroundTransparency = 1,
+                        Size = UDim2New(0, 0, 1, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        BorderSizePixel = 0,
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })
+
+                    Instances:Create("UIPadding", {
+                        Parent = Items["Holder"].Instance,
+                        Name = "\0",
+                        PaddingRight = UDimNew(0, 8),
+                        PaddingLeft = UDimNew(0, 8)
+                    })
+
+                    Instances:Create("UIListLayout", {
+                        Parent = Items["Holder"].Instance,
+                        Name = "\0",
+                        VerticalAlignment = Enum.VerticalAlignment.Center,
+                        FillDirection = Enum.FillDirection.Horizontal,
+                        Padding = UDimNew(0, 5),
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    })
+                end
+
+                Items["Inactive"].Instance.Size = UDim2New(0, 25, 0, 32)
+            end
+
+            local Debounce = false
+
+            function Page:Switch(Bool)
+                -- No state change (e.g. re-hiding an already inactive page):
+                -- nothing to do. Previously EVERY page re-faded ALL of its
+                -- descendants on EVERY switch -> the tab-switch lag spike.
+                if Page.Active == Bool then
+                    return
+                end
+
+                -- NOTE: hide/show must NEVER be blocked -- blocking the hide
+                -- while a fade-in was still running let two pages stay open at
+                -- once when switching fast. Debounce now only skips starting a
+                -- second fade, not the visibility flip itself.
+                Page.Active = Bool
+                Items["PageContent"].Instance.Visible = Bool
+                Items["PageContent"].Instance.Parent = Bool and Page.Window.Items["Content"].Instance or Library.UnusedHolder.Instance
+
+                if Bool then
+                    Items["Text"].Instance.Visible = true
+                    Items["Inactive"]:Tween(nil, {BackgroundTransparency = 0, Size = UDim2New(0, Items["Text"].Instance.TextBounds.X + 38, 0, 32)})
+                    Items["Icon"]:ChangeItemTheme({ImageColor3 = "Accent"})
+                    Items["Icon"]:Tween(nil, {ImageColor3 = Library.Theme.Accent, ImageTransparency = 0})
+
+                    Library.CurrentPage = Page
+                else
+                    Items["Text"].Instance.Visible = false
+                    Items["Inactive"]:Tween(nil, {BackgroundTransparency = 1, Size = UDim2New(0, 25, 0, 32)})
+                    Items["Icon"]:ChangeItemTheme({ImageColor3 = "Image"})
+                    Items["Icon"]:Tween(nil, {ImageColor3 = Library.Theme.Image, ImageTransparency = 0.5})
+                    -- The content was just reparented into the disabled
+                    -- UnusedHolder ScreenGui: it is already invisible, so fading
+                    -- each of its descendants out was pure wasted work.
+                    return
+                end
+
+                -- A fade from a rapid previous open is still running: the page
+                -- is visible either way, just don't stack a second fade on top.
+                if Debounce then
+                    return
+                end
+
+                local Descendants = Items["PageContent"].Instance:GetDescendants()
+                TableInsert(Descendants, Items["PageContent"].Instance)
+
+                -- Big pages (hundreds of sections/previews) would spawn thousands
+                -- of tweens in a single frame; show those instantly instead.
+                if #Descendants > 600 then
+                    return
+                end
+
+                Debounce = true
+
+                local NewTween
+
+                for Index, Value in Descendants do
+                    local TransparencyProperty = Tween:GetProperty(Value)
+
+                    if not TransparencyProperty then
+                        continue
+                    end
+
+                    if type(TransparencyProperty) == "table" then
+                        for _, Property in TransparencyProperty do
+                            NewTween = Tween:FadeItem(Value, Property, Bool, Page.Window.FadeSpeed)
+                        end
+                    else
+                        NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Page.Window.FadeSpeed)
+                    end
+                end
+
+                if NewTween then
+                    NewTween.Tween.Completed:Once(function()
+                        Debounce = false
+                    end)
+                else
+                    Debounce = false
+                end
+            end
+
+            Items["Inactive"]:Connect("MouseButton1Down", function()
+                for Index, Value in Library.OpenFrames do 
+                    Value:SetOpen(false)
+                end
+
+                for Index, Value in Page.Window.Pages do
+                    Value:Switch(Value == Page)
+                end
+            end)
+
+            if #Page.Window.Pages == 0 then 
+                Page:Switch(true)
+            end
+
+            Page.Items = Items
+            TableInsert(Page.Window.Pages, Page)
+            return setmetatable(Page, Library.Pages)
+        end
+
+        Library.Pages.SubPage = function(self, Data)
+            Data = Data or { }
+
+            local SubPage = {
+                Window = self.Window,
+                Page = self,
+
+                Name = Data.Name or Data.name or "SubPage",
+                Icon = Data.Icon or Data.icon or "9080568477801",
+                Columns = Data.Columns or Data.columns or 2,
+                
+                Items = { },
+                ColumnsData = { }
+            }
+
+            Library.SearchItems[SubPage] = { }
+
+            local Items = { } do
+                Items["PageContent"] = Instances:Create("Frame", {
+                    Parent = SubPage.Page.Items["Columns"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 2,
+                    Size = UDim2New(1, 0, 1, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    Visible = false,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["PageContent"].Instance,
+                    Name = "\0",
+                    FillDirection = Enum.FillDirection.Horizontal,
+                    HorizontalFlex = Enum.UIFlexAlignment.Fill,
+                    Padding = UDimNew(0, 14),
+                    SortOrder = Enum.SortOrder.LayoutOrder,
+                    VerticalFlex = Enum.UIFlexAlignment.Fill
+                })
+
+                Items["Inactive"] = Instances:Create("TextButton", {
+                    Parent = SubPage.Page.Items["Holder"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(0, 0, 0, 32),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["Inactive"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Inactive"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(1, 0)
+                })
+
+                Items["Icon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Inactive"].Instance,
+                    Name = "\0",
+                    ImageTransparency = 0.5,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 22, 0, 22),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Image = "rbxassetid://"..SubPage.Icon,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 5, 0.5, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Icon"]:AddToTheme({ImageColor3 = "Image"})
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Inactive"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    Visible = false,
+                    Active = true,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    Size = UDim2New(0, 0, 0, 15),
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = SubPage.Name,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 32, 0.5, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Inactive"].Instance,
+                    Name = "\0",
+                    PaddingRight = UDimNew(0, 7)
+                })
+
+                for Index = 1, SubPage.Columns do 
+                    local NewColumn = Instances:Create("ScrollingFrame", {
+                        Parent = Items["PageContent"].Instance,
+                        Name = "\0",
+                        ScrollBarImageColor3 = FromRGB(0, 0, 0),
+                        Active = true,
+                        AutomaticCanvasSize = Enum.AutomaticSize.Y,
+                        ScrollBarThickness = 0,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        BackgroundTransparency = 1,
+                        Size = UDim2New(0, 100, 0, 100),
+                        BackgroundColor3 = FromRGB(255, 255, 255),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        CanvasSize = UDim2New(0, 0, 0, 0)
+                    })
+
+                    Instances:Create("UIPadding", {
+                        Parent = NewColumn.Instance,
+                        Name = "\0",
+                        PaddingBottom = UDimNew(0, 8)
+                    })
+
+                    Instances:Create("UIListLayout", {
+                        Parent = NewColumn.Instance,
+                        Name = "\0",
+                        Padding = UDimNew(0, 14),
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    })
+                    
+                    SubPage.ColumnsData[Index] = NewColumn
+                end
+            end
+
+            local Debounce = false
+
+            function SubPage:Switch(Bool)
+                -- Skip no-op switches (re-hiding inactive subpages). This alone
+                -- removes most of the fade work a subpage click used to do.
+                if SubPage.Active == Bool then
+                    return
+                end
+
+                -- Never block the visibility flip itself -- blocking the hide
+                -- while a fade-in was running let two subpages stay open at
+                -- once when switching fast. Debounce only guards the fade.
+                SubPage.Active = Bool
+                Items["PageContent"].Instance.Visible = Bool
+                Items["PageContent"].Instance.Parent = Bool and SubPage.Page.Items["Columns"].Instance or Library.UnusedHolder.Instance
+
+                if Bool then
+                    Items["Text"].Instance.Visible = true
+                    Items["Inactive"]:Tween(nil, {BackgroundTransparency = 0, Size = UDim2New(0, Items["Text"].Instance.TextBounds.X + 38, 0, 32)})
+                    Items["Icon"]:ChangeItemTheme({ImageColor3 = "Accent"})
+                    Items["Icon"]:Tween(nil, {ImageColor3 = Library.Theme.Accent, ImageTransparency = 0})
+
+                    Library.CurrentPage = SubPage
+                else
+                    Items["Text"].Instance.Visible = false
+                    Items["Inactive"]:Tween(nil, {BackgroundTransparency = 1, Size = UDim2New(0, 25, 0, 32)})
+                    Items["Icon"]:ChangeItemTheme({ImageColor3 = "Image"})
+                    Items["Icon"]:Tween(nil, {ImageColor3 = Library.Theme.Image, ImageTransparency = 0.5})
+                    -- Content just moved into the disabled UnusedHolder: already
+                    -- invisible, no need to fade every descendant out.
+                    return
+                end
+
+                -- A fade from a rapid previous open is still running: the page
+                -- is visible either way, just don't stack a second fade on top.
+                if Debounce then
+                    return
+                end
+
+                local Descendants = Items["PageContent"].Instance:GetDescendants()
+                TableInsert(Descendants, Items["PageContent"].Instance)
+
+                -- Huge subpages (e.g. cosmetics with hundreds of previews) would
+                -- create thousands of tweens in one frame; show them instantly.
+                if #Descendants > 600 then
+                    return
+                end
+
+                Debounce = true
+
+                local NewTween
+
+                for Index, Value in Descendants do
+                    local TransparencyProperty = Tween:GetProperty(Value)
+
+                    if not TransparencyProperty then
+                        continue
+                    end
+
+                    if type(TransparencyProperty) == "table" then
+                        for _, Property in TransparencyProperty do
+                            NewTween = Tween:FadeItem(Value, Property, Bool, SubPage.Window.FadeSpeed)
+                        end
+                    else
+                        NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, SubPage.Window.FadeSpeed)
+                    end
+                end
+
+                if NewTween then
+                    NewTween.Tween.Completed:Once(function()
+                        Debounce = false
+                    end)
+                else
+                    Debounce = false
+                end
+            end
+
+            Items["Inactive"]:Connect("MouseButton1Down", function()
+                for Index, Value in Library.OpenFrames do 
+                    Value:SetOpen(false)
+                end
+
+                for Index, Value in SubPage.Page.SubPagesStack do
+                    Value:Switch(Value == SubPage)
+                end
+            end)
+
+            if #SubPage.Page.SubPagesStack == 0 then 
+                SubPage:Switch(true)
+            end
+
+            SubPage.Items = Items
+            TableInsert(SubPage.Page.SubPagesStack, SubPage)
+            return setmetatable(SubPage, Library.Pages)
+        end
+
+        Library.Pages.Playerlist = function(self, Data)
+            local Playerlist = {
+                Window = self.Window,
+                Page = self,
+
+                CurrentPlayer = nil,
+
+                Players = { }
+            }
+
+            local Dropdown
+
+            local Items = { } do
+                Playerlist.Page.Items.Columns.Instance:FindFirstChildOfClass("UIListLayout"):Destroy()
+
+                Items["Playerlist"] = Instances:Create("Frame", {
+                    Parent = Playerlist.Page.Items["PageContent"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, 0, 1, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                })  Items["Playerlist"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Playerlist"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["PlayerlistInline"] = Instances:Create("Frame", {
+                    Parent = Items["Playerlist"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, -16, 1, -90),
+                    Position = UDim2New(0, 8, 0, 8),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["PlayerlistInline"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["PlayerlistInline"].Instance,
+                    Name = "\0",    
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["PlayerHolder"] = Instances:Create("ScrollingFrame", {
+                    Parent = Items["PlayerlistInline"].Instance,
+                    Name = "\0",
+                    Active = true,
+                    AutomaticCanvasSize = Enum.AutomaticSize.Y,
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    CanvasSize = UDim2New(0, 0, 0, 0),
+                    ScrollBarImageColor3 = FromRGB(32, 36, 42),
+                    MidImage = "rbxassetid://107505658214891",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ScrollBarThickness = 2,
+                    Size = UDim2New(1, -8, 1, 0),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 4, 0, 4),
+                    BottomImage = "rbxassetid://107505658214891",
+                    TopImage = "rbxassetid://107505658214891",
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["PlayerHolder"]:AddToTheme({ScrollBarImageColor3 = "Border"})
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["PlayerHolder"].Instance,
+                    Name = "\0",
+                    Padding = UDimNew(0, 4),
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["PlayerHolder"].Instance,
+                    Name = "\0",
+                    PaddingTop = UDimNew(0, 4),
+                    PaddingBottom = UDimNew(0, 8),
+                    PaddingRight = UDimNew(0, 8),
+                    PaddingLeft = UDimNew(0, 4)
+                })
+
+                Items["PlayerAvatar"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Playerlist"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 50, 0, 50),
+                    AnchorPoint = Vector2New(0, 1),
+                    Image = "rbxasset://textures/ui/GuiImagePlaceholder.png",
+                    Position = UDim2New(0, 8, 1, -15),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  Items["PlayerAvatar"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["PlayerAvatar"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["PlayerUsername"] = Instances:Create("TextLabel", {
+                    Parent = Items["Playerlist"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "?",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Size = UDim2New(0, 0, 0, 15),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 65, 1, -65),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["PlayerUsername"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["PlayerUserID"] = Instances:Create("TextLabel", {
+                    Parent = Items["Playerlist"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "?",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Size = UDim2New(0, 0, 0, 15),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 65, 1, -50),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["PlayerUserID"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["PlayerAccountAge"] = Instances:Create("TextLabel", {
+                    Parent = Items["Playerlist"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "?",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Size = UDim2New(0, 0, 0, 15),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 65, 1, -35),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["PlayerAccountAge"]:AddToTheme({TextColor3 = "Text"})
+            end
+
+            do
+                local DropdownItems = { } do
+                    DropdownItems["Dropdown"] = Instances:Create("Frame", {
+                        Parent = Items["Playerlist"].Instance,
+                        Name = "\0",
+                        BackgroundTransparency = 1,
+                        AnchorPoint = Vector2New(1, 1),
+                        Size = UDim2New(0, 235, 0, 47),
+                        Position = UDim2New(1, -8, 1, -20),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })
+
+                    DropdownItems["Text"] = Instances:Create("TextLabel", {
+                        Parent = DropdownItems["Dropdown"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "Status",
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        BackgroundTransparency = 1,
+                        Size = UDim2New(0, 0, 0, 15),
+                        BorderSizePixel = 0,
+                        ZIndex = 2,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                    DropdownItems["RealDropdown"] = Instances:Create("TextButton", {
+                        Parent = DropdownItems["Dropdown"].Instance,
+                        Text = "", 
+                        AutoButtonColor = false,
+                        Name = "\0",
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        AnchorPoint = Vector2New(0, 1),
+                        Position = UDim2New(0, 0, 1, 0),
+                        Size = UDim2New(1, 0, 0, 25),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(34, 39, 45)
+                    })  DropdownItems["RealDropdown"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                    Instances:Create("UIGradient", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        Rotation = 84,
+                        Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                    }):AddToTheme({Color = function()
+                        return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                    end})
+
+                    Instances:Create("UICorner", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 4)
+                    })
+
+                    DropdownItems["Value"] = Instances:Create("TextLabel", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "--",
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        Size = UDim2New(0, 0, 0, 15),
+                        AnchorPoint = Vector2New(0, 0.5),
+                        Position = UDim2New(0, 8, 0.5, 0),
+                        BackgroundTransparency = 1,
+                        TextTruncate = Enum.TextTruncate.AtEnd,
+                        BorderSizePixel = 0,
+                        ZIndex = 2,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["Value"]:AddToTheme({TextColor3 = "Text"})
+
+                    DropdownItems["OpenIcon"] = Instances:Create("ImageLabel", {
+                        Parent = DropdownItems["RealDropdown"].Instance,
+                        Name = "\0",
+                        ImageColor3 = FromRGB(196, 231, 255),
+                        ScaleType = Enum.ScaleType.Fit,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Size = UDim2New(0, 20, 0, 20),
+                        AnchorPoint = Vector2New(1, 0.5),
+                        Image = "rbxassetid://114252321536924",
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(1, -3, 0.5, 0),
+                        ZIndex = 2,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  DropdownItems["OpenIcon"]:AddToTheme({ImageColor3 = "Accent"})
+
+                    DropdownItems["OptionHolder"] = Instances:Create("TextButton", {
+                        Parent = Library.Holder.Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(0, 0, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "",
+                        Visible = false,
+                        AutoButtonColor = false,
+                        Size = UDim2New(1, 0, 0, 50),
+                        AutomaticSize = Enum.AutomaticSize.Y,
+                        Position = UDim2New(0, 0, 1, 5),
+                        BorderSizePixel = 0,
+                        ZIndex = 5,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(22, 25, 29)
+                    })  DropdownItems["OptionHolder"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                    Instances:Create("UIGradient", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Rotation = 84,
+                        Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                    }):AddToTheme({Color = function()
+                        return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                    end})
+
+                    Instances:Create("UIStroke", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Color = FromRGB(32, 36, 42),
+                        Transparency = 0.4000000059604645,
+                        ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                    }):AddToTheme({Color = "Border"})
+
+                    Instances:Create("UICorner", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 5)
+                    })
+
+                    Instances:Create("UIListLayout", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        Padding = UDimNew(0, 2),
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    })
+
+                    Instances:Create("UIPadding", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        PaddingTop = UDimNew(0, 8),
+                        PaddingBottom = UDimNew(0, 8),
+                        PaddingRight = UDimNew(0, 8),
+                        PaddingLeft = UDimNew(0, 8)
+                    })
+
+                    DropdownItems["RealDropdown"]:OnHover(function()
+                        DropdownItems["RealDropdown"]:Tween(nil, {BackgroundColor3 = Library:GetLighterColor(Library.Theme.Element, 1.45)})
+                    end)
+        
+                    DropdownItems["RealDropdown"]:OnHoverLeave(function()
+                        DropdownItems["RealDropdown"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                    end)
+                end
+
+                Dropdown = { 
+                    IsOpen = false,
+                    Value = { },
+                    Options = { },
+                    Multi = false
+                }
+
+                function Dropdown:AddOption(Option)
+                    local OptionButton = Instances:Create("TextButton", {
+                        Parent = DropdownItems["OptionHolder"].Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextColor3 = FromRGB(0, 0, 0),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = "",
+                        AutoButtonColor = false,
+                        BackgroundTransparency = 1,
+                        BorderSizePixel = 0,
+                        Size = UDim2New(1, 0, 0, 25),
+                        ZIndex = 5,
+                        TextSize = 14,
+                        BackgroundColor3 = FromRGB(16, 18, 21)
+                    })  OptionButton:AddToTheme({BackgroundColor3 = "Background"})
+
+                    local CheckImage = Instances:Create("ImageLabel", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        ImageColor3 = FromRGB(196, 231, 255),
+                        ScaleType = Enum.ScaleType.Fit,
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Size = UDim2New(0, 18, 0, 18),
+                        Visible = true,
+                        AnchorPoint = Vector2New(0, 0.5),
+                        Image = "rbxassetid://116339777575852",
+                        BackgroundTransparency = 1,
+                        Position = UDim2New(0, 3, 0.5, 0),
+                        ImageTransparency = 1,
+                        ZIndex = 5,
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  CheckImage:AddToTheme({ImageColor3 = "Accent"})
+
+                    Instances:Create("UICorner", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        CornerRadius = UDimNew(0, 5)
+                    })
+
+                    local OptionText = Instances:Create("TextLabel", {
+                        Parent = OptionButton.Instance,
+                        Name = "\0",
+                        FontFace = Library.Font,
+                        TextTransparency = 0.5,
+                        AnchorPoint = Vector2New(0, 0.5),
+                        ZIndex = 5,
+                        TextSize = 14,
+                        Size = UDim2New(0, 0, 0, 15),
+                        TextColor3 = FromRGB(255, 255, 255),
+                        BorderColor3 = FromRGB(0, 0, 0),
+                        Text = Option,
+                        BackgroundTransparency = 1,
+                        TextXAlignment = Enum.TextXAlignment.Left,
+                        AutomaticSize = Enum.AutomaticSize.X,
+                        Position = UDim2New(0, 7, 0.5, 0),
+                        BorderSizePixel = 0,
+                        BackgroundColor3 = FromRGB(255, 255, 255)
+                    })  OptionText:AddToTheme({TextColor3 = "Text"})
+
+                    local OptionData = {
+                        Selected = false,
+                        Name = Option,
+                        Text = OptionText,
+                        Button = OptionButton,
+                        Check = CheckImage
+                    }
+
+                    function OptionData:Toggle(Status)
+                        if Status == "Active" then 
+                            OptionData.Button:Tween(nil, {BackgroundTransparency = 0})
+                            OptionData.Text:Tween(nil, {TextTransparency = 0, Position = UDim2New(0, 27, 0.5, 0)})
+                            OptionData.Check:Tween(nil, {ImageTransparency = 0})
+                        elseif Status == "Inactive" then
+                            OptionData.Button:Tween(nil, {BackgroundTransparency = 1})
+                            OptionData.Text:Tween(nil, {TextTransparency = 0.5, Position = UDim2New(0, 7, 0.5, 0)})
+                            OptionData.Check:Tween(nil, {ImageTransparency = 1})
+                        end
+                    end
+
+                    function OptionData:Set()
+                        OptionData.Selected = not OptionData.Selected
+
+                        if Dropdown.Multi then 
+                            local Index = TableFind(Dropdown.Value, OptionData.Name)
+
+                            if Index then 
+                                TableRemove(Dropdown.Value, Index)
+                            else
+                                TableInsert(Dropdown.Value, OptionData.Name)
+                            end
+
+                            OptionData:Toggle(Index and "Inactive" or "Active")
+
+                            local TextFormat = #Dropdown.Value > 0 and TableConcat(Dropdown.Value, ", ") or "--"
+
+                            DropdownItems["Value"].Instance.Text = TextFormat
+                        else
+                            if OptionData.Selected then 
+                                Dropdown.Value = OptionData.Name
+
+                                OptionData:Toggle("Active")
+
+                                for Index, Value in Dropdown.Options do 
+                                    if Value ~= OptionData then
+                                        Value.Selected = false 
+                                        Value:Toggle("Inactive")
+                                    end
+                                end
+
+                                DropdownItems["Value"].Instance.Text = OptionData.Name 
+                            else
+                                Dropdown.Value = nil
+
+                                OptionData:Toggle("Inactive")
+                                DropdownItems["Value"].Instance.Text = "--"
+                            end
+                        end
+
+                        if Dropdown.Callback then 
+                            Library:SafeCall(Dropdown.Callback, Dropdown.Value)
+                        end
+                    end
+
+                    OptionData.Button:Connect("MouseButton1Down", function()
+                        OptionData:Set()
+                    end)
+
+                    Dropdown.Options[Option] = OptionData
+                    return OptionData
+                end
+
+                local Debounce = false 
+                local RenderStepped
+
+                function Dropdown:SetOpen(Bool)
+                    if Debounce then 
+                        return 
+                    end
+
+                    Dropdown.IsOpen = Bool
+
+                    Debounce = true
+
+                    if Bool then 
+                        DropdownItems["OptionHolder"].Instance.Visible = true
+
+                        RenderStepped = RunService.RenderStepped:Connect(function()
+                            DropdownItems["OptionHolder"].Instance.Position = UDim2New(0, DropdownItems["RealDropdown"].Instance.AbsolutePosition.X, 0,  DropdownItems["RealDropdown"].Instance.AbsolutePosition.Y + DropdownItems["RealDropdown"].Instance.AbsoluteSize.Y + 5)
+                            DropdownItems["OptionHolder"].Instance.Size = UDim2New(0, DropdownItems["RealDropdown"].Instance.AbsoluteSize.X, 0, 85)
+                        end)
+                    else
+                        if RenderStepped then
+                            RenderStepped:Disconnect()
+                            RenderStepped = nil
+                        end
+                    end
+
+                    local Descendants = DropdownItems["OptionHolder"].Instance:GetDescendants()
+                    TableInsert(Descendants, DropdownItems["OptionHolder"].Instance)
+
+                    local NewTween
+
+                    for Index, Value in Descendants do 
+                        local TransparencyProperty = Tween:GetProperty(Value)
+
+                        if not TransparencyProperty then 
+                            continue
+                        end
+
+                        if StringFind(Value.ClassName, "UI") then
+                            continue
+                        end
+
+                        Value.ZIndex = Bool and 10 or 0
+
+                        if type(TransparencyProperty) == "table" then 
+                            for _, Property in TransparencyProperty do 
+                                NewTween = Tween:FadeItem(Value, Property, Bool, Playerlist.Window.FadeSpeed)
+                            end
+                        else
+                            NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Playerlist.Window.FadeSpeed)
+                        end
+                    end
+
+                    NewTween.Tween.Completed:Once(function()
+                        Debounce = false
+                        DropdownItems["OptionHolder"].Instance.Visible = Bool
+                    end)
+                end
+
+                function Dropdown:Set(Option)
+                    if Dropdown.Multi then
+                        if type(Option) ~= "table" then
+                            return
+                        end
+
+                        Dropdown.Value = Option
+                        Library.Flags[Dropdown.Flag] = Option
+
+                        for Index, Value in Option do 
+                            local OptionData = Dropdown.Options[Value]
+                                
+                            if not OptionData then 
+                                return
+                            end
+
+                            OptionData.Selected = true
+                            OptionData:Toggle("Active")
+                        end
+
+                        DropdownItems["Value"].Instance.Text = TableConcat(Option, ", ")
+                    else
+                        if not Dropdown.Options[Option] then 
+                            return
+                        end
+
+                        local OptionData = Dropdown.Options[Option]
+
+                        Dropdown.Value = OptionData.Name
+                        Library.Flags[Dropdown.Flag] = OptionData.Name
+
+                        for Index, Value in Dropdown.Options do 
+                            if Value ~= OptionData then
+                                Value.Selected = false 
+                                Value:Toggle("Inactive")
+                            else
+                                Value.Selected = true 
+                                Value:Toggle("Active")
+                            end
+                        end
+
+                        DropdownItems["Value"].Instance.Text = OptionData.Name
+                    end
+
+                    if Dropdown.Callback then 
+                        Library:SafeCall(Dropdown.Callback, Dropdown.Value)
+                    end
+                end
+
+                DropdownItems["RealDropdown"]:Connect("MouseButton1Down", function()
+                    Dropdown:SetOpen(not Dropdown.IsOpen)
+                end)
+
+                Dropdown:AddOption("Neutral")
+                Dropdown:AddOption("Priority")
+                Dropdown:AddOption("Friendly")
+            end
+
+            function Playerlist:Add(Player)
+                local PlayerItems = { }
+
+                PlayerItems["NewPlayer"] = Instances:Create("TextButton", {
+                    Parent = Items["PlayerHolder"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    BackgroundTransparency = 1,
+                    ZIndex = 2,
+                    Size = UDim2New(1, 0, 0, 25),
+                    BorderSizePixel = 0,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(22, 25, 24)
+                })  PlayerItems["NewPlayer"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UICorner", {
+                    Parent = PlayerItems["NewPlayer"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 6)
+                })
+
+                PlayerItems["Name"] = Instances:Create("TextLabel", {
+                    Parent = PlayerItems["NewPlayer"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.4000000059604645,
+                                        ZIndex = 2,
+                    Text = Player.Name,
+                    Size = UDim2New(0.3499999940395355, 0, 0, 15),
+                    Position = UDim2New(0, 10, 0.5, 0),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                PlayerItems["Status"] = Instances:Create("TextLabel", {
+                    Parent = PlayerItems["NewPlayer"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                                        ZIndex = 2,
+                    TextTransparency = 0.4000000059604645,
+                    Text = "Neutral",
+                    Size = UDim2New(0.3499999940395355, 0, 0, 15),
+                    Position = UDim2New(0.699999988079071, 10, 0.5, 0),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                local Team = Player.Team ~= nil and Player.Team.Name or "None"
+                local TeamColor = Player.TeamColor ~= nil and Player.TeamColor.Color or Color3.new(1, 1, 1)
+
+                PlayerItems["Team"] = Instances:Create("TextLabel", {
+                    Parent = PlayerItems["NewPlayer"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = TeamColor,
+                    TextTransparency = 0.4000000059604645,
+                    Text = Team,
+                    Size = UDim2New(0.3499999940395355, 0, 0, 15),
+                    Position = UDim2New(0.3499999940395355, 10, 0.5, 0),
+                                        ZIndex = 2,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                if Player == LocalPlayer then
+                    PlayerItems["Status"].Instance.TextColor3 = Library.Theme.Accent
+                    PlayerItems["Status"].Instance.Text = "LocalPlayer"
+                    PlayerItems["Status"]:AddToTheme({TextColor3 = "Accent"})
+                end
+
+                local PlayerData = {
+                    Name = Player.Name,
+                    Selected = false,
+                    PlayerButton = PlayerItems["NewPlayer"],
+                    PlayerName = PlayerItems["Name"],
+                    PlayerTeam = PlayerItems["Team"],
+                    PlayerStatus = PlayerItems["Status"],
+                    Player = Player
+                }
+
+                function PlayerData:Toggle(Status)
+                    if Status == "Active" then
+                        PlayerItems["Name"]:Tween(nil, {TextTransparency = 0})
+                        PlayerItems["Status"]:Tween(nil, {TextTransparency = 0})
+                        PlayerItems["Team"]:Tween(nil, {TextTransparency = 0})
+                        PlayerItems["NewPlayer"]:Tween(nil, {BackgroundTransparency = 0})
+                    else
+                        PlayerItems["Name"]:Tween(nil, {TextTransparency = 0.4})
+                        PlayerItems["Status"]:Tween(nil, {TextTransparency = 0.4})
+                        PlayerItems["Team"]:Tween(nil, {TextTransparency = 0.4})
+                        PlayerItems["NewPlayer"]:Tween(nil, {BackgroundTransparency = 1})
+                    end
+                end
+
+                function PlayerData:Set()
+                    PlayerData.Selected = not PlayerData.Selected
+
+                    if PlayerData.Selected then
+                        Playerlist.Player = PlayerData.Player
+
+                        for Index, Value in Playerlist.Players do 
+                            Value.Selected = false
+                            Value:Toggle("Inactive")
+                        end
+
+                        PlayerData:Toggle("Active")
+
+                        local PlayerAvatar = Players:GetUserThumbnailAsync(Playerlist.Player.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420)
+                        Items["PlayerAvatar"].Instance.Image = PlayerAvatar
+                        Items["PlayerUsername"].Instance.Text = Playerlist.Player.DisplayName .. " (@" .. Playerlist.Player.Name .. ")"
+                        Items["PlayerUserID"].Instance.Text = tostring(Playerlist.Player.UserId)
+                        Items["PlayerAccountAge"].Instance.Text = tostring(Playerlist.Player.AccountAge) .. " days old"
+                    else
+                        --print("this shit rigged")
+                        Playerlist.Player = nil
+                        PlayerData:Toggle("Inactive")
+                        Items["PlayerAvatar"].Instance.Image = "rbxassetid://98200387761744"
+                        Items["PlayerUsername"].Instance.Text = "None"
+                        Items["PlayerUserID"].Instance.Text = "None"
+                        Items["PlayerAccountAge"].Instance.Text = "None"
+                    end
+
+                    if Data.Callback then 
+                        Library:SafeCall(Data.Callback, Playerlist.Player, PlayerData.PlayerStatus.Instance.Text, PlayerData.PlayerTeam.Instance.Text)
+                    end
+                end
+
+                PlayerItems["NewPlayer"]:Connect("MouseButton1Down", function()
+                    PlayerData:Set()
+                end)
+
+                PlayerItems["NewPlayer"]:OnHover(function()
+                end)
+
+                Playerlist.Players[Player.Name] = PlayerData
+                return PlayerData
+            end
+
+            function Playerlist:Remove(Name)
+                if Playerlist.Players[Name] then
+                    Playerlist.Players[Name].PlayerButton:Clean()
+                end
+                
+                Playerlist.Players[Name] = nil
+            end
+
+            Dropdown.Callback = function(Value) -- horrible code ik
+                if Playerlist.Player then
+                    if Playerlist.Player == LocalPlayer then
+                        return
+                    end
+
+                    if Value == "Neutral" then
+                        Playerlist.Players[Playerlist.Player.Name].PlayerStatus:Tween(nil, {
+                            TextColor3 = Library.Theme["Inactive Text"]
+                        })
+
+                        Playerlist.Players[Playerlist.Player.Name].PlayerStatus.Instance.Text = "Neutral"
+                    elseif Value == "Priority" then
+                        Playerlist.Players[Playerlist.Player.Name].PlayerStatus:Tween(nil, {
+                            TextColor3 = FromRGB(255, 50, 50)
+                        })
+
+                        Playerlist.Players[Playerlist.Player.Name].PlayerStatus.Instance.Text = "Priority"
+                    elseif Value == "Friendly" then
+                        Playerlist.Players[Playerlist.Player.Name].PlayerStatus:Tween(nil, {
+                            TextColor3 = FromRGB(83, 255, 83)
+                        })
+
+                        Playerlist.Players[Playerlist.Player.Name].PlayerStatus.Instance.Text = "Friendly"
+                    else
+                        Playerlist.Players[Playerlist.Player.Name].PlayerStatus:Tween(nil, {
+                            TextColor3 = Library.Theme["Inactive Text"]
+                        })
+
+                        Playerlist.Players[Playerlist.Player.Name].PlayerStatus.Instance.Text = "Neutral"
+                    end
+                end
+            end
+
+            for Index, Value in Players:GetPlayers() do 
+                Playerlist:Add(Value)
+            end
+
+            Library:Connect(Players.PlayerRemoving, function(Player)
+                if Playerlist.Players[Player.Name] then 
+                    Playerlist:Remove(Player.Name)
+                end
+            end)
+
+            Library:Connect(Players.PlayerAdded, function(Player)
+                Playerlist:Add(Player)
+            end)
+
+            return Playerlist
+        end
+
+        Library.Pages.TabSystem = function(self, TabsData)
+            local TabSystem = {
+                Window = self.Window,
+                Page = self,
+                Tabs = {},
+                Items = {}
+            }
+
+            local Items = {} do
+                Items["TabHolder"] = Instances:Create("Frame", {
+                    Parent = self.ColumnsData[1].Instance,
+                    Name = "\0",
+                    BorderSizePixel = 0,
+                    Size = UDim2New(1, 0, 0, 30),
+                    BackgroundColor3 = FromRGB(22, 25, 29),
+                    ZIndex = 2
+                })
+                Items["TabHolder"]:AddToTheme({BackgroundColor3 = "Inline"})
+                
+                Instances:Create("UICorner", {
+                    Parent = Items["TabHolder"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["TabHolder"].Instance,
+                    Name = "\0",
+                    FillDirection = Enum.FillDirection.Horizontal,
+                    SortOrder = Enum.SortOrder.LayoutOrder,
+                    Padding = UDimNew(0, 4)
+                })
+
+                Items["ContentContainer"] = Instances:Create("Frame", {
+                    Parent = self.ColumnsData[1].Instance,
+                    Name = "\0",
+                    BorderSizePixel = 0,
+                    Size = UDim2New(1, 0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.Y,
+                    BackgroundTransparency = 1,
+                    ZIndex = 2
+                })
+            end
+            
+            function TabSystem:GetTab(name)
+                return TabSystem.Tabs[name].Methods
+            end
+
+            function TabSystem:AddTab(name)
+                local Tab = {}
+                
+                local TabButton = Instances:Create("TextButton", {
+                    Parent = Items["TabHolder"].Instance,
+                    Name = "\0",
+                    Text = name,
+                    FontFace = Library.Font,
+                    TextSize = 14,
+                    TextColor3 = FromRGB(120, 120, 120),
+                    Size = UDim2New(0, 0, 1, 0),
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(16, 18, 21),
+                    BorderSizePixel = 0,
+                    ZIndex = 2
+                })
+
+                Instances:Create("UIFlexItem", {
+                    Parent = TabButton.Instance,
+                    Name = "\0",
+                    FlexMode = Enum.UIFlexMode.Fill
+                })
+                
+                Instances:Create("UICorner", {
+                    Parent = TabButton.Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+                
+                Instances:Create("UIPadding", {
+                    Parent = TabButton.Instance,
+                    Name = "\0",
+                    PaddingLeft = UDimNew(0, 14),
+                    PaddingRight = UDimNew(0, 14)
+                })
+                
+                local TabContent = Instances:Create("Frame", {
+                    Parent = Items["ContentContainer"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, 0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.Y,
+                    BackgroundTransparency = 1,
+                    Visible = false,
+                    ZIndex = 2
+                })
+                Instances:Create("UIListLayout", {
+                    Parent = TabContent.Instance,
+                    Name = "\0",
+                    FillDirection = Enum.FillDirection.Horizontal,
+                    Padding = UDimNew(0, 14),
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+
+                local TabColumns = {}
+                for i = 1, 2 do
+                    TabColumns[i] = Instances:Create("Frame", {
+                        Parent = TabContent.Instance,
+                        Name = "\0",
+                        Size = UDim2New(0.5, -7, 0, 0),
+                        AutomaticSize = Enum.AutomaticSize.Y,
+                        BackgroundTransparency = 1,
+                        BorderSizePixel = 0,
+                        ZIndex = 2
+                    })
+                    Instances:Create("UIListLayout", {
+                        Parent = TabColumns[i].Instance,
+                        Name = "\0",
+                        Padding = UDimNew(0, 14),
+                        SortOrder = Enum.SortOrder.LayoutOrder
+                    })
+                end
+                
+                Tab.Button = TabButton
+                Tab.Content = TabContent
+                
+                Library:Connect(TabButton.Instance.MouseButton1Click, function()
+                    TabSystem:SelectTab(name)
+                end)
+                
+                local TabMethods = {}
+                function TabMethods:Section(Data)
+                    Data = Data or {}
+                    local MockSubPage = {
+                        Window = TabSystem.Window,
+                        Page = TabSystem.Page,
+                        Name = TabSystem.Page.Name,
+                        ColumnsData = TabColumns
+                    }
+                    Library.SearchItems[MockSubPage] = Library.SearchItems[TabSystem.Page]
+                    return Library.Pages.Section(MockSubPage, Data)
+                end
+                
+                Tab.Methods = TabMethods
+                TabSystem.Tabs[name] = Tab
+            end
+            
+            function TabSystem:SelectTab(name)
+                local previous = TabSystem.ActiveTab
+                TabSystem.ActiveTab = name
+                for tabName, tab in pairs(TabSystem.Tabs) do
+                    if tabName == name then
+                        tab.Content.Instance.Visible = true
+                        tab.Content.Instance.Parent = Items["ContentContainer"].Instance
+                        tab.Button.Instance.TextColor3 = FromRGB(255, 255, 255)
+                    else
+                        tab.Content.Instance.Visible = false
+                        tab.Content.Instance.Parent = Library.UnusedHolder.Instance
+                        tab.Button.Instance.TextColor3 = FromRGB(120, 120, 120)
+                    end
+                end
+                -- Notify listeners (e.g. lazy-loaded tab content) about the switch.
+                if TabSystem.OnTabChanged and previous ~= name then
+                    task.spawn(TabSystem.OnTabChanged, name, previous)
+                end
+            end
+            
+            for _, tName in pairs(TabsData) do
+                TabSystem:AddTab(tName)
+            end
+            
+            if #TabsData > 0 then
+                TabSystem:SelectTab(TabsData[1])
+            end
+            
+            TabSystem.Items = Items
+            return TabSystem
+        end
+
+        Library.Pages.Section = function(self, Data)
+            Data = Data or { }
+
+            local Section = {
+                Window = self.Window,
+                Page = self,
+
+                Name = Data.Name or Data.name or "Section",
+                Side = Data.Side or Data.side or 1,
+                Icon = Data.Icon or Data.icon or "9080568477801",
+
+                Items = { }
+            }
+
+            local Items = { } do
+                Items["Section"] = Instances:Create("Frame", {
+                    Parent = Section.Page.ColumnsData[Section.Side].Instance,
+                    Name = "\0",
+                    BorderSizePixel = 0,
+                    Size = UDim2New(1, 0, 0, 55),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    AutomaticSize = Enum.AutomaticSize.Y,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                })  Items["Section"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Section"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Items["Topbar"] = Instances:Create("Frame", {
+                    Parent = Items["Section"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, 0, 0, 35),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                })  Items["Topbar"]:AddToTheme({BackgroundColor3 = "Inline"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Instances:Create("Frame", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 3),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(22, 25, 29)
+                }):AddToTheme({BackgroundColor3 = "Inline"})
+
+                Items["Title"] = Instances:Create("TextLabel", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Section.Name,
+                    BorderSizePixel = 0,
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Size = UDim2New(1, -125, 0, 15),
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    Position = UDim2New(0, 8, 0.5, 0),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Title"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["Icon"] = Instances:Create("ImageLabel", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(196, 231, 255),
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(0, 18, 0, 18),
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Image = "rbxassetid://"..Section.Icon,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, -7, 0.5, -1),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Icon"]:AddToTheme({ImageColor3 = "Accent"})
+
+                Instances:Create("Frame", {
+                    Parent = Items["Topbar"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    BackgroundTransparency = 0.4000000059604645,
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 1),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(32, 36, 42)
+                }):AddToTheme({BackgroundColor3 = "Border"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Section"].Instance,
+                    Name = "\0",
+                    PaddingBottom = UDimNew(0, 8)
+                })
+
+                Items["Content"] = Instances:Create("Frame", {
+                    Parent = Items["Section"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 8, 0, 45),
+                    Size = UDim2New(1, -16, 0, 0),
+                    ZIndex = 2,
+                    AutomaticSize = Enum.AutomaticSize.Y,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["Content"].Instance,
+                    Name = "\0",
+                    Padding = UDimNew(0, 8),
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+
+            Section.Items = Items
+            return setmetatable(Section, Library.Sections)
+        end
+
+        -- Shared per-keybind settings cog + popup (rebind key + "use keybind" toggle).
+        -- Used by both Toggle:Keybind and Label:Keybind so every keybind gets a cog and
+        -- the legacy right-click keybind window is retired (via NewKeybind.HasCog = true).
+        --   NewKeybind : the keybind object returned by Components.Keybind
+        --   ParentRow  : Instances wrapper to parent the cog into (a SubElements row)
+        --   Flag       : unique flag string for the OpenFrames registration key
+        --   Window     : the window (used for FadeSpeed)
+        local function AttachKeybindSettings(NewKeybind, ParentRow, Flag, Window)
+            -- HasCog disables the legacy right-click keybind window for this bind.
+            NewKeybind.HasCog = true
+            local SettingsName = Flag .. "KeybindSettings"
+            local SettingsUseEnabled = true
+
+            local SettingsItems = { } do
+                -- Cog button lives in the row container so it lays out alongside any
+                -- colorpicker, consistent with existing rows.
+                SettingsItems["Cog"] = Instances:Create("ImageButton", {
+                    Parent = ParentRow.Instance,
+                    Name = "\0",
+                    ImageColor3 = FromRGB(196, 231, 255),
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AutoButtonColor = false,
+                    Size = UDim2New(0, 16, 0, 16),
+                    -- lucide "settings" gear icon. If a preferred cog asset already
+                    -- exists in-game, swap this id for it.
+                    Image = "rbxassetid://10734950309",
+                    BackgroundTransparency = 1,
+                    ImageTransparency = 0.4,
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  SettingsItems["Cog"]:AddToTheme({ImageColor3 = "Accent"})
+
+                SettingsItems["Window"] = Instances:Create("Frame", {
+                    Parent = Library.UnusedHolder.Instance,
+                    Name = "\0",
+                    Position = UDim2New(0, 0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Visible = false,
+                    Active = true,
+                    Size = UDim2New(0, 190, 0, 72),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    BackgroundColor3 = FromRGB(16, 18, 21)
+                })  SettingsItems["Window"]:AddToTheme({BackgroundColor3 = "Background"})
+
+                Instances:Create("UIStroke", {
+                    Parent = SettingsItems["Window"].Instance,
+                    Name = "\0",
+                    Color = FromRGB(32, 36, 42),
+                    Transparency = 0.4000000059604645,
+                    ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                }):AddToTheme({Color = "Border"})
+
+                Instances:Create("UICorner", {
+                    Parent = SettingsItems["Window"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 5)
+                })
+
+                -- Row 1: "use keybind" enable toggle
+                SettingsItems["UseToggle"] = Instances:Create("TextButton", {
+                    Parent = SettingsItems["Window"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    BackgroundTransparency = 1,
+                    BorderSizePixel = 0,
+                    Position = UDim2New(0, 8, 0, 10),
+                    Size = UDim2New(1, -16, 0, 20),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                SettingsItems["UseText"] = Instances:Create("TextLabel", {
+                    Parent = SettingsItems["UseToggle"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = "use keybind",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Size = UDim2New(0, 0, 0, 15),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 0, 0.5, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  SettingsItems["UseText"]:AddToTheme({TextColor3 = "Text"})
+
+                SettingsItems["UseIndicator"] = Instances:Create("Frame", {
+                    Parent = SettingsItems["UseToggle"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Position = UDim2New(1, 0, 0.5, 0),
+                    Size = UDim2New(0, 20, 0, 20),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(34, 39, 45)
+                })  SettingsItems["UseIndicator"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                Instances:Create("UICorner", {
+                    Parent = SettingsItems["UseIndicator"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                SettingsItems["UseInline"] = Instances:Create("Frame", {
+                    Parent = SettingsItems["UseIndicator"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(1, -4, 1, -4),
+                    Position = UDim2New(0, 2, 0, 2),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(34, 39, 45)
+                })  SettingsItems["UseInline"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                Instances:Create("UICorner", {
+                    Parent = SettingsItems["UseInline"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = SettingsItems["UseInline"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                SettingsItems["UseCheck"] = Instances:Create("ImageLabel", {
+                    Parent = SettingsItems["UseInline"].Instance,
+                    Name = "\0",
+                    Visible = true,
+                    ScaleType = Enum.ScaleType.Fit,
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, -2, 1, -2),
+                    AnchorPoint = Vector2New(0.5, 0.5),
+                    Image = "rbxassetid://116339777575852",
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0.5, 0, 0.5, 0),
+                    ImageTransparency = 1,
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255),
+                    ImageColor3 = FromRGB(0, 0, 0)
+                })
+
+                -- Row 2: "keybind key" picker (reuses NewKeybind:Set for capture)
+                SettingsItems["KeyRow"] = Instances:Create("TextLabel", {
+                    Parent = SettingsItems["Window"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = "keybind key",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    Size = UDim2New(0, 0, 0, 15),
+                    AnchorPoint = Vector2New(0, 0.5),
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(0, 8, 0, 50),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  SettingsItems["KeyRow"]:AddToTheme({TextColor3 = "Text"})
+
+                SettingsItems["KeyButton"] = Instances:Create("TextButton", {
+                    Parent = SettingsItems["Window"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    TextTransparency = 0.5,
+                    Text = "None",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    AutoButtonColor = false,
+                    AnchorPoint = Vector2New(1, 0.5),
+                    Size = UDim2New(0, 0, 0, 15),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, -8, 0, 50),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  SettingsItems["KeyButton"]:AddToTheme({TextColor3 = "Text"})
+            end
+
+            -- Settings popup object; behaves like the other OpenFrames entries.
+            local Settings = {
+                Name = SettingsName,
+                Type = "KeybindSettings",
+                IsOpen = false
+            }
+
+            local SettingsDebounce = false
+
+            local function SyncUseToggle()
+                if SettingsUseEnabled then
+                    SettingsItems["UseIndicator"]:ChangeItemTheme({BackgroundColor3 = "Accent"})
+                    SettingsItems["UseInline"]:ChangeItemTheme({BackgroundColor3 = "Accent"})
+                    SettingsItems["UseIndicator"]:Tween(nil, {BackgroundColor3 = Library.Theme.Accent})
+                    SettingsItems["UseInline"]:Tween(nil, {BackgroundColor3 = Library.Theme.Accent})
+                    SettingsItems["UseCheck"]:Tween(nil, {ImageTransparency = 0})
+                    SettingsItems["UseText"]:Tween(nil, {TextTransparency = 0})
+                else
+                    SettingsItems["UseIndicator"]:ChangeItemTheme({BackgroundColor3 = "Element"})
+                    SettingsItems["UseInline"]:ChangeItemTheme({BackgroundColor3 = "Element"})
+                    SettingsItems["UseIndicator"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                    SettingsItems["UseInline"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                    SettingsItems["UseCheck"]:Tween(nil, {ImageTransparency = 1})
+                    SettingsItems["UseText"]:Tween(nil, {TextTransparency = 0.5})
+                end
+            end
+
+            function Settings:SetOpen(Bool)
+                if SettingsDebounce then
+                    return
+                end
+
+                Settings.IsOpen = Bool
+
+                SettingsDebounce = true
+                SettingsItems["Window"].Instance.Parent = Bool and Library.Holder.Instance or Library.UnusedHolder.Instance
+
+                if Bool then
+                    SettingsItems["Window"].Instance.Visible = true
+                    SettingsItems["Window"].Instance.Position = UDim2New(0, SettingsItems["Cog"].Instance.AbsolutePosition.X - 170, 0, SettingsItems["Cog"].Instance.AbsolutePosition.Y + 20)
+
+                    for Index, Value in Library.OpenFrames do
+                        if Value.Name ~= SettingsName then
+                            pcall(function()
+                                Value:SetOpen(false)
+                            end)
+                        end
+                    end
+
+                    Library.OpenFrames[SettingsName] = Settings
+
+                    -- reflect current key text when opening
+                    SettingsItems["KeyButton"].Instance.Text = NewKeybind.Value ~= "" and NewKeybind.Value or "None"
+                else
+                    if Library.OpenFrames[SettingsName] then
+                        Library.OpenFrames[SettingsName] = nil
+                    end
+                end
+
+                local Descendants = SettingsItems["Window"].Instance:GetDescendants()
+                TableInsert(Descendants, SettingsItems["Window"].Instance)
+
+                local NewTween
+
+                for Index, Value in Descendants do
+                    local TransparencyProperty = Tween:GetProperty(Value)
+
+                    if not TransparencyProperty then
+                        continue
+                    end
+
+                    if StringFind(Value.ClassName, "UI") then
+                        continue
+                    end
+
+                    Value.ZIndex = Bool and 15 or 0
+
+                    if type(TransparencyProperty) == "table" then
+                        for _, Property in TransparencyProperty do
+                            NewTween = Tween:FadeItem(Value, Property, Bool, Window.FadeSpeed)
+                        end
+                    else
+                        NewTween = Tween:FadeItem(Value, TransparencyProperty, Bool, Window.FadeSpeed)
+                    end
+                end
+
+                NewTween.Tween.Completed:Once(function()
+                    SettingsDebounce = false
+                    SettingsItems["Window"].Instance.Visible = Bool
+                end)
+            end
+
+            SyncUseToggle()
+
+            SettingsItems["Cog"]:Connect("MouseButton1Down", function()
+                Settings:SetOpen(not Settings.IsOpen)
+            end)
+
+            SettingsItems["UseToggle"]:Connect("MouseButton1Down", function()
+                SettingsUseEnabled = not SettingsUseEnabled
+                NewKeybind:SetEnabled(SettingsUseEnabled)
+                SyncUseToggle()
+            end)
+
+            -- Key picker: capture the next key press and route it into the keybind.
+            SettingsItems["KeyButton"]:Connect("MouseButton1Click", function()
+                if NewKeybind.Picking then
+                    return
+                end
+
+                NewKeybind.Picking = true
+                SettingsItems["KeyButton"].Instance.Text = "..."
+                SettingsItems["KeyButton"]:Tween(nil, {TextTransparency = 0})
+
+                local InputBegan
+                InputBegan = UserInputService.InputBegan:Connect(function(Input)
+                    if Input.UserInputType == Enum.UserInputType.Keyboard then
+                        NewKeybind:Set(Input.KeyCode)
+                    else
+                        NewKeybind:Set(Input.UserInputType)
+                    end
+
+                    SettingsItems["KeyButton"].Instance.Text = NewKeybind.Value ~= "" and NewKeybind.Value or "None"
+                    SettingsItems["KeyButton"]:Tween(nil, {TextTransparency = 0.5})
+
+                    InputBegan:Disconnect()
+                    InputBegan = nil
+                end)
+            end)
+
+            -- Close the settings popup when clicking away from it.
+            Library:Connect(UserInputService.InputBegan, function(Input, Processed) 
+                if Processed then 
+                    return 
+                end
+
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+                    if not Settings.IsOpen then
+                        return
+                    end
+
+                    if NewKeybind.Picking then
+                        return
+                    end
+
+                    if Library:IsMouseOverFrame(SettingsItems["Window"], 0, 0, Input.Position) then
+                        return
+                    end
+
+                    if Library:IsMouseOverFrame(SettingsItems["Cog"], 0, 0, Input.Position) then
+                        return
+                    end
+
+                    if ParentRow and ParentRow.Instance and ParentRow.Instance.Parent then
+                        if Library:IsMouseOverFrame({Instance = ParentRow.Instance.Parent}, 0, 0, Input.Position) then
+                            return
+                        end
+                    end
+
+                    if SettingsDebounce then
+                        return
+                    end
+
+                    Settings:SetOpen(false)
+                end
+            end)
+
+            return Settings
+        end
+
+        Library.Sections.Toggle = function(self, Data)
+            Data = Data or { }
+
+            local Toggle = {
+                Window = self.Window,
+                Page = self.Page,
+                Section = self,
+                
+                Name = Data.Name or Data.name or "Toggle",
+                Flag = Data.Flag or Data.flag or Library:NextFlag(),
+                Default = Data.Default or Data.default or false,
+                Callback = Data.Callback or Data.callback or function() end,
+                Tooltip = Data.Tooltip or Data.tooltip or nil,
+
+                Count = 0
+            }
+
+            local NewToggle, ToggleItems = Components.Toggle({
+                Name = Toggle.Name,
+                Parent = Toggle.Section.Items["Content"],
+                Flag = Toggle.Flag,
+                Default = Toggle.Default,
+                Page = Toggle.Page,
+                Callback = Toggle.Callback
+            })
+
+            ToggleItems["Toggle"]:Tooltip(Toggle.Tooltip)
+
+            function Toggle:Set(Bool)
+                NewToggle:Set(Bool)
+            end
+
+            function Toggle:Get()
+                return NewToggle:Get()
+            end
+
+            function Toggle:SetVisibility(Bool)
+                NewToggle:SetVisibility(Bool)
+            end
+
+            function Toggle:Colorpicker(Data)
+                local Colorpicker = {
+                    Window = self.Window,
+                    Page = self.Page,
+                    Section = self,
+
+                    Name = Data.Name or Data.name,
+                    Default = Data.Default or Data.default,
+                    Alpha = Data.Alpha or Data.alpha or 0,
+                    Flag = Data.Flag or Data.flag or Library:NextFlag(),
+                    Callback = Data.Callback or Data.callback or function() end,
+                    
+                    Count = Toggle.Count
+                }
+                
+                Toggle.Count += 1
+                Colorpicker.Count = Toggle.Count
+
+                local NewColorpicker, ColorpickerItems = Components.Colorpicker({
+                    Window = Colorpicker.Window,
+                    Page = Colorpicker.Page,
+                    Parent = ToggleItems["SubElements"],
+                    Name = Colorpicker.Name,
+                    Flag = Colorpicker.Flag,
+                    IsToggle = true,
+                    Default = Colorpicker.Default,
+                    Alpha = Colorpicker.Alpha,
+                    Callback = Colorpicker.Callback,
+                    Count = Colorpicker.Count
+                })
+
+                -- Allow OldLib-style chaining (Toggle:Colorpicker(a):Colorpicker(b):Keybind(c))
+                -- while still returning a colorpicker handle that supports :Set()/:Get() etc.
+                function NewColorpicker:Colorpicker(Data2)
+                    return Toggle:Colorpicker(Data2)
+                end
+
+                function NewColorpicker:Keybind(Data2)
+                    return Toggle:Keybind(Data2)
+                end
+
+                return NewColorpicker
+            end
+
+            function Toggle:Keybind(Data)
+                Data = Data or { }
+
+                local Keybind = {
+                    Window = self.Window,
+                    Page = self.Page,
+                    Section = self,
+
+                    Name = Data.Name or Data.name or "Keybind",
+                    Flag = Data.Flag or Data.flag or Library:NextFlag(),
+                    Default = Data.Default or Data.default or Enum.KeyCode.RightShift,
+                    Callback = Data.Callback or Data.callback or function() end,
+                    Mode = Data.Mode or Data.mode or "Toggle",
+                }
+
+                local NewKeybind, KeybindItems = Components.Keybind({
+                    Name = Keybind.Name,
+                    Parent = ToggleItems["Toggle"],
+                    Window = Toggle.Window,
+                    Flag = Keybind.Flag,
+                    Default = Keybind.Default,
+                    IsToggle = true,
+                    Mode = Keybind.Mode,
+                    Callback = Keybind.Callback
+                })
+
+                -- Task B: per-toggle keybind settings cog. Attaches a gear button to the
+                -- toggle's SubElements row (only present because a keybind is attached) +
+                -- its rebind/"use keybind" popup. Shared with Label:Keybind. Registered in
+                -- Library.OpenFrames so it closes with the window and closes sibling popups.
+                AttachKeybindSettings(NewKeybind, ToggleItems["SubElements"], Keybind.Flag, Toggle.Window)
+
+                return NewKeybind
+            end
+
+            return Toggle
+        end
+
+        Library.Sections.Button = function(self, Data)
+            Data = Data or { }
+
+            local Button = {
+                Window = self.Window,
+                Page = self.Page,
+                Section = self,
+
+                Name = Data.Name or Data.name or "Button",
+                Callback = Data.Callback or Data.callback or function() end,
+                Tooltip = Data.Tooltip or Data.tooltip or nil
+            }
+
+            local Items = { } do
+                Items["Button"] = Instances:Create("TextButton", {
+                    Parent = Button.Section.Items["Content"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(0, 0, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutoButtonColor = false,
+                    BorderSizePixel = 0,
+                    Size = UDim2New(1, 0, 0, 30),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(34, 39, 45)
+                })  Items["Button"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                Items["Button"]:Tooltip(Button.Tooltip)
+
+                Items["Button"]:OnHover(function()
+                    Items["Button"]:Tween(nil, {BackgroundColor3 = Library:GetLighterColor(Library.Theme.Element, 1.45)})
+                end)
+    
+                Items["Button"]:OnHoverLeave(function()
+                    Items["Button"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                end)    
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Button"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Button"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Button"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Button.Name,
+                    BackgroundTransparency = 1,
+                    BorderSizePixel = 0,
+                    Size = UDim2New(1, 0, 1, 0),
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+            end
+
+            function Button:Press()
+                Items["Button"]:ChangeItemTheme({BackgroundColor3 = "Accent"})
+                Items["Button"]:Tween(nil, {BackgroundColor3 = Library.Theme.Accent})
+
+                task.wait(0.1)
+                Library:SafeCall(Button.Callback)
+
+                Items["Button"]:ChangeItemTheme({BackgroundColor3 = "Element"})
+                Items["Button"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+            end
+
+            function Button:SetVisibility(Bool)
+                Items["Button"].Instance.Visible = Bool
+            end
+
+            local SearchData = {
+                Name = Button.Name,
+                Item = Items["Button"]
+            }
+
+            local PageSearchData = Library.SearchItems[Button.Page]
+
+            if not PageSearchData then
+                return
+            end
+
+            TableInsert(PageSearchData, SearchData)
+
+            Items["Button"]:Connect("MouseButton1Down", function()
+                Button:Press()
+            end)
+
+            return Button
+        end
+
+        Library.Sections.Slider = function(self, Data)
+            local Slider = { 
+                Window = self.Window,
+                Page = self.Page,
+                Section = self,
+
+                Name = Data.Name or Data.name or "Slider",
+                Min = Data.Min or Data.min or 0,
+                Max = Data.Max or Data.max or 100,
+                Suffix = Data.Suffix or Data.suffix or "",
+                Flag = Data.Flag or Data.flag or Library:NextFlag(),
+                Default = Data.Default or Data.default or 0,
+                Decimals = Data.Decimals or Data.decimals or 1,
+                Tooltip = Data.Tooltip or Data.tooltip or nil,
+                Callback = Data.Callback or Data.callback or function() end,
+
+                Sliding = false,
+                Value = 0
+            }
+
+            local Items = { } do
+                Items["Slider"] = Instances:Create("Frame", {
+                    Parent = Slider.Section.Items["Content"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(1, 0, 0, 38),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Items["Slider"]:Tooltip(Slider.Tooltip)
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Slider"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Slider.Name,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(0, 0, 0, 15),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["RealSlider"] = Instances:Create("TextButton", {
+                    Parent = Items["Slider"].Instance,
+                    AutoButtonColor = false,
+                    Text = "",
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 15),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(34, 39, 45)
+                })  Items["RealSlider"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                Items["RealSlider"]:OnHover(function()
+                    Items["RealSlider"]:Tween(nil, {BackgroundColor3 = Library:GetLighterColor(Library.Theme.Element, 1.45)})
+                end)
+    
+                Items["RealSlider"]:OnHoverLeave(function()
+                    Items["RealSlider"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                end)   
+
+                Instances:Create("UICorner", {
+                    Parent = Items["RealSlider"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["RealSlider"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Items["Accent"] = Instances:Create("Frame", {
+                    Parent = Items["RealSlider"].Instance,
+                    Name = "\0",
+                    Size = UDim2New(0.5, 0, 1, 0),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(196, 231, 255)
+                })  Items["Accent"]:AddToTheme({BackgroundColor3 = "Accent"})
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Accent"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Accent"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                }):AddToTheme({Color = function()
+                    return RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, Library.Theme["Dark Gradient"])}
+                end})
+
+                Items["Value"] = Instances:Create("TextLabel", {
+                    Parent = Items["Slider"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    AnchorPoint = Vector2New(1, 0),
+                    Size = UDim2New(0, 0, 0, 15),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, 0, 0, 0),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Value"]:AddToTheme({TextColor3 = "Text"})
+            end
+
+            function Slider:Get()
+                return Slider.Value
+            end
+
+            function Slider:Set(Value)
+                Slider.Value = Library:Round(MathClamp(Value, Slider.Min, Slider.Max), Slider.Decimals)
+
+                Library.Flags[Slider.Flag] = Slider.Value
+
+                Items["Accent"]:Tween(TweenInfo.new(0.21, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Size = UDim2New((Slider.Value - Slider.Min) / (Slider.Max - Slider.Min), 0, 1, 0)})
+                Items["Value"].Instance.Text = StringFormat("%s%s", tostring(Slider.Value), Slider.Suffix)
+
+                if Slider.Callback then 
+                    Library:SafeCall(Slider.Callback, Slider.Value)
+                end
+            end
+
+            function Slider:SetVisibility(Bool)
+                Items["Slider"].Instance.Visible = Bool
+            end
+
+            getgenv().Options[Slider.Flag] = Slider
+
+            local SearchData = {
+                Name = Slider.Name,
+                Item = Items["Slider"]
+            }
+
+            local PageSearchData = Library.SearchItems[Slider.Page]
+
+            if not PageSearchData then 
+                return 
+            end
+
+            TableInsert(PageSearchData, SearchData)
+
+            local InputChanged
+
+            Items["RealSlider"]:Connect("InputBegan", function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+                    Slider.Sliding = true 
+
+                    local SizeX = (Input.Position.X - Items["RealSlider"].Instance.AbsolutePosition.X) / Items["RealSlider"].Instance.AbsoluteSize.X
+                    local Value = ((Slider.Max - Slider.Min) * SizeX) + Slider.Min
+
+                    Slider:Set(Value)
+
+                    if InputChanged then
+                        return
+                    end
+
+                    InputChanged = Input.Changed:Connect(function()
+                        if Input.UserInputState == Enum.UserInputState.End then
+                            Slider.Sliding = false
+
+                            InputChanged:Disconnect()
+                            InputChanged = nil
+                        end
+                    end)
+                end
+            end)
+
+            Library:Connect(UserInputService.InputChanged, function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch then
+                    if Slider.Sliding then
+                        local SizeX = (Input.Position.X - Items["RealSlider"].Instance.AbsolutePosition.X) / Items["RealSlider"].Instance.AbsoluteSize.X
+                        local Value = ((Slider.Max - Slider.Min) * SizeX) + Slider.Min
+
+                        Slider:Set(Value)
+                    end
+                end
+            end)
+
+            if Slider.Default then 
+                Slider:Set(Slider.Default)
+            end
+
+            Library.SetFlags[Slider.Flag] = function(Value)
+                Slider:Set(Value)
+            end
+
+            return Slider
+        end
+
+        Library.Sections.Dropdown = function(self, Data)
+            Data = Data or { }
+
+            local Dropdown = {
+                Window = self.Window,
+                Page = self.Page,
+                Section = self,
+
+                Name = Data.Name or Data.name or "Dropdown",
+                Flag = Data.Flag or Data.flag or Library:NextFlag(),
+                Default = Data.Default or Data.default or nil,
+                Items = Data.Items or Data.items or { "One", "Two", "Three" },
+                Callback = Data.Callback or Data.callback or function() end,
+                Multi = Data.Multi or Data.multi or false,
+                MaxSize = Data.MaxSize or Data.maxsize or 85,
+                Tooltip = Data.Tooltip or Data.tooltip or nil
+            }
+
+            local NewDropdown, DropdownItems = Components.Dropdown({
+                Window = Dropdown.Window,
+                Page = Dropdown.Page,
+                Parent = Dropdown.Section.Items["Content"],
+                Callback = Dropdown.Callback,
+                Name = Dropdown.Name,
+                Flag = Dropdown.Flag,
+                Items = Dropdown.Items,
+                Default = Dropdown.Default,
+                Multi = Dropdown.Multi,
+                MaxSize = Dropdown.MaxSize or 65
+            })  
+
+            DropdownItems["Dropdown"]:Tooltip(Dropdown.Tooltip)
+
+            function Dropdown:Set(Value)
+                NewDropdown:Set(Value)
+            end
+
+            function Dropdown:Get()
+                return NewDropdown:Get()
+            end
+
+            function Dropdown:AddOption(Option)
+                return NewDropdown:AddOption(Option)
+            end
+
+            function Dropdown:RemoveOption(Option)
+                return NewDropdown:RemoveOption(Option)
+            end
+
+            function Dropdown:Refresh(List)
+                return NewDropdown:Refresh(List)
+            end
+
+            function Dropdown:SetVisibility(Bool)
+                NewDropdown:SetVisibility(Bool)
+            end
+
+            return Dropdown
+        end
+
+        Library.Sections.Label = function(self, Text, Alignment, Tooltip)
+            local Label = {
+                Window = self.Window,
+                Page = self.Page,
+                Section = self,
+
+                Name = Text or "Label",
+                Alignment = Alignment or "Left", 
+                
+                Count = 0
+            }
+
+            local Items = { } do
+                Items["Label"] = Instances:Create("Frame", {
+                    Parent = Label.Section.Items["Content"].Instance,
+                    BackgroundTransparency = 1,
+                    ZIndex = 2,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Size = UDim2New(1, 0, 0, 20),
+                    AutomaticSize = Enum.AutomaticSize.Y,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                }) 
+
+                Items["Label"]:Tooltip(Tooltip)
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Label"].Instance,
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    Text = Label.Name,
+                    Name = "\0",
+                    AnchorPoint = Vector2New(0, 0.5),
+                    Size = UDim2New(1, -16, 0, 15),
+                    TextWrapped = true,
+                    AutomaticSize = Enum.AutomaticSize.Y,
+                    BackgroundTransparency = 1,
+                    TextXAlignment = Enum.TextXAlignment[Label.Alignment],
+                    Position = UDim2New(0, 0, 0.5, 0),
+                    BorderSizePixel = 0,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Label"].Instance,
+                    Name = "\0",
+                    PaddingTop = UDimNew(0, 8),
+                    PaddingBottom = UDimNew(0, 8),
+                })
+
+                Items["SubElements"] = Instances:Create("Frame", {
+                    Parent = Items["Label"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(1, 0.5),
+                    BackgroundTransparency = 1,
+                    Position = UDim2New(1, 0, 0.5, 0),
+                    Size = UDim2New(0, 0, 1, 0),
+                    BorderSizePixel = 0,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Instances:Create("UIListLayout", {
+                    Parent = Items["SubElements"].Instance,
+                    Name = "\0",
+                    VerticalAlignment = Enum.VerticalAlignment.Center,
+                    FillDirection = Enum.FillDirection.Horizontal,
+                    HorizontalAlignment = Enum.HorizontalAlignment.Right,
+                    Padding = UDimNew(0, 6),
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+
+            function Label:SetVisibility(Bool)
+                Items["Label"].Instance.Visible = Bool
+            end
+
+            function Label:Colorpicker(Data)
+                local Colorpicker = {
+                    Window = self.Window,
+                    Page = self.Page,
+                    Section = self,
+
+                    Name = Data.Name or Data.name,
+                    Default = Data.Default or Data.default,
+                    Alpha = Data.Alpha or Data.alpha or 0,
+                    Flag = Data.Flag or Data.flag or Library:NextFlag(),
+                    Callback = Data.Callback or Data.callback or function() end,
+                    
+                    Count = Label.Count
+                }
+                
+                Label.Count += 1
+                Colorpicker.Count = Label.Count
+
+                local NewColorpicker, ColorpickerItems = Components.Colorpicker({
+                    Window = Colorpicker.Window,
+                    Page = Colorpicker.Page,
+                    Parent = Items["SubElements"],
+                    Name = Colorpicker.Name,
+                    Flag = Colorpicker.Flag,
+                    Default = Colorpicker.Default,
+                    Alpha = Colorpicker.Alpha,
+                    Callback = Colorpicker.Callback,
+                    Count = Colorpicker.Count
+                })
+
+                -- Allow OldLib-style chaining (Label:Colorpicker(a):Colorpicker(b):Keybind(c))
+                -- while still returning a colorpicker handle that supports :Set()/:Get() etc.
+                function NewColorpicker:Colorpicker(Data2)
+                    return Label:Colorpicker(Data2)
+                end
+
+                function NewColorpicker:Keybind(Data2)
+                    return Label:Keybind(Data2)
+                end
+
+                return NewColorpicker
+            end
+
+            function Label:Keybind(Data)
+                Data = Data or { }
+
+                local Keybind = {
+                    Window = self.Window,
+                    Page = self.Page,
+                    Section = self,
+
+                    Name = Data.Name or Data.name or "Keybind",
+                    Flag = Data.Flag or Data.flag or Library:NextFlag(),
+                    Default = Data.Default or Data.default or Enum.KeyCode.RightShift,
+                    Callback = Data.Callback or Data.callback or function() end,
+                    Mode = Data.Mode or Data.mode or "Toggle",
+                }
+
+                local NewKeybind, KeybindItems = Components.Keybind({
+                    Name = Keybind.Name,
+                    Parent = Items["Label"],
+                    Window = Label.Window,
+                    Flag = Keybind.Flag,
+                    Default = Keybind.Default,
+                    -- IsToggle shifts the key button left 25px (its only effect, lib ~L4425)
+                    -- to leave room at the row's right edge for the settings cog.
+                    IsToggle = true,
+                    Mode = Keybind.Mode,
+                    Callback = Keybind.Callback
+                })
+
+                -- Give standalone (Label) keybinds the same settings cog + rebind popup as
+                -- toggle keybinds, so they rebind via the cog and the legacy right-click
+                -- window is retired (AttachKeybindSettings sets NewKeybind.HasCog = true).
+                AttachKeybindSettings(NewKeybind, Items["SubElements"], Keybind.Flag, Label.Window)
+
+                return NewKeybind
+            end
+
+            local SearchData = {
+                Name = Label.Name,
+                Item = Items["Label"]
+            }
+
+            local PageSearchData = Library.SearchItems[Label.Page]
+
+            if not PageSearchData then 
+                return 
+            end
+
+            TableInsert(PageSearchData, SearchData)
+
+            return Label 
+        end
+
+        Library.Sections.Textbox = function(self, Data)
+            Data = Data or { }
+
+            local Textbox = {
+                Window = self.Window,
+                Page = self.Page,
+                Section = self,
+
+                Name = Data.Name or Data.name or "Textbox",
+                Placeholder = Data.Placeholder or Data.placeholder or "...",
+                Flag = Data.Flag or Data.flag or Library:NextFlag(),
+                Default = Data.Default or Data.default or "",
+                Callback = Data.Callback or Data.callback or function() end,
+                Tooltip = Data.Tooltip or Data.tooltip or nil,
+
+                Value = "",
+            }
+
+            local Items = { } do
+                Items["Textbox"] = Instances:Create("Frame", {
+                    Parent = Textbox.Section.Items["Content"].Instance,
+                    Name = "\0",
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(1, 0, 0, 47),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })
+
+                Items["Textbox"]:Tooltip(Textbox.Tooltip)
+
+                Items["Text"] = Instances:Create("TextLabel", {
+                    Parent = Items["Textbox"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = Textbox.Name,
+                    AutomaticSize = Enum.AutomaticSize.X,
+                    BackgroundTransparency = 1,
+                    Size = UDim2New(0, 0, 0, 15),
+                    BorderSizePixel = 0,
+                    ZIndex = 2,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Text"]:AddToTheme({TextColor3 = "Text"})
+
+                Items["Background"] = Instances:Create("Frame", {
+                    Parent = Items["Textbox"].Instance,
+                    Name = "\0",
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    AnchorPoint = Vector2New(0, 1),
+                    Position = UDim2New(0, 0, 1, 0),
+                    Size = UDim2New(1, 0, 0, 25),
+                    ZIndex = 2,
+                    BorderSizePixel = 0,
+                    BackgroundColor3 = FromRGB(34, 39, 45)
+                })  Items["Background"]:AddToTheme({BackgroundColor3 = "Element"})
+
+                Items["Background"]:OnHover(function()
+                    Items["Background"]:Tween(nil, {BackgroundColor3 = Library:GetLighterColor(Library.Theme.Element, 1.45)})
+                end)
+    
+                Items["Background"]:OnHoverLeave(function()
+                    Items["Background"]:Tween(nil, {BackgroundColor3 = Library.Theme.Element})
+                end)   
+
+                Instances:Create("UICorner", {
+                    Parent = Items["Background"].Instance,
+                    Name = "\0",
+                    CornerRadius = UDimNew(0, 4)
+                })
+
+                Instances:Create("UIGradient", {
+                    Parent = Items["Background"].Instance,
+                    Name = "\0",
+                    Rotation = 84,
+                    Color = RGBSequence{RGBSequenceKeypoint(0, FromRGB(255, 255, 255)), RGBSequenceKeypoint(1, FromRGB(211, 211, 211))}
+                })
+
+                Items["Input"] = Instances:Create("TextBox", {
+                    Parent = Items["Background"].Instance,
+                    Name = "\0",
+                    FontFace = Library.Font,
+                    CursorPosition = -1,
+                    TextColor3 = FromRGB(255, 255, 255),
+                    BorderColor3 = FromRGB(0, 0, 0),
+                    Text = "",
+                    ZIndex = 2,
+                    Size = UDim2New(1, 0, 1, 0),
+                    ClipsDescendants = true,
+                    BorderSizePixel = 0,
+                    BackgroundTransparency = 1,
+                    PlaceholderColor3 = FromRGB(185, 185, 185),
+                    ClearTextOnFocus = false,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    PlaceholderText = Textbox.Placeholder,
+                    TextSize = 14,
+                    BackgroundColor3 = FromRGB(255, 255, 255)
+                })  Items["Input"]:AddToTheme({TextColor3 = "Text", PlaceholderColor3 = "Inactive Text"})
+
+                Instances:Create("UIPadding", {
+                    Parent = Items["Input"].Instance,
+                    Name = "\0",
+                    PaddingLeft = UDimNew(0, 8)
+                })
+            end
+
+            function Textbox:Set(Value)
+                Items["Input"].Instance.Text = tostring(Value)
+                Textbox.Value = Value
+                Library.Flags[Textbox.Flag] = Value
+
+                Items["Input"]:ChangeItemTheme({TextColor3 = "Text", PlaceholderColor3 = "Text Inactive"})
+                Items["Input"]:Tween(nil, {TextColor3 = Library.Theme.Text})
+
+                if Textbox.Callback then
+                    Library:SafeCall(Textbox.Callback, Value)
+                end
+            end
+
+            function Textbox:Get()
+                return Textbox.Value
+            end
+
+            function Textbox:SetVisibility(Bool)
+                Items["Textbox"].Instance.Visible = Bool
+            end
+
+            getgenv().Options[Textbox.Flag] = Textbox
+
+            local SearchData = {
+                Name = Textbox.Name,
+                Item = Items["Textbox"]
+            }
+
+            local PageSearchData = Library.SearchItems[Textbox.Page]
+
+            if not PageSearchData then 
+                return 
+            end
+
+            TableInsert(PageSearchData, SearchData)
+
+            Items["Input"]:Connect("Focused", function()
+                Items["Input"]:ChangeItemTheme({TextColor3 = "Accent", PlaceholderColor3 = "Text Inactive"})
+                Items["Input"]:Tween(nil, {TextColor3 = Library.Theme.Accent})
+            end)
+
+            Items["Input"]:Connect("FocusLost", function()
+                Textbox:Set(Items["Input"].Instance.Text)
+            end)
+
+            if Textbox.Default then 
+                Textbox:Set(Textbox.Default)
+            end
+
+            Library.SetFlags[Textbox.Flag] = function(Value)
+                Textbox:Set(Value)
+            end
+
+            return Textbox
+        end
+    end
+
+    Library.Init = function(self)
+        local AutoloadConfig = readfile(Library.Folders.Directory .. "/AutoLoadConfig (do not modify this).json")
+        local AutoloadTheme = readfile(Library.Folders.Directory .. "/AutoLoadTheme (do not modify this).json")
+        
+        if AutoloadConfig ~= "" then
+            local Success, Result = Library:LoadConfig(AutoloadConfig)
+
+            if Success then 
+                Library:Notification({
+                    Name = "Success",
+                    Description = "Successfully loaded autoload config",
+                    Duration = 5,
+                    Icon = "116339777575852",
+                    IconColor = Color3.fromRGB(52, 255, 164)
+                })
+            else
+                Library:Notification({
+                    Name = "Error!",
+                    Description = "Failed to load autoload config, error:\n" .. Result,
+                    Duration = 5,
+                    Icon = "97118059177470",
+                    IconColor = Color3.fromRGB(255, 120, 120)
+                })
+            end
+        end
+
+        -- (Themen-Autoload deaktiviert, damit das Theme nicht von anderen geändert werden kann)
+        -- if AutoloadTheme ~= "" then ... end
+    end
+end 
+
+getgenv().Library = Library
+return Library
