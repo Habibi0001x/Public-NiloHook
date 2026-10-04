@@ -1,4 +1,8 @@
-local Services = require('../packages/services')
+local Services = setmetatable({}, {
+	__index = function(_, ServiceName)
+		return game:GetService(ServiceName)
+	end
+})
 
 local CoreGui = Services.CoreGui
 local Players = Services.Players
